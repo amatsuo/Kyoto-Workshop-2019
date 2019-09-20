@@ -1,0 +1,1515 @@
+page_number,paragraph_number,text,pages_to_skip,detection
+1,1,NA,TRUE,empty
+1,2,NA,TRUE,empty
+1,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 1 of 49,TRUE,page_footer
+1,4,NA,TRUE,empty
+1,5,NA,TRUE,empty
+1,6,AMRO Annual Consultation Report,TRUE,normal
+1,7,Korea - 2018,TRUE,normal
+1,8,NA,TRUE,empty
+1,9,NA,TRUE,empty
+1,10,NA,TRUE,empty
+1,11,The ASEAN+3 Macroeconomic Research Office (AMRO) December 2018,TRUE,normal
+1,12,NA,TRUE,empty
+1,13,NA,TRUE,empty
+2,1,NA,TRUE,empty
+2,2,Korea Annual Consultation Report 2018,TRUE,page_header
+2,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 2 of 49,TRUE,page_footer
+2,4,Acknowledgments,TRUE,normal
+2,5,NA,TRUE,empty
+2,6,"1. This Annual Consultation Report on Korea has been prepared in accordance with the functions of AMRO to monitor, assess and report its members’ macroeconomic status and financial soundness and to identify relevant risks and vulnerabilities, and assist them in the timely formulation of policy recommendations to mitigate such risks (Article 3(a) and (b) of AMRO Agreement).",TRUE,normal
+2,7,"2. This Report is drafted on the basis of the Annual Consultation Visit of AMRO to Korea from 27 August to 5 September 2018 (Article 5 (b) of AMRO Agreement). The AMRO Mission team was headed by Dr Sumio Ishikawa, Group Head and Lead Economist. Members included Ms Wanwisa Vorranikulkij (Country Economist for Korea), Dr Jinho Choi (Back-up Economist for Korea), Mr Yang-Hyeon Yang (Senior Economist), Ms Diana del Rosario (Economist), Mr Xinke Tang (Researcher) and Ms Thanh Ha Truong (Associate). AMRO Director Dr Junhong Chang and Chief Economist Dr Hoe Ee Khor also participated in key policy meetings with the authorities. This AMRO Annual Consultation Report on Korea for 2018 was peer reviewed by Dr Seung-Hyun Hong (Group Head and Lead Specialist) and Mr. Anthony Tan (Senior Economist); and approved by Dr Hoe Ee Khor, AMRO Chief Economist.",TRUE,normal
+2,8,3. The analysis in this Report is based on information available up to 31 October 2018.,TRUE,normal
+2,9,"4. By making any designation of or reference to a particular territory or geographical area, or by using the term “member” or “country” in this Report, AMRO does not intend to make any judgments as to the legal or other status of any territory or area.",TRUE,normal
+2,10,5. No part of this material maybe disclosed unless so approved under the AMRO Agreement.,TRUE,normal
+2,11,"6. On behalf of AMRO, the Mission team wishes to thank the Korean authorities for their comments on this Report, as well as their excellent meeting arrangements and hospitality during our visit.",TRUE,normal
+2,12,NA,TRUE,empty
+2,13,"Disclaimer: The findings, interpretations, and conclusion expressed in this Report represent the views of the ASEAN+3 Macroeconomic Research Office (AMRO) and are not necessarily those of its members. Neither AMRO nor its members shall be held responsible for any consequence of the use of the information contained herein.",TRUE,normal
+2,14,NA,TRUE,empty
+3,1,NA,TRUE,empty
+3,2,Korea Annual Consultation Report 2018,TRUE,page_header
+3,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 3 of 49,TRUE,page_footer
+3,4,NA,TRUE,empty
+3,5,Table of Contents Executive Summary ............................................................................................................ 4 A. Recent Developments and Outlook ............................................................................... 6,TRUE,normal
+3,6,A.1 Real Sector Developments and Outlook ............................................................................. 6,TRUE,normal
+3,7,A.2 External Sector and the Balance of Payments ................................................................... 8,TRUE,normal
+3,8,A.3 Monetary Condition and Financial Sector ......................................................................... 11,TRUE,normal
+3,9,A.4 Fiscal Sector ...................................................................................................................... 12,TRUE,normal
+3,10,"B. Risks, Vulnerabilities and Challenges ........................................................................ 13 B.1 Near-term Risks to the Macroeconomic Outlook .............................................................. 13",TRUE,normal
+3,11,B.2 Longer-term Challenges and Vulnerabilities ..................................................................... 16,TRUE,normal
+3,12,C. Policy Discussions and Recommendations ............................................................... 17 C.1 Comprehensive Structural Reform to Address the Dichotomy ......................................... 17,TRUE,normal
+3,13,C.2 Active Role of Fiscal Policy in Maintaining Growth Momentum and Pursuing Inclusive Growth ........................................................................................................................................... 20,TRUE,normal
+3,14,C.3 Maintaining an Accommodative Monetary Policy ............................................................. 21,TRUE,normal
+3,15,C.4 Macro-prudential Measures to Safeguard Financial Stability ........................................... 22,TRUE,normal
+3,16,Appendix 1. Selected Figures for Major Economic Indicators....................................... 25 Appendix 2.Selected Economic Indicators for Korea ..................................................... 29 Appendix 3.Balance of Payments .................................................................................... 30 Appendix 4.Statement of Central Government Operations ............................................ 31 Appendix 5. Measures to Contain the Build-up of Household Debt And Overheating in the Housing Market ........................................................................................................... 32 Appendix 6.Data Adequacy for Surveillance Purposes: a Preliminary Assessment ... 34 Annexes: Selected Issues ................................................................................................ 35,TRUE,normal
+3,17,1. Assessment of Weakening Employment Conditions ........................................................ 35,TRUE,normal
+3,18,2. Progress in Corporate Restructuring of the Korean Shipbuilding Industry ....................... 40,TRUE,normal
+3,19,3. Drivers of Korea’s Resident and Non-resident Portfolio Investments ............................... 45,TRUE,normal
+3,20,NA,TRUE,empty
+3,21,NA,TRUE,empty
+3,22,NA,TRUE,empty
+3,23,NA,TRUE,empty
+3,24,NA,TRUE,empty
+4,1,NA,FALSE,empty
+4,2,Korea Annual Consultation Report 2018,FALSE,page_header
+4,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 4 of 49,FALSE,page_footer
+4,4,Executive Summary,FALSE,normal
+4,5,"1. Korea’s economy is expected to grow at potential. The economy expanded by 2.8 percent in H1 2018, mainly on the back of strong exports, expansionary fiscal spending and continued improvement in private consumption. Meanwhile, private investment slowed down in this period. In the labor market, the employment growth weakened due to corporate restructuring, a declining working-age population, more use of automation and e-commerce, and to a certain extent, higher minimum wages. The economy is expected to grow at 2.7 percent in 2018 and 2.6 percent in 2019.",FALSE,normal
+4,6,"2. Headline inflation eased from 1.9 percent in 2017 to 1.4 percent in H1 2018, remaining below the BOK’s 2 percent target, as fresh food, agricultural and public service prices stabilized. Demand-side pressure was dampened by the slowing economy. Inflation expectations hover at around 2.5 percent. Headline inflation is expected to moderate to 1.6 percent in 2018 and rise to 1.9 percent in 2019, driven mainly by supply-side factors.",FALSE,normal
+4,7,"3. The economy is resilient to external shocks on the back of sustained current account surpluses and ample international reserves. The current account surplus will remain unchanged, as buoyant ICT and petrochemical exports and rising revenue from Chinese tourists would be offset by growing Korean overseas tourism and strong intermediate imports. The current account surplus is invested abroad in the form of overseas direct investment and rising outward portfolio investment. Despite heightened external uncertainty, Korean financial markets witnessed capital inflows, particularly into its bond markets, and was less volatile than other emerging market economies (EMEs) amid easing geopolitical tension and a strong external position.",FALSE,normal
+4,8,"4. The monetary policy stance remains accommodative with the real base rate at around zero percent. Corporate financing inched up owing to a pick-up in bank loans and bond issuance, while household debt growth has moderated, reflecting the effects of tighter macro-prudential measures. Financial institutions are sound, as reflected in the strong financial soundness indicators. Despite a high level of household debt and ongoing corporate restructuring, credit risk to financial institutions remains contained.",FALSE,normal
+4,9,"5. In 2018, fiscal policy has been expansionary in support of the economy. The supplementary budget of KRW3.8 trillion and the fiscal stimulus package of KRW4 trillion were announced in addition to the expenditure increase under the 2018 budget. Due to the considerable expansion of total expenditure amid rising revenue collection, the overall fiscal deficit is expected to widen to -1.8 percent of GDP in 2018.",FALSE,normal
+4,10,"6. Weaker-than-expected growth in China and the advanced economies, and an escalation of the U.S.-China trade conflict pose downside risks to Korea as Korea’s exports to these countries account for more than half of total exports. The amendment of NAFTA and imposition of U.S. import tariffs on automobile products pose risks to Korea’s automobile industry. In addition, an earlier-than-expected downturn of the global semiconductor super-cycle poses additional downside risks to Korea’s exports and growth.",FALSE,normal
+4,11,"7. Risks and vulnerability stemming from high household debt and rising housing prices are limited to certain groups of borrowers and districts. Meanwhile, systemic",FALSE,normal
+4,12,NA,FALSE,empty
+5,1,NA,FALSE,empty
+5,2,Korea Annual Consultation Report 2018,FALSE,page_header
+5,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 5 of 49,FALSE,page_footer
+5,4,"risk from the debt build-up is not a concern, given that the debt is concentrated in mid- to high-income borrowers. However, low-income borrowers remain vulnerable and may pose a risk to financial institutions in the event of a sharp rise in interest rate and deterioration in the labor market. In the property sector, the housing prices in Seoul had risen rapidly until the government announced additional policy measures to stabilize the housing market in September 2018.",FALSE,normal
+5,5,"8. Although the external sector remains very strong, Korea’s financial markets are deep and highly open, which makes the markets sensitive to volatility in the global markets and cross-border capital flows. A faster-than-expected pace of monetary policy normalization in the U.S. and other advanced economies as well as renewed geopolitical tension in the region, could heighten volatility in Korea’s financial markets.",FALSE,normal
+5,6,"9. Over the medium- to long-term, Korea’s potential growth will face challenges in the labor market and industry. The labor market continues to face structural challenges stemming from an aging population and youth underemployment. Declining competitiveness in the non-ICT industries and overseas outsourcing in key manufacturing sectors will weaken domestic employment and investment further. Moreover, excessive concentration in ICT industries may result in the Korean economy being susceptible to shocks arising from global ICT downturns.",FALSE,normal
+5,7,"10. The government’s efforts to shift towards a new growth paradigm could well address structural issues in the economy; however, all four pillars of the strategy should be implemented in a well-coordinated manner. Income policy should be well-executed to avoid creating adverse consequences in the labor market and should be complemented by growth-oriented policies and expanding social safety nets. Ongoing efforts to promote innovation and fair competition are welcome and should be expedited, while structural reforms in the service sectors and non-ICT manufacturing industries should be stepped up to enhance productivity and competitiveness as well as to create more quality jobs.",FALSE,normal
+5,8,"11. Given ample fiscal space, the active use of fiscal policy to pursue more inclusive economic growth and promote innovation-led growth while maintaining long-term fiscal sustainability is commendable. Assigning more budget allocation to the income policy and social welfare is welcome. However, fiscal spending should be allocated more towards the sustainable growth objective such as moving the services sector up the value chain.",FALSE,normal
+5,9,"12. The accommodative monetary policy stance should be maintained in view of moderating economic growth and subdued inflation. The positive output gap has narrowed recently with the moderating economy. The Korean economy also faces challenges from a weak labor market and downside risks from the escalation of global trade tensions. Meanwhile, headline inflation is expected to be lower than the BOK’s target due to soft demand pressure.",FALSE,normal
+5,10,"13. A series of tighter regulations has largely contained the build-up of household debt and housing prices, although pockets of risk remain and warrant close monitoring. The full implementation of the Debt Service Ratio (DSR) is expected to safeguard financial stability. The mission commends the government’s continuing and timely efforts to stabilize the housing market. In addition, close monitoring of housing prices needs to be carried out, especially in Seoul metropolitan area.",FALSE,normal
+5,11,NA,FALSE,empty
+6,1,NA,FALSE,empty
+6,2,Korea Annual Consultation Report 2018,FALSE,page_header
+6,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 6 of 49,FALSE,page_footer
+6,4,A. Recent Developments and Outlook A.1 Real Sector Developments and Outlook,FALSE,normal
+6,5,"1. The Korean economy registered growth of around 2.8 percent in H1 2018. The growth was underpinned by strong exports, expansionary fiscal spending and continued improvement in private consumption (Figure 1). Private consumption continued to grow, supported by rising household income and the Winter Olympics. Private investment, on the other hand, slowed down due to a high base in facilities investment and continued correction in construction activities. A series of property-related taxes and macro-prudential measures on mortgage loans curbed residential property construction. Merchandise exports continued to expand, albeit moderating from a high base in 2017, on the back ICT exports. Meanwhile, there was a slowdown in merchandise import growth, particularly capital goods imports, due to subdued domestic investment. On the production side, the services sector continued to expand, while construction was subdued due to measures imposed on the property sector. Overall, the manufacturing sector moderated slightly in 2018.",FALSE,normal
+6,6,"2. Going forward, Korea’s economic growth is likely to stay at around potential, although it will moderate somewhat. The economy is expected to grow at 2.7 percent in 2018 and 2.6 percent in 2019, led by exports and private consumption. Korea’s merchandise export will post a positive growth due to the continuing expansion in the global ICT industry. Private consumption will continue to grow thanks to the government’s stimulus measures and rising income. Expansionary fiscal policies including previous fiscal measures to subsidize households’ living expenses will support the growth. However, growth is expected to moderate further in 2019, weighed down by high household debt and headwinds from the escalation of global trade tensions. Meanwhile, investment is expected to be subdued reflecting corrections in facilities investment and measures imposed on the property market, although large corporates have announced new facilities investment plans.",FALSE,normal
+6,7,Figure 1. Real GDP Growth: Conventional Method Figure 2. Real GDP Growth: Import-adjusted,FALSE,fig_table
+6,8,Source: BOK; AMRO staff estimations Source: BOK; AMRO staff estimations,FALSE,normal
+6,9,"3. The employment is slowing down in manufacturing and services. Under the income-led growth strategy, the minimum wage was raised by 16.4 percent at the beginning of 2018 and scheduled to increase by another 10.9 percent in 2019. Moreover, work hours were reduced in large firms starting in July 2018. In H1 2018, employment in the manufacturing sector shrank, reflecting the restructuring witnessed in the shipbuilding and automotive",FALSE,normal
+6,10,2.8% 2.8% 2.8% 2.9% 3.1%,FALSE,garbage
+6,11,2.8% 2.6%,FALSE,garbage
+6,12,-4%,FALSE,garbage
+6,13,-2%,FALSE,garbage
+6,14,0%,FALSE,garbage
+6,15,2%,FALSE,garbage
+6,16,4%,FALSE,garbage
+6,17,6%,FALSE,garbage
+6,18,8%,FALSE,garbage
+6,19,Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2r,FALSE,garbage
+6,20,2016 2017 2018 15 16 17 18f 19f,FALSE,garbage
+6,21,Imports Exports Changes in Inventories Gross Fixed Capital Form. Gov. Consumption Private Consumption GDP,FALSE,normal
+6,22,%yoy,FALSE,garbage
+6,23,-,FALSE,empty
+6,24,0.5,FALSE,garbage
+6,25,1.0,FALSE,garbage
+6,26,1.5,FALSE,garbage
+6,27,2.0,FALSE,garbage
+6,28,2.5,FALSE,garbage
+6,29,3.0,FALSE,garbage
+6,30,3.5,FALSE,garbage
+6,31,4.0,FALSE,garbage
+6,32,2014 2015 2016 2017,FALSE,garbage
+6,33,Domestic demand Exports GDP,FALSE,normal
+6,34,%pts,FALSE,garbage
+6,35,NA,FALSE,empty
+7,1,NA,FALSE,empty
+7,2,Korea Annual Consultation Report 2018,FALSE,page_header
+7,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 7 of 49,FALSE,page_footer
+7,4,"industries, while employment in the services sector – including education, wholesale-retail trade, hotels and restaurants, and facilities management – stagnated (Figure 3). By status, temporary and daily workers underpin the decline in employment, while regular employment has held up well. Meanwhile, the youth unemployment rate remains high, despite various government support measures and incentives for youth employment. In addition to corporate restructuring, the decline in employment is also on account of a declining working-age population, greater use of automation, and the increases in the minimum wage. (See Selected Issue 1: Key Drivers of Stagnant Labor Market)",FALSE,normal
+7,5,"4. Headline inflation remains below the BOK’s 2.0 percent target. Consumer price inflation eased from 1.9 percent in 2017 to 1.4 percent in H1 2018 as fresh food, agriculture and public service prices stabilized (Figure 4). Demand-side pressure was dampened by a narrowing positive output gap, as indicated by weaker consumer confidence and lower core inflation. Inflation expectations have been hovering at around 2.5 percent since early 2016. Going forward, headline inflation is expected to moderate to 1.6 percent in 2018 before rising to 1.9 percent in 2019, driven by supply-side factors including the planned increase in public utility prices as well as the lagged effect of higher oil prices. Demand-side pressure will continue to be soft, even though the reduction in individual consumption taxes for oil and newly purchased vehicles will boost spending.",FALSE,normal
+7,6,Figure 3. Annual Change of Employment Figure 4. Inflation1,FALSE,fig_table
+7,7,Source: Statistics Korea; AMRO staff calculations Source: BOK; AMRO staff calculations,FALSE,normal
+7,8,Authorities’ Views,FALSE,normal
+7,9,"5. In the authorities’ view, Korea’s economic growth will continue at a rate that does not diverge significantly from its potential level, considering current economic conditions. The authorities expected the Korean economy to be faced with upside risks in 2018 from the buoyancy of the global economy, the facilities investment of large companies, and a more expansionary fiscal stance. Growth is projected at 2.7 percent in 2018 and 2019. On the inflation front, the authorities were of the view that headline inflation will be at 1.6 percent in 2018 and rise marginally to 1.8 percent in 2019.",FALSE,normal
+7,10,"1 Headline inflation spiked up to 1.9 percent in September 2018, mainly driven by a jump in food prices, as the summer was unprecedentedly long and hot.",FALSE,normal
+7,11,-400 -300 -200 -100,FALSE,garbage
+7,12,0 100 200 300 400 500 600 700,FALSE,garbage
+7,13,Jan Apr Jul Oct Jan Apr Jul Oct Jan May Aug Nov Feb May Aug,FALSE,garbage
+7,14,2015 2016 2017 2018,FALSE,garbage
+7,15,"Public Administration and Defence Other Private Service Sectors Wholesale, Retail Trade, Hotel & Restaurants Construction Manufacturing Total Employment",FALSE,normal
+7,16,'000 jobs,FALSE,garbage
+7,17,-2.0,FALSE,garbage
+7,18,-1.0,FALSE,garbage
+7,19,0.0,FALSE,garbage
+7,20,1.0,FALSE,garbage
+7,21,2.0,FALSE,garbage
+7,22,3.0,FALSE,garbage
+7,23,4.0,FALSE,garbage
+7,24,Jan May Sep Jan May Sep Jan May Sep Jan May Sep Jan May Sep,FALSE,garbage
+7,25,2014 2015 2016 2017 2018,FALSE,garbage
+7,26,Food and Energy Core Inflation (excl. Food and Energy) Headline inflation Inflation expectations Inflation Target for,FALSE,normal
+7,27,2016-2018: 2%,FALSE,garbage
+7,28,%yoy,FALSE,garbage
+7,29,NA,FALSE,empty
+8,1,NA,FALSE,empty
+8,2,Korea Annual Consultation Report 2018,FALSE,page_header
+8,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 8 of 49,FALSE,page_footer
+8,4,A.2 External Sector and the Balance of Payments,FALSE,normal
+8,5,"6. The trade surplus remained strong in H1 2018 but the U.S. trade measures imposed earlier this year have adversely impacted some industries. Exports excluding vessels continued to grow, albeit slowing, underpinned by the strong growth of semiconductors and petrochemical exports, while the imports growth moderated due to a high- base effect and slow domestic investment (Figure 5). Vessel exports were on the recovery trajectory with new shipbuilding orders inching up since 2017 (See Selected Issue 2: Update on The Corporate Restructuring of Korea’s Shipbuilding Industry). Meanwhile, automotive exports have dropped since early 2018, mainly led by exports to the U.S. market, due to corporate restructuring in the auto industry. 2 The amended Korea-U.S. Free Trade Agreement3 signed on 24 September 2018 is expected to have limited impact on Korea’s auto industry as American car imports to Korea remained lower than the quota. Moreover, the extension of U.S. tariffs on Korean truck imports is unlikely to affect Korean automakers, since the companies had already planned to produce trucks in its U.S.-based factories. In terms of the impact of U.S. trade measures, according to the Korea International Trade Association4, Korean steel exports to the U.S.5 have declined since March 2018. Moreover, U.S measures led to a drop in Korea’s washing machine exports to the U.S. by 50 percent and solar panels by 16.6 percent between January and May 2018. The U.S. quota on Korean steel6 imports and subsequent exemption to specific exporters signals uncertainty for Korea’s steel industry.",FALSE,normal
+8,6,"7. The current account surplus is expected to be sustained, albeit registering a slight decline in 2019. In addition to buoyant ICT and petrochemical exports, a rebound in Chinese tourist arrivals is expected to continue and help in reducing the service account deficit, reflecting an easing in political tension between China and Korea over the installation of the U.S. made anti-missile system (Terminal High Altitude Area Defense – THAAD). However, strong revenue from exports of goods and services will be offset by the rapidly growing Korean overseas tourism and strong imports of the ICT industry (Figure 6). Going forward, the current account surplus is expected to be at 5.3 percent of GDP in 2018, reducing slightly to 4.9 percent of GDP in 2019.",FALSE,normal
+8,7,"2 In addition to the corporate restructuring, the Korean auto industry also face structural challenges stemming from lower competitiveness of Korean auto brands in the U.S. market and higher labor costs compared to its Japanese and German competitors. Moreover, Korean car makers have transferred some of production from their Korean-based factories to Mexico- and U.S.-based factories gradually since 2013, while they have reduced production and export volume in Korea. 3 The phasing out of the 25.0 percent U.S. tariffs on Korean truck imports was extended from 2021 to 2041. Moreover, the quota of the U.S. auto exports to Korea was increased from 25,000 to 50,000 cars per manufacturer with adoption of U.S. safety standards. 4 Korea International Trade Association (KITA). (2018, June 27). Assessment on Trade in the First Half of 2018 and Outlook for The Second Half. 5 Accounting for 12.5 percent of total steel exports in 2017. 6 Korean exports of steel products to the U.S. is subject to a product-specific quota equivalent to 70.0 percent of the average annual import volume of such products during 2015-2017. (United States International Trade Commission, 2018).",FALSE,normal
+8,8,NA,FALSE,empty
+9,1,NA,FALSE,empty
+9,2,NA,FALSE,empty
+9,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 9 of 49,FALSE,page_footer
+9,4,Figure 5. Merchandize Exports7 Figure 6. Service Account,FALSE,fig_table
+9,5,Source: Korea Customs; AMRO staff calculations Source: BOK; AMRO staff calculations,FALSE,normal
+9,6,"8. Despite heightened external uncertainty, financial markets in Korea have been relatively less volatile than other EMEs, amid the easing of geopolitical tension. In 2018, Korea’s financial markets experienced a sharp but temporary rise in volatility stemming from concerns of a faster pace of Federal rate hikes and an escalation of the U.S.-China trade conflict. Despite wider negative yield spreads between the Korean and the U.S. Treasury bonds, and increased risk aversion towards EMEs, Korea’s bond market has continued to see inflows, supported by strong macroeconomic fundamentals and a sound external position (Figure 7). Recently, the Korean won has depreciated against the U.S. dollar, along with most regional currencies, following the U.S. announcement of increased tariffs on Chinese imports in June.",FALSE,normal
+9,7,"9. Korea has continued to build up its net creditor position (Figure 8), and the economy has become resilient to external shocks on the back of ample international reserves. The bulk of the current account surplus is invested overseas in the form of overseas direct and portfolio investment by Korean residents. Korean corporates have been outsourcing their production to seek lower labor cost and to gain market share (See Box A. Development of Korea’s Overseas Direct Investment), whereas rising overseas portfolio investments have been driven mainly by pension funds and other institutional investors, in search of higher yields and diversification of their investment assets. The overall balance is expected to register a surplus and international reserves to increase to about USD 400 billion by the end of 2018, equivalent to 6.6 months of goods and services imports. Gross external debt amounted to around 28.1 percent of GDP or 26.6 percent of international reserves at end of Q2 2018 with short-term debt at around one-third of the total.",FALSE,normal
+9,8,Figure 7. Non-resident’s Net Investment in Bond and Stock Markets,FALSE,fig_table
+9,9,Figure 8. Net International Investment Position,FALSE,fig_table
+9,10,Source: Financial Supervisory Service (FSS); AMRO staff calculations Source: BOK,FALSE,normal
+9,11,"7 Based on the press release of MOTIE, the surge in automotive exports in Q3 2017 was driven by (1) low base effect from the strike in Q3 2016 and (2) frontloading impact of Chuseok holiday in Oct 2017.",FALSE,normal
+9,12,-20,FALSE,garbage
+9,13,-10,FALSE,garbage
+9,14,0,FALSE,garbage
+9,15,10,FALSE,garbage
+9,16,20,FALSE,garbage
+9,17,30,FALSE,garbage
+9,18,40,FALSE,garbage
+9,19,Jan Apr Jul Oct Jan Apr Jul Oct Jan Apr Jul Oct Jan Apr Jul,FALSE,garbage
+9,20,2015 2016 2017 2018,FALSE,garbage
+9,21,Total exports Total exports excl. vessels Electronics Auto,FALSE,normal
+9,22,"%yoy, 3mma",FALSE,normal
+9,23,-150,FALSE,garbage
+9,24,-50,FALSE,garbage
+9,25,50,FALSE,garbage
+9,26,-20,FALSE,garbage
+9,27,-10,FALSE,garbage
+9,28,0,FALSE,garbage
+9,29,10,FALSE,garbage
+9,30,1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q,FALSE,garbage
+9,31,2014 2015 2016 2017 2018,FALSE,garbage
+9,32,Other Services Transport Services Travel services Chinese Tourist Arrival (RHS),FALSE,normal
+9,33,USD bn %yoy,FALSE,normal
+9,34,-6,FALSE,garbage
+9,35,-4,FALSE,garbage
+9,36,-2,FALSE,garbage
+9,37,0,FALSE,garbage
+9,38,2,FALSE,garbage
+9,39,4,FALSE,garbage
+9,40,6,FALSE,garbage
+9,41,8,FALSE,garbage
+9,42,Jan Apr Jul Oct Jan Apr Jul Oct Jan Apr Jul Oct Jan Apr Jul,FALSE,garbage
+9,43,2015 2016 2017 2018,FALSE,garbage
+9,44,Non-Residents' net Investment in Bonds,FALSE,normal
+9,45,Non-Residents' net Investment in Stocks,FALSE,normal
+9,46,KRW trillion,FALSE,normal
+9,47,-700,FALSE,garbage
+9,48,-500,FALSE,garbage
+9,49,-300,FALSE,garbage
+9,50,-100,FALSE,garbage
+9,51,100,FALSE,garbage
+9,52,300,FALSE,garbage
+9,53,500,FALSE,garbage
+9,54,700,FALSE,garbage
+9,55,Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1,FALSE,normal
+9,56,2012 2013 2014 2015 2016 2017 2018,FALSE,garbage
+9,57,Direct Investment Portfolio Investment Other Investment Financial Derivatives Reserve Net IIP,FALSE,normal
+9,58,USD bn,FALSE,normal
+9,59,NA,FALSE,empty
+10,1,NA,FALSE,empty
+10,2,Korea Annual Consultation Report 2018,FALSE,page_header
+10,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 10 of 49,FALSE,page_footer
+10,4,"Box A. Developments in Korean Overseas Direct Investment Overseas direct investment (ODI) from Korea grew at a relatively faster pace during the past two years. Due to a saturated domestic market, Korean ODI is expected to increase in the future. This box provides an overview of Korean ODI developments in terms of investment destinations and investment sectors.",FALSE,normal
+10,5,"Korea’s ODI started to grow faster in the 1990s after ODI-related regulations were relaxed. According to Kim and Rhee (2009), Korea’s ODI was originally regulated by the foreign investment law under the foreign exchange regulations. However, the government gradually liberalized ODI regulations in the 1980s and ODI started to speed up in the 1990s (Figure A1). Kim and Rhee (2009) argued that market expansion and the acquisition of strategic assets – including technologies – were key motivations for Korean ODI, particularly in advanced economies. On the other hand, cost reduction by leveraging on low wages and market expansion were the drivers for ODI to developing economies. In addition, the government continues to take measures – such as financial support, taxation and overseas investment information services – to support ODI. As financial support, the Export- Import Bank of Korea provides loans to support overseas investment. The Korea Trade Insurance Corporation (K-SURE), meanwhile, provides overseas investment insurance, covering the risks of expropriation, war, failure to execute agreements, money transfer, force majeure and the like. Tax support includes avoidance of double taxation according to bilateral governmental taxation agreements. The Korea Trade-Investment Promotion Agency, which has 126 offices in the world, supports overseas investments by providing market information on foreign countries.",FALSE,normal
+10,6,"Developments of Korean ODI from 1980 can be separated into four sub-periods based on differences in destination and targeted sectors (Figures A2 and A3). In the first period (1980-1989) in which ODI from Korea was relatively restricted, the main destination was North America accounting for 40 percent of total ODI flows at that time, followed by Asia. Targeted sectors were mining, manufacturing and finance. In the second period (1990-2006), Korean investors’ interests in developing economies increased, reflected by a rising share of ODI flows to Asia and Latin America. Notwithstanding the greater attractiveness of developing economies, the share of Korean ODI flows into developed countries in North America and Europe remained high, accounting for around 40 percent of total ODI flows in that period. By sector, Korean ODI flows among manufacturing firms rose remarkably, accounting for 52.7 percent of total ODI flows in that period. During the third period (2007- 2015), ODI outflows expanded considerably and reached about 2 percent of GDP, partly contributed by rising current account surplus. China and Vietnam are top destinations of ODI from Korea since 2007. Additionally, the structure of Korean ODI witnessed an increased share of ODI to Eastern Europe and the Middle East as well. By sector, Korean ODI to the financial sector as well as mining expanded. In the last period (2016-2017), Korean ODI grew at a relatively faster pace than the past. The recent surge in ODI was driven by ODI to the U.S. and, by sector, ODI to the financial sector (especially in Southeast Asian countries), wholesale and retail sales as well as manufacturing (Figure A3). The expanding share of finance and insurance sector was driven by growing demand from Korean firms that expand their overseas business and Korean financial institutions’ increasing interests in foreign markets. In 2017, there was a mega M&A deal worth USD8 billion in the U.S.,8 classified as part of the wholesale & retail sales category. The number of Korean firms involved in M&A in the U.S. is also increasing in order to improve R&D activities and to acquire new technologies. Meanwhile, Korean manufacturers also have strong motivation to invest in developing markets - such as Peru, Chile and Brazil - to expand local market share and to benefit from cheap labor.",FALSE,normal
+10,7,Figure A1: Korea’s Invested ODI Flow (1981-2017),FALSE,normal
+10,8,"Note: ASEAN here includes Vietnam, Singapore, Indonesia, Malaysia and Thailand Source: Korea EximBank; BOK; CEIC; AMRO staff calculations",FALSE,normal
+10,9,"8 Samsung Electronics acquired Harman International Industries in March 2017, with the intention of using its network to expand its supply of displays and semiconductors to cars (https://www.zdnet.com/article/samsung-completes-8-billion-harman- acquisition/).",FALSE,normal
+10,10,NA,FALSE,empty
+11,1,NA,FALSE,empty
+11,2,Korea Annual Consultation Report 2018,FALSE,page_header
+11,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 11 of 49,FALSE,page_footer
+11,4,"Reference Kim, J., and Rhee, D. 2009. “Trends and Determinants of South Korean Outward Foreign Direct Investment.” The Copenhagen Journal of Asian Studies 27(1): 2009.",FALSE,normal
+11,5,Figure A2. Korea’s ODI Flow (by Destination) Figure A3. Korea’s ODI Flow (Top 5 by Sector),FALSE,fig_table
+11,6,Source: Korea Eximbank; CEIC; AMRO staff calculations Source: Korea Eximbank; CEIC; AMRO staff calculations,FALSE,normal
+11,7,NA,FALSE,empty
+11,8,A.3 Monetary Condition and Financial Sector,FALSE,normal
+11,9,"10. The monetary condition has remained accommodative amid low inflation. After a long period of a low interest rates, the BOK raised the base rate by 25 basis points in late 2017 to 1.5 percent. Despite the increase, the monetary policy stance remains accommodative and supportive of growth with the real base rate at around 0 percent. Corporate financing has inched up in terms of loans and bond issuance. Meanwhile, household debt growth has moderated to 7.6 percent at the end of Q2 2018, reflecting the policy-induced effects of tighter macro- prudential measures imposed on household borrowing and the housing market (Figure 9).",FALSE,normal
+11,10,"11. Financial institutions are sound, as reflected in the strong financial soundness indicators. Commercial banks’ profitability has improved, and the capital adequacy ratio and liquidity coverage ratio are well above the regulatory requirements. Specialized banks are in the recovery process from the corporate debt restructuring as profitability turned positive in 2017. Despite a high level of household debt and ongoing corporate restructuring, credit risk to financial institutions remains contained. The NPL ratio is low and has been declining. Separately, the financial conditions of corporate borrowers improved as indicated by the declining debt-to-equity ratio and improving interest coverage ratio. Despite an increase in household debt service ratio, the soundness and structure of household debt have improved given tighter loan-to-value ratio of mortgage loans and increased proportion of fixed rate and amortizing mortgage loans.",FALSE,normal
+11,11,"12. The rapid increase in nationwide housing prices has moderated after the government tightened regulations on the property market. A series of regulations including prudential measures, property-related tax, restrictions on reconstruction of old properties, and an increase in housing supplies, have been introduced since the end of 2016 in order to contain overheating and speculation in the housing market. Nationwide average housing prices have been subdued since then; however, housing market transactions and housing prices in metropolitan and non-metropolitan area have been diverging (Figure 10). In non-metropolitan areas, the number of unsold residential units increased, and housing prices continued to decline accordingly. In contrasts, housing prices in Seoul have surged, albeit they have moderated recently. The housing boom in Seoul and Gyeonggi are driven by a",FALSE,normal
+11,12,NA,FALSE,empty
+12,1,NA,FALSE,empty
+12,2,Korea Annual Consultation Report 2018,FALSE,page_header
+12,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 12 of 49,FALSE,page_footer
+12,4,combination of real demand for residential property9 and speculative demand under the low interest rate environment.,FALSE,normal
+12,5,Figure 9. Loans and Corporate Bond Issuance Figure 10. Housing Prices,FALSE,fig_table
+12,6,Source: BOK Source: Kookmin Bank; AMRO staff calculations,FALSE,normal
+12,7,A.4 Fiscal Sector,FALSE,normal
+12,8,"13. In 2018, fiscal policy has been expansionary in support of the economy. Total expenditure in H1 2018 stood at 57.2 percent of the revised budget, up from 55 percent in H1 2017. The supplementary budget of KRW3.8 trillion and the fiscal stimulus package of KRW4 trillion were announced in May and July 2018 to support job creation and the local economies affected by corporate restructuring. On the revenue side, total revenue collection reached 54.4 percent of the revised budget in H1 2018 compared to 52.8 percent in H1 2017. Due to the considerable expansion of total expenditure amid rising revenue collection, the overall fiscal balance (excluding the Social Security Fund) was in a deficit of KRW25.5 trillion or 1.4 percent of GDP in H1 2018, increasing marginally from KRW24.1 trillion or 1.4 percent of GDP in H1 2017. For the whole of 2018, the overall fiscal balance is expected to be -1.8 percent of GDP, widening from -1.1 percent of GDP in 2017. Central government debt, meanwhile, was stable at 36.3 percent of GDP in 2017.",FALSE,normal
+12,9,"14. The fiscal stance in 2019 will be more expansionary despite the expected rise in revenue collection (Figures 11-12). The proposed budget expenditure will be expanded by 9.7 percent and reach KRW 470.5 trillion in 2019, equivalent to 25.1 percent of GDP, increasing from 24.1 percent of GDP in 2018. The share of social welfare spending expands, reflecting the use of fiscal policy to pursue an inclusive economic growth strategy. On the revenue side, total revenue including tax collection is expected to expand at 7.6 percent yoy 10, underscored by the revision of tax codes, the strong performance of large corporates and tightened taxes on the property market. The overall fiscal balance is expected to be -2.1 percent of GDP.",FALSE,normal
+12,10,NA,FALSE,empty
+12,11,NA,FALSE,empty
+12,12,"9 Seoul, especially Gangnam, remains highly attractive as it is a business center in which headquarters of big conglomerates are located. In addition, there are many supportive living facilities e.g. shopping and entertainment complex as well as well-known schools. 10 According to the 2019 budget proposal.",FALSE,normal
+12,13,-5,FALSE,garbage
+12,14,-3,FALSE,garbage
+12,15,-1,FALSE,garbage
+12,16,1,FALSE,garbage
+12,17,3,FALSE,garbage
+12,18,5,FALSE,garbage
+12,19,-15,FALSE,garbage
+12,20,-10,FALSE,garbage
+12,21,-5,FALSE,garbage
+12,22,0,FALSE,garbage
+12,23,5,FALSE,garbage
+12,24,10,FALSE,garbage
+12,25,15,FALSE,garbage
+12,26,Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1,FALSE,garbage
+12,27,2014 2015 2016 2017 2018,FALSE,garbage
+12,28,Net corporate bond issuance (RHS) Household loan growth Corporate loan growth,FALSE,normal
+12,29,%yoy KRW trn,FALSE,normal
+12,30,-4,FALSE,garbage
+12,31,-2,FALSE,garbage
+12,32,0,FALSE,garbage
+12,33,2,FALSE,garbage
+12,34,4,FALSE,garbage
+12,35,6,FALSE,garbage
+12,36,8,FALSE,garbage
+12,37,10,FALSE,garbage
+12,38,12,FALSE,garbage
+12,39,Jan Jun Nov Apr Sep Feb Jul Dec May Oct Mar Aug Jan Jun,FALSE,garbage
+12,40,'13 '14 '15 '16 '17 '18,FALSE,garbage
+12,41,Nationwide Seoul Non Metropolitan Area Metropolitan Area,FALSE,normal
+12,42,%yoy,FALSE,garbage
+12,43,NA,FALSE,empty
+13,1,NA,FALSE,empty
+13,2,Korea Annual Consultation Report 2018,FALSE,page_header
+13,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 13 of 49,FALSE,page_footer
+13,4,Figure 11. Revenue Figure 12. Expenditure,FALSE,fig_table
+13,5,Source: Ministry of Economy and Finance; AMRO staff estimations Source: Ministry of Economy and Finance; AMRO staff estimations,FALSE,normal
+13,6,Authorities’ Views,FALSE,normal
+13,7,"15. In the authorities’ view, with different growth and inflation outlook, the overall fiscal balance will be -1.7 percent of GDP in 2018 and -1.8 percent of GDP in 2019. In addition, the deficit in 2018 is likely to be smaller than the expectation due to the rising revenue collection that surpasses its target in 2018.",FALSE,normal
+13,8,"B. Risks, Vulnerabilities and Challenges 16. In the near term, our baseline projection is weighed down by downside risk from global trade conflicts. In the baseline scenario, the Korean economy is expected to grow at around its potential. However, headwinds to the growth outlook would come from more- severe-than-expected spillovers of global trade tensions. Meanwhile, the high level of household debt and rapid rise in housing prices in metropolitan areas, notwithstanding a series of tightened measures, continue to be vulnerabilities of the financial system.",FALSE,normal
+13,9,B.1 Near-term Risks to the Macroeconomic Outlook,FALSE,normal
+13,10,"17. Weaker-than-expected growth in China and the advanced economies and an escalation of the U.S.-China trade conflict pose downside risks to Korea’s highly-open economy. The Korean economy is susceptible to a slowdown of the Chinese economy and weaker-than-expected growth in the advanced economies as Korea’s exports to these countries account for more than half of total exports. Since Korea’s exports to China and the U.S. are mostly for domestic demand, the intensification of the U.S.-China trade conflict could have limited direct impact on Korea’s exports in the early stage of the tariff enforcement. However, the indirect impact stemming from a slowdown in the Chinese and the U.S. economies would dampen Korea’s economic growth. The amendment of NAFTA and the imposition of U.S. import tariffs on automobile products pose risks to Korea’s automobile industry. (Box B: Potential Impacts from the Ongoing Global Trade Tensions). Separately, disruption in global trade activities could also affect the Korean shipbuilding industry, which accounted for around 7 percent of total exports in 2017. Besides the global trade tension, Korea’s exports rely heavily on ICT products and are highly correlated to the global semiconductor cycle (Figure 13). An earlier-than-expected downturn in the global semiconductor super-cycle poses additional downside risk to Korea’s exports and growth.",FALSE,normal
+13,11,92,FALSE,garbage
+13,12,94,FALSE,garbage
+13,13,96,FALSE,garbage
+13,14,98,FALSE,garbage
+13,15,100,FALSE,garbage
+13,16,102,FALSE,garbage
+13,17,104,FALSE,garbage
+13,18,22.5,FALSE,garbage
+13,19,23.0,FALSE,garbage
+13,20,23.5,FALSE,garbage
+13,21,24.0,FALSE,garbage
+13,22,24.5,FALSE,garbage
+13,23,25.0,FALSE,garbage
+13,24,25.5,FALSE,garbage
+13,25,26.0,FALSE,garbage
+13,26,2014 2015 2016 2017 2018f2019f 2014 2015 2016 2017,FALSE,garbage
+13,27,% NGDP % Budgeted Revenue (RHS),FALSE,normal
+13,28,% %,FALSE,empty
+13,29,22.5,FALSE,garbage
+13,30,23.0,FALSE,garbage
+13,31,23.5,FALSE,garbage
+13,32,24.0,FALSE,garbage
+13,33,24.5,FALSE,garbage
+13,34,25.0,FALSE,garbage
+13,35,25.5,FALSE,garbage
+13,36,2014 2015 2016 2017 2018f 2019f,FALSE,garbage
+13,37,% NGDP,FALSE,garbage
+13,38,%,FALSE,empty
+13,39,NA,FALSE,empty
+14,1,NA,FALSE,empty
+14,2,Korea Annual Consultation Report 2018,FALSE,page_header
+14,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 14 of 49,FALSE,page_footer
+14,4,"Box B. Potential Impacts from the Ongoing U.S.-China Trade Conflicts Korea’s exports face rising risks stemming from the escalation of U.S.-China trade tensions. The risks became imminent following the U.S.’ decision to impose global tariffs on washing machines and solar panels in January 2018, followed by global tariffs on steel and aluminum in March. Thereafter, the U.S. trade protectionism has intensified. The U.S. administration has announced a series of tariffs on imports from China. In response, the Chinese government has taken retaliatory action on imports from the U.S. Korea, as a highly-open economy, is inevitably affected by this trade war as Korea’s exports to these two global economies accounted for 36.7 percent of total trade, equivalent to 13.8 percent of GDP in 2017. In addition to global tariffs and the trade conflicts between its key trading partners, Korea also faced direct pressure from the U.S. through its bilateral trade deal. The U.S. administration pushed Korea to renegotiate the Korea-U.S. Free Trade Agreement (KORUS FTA) in August 2017 with the aim of reducing the U.S. trade deficit against Korea11. The negotiation ended in mid-2018, and the agreement was signed in September 2018. The amendment focused on the automotive industry which is claimed by the U.S. to be a key sector underpinning the U.S. trade deficit with Korea.",FALSE,normal
+14,5,"Despite the U.S.’ global tariffs coming into effect, Korea’s total exports still expanded, but adverse impacts were observed at a sectoral level. Despite the U.S. trade measures coming into effect, Korea’s exports to the U.S. posted 2.3 percent growth in the first eight months of 2018 owing to burgeoning semiconductor and petrochemical exports. Meanwhile, Korea’s exports of affected products dropped. According to the Korea International Trade Association, Korean steel exports to the U.S. have declined after the global tariff on steel was implemented. Moreover, U.S. safeguard measures led to a drop in Korea’s exports of washing machines to the U.S. by 50.0 percent and solar panels by 16.6 percent during January and May 2018. Although the U.S. allowed the 70 percent import quota of Korean steel which would be waived from the global tariffs under Section 232, in exchange for improved market access to Korea’s auto market, Korea’s steel exports to the U.S. market is still faced with uncertainty as the exemption was subject to several conditions. For example, the exemptions will be applied to products that cannot be produced in the U.S. and for deals that were concluded before the effective date of the global tariff.",FALSE,normal
+14,6,"The escalation of U.S. trade protectionist measures and China’s retaliatory actions could further dampen Korea’s exports due to close trade linkages. The U.S. and China are among Korea’s key export destinations with 12.0 percent and 24.8 percent share respectively, of total Korean exports in 2017. With the close tie, spillover effects of trade conflicts can transmit to Korea through global value chains (GVCs) and a slowdown in domestic demand in the U.S. and China. Based on the structure of Korea’s exports captured in the World Input-Output Database (WIOD), a sizable component of the processing trade (intermediate goods exports) from Korea, accounts for more than half of total Korean exports to both countries. However, the impact of the U.S.-China trade actions on Korea’s exports will most likely be limited in the early stage of the tariff implementation as most",FALSE,normal
+14,7,Table B1. Summary of the U.S. Direct Trade Measures on Korea’s Exports,FALSE,fig_table
+14,8,Figure B1. Break-Down of Korea’s Exports to China and the U.S. in 2014,FALSE,fig_table
+14,9,Product Trade Measures Solar panel and washing machine,FALSE,normal
+14,10,[Jan 2018] The U.S. Administration announced global tariffs on washing machines (20 percent) and solar panels (30 percent).,FALSE,normal
+14,11,Steel and aluminium,FALSE,normal
+14,12,"[March 2018] The U.S. Administration announced global tariffs on steel (25 percent) and aluminium (10 percent) imports. [Then, Conclusion of KORUS FTA] Korea would cap steel exports to the U.S. at 70 percent of average volume over the past three years, in exchange for permanent exemption from Section 232.",FALSE,normal
+14,13,Automotive [Sep 2018] The amended KORUS FTA was signed. - The phase out of the 25 percent U.S. tariff on truck,FALSE,normal
+14,14,imports from Korea was extended from 2021 to 2041. - The quota of US auto exports to Korea was doubled,FALSE,normal
+14,15,"from 25,000 to 50,000 car per manufacturer per year with adoption of US safety standards.",FALSE,normal
+14,16,[May 2018] President Trump ordered Section 232 investigation of automotive imports.,FALSE,normal
+14,17,NA,FALSE,empty
+14,18,NA,FALSE,empty
+14,19,"Source: United States International Trade Commission Source: Jung (2017), based on World Input Output Database (WIOD)",FALSE,normal
+14,20,"11According to USTR Lighthizer Statement on the Conclusion of the Special Session of the US-Korea FTA Joint Committee dated on August 22, 2017, U.S. exports of goods has declined since the KORUS FTA came into effect in March 2012. The U.S. trade deficit in goods doubled during 2011 - 2016. The auto sector alone contributed to about 90 percent of U.S. trade deficits to Korea in 2016.",FALSE,normal
+14,21,31.3 43.0,FALSE,garbage
+14,22,42.9,FALSE,garbage
+14,23,46.6,FALSE,garbage
+14,24,4.4,FALSE,garbage
+14,25,0.821.4 9.6,FALSE,garbage
+14,26,0%,FALSE,garbage
+14,27,10%,FALSE,garbage
+14,28,20%,FALSE,garbage
+14,29,30%,FALSE,garbage
+14,30,40%,FALSE,garbage
+14,31,50%,FALSE,garbage
+14,32,60%,FALSE,garbage
+14,33,70%,FALSE,garbage
+14,34,80%,FALSE,garbage
+14,35,90%,FALSE,garbage
+14,36,100%,FALSE,garbage
+14,37,China U.S.,FALSE,normal
+14,38,Intermediate goods for exports to ROW,FALSE,normal
+14,39,Intermediate goods for exports to US/China,FALSE,normal
+14,40,Intermediate goods for domestic demands,FALSE,normal
+14,41,Final goods,FALSE,normal
+14,42,NA,FALSE,empty
+15,1,NA,FALSE,empty
+15,2,Korea Annual Consultation Report 2018,FALSE,page_header
+15,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 15 of 49,FALSE,page_footer
+15,4,"Korean intermediate goods exports are for domestic final demand in both countries or for global re- export. The impact will become more significant once domestic demand in the U.S. and China start slowing down. According to the simulations, using the Oxford Economics’ Global Economic Model, the current level of tariffs imposed by the U.S. and China will potentially weigh down on Korea’s GDP from 2018 onwards. Regardless of trade diversion and additional tariffs in the near future, Korea’s GDP in 2019 could drop by-0.2 percent from its level with no trade conflicts under the baseline scenario. The potential impact could even be as high as -0.7 percent under the worst case scenario.12",FALSE,normal
+15,5,"The amended KORUS FTA is expected to have a limited impact on the Korean economy. The pending U.S. global tariffs on auto imports and the U.S.-Mexico-Canada Agreement (USMCA), however, call for attention. The amended KORUS FTA resulted in the extension of the 25 percent U.S. tariffs on Korean truck imports to the U.S. for a further 20 years as well as an increase in the quota of American car imports to Korea with U.S. safety and emission standards applied. The potential impact of the KORUS FTA to the Korean auto industry will not be substantial as American car imports to Korea (52,635 units in total in 2017) has remained lower than the quota. The market share of American cars in Korea was only 2.8 percent in 2017. On the export side, the extension of U.S. tariffs is unlikely to affect Korean automakers, since the companies were already planning to produce trucks at its U.S.-based factories. The pending U.S. tariffs on the automotive products could pose more potential risks to the Korean auto industry, since the U.S. is the largest destination for Korea’s auto exports, sharing 33.4 percent of total auto exports in 2017. Meanwhile, the USMCA or NAFTA 2.0 renegotiation calls for close monitoring, given the presence of Korean auto production bases in Mexico. A rise in the Rules-of-Origin to 75 percent from NAFTA’s 62.5 percent requirement and labor provisions13 may lead to an increase in production costs and to a change in imported contents14 of Korean automakers’ Mexican production bases.",FALSE,normal
+15,6,References,FALSE,normal
+15,7,"Jung, K.-C. (17 April, 2017). Impact of China-U.S. Trade Disputes on the Korean Economy. Retrieved from Korea Development Institute: www.kdi.re.kr/kdi_eng",FALSE,normal
+15,8,"Korea International Trade Association (KITA). (27 June, 2018). Assessment on Trade in the First Half of 2018 and Outlook for The Second Half. Retrieved from KITA Website: http://www.kita.net/newtri2/report/iitreporter_view_kita.jsp?pageNum=2&nGubun=3&s_con=&s_text=&sStartDt=&sEndDt=&sOrder= &sClassification=&rowCnt=20&search_word=&s_date1=&s_date2=&actionName=&sNo=1812",FALSE,normal
+15,9,"Office of the United States Trade Representative. (2017, August 22). Retrieved from USTR Website: https://ustr.gov/about-us/policy- offices/press-office/press-releases/2017/august/ustr-lighthizer-statement-conclusion",FALSE,normal
+15,10,"Rodríguez, I. (8 October, 2018). USMCA ""a delicate balance"". Retrieved 8 October, 2018, from Automotive News: http://edit.autonews.com/article/20181008/GLOBAL/181009774/&template=print&nocache=1",FALSE,normal
+15,11,Figure B2. Estimated Impact on GDP under Baseline and Worst-Case Scenario,FALSE,fig_table
+15,12,Figure B3. Onshore and Offshore Automotive Production,FALSE,fig_table
+15,13,Source: Oxford Economics; AMRO staff calculations Note: The numbers in parenthesis indicate a share of total offshore,FALSE,normal
+15,14,production or auto exports in 2017. Source: Korean Automobile Manufacturers Association; AMRO staff calculations,FALSE,normal
+15,15,"12The baseline scenario assumes that the U.S. imposes 25 percent tariffs on USD50 billion and 10 percent tariffs on an additional USD200 billion of imports from China. Meanwhile, China imposes 25 percent tariffs on USD50 billion and 5-25 percent tariffs on additional USD 60 billion of imports from the U.S. The worst-case scenario assumes that the U.S. imposes 25 percent tariffs on all imports from China, while China imposes 25 percent tariffs on all imports from the U.S. 13The USMCA required 40-50 percent of automobile parts to be made by workers who earn at least USD16 per hour by 2023. 14Based on the discussion with local institutions during the 2018 Consultation Visit to Korea, the factories in Mexico rely mainly on auto parts and components imported from suppliers in Korea. This is in line with anecdotal evidence by Rodríguez (2018) about the automotive industry in Mexico stating that one particular Korean car model made in Monterrey, Mexico is composed of 47 percent Mexican contents, 51 percent Korean contents and only 2 percent from the U.S. and Canada.",FALSE,normal
+15,16,-0.8,FALSE,garbage
+15,17,-0.7,FALSE,garbage
+15,18,-0.6,FALSE,garbage
+15,19,-0.5,FALSE,garbage
+15,20,-0.4,FALSE,garbage
+15,21,-0.3,FALSE,garbage
+15,22,-0.2,FALSE,garbage
+15,23,-0.1,FALSE,garbage
+15,24,0.0,FALSE,garbage
+15,25,2017 2018 2019 2020 2021 2022,FALSE,garbage
+15,26,Baseline scenario Worst-case scenario%,FALSE,normal
+15,27,0.0 0.5 1.0 1.5 2.0 2.5,FALSE,garbage
+15,28,China,FALSE,normal
+15,29,U.S.,FALSE,garbage
+15,30,Mexico,FALSE,normal
+15,31,Others,FALSE,normal
+15,32,China,FALSE,normal
+15,33,U.S.,FALSE,garbage
+15,34,O ffs,FALSE,garbage
+15,35,ho re,FALSE,garbage
+15,36,p ro,FALSE,garbage
+15,37,du ct,FALSE,garbage
+15,38,io n,FALSE,garbage
+15,39,Ex po,FALSE,garbage
+15,40,rts fr,FALSE,normal
+15,41,om Ko,FALSE,garbage
+15,42,re a,FALSE,garbage
+15,43,Million Units,FALSE,normal
+15,44,2015 2016 2017,FALSE,garbage
+15,45,[29.2%],FALSE,garbage
+15,46,[15.4%],FALSE,garbage
+15,47,[5.5%],FALSE,garbage
+15,48,[49.9%],FALSE,garbage
+15,49,[34.7%],FALSE,garbage
+15,50,[0.12%],FALSE,garbage
+15,51,NA,FALSE,empty
+16,1,NA,FALSE,empty
+16,2,Korea Annual Consultation Report 2018,FALSE,page_header
+16,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 16 of 49,FALSE,page_footer
+16,4,"18. Risks and vulnerability stemming from high household debt and rising housing prices are limited to certain groups of borrowers and districts. While the build-up of household debt has moderated, the household debt-to-disposable income ratio is still high at about 160 percent in Q1 2018. Systemic risk from the debt build-up is not a concern yet, given that the debt distribution is skewed towards mid- to high-income borrowers with large holdings of financial assets and low default rates. However, low-income and self-employed borrowers remain vulnerable to financial distress due to low income and low financial assets relative to debt (Figure 14).15 These borrowers may pose a risk to the asset quality of financial institutions16 in the event of rising interest rate and worsening labor market conditions. In the real estate sector, although housing price growth is moderating across the country, the growth rate in Seoul remains higher than its historical record and is driven partly by expectations of higher prices. The risks stemming from a correction in housing prices, albeit low, warrant vigilance.",FALSE,normal
+16,5,Figure 13. Korea’s Exports and Global Semiconductor Sales,FALSE,fig_table
+16,6,Figure 14. Household Indebtedness,FALSE,fig_table
+16,7,Source: World Semiconductor Trade Statistics; Korea Customs; AMRO staff calculations,FALSE,normal
+16,8,Note: Income quintiles are ranked from the lowest-income households (the first quintile) to the highest-income households (the fifth quintile). Source: Statistics Korea; AMRO staff calculations,FALSE,normal
+16,9,"19. A faster-than-expected pace of monetary policy normalization in the U.S. and other advanced economies as well as renewed geopolitical tension in the region could heighten volatility in Korea’s financial markets. According to market participants, risks of excessive and abrupt capital reversals from Korea’s financial markets are limited due to Korea’s strong external position compared with other EMEs. However, Korea’s financial markets have a high degree of openness that makes the markets sensitive to volatility in the global markets and cross-border capital flows (See Selected Issue 3: Near-term Drivers of Korea’s Resident and Non-resident Portfolio Investments).",FALSE,normal
+16,10,B.2 Longer-term Challenges and Vulnerabilities,FALSE,normal
+16,11,"20. Over the medium- to long-term, Korea’s potential growth will be faced with structural challenges in the labor market and industry sector. The labor market continues to face sustained structural challenges stemming from an aging population. The working age population peaked in 2016 and has gradually declined since then with the fertility rate falling to 1.29 children per woman in 2017, the second lowest among the ASEAN+3 economies.17 In 15 The underlying data in Figure 14 are based on the household survey compiled by Statistics Korea. Meanwhile, the national- level data of household debt to disposable income ratio at 160 percent was calculated by dividing aggregate household debt by the disposable national income (in the System of National Accounts). 16 Total loans to these vulnerable borrowers accounted for 6.1 percent in Q1 2018. (BOK Financial Stability Report, June 2018) 17 According to United Nations, the fertility rates of Singapore, Korea, Japan, Thailand and Vietnam were 1.24, 1.29, 1.42, 1.50 and 1.96 children per woman, respectively, in 2017.",FALSE,normal
+16,12,-50 -40 -30 -20 -10,FALSE,garbage
+16,13,0 10 20 30 40 50 60,FALSE,garbage
+16,14,2000 2002 2004 2006 2008 2010 2012 2014 2016 2018,FALSE,garbage
+16,15,Global Semiconductor Sales Korea's Exports,FALSE,normal
+16,16,"%, yoy 3mma",FALSE,normal
+16,17,0 20 40 60 80,FALSE,garbage
+16,18,100 120 140 160 180,FALSE,garbage
+16,19,14151617 14151617 14151617 14151617 14151617 14151617,FALSE,garbage
+16,20,1st Quintile 2nd Quintile,FALSE,normal
+16,21,3rd Quintile4th Quintile5th Quintile National Average,FALSE,normal
+16,22,Debt to disposable income %,FALSE,normal
+16,23,NA,FALSE,empty
+17,1,NA,FALSE,empty
+17,2,Korea Annual Consultation Report 2018,FALSE,page_header
+17,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 17 of 49,FALSE,page_footer
+17,4,"addition, youth underemployment is likely to worsen, as implied by an increasing youth unemployment rate and a high share of economically inactive youth to the total youth population (Figure 15). Youth underemployment in Korea is driven by the dichotomy and lack of flexibility in the labor market as well as skills mismatches. In the industrial sector, declining competitiveness in non-ICT industries, coupled with the outsourcing of production lines overseas in key manufacturing sectors, will weaken domestic employment and investment. Moreover, considering the uneven growth between ICT and non-ICT industries, excessive concentration in the ICT industry may make the Korean economy susceptible to shocks arising from global ICT downturns and increasing competition in the global market.",FALSE,normal
+17,5,Figure 15. Youth Unemployment Figure 16. Growth Performance of Specific Industrial Sectors,FALSE,fig_table
+17,6,"Note: The economically inactive population comprises all persons who are neither employed nor unemployed, including housewives, students, retired people, the disabled and others. Source: Statistics Korea; OECD; Bank of Korea; AMRO staff calculations",FALSE,normal
+17,7,Source: BOK; AMRO staff calculations,FALSE,normal
+17,8,C. Policy Discussions and Recommendations C.1 Comprehensive Structural Reform to Address the Dichotomy,FALSE,normal
+17,9,"21. The Moon administration endeavors to improve economic disparity. Since 2017, the current administration has employed fiscal spending actively to address economic polarization and youth unemployment and also to promote job creation (Figure 17). The budget allocated to social welfare have been expanded. The supplementary budget in 2017 and 2018 is targeted towards economically vulnerable groups including SMEs and low-income households. The Tax Revision Bills for 2017 and 201818 aim to create more jobs in SMEs, promote innovation-driven growth and reduce the income inequality between the rich and the poor. (See Box C: The Assessment of Moon Administration’s Economic Policy)",FALSE,normal
+17,10,"22. The government’s efforts to shift towards a new growth paradigm could well address dichotomy in the economy; however, all four pillars of the strategy should be implemented in a well-coordinated manner. The government’s continuing efforts and strong commitment to achieve more inclusive growth is commendable. The initiative to enhance households’ living standard, however, should be implemented in such a way to avoid creating persistent and adverse consequences to the labor market. The income policy and efforts to improve working conditions should be complemented by growth-oriented policies to",FALSE,normal
+17,11,"18 The Tax Revision Bill for the year “T” is normally proposed in the second half of the fiscal year “T” so that it can take effect in the next fiscal year “T+1”. In this case, the Tax Revision Bill 2017 was proposed in 2017 and came into effect in 2018.",FALSE,normal
+17,12,8.0,FALSE,garbage
+17,13,8.5,FALSE,garbage
+17,14,9.0,FALSE,garbage
+17,15,9.5,FALSE,garbage
+17,16,10.0,FALSE,garbage
+17,17,10.5,FALSE,garbage
+17,18,11.0,FALSE,garbage
+17,19,67,FALSE,garbage
+17,20,68,FALSE,garbage
+17,21,69,FALSE,garbage
+17,22,70,FALSE,garbage
+17,23,71,FALSE,garbage
+17,24,72,FALSE,garbage
+17,25,73,FALSE,garbage
+17,26,74,FALSE,garbage
+17,27,75,FALSE,garbage
+17,28,76,FALSE,garbage
+17,29,08 09 10 11 12 13 14 15 16 17 08 09 10 11 12 13 14 15 16 17,FALSE,garbage
+17,30,Share of economically inactive youth to total youth,FALSE,normal
+17,31,Youth unemployment rate (RHS),FALSE,normal
+17,32,% %,FALSE,empty
+17,33,0,FALSE,garbage
+17,34,100,FALSE,garbage
+17,35,200,FALSE,garbage
+17,36,300,FALSE,garbage
+17,37,400,FALSE,garbage
+17,38,500,FALSE,garbage
+17,39,600,FALSE,garbage
+17,40,20 00,FALSE,garbage
+17,41,20 01,FALSE,garbage
+17,42,20 02,FALSE,garbage
+17,43,20 03,FALSE,garbage
+17,44,20 04,FALSE,garbage
+17,45,20 05,FALSE,garbage
+17,46,20 06,FALSE,garbage
+17,47,20 07,FALSE,garbage
+17,48,20 08,FALSE,garbage
+17,49,20 09,FALSE,garbage
+17,50,20 10,FALSE,garbage
+17,51,20 11,FALSE,garbage
+17,52,20 12,FALSE,garbage
+17,53,20 13,FALSE,garbage
+17,54,20 14,FALSE,garbage
+17,55,20 15,FALSE,garbage
+17,56,20 16,FALSE,garbage
+17,57,20 17,FALSE,garbage
+17,58,"Electronic & Electrical Equipment Chemical Products Petroleum, Coal & Chemicals Transportation Equipment Other manufacturing",FALSE,normal
+17,59,Index (2000 = 100),FALSE,normal
+17,60,NA,FALSE,empty
+18,1,NA,FALSE,empty
+18,2,Korea Annual Consultation Report 2018,FALSE,page_header
+18,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 18 of 49,FALSE,page_footer
+18,4,"stimulate demand for labor and be supported by expanding social safety nets. Ongoing efforts to promote innovation and fair competition – such as introducing a negative-list regulatory system for new industries and promoting cooperation between large enterprises and SMEs – are welcome and should be expedited. In addition, structural reforms in the service sectors and non-ICT manufacturing industries should be stepped up in order to enhance their productivity and competitiveness as well as create more quality jobs.",FALSE,normal
+18,5,"Box C. An Assessment of the Moon Administration’s Economic Policy Korea has successfully transformed itself into a high-income country; however, the economy has encountered a decline in potential growth and an intensification of economic disparity. Korea’s income per capita increased more than fourfold within three decades, from USD 6,516 in 1990 to USD 29,743 in 2017. Behind this successful story, the economy relied heavily on large conglomerates in a few manufacturing sectors such as ICT, automotive, shipbuilding as the main drivers of growth. However, potential growth has declined owing to structural challenges stemming from an aging population and labor market rigidity. Moreover, as the economy is getting more advanced, economic disparity is becoming more apparent in the form of polarization between corporates and households, between large conglomerates and SMEs, and between regular workers and non-regular workers.",FALSE,normal
+18,6,"The Moon administration brought about a paradigm shift in its growth strategy in order to address economic polarization and to pursue more inclusive and sustainable growth. In May 2017, the government announced a New Economic Policy (NEP), which consists of four main policy pillars – income-driven growth, a job-centered economy, innovative growth, and fair competition. The NEP addresses intensifying economic polarization, declining potential growth and inadequate social protection. The first two pillars of the NEP attempt to increase household income and to improve living standards and working conditions. The third pillar seeks to revitalize private investment and prepare for the fourth industrial revolution, and the last pillar attempts to create a more level playing field between large conglomerates and SMEs. The last two pillars, if successfully implemented, will help increase labor demand, which could offset the negative impact of the minimum wage increase.",FALSE,normal
+18,7,Figure C2. The Moon Jae-in Administration’s New Economic Policy Direction,FALSE,fig_table
+18,8,NA,FALSE,empty
+18,9,Figure C1. Korea’s Economic Disparity,FALSE,fig_table
+18,10,NA,FALSE,empty
+18,11,NA,FALSE,empty
+19,1,NA,FALSE,empty
+19,2,Korea Annual Consultation Report 2018,FALSE,page_header
+19,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 19 of 49,FALSE,page_footer
+19,4,"During the first year of the Moon administration’s tenure, government policies have focused more on the pillars of income-driven growth and job-centered economy. Minimum hourly wage has been raised by 16.4 percent to 7,530 won in January 2018, and is scheduled to be increased by another 10.9 percent to 8,350 won in 2019. Meanwhile, households’ costs of living were reduced through subsidies for housing, medical services, transportation, telecommunication and education. Moreover, social safety nets were expanded through EITC (earned income tax credit), unemployment benefits, child allowance and the like. Human capital investment was also encouraged through educational support for the low-income households, vocational education, and industry-college cooperation. And lastly, public sector jobs will be expanded to 810,000 by 2022.",FALSE,normal
+19,5,"Working conditions have improved, but labor policy challenges remain. To protect labor, the government amended the Occupational Safety and Health Act in March 2018. At the same time, the government took legal actions against some unfair labor practices such as discrimination against non-regular workers. In addition, the public sector converted around 107,000 non-regular workers to regular ones in 2018 to improve employees’ working conditions. In addressing work-life balance, the maximum working hours per week for companies with more than 300 employees was reduced from 68 hours to 52 hours since July 2018.19 There is still room for the actual improvement of working conditions, especially in the protection of non-regular workers, temporary workers and limited-term contract workers by amending relevant regulations.",FALSE,normal
+19,6,"The innovation-driven growth strategy has been promoted more actively across all areas since H2 2018. Some projects, including those related to improving regulations, have begun to produce good results. More specifically, the regulations for new industries have been shifted from a positive-list type to a negative-list type, which allows everything except what is specifically prohibited. In addition, the government has introduced a regulatory sandbox to support innovation in SMEs and start-ups in new industries. It has also unveiled its innovation investment plan for 2019, with a total of KRW 5 trillion to be spent on the eight pilot projects,20 as well as on the building of Platform Economy.21 The roadmap for the platform economy will be drawn up by the end of this year, and specific plans are expected to be presented afterward.",FALSE,normal
+19,7,"Greater efforts have been made to promote “fair competition” between large corporations and SMEs through the amendment of existing legislations. To regulate the improper transfer of technology from SMEs to larger companies, the National Assembly approved amendments to the Unfair Competition Prevention and Trade Secret Protection Act and the Fair Transactions in Subcontracting Act in March 2018. Similarly, the amended Monopoly Regulation and Fair Trade Act in August 2018 enhanced the roles of the Fair Trade Commission.",FALSE,normal
+19,8,"In addition to legislative amendments, a preemptive and expansionary fiscal policy has been adopted to implement the NEP, particular in the areas of job creation and social protection. The supplementary budget and economic stimulus package were announced in May and June respectively, and 2018 tax revisions and the 2019 budget were proposed in July and September respectively. Moreover, KRW 43 trillion worth of local government supplementary budget is expected to be implemented.",FALSE,normal
+19,9,"Despite the government’s ongoing endeavors, it may be too early to evaluate the outcomes of the NEP at this moment as the policy effect is expected to take some time. Despite some criticism for the steep rise in minimum wage and the deterioration in labor market conditions, the government’s efforts to alleviate economic polarization are supported by many people. Given that the low-income households, small merchants and the self-employed are suffering from the worsening labor conditions,",FALSE,normal
+19,10,"19 The reduction in working hours for SMEs with less 300 employees is expected to be implemented after 2020. 20 Future cars, drone services, new energy, healthcare, biotechnology, smart factories, smart cities, smart farms and fintech. 21 Platform Economy is an essential infrastructure, technology, and ecosystem for various industries. The roadmap will contain 5 year and 10 year plans for the four platform economy projects; 1) developing a digital platform for big data analytics, artificial intelligence and blockchain technology, 2) resolution of data divide and shared economic packages, 3) R&D verification by hydrogen value chain, 4) innovative human resources development and innovation education programs.",FALSE,normal
+19,11,NA,FALSE,empty
+20,1,NA,FALSE,empty
+20,2,Korea Annual Consultation Report 2018,FALSE,page_header
+20,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 20 of 49,FALSE,page_footer
+20,4,the upcoming minimum wage hike should be implemented in a flexible way and be complemented with expanded social protection.,FALSE,normal
+20,5,"Going forward, a policy balance is required. It is essential to strike a balance between labor policy and industrial policy for future job creation and economic growth. The government should continue its efforts to increase labor demand in the private sector, promoting new innovative industries in the manufacturing sector and expediting regulatory reform in the service sector. The virtuous cycle of “income increase consumption growth GDP growth” can be achieved only with an increase in job creation. In this regard, Korea should look to benefit from the fourth industrial revolution, leading to the creation of quality jobs. Moreover, the macroeconomic policy mix should continue to be calibrated with greater reliance on expansionary fiscal policy to promote innovative and inclusive growth.",FALSE,normal
+20,6,C.2 Active Role of Fiscal Policy in Maintaining Growth Momentum and Pursuing Inclusive Growth,FALSE,normal
+20,7,"23. Fiscal space is ample and provides room for a more expansionary fiscal stance. Fiscal policy has been employed to maintain the growth momentum. Public utility fees as well as consumption taxes on oil and passenger car purchase were reduced temporarily, while welfare subsidies were increased and job positions in public sector were expanded. Moreover, a more expansionary fiscal stance was taken in the 2019 budget. Although the current administration has increased spending, the fiscal balance has not deteriorated sharply due to strong revenue collection (Figure 18). Fiscal revenue, meanwhile, has expanded and surpassed its target for two consecutive years. Moreover, the government debt is below 40 percent of GDP, lower than those of its regional peers. The authorities’ efforts to reduce unnecessary spending could help retain fiscal space and medium-term sustainability.",FALSE,normal
+20,8,"24. The active use of fiscal policy to pursue the inclusive economic growth objective and promote innovation-led growth, while maintaining long-term fiscal sustainability, is commendable. The proposed 2019 budget aims to promote more inclusive and innovation- led growth. The higher budget allocation towards income policy and social welfare is welcome. However, the public job creation policy should be carefully implemented so as not to affect efficiency in the public sector. In the current administration’s initial year 22 , policy implementation has emphasized income-led growth and job creation. Therefore, fiscal spending, going forward, should be allocated more towards sustainable growth objectives such as education support for lower-income households, vocational training for the unemployed and unskilled labor, R&D to improve productivity of SMEs and start-up firms, and moving up the value chain in the services sector.",FALSE,normal
+20,9,NA,FALSE,empty
+20,10,22 The Moon administration started in May 2017.,FALSE,normal
+20,11,NA,FALSE,empty
+21,1,NA,FALSE,empty
+21,2,Korea Annual Consultation Report 2018,FALSE,page_header
+21,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 21 of 49,FALSE,page_footer
+21,4,Figure 17. Expenditure Composition Figure 18. Fiscal Stance,FALSE,fig_table
+21,5,NA,FALSE,empty
+21,6,Source: Ministry of Economy and Finance; AMRO staff calculations,FALSE,normal
+21,7,Source: Ministry of Economy and Finance; AMRO staff estimations,FALSE,normal
+21,8,Authorities’ Views,FALSE,normal
+21,9,"25. The authorities emphasized the active role of fiscal policy in supporting the labor market and pushing forward the innovation-led growth objective. Job creation was sluggish in the first half of 2018 and was expected to weaken further, due to a slowdown in major industries and a decline in the working-age population. Against this backdrop, the authorities have endeavored to promote employment in public and private sectors and to expand social safety nets for job seekers, the disabled and the unemployed. In 2018, the supplementary budget of KRW3.9 trillion and the additional fiscal stimulus at KRW4 trillion were adopted with the aim of maintaining economic growth momentum and supporting the labor market and restructured corporations. Given that key manufacturing industries, comprising shipbuilding and the automotive sector, are on the wane, the Korean economy should look for new growth engines. In this regard, the authorities will emphasize the “Growth through Innovation” strategy, starting in the second half of 2018. Separately, the authorities will expedite regulatory reforms to facilitate corporate investment and technology development as well as to support business start-ups.",FALSE,normal
+21,10,C.3 Maintaining an Accommodative Monetary Policy,FALSE,normal
+21,11,"26. Monetary conditions have remained accommodative for an extended period even after taking into account the increase in the BOK’s base rate last November. The BOK had started implementing an accommodative monetary policy in 2012 in response to weak economic growth and low inflation. The base rate had been maintained at an extraordinarily low level of 1.25 percent since mid-2016 before normalization started with the first 25bps increase in November 2017. Despite the increase, the real borrowing rates have remained very low (Figure 19).",FALSE,normal
+21,12,"27. The accommodative monetary policy stance should be maintained in view of the moderating economic growth and subdued inflation. Korea’s economic growth is expected to moderate, and the positive output gap is projected to narrow (Figure 20). The Korean economy also faces challenges from a weak labor market and downside risks from the escalation of global trade tensions. Meanwhile, headline inflation is expected to be lower than the BOK’s target due to weak demand and declining public services prices. Thus, the appropriate macroeconomic policy mix should be calibrated to sustain Korea’s growth",FALSE,normal
+21,13,6.5 6.7 6.9 6.9 7.5,FALSE,garbage
+21,14,17.4 17.3 16.7 16.3 16.6,FALSE,garbage
+21,15,24,FALSE,garbage
+21,16,26,FALSE,garbage
+21,17,28,FALSE,garbage
+21,18,30,FALSE,garbage
+21,19,32,FALSE,garbage
+21,20,0,FALSE,garbage
+21,21,5,FALSE,garbage
+21,22,10,FALSE,garbage
+21,23,15,FALSE,garbage
+21,24,20,FALSE,garbage
+21,25,25,FALSE,garbage
+21,26,30,FALSE,garbage
+21,27,2014 2015 2016 2017 2018,FALSE,garbage
+21,28,Others Social Welfare Budget Share of Social Welfare Budget (RHS),FALSE,normal
+21,29,% GDP % Total Budget,FALSE,normal
+21,30,-4.0,FALSE,garbage
+21,31,-3.0,FALSE,garbage
+21,32,-2.0,FALSE,garbage
+21,33,-1.0,FALSE,garbage
+21,34,0.0,FALSE,garbage
+21,35,1.0,FALSE,garbage
+21,36,2.0,FALSE,garbage
+21,37,3.0,FALSE,garbage
+21,38,4.0,FALSE,garbage
+21,39,20 06,FALSE,garbage
+21,40,20 07,FALSE,garbage
+21,41,20 08,FALSE,garbage
+21,42,20 09,FALSE,garbage
+21,43,20 10,FALSE,garbage
+21,44,20 11,FALSE,garbage
+21,45,20 12,FALSE,garbage
+21,46,20 13,FALSE,garbage
+21,47,20 14,FALSE,garbage
+21,48,20 15,FALSE,garbage
+21,49,20 16,FALSE,garbage
+21,50,20 17,FALSE,garbage
+21,51,20 18,FALSE,garbage
+21,52,f,FALSE,garbage
+21,53,20 19,FALSE,garbage
+21,54,f,FALSE,garbage
+21,55,"Fiscal impulse Overall fiscal balance, excl. Social Security Funds",FALSE,normal
+21,56,% of GDP,FALSE,normal
+21,57,More expansionary (or less contractionary),FALSE,normal
+21,58,NA,FALSE,empty
+22,1,NA,FALSE,empty
+22,2,Korea Annual Consultation Report 2018,FALSE,page_header
+22,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 22 of 49,FALSE,page_footer
+22,4,"momentum. While maintaining the current degree of monetary accommodation, the policy mix should put greater emphasis on expansionary fiscal policy.",FALSE,normal
+22,5,Figure 19. Interest Rates Figure 20. Output Gap Estimation,FALSE,fig_table
+22,6,"Note: The 3-Month KORIBOR is used for the short-term interest rate, while 3-year treasury bond yield is used for the long-term interest rate. Source: BOK; Yonhap Infomax; CEIC; AMRO staff calculations",FALSE,normal
+22,7,Source: AMRO staff estimates,FALSE,normal
+22,8,Authorities’ Views,FALSE,normal
+22,9,"28. Monetary policy has been conducted in a cautious manner in order to ensure that the economic recovery continues and headline inflation remains below the 2 percent target level over a medium-term horizon. The BOK forecasts that the domestic economy will sustain a pace of growth at the level of its potential growth rate, and that the rate of consumer price inflation will approach the target level. In these circumstances, the BOK is maintaining its existing stance that it will closely examine future trends of economic growth and inflation, and judge whether an adjustment of its accommodative monetary policy stance is necessary. Moreover, the BOK will also closely monitor the build-up of risks to financial stability and risks arising from the impact of the global trade tensions, any changes in the monetary policies of major economies, financial and economic conditions in EMEs, and geopolitical risks.",FALSE,normal
+22,10,C.4 Macro-prudential Measures to Safeguard Financial Stability,FALSE,normal
+22,11,"29. Macro-prudential measures and residential property related measures could be deployed in order to contain a build-up of financial imbalances due to a prolonged period of low interest rates. A series of tighter regulations has largely contained the build-up of household debt and housing prices. The full implementation of the DSR framework is expected to safeguard financial stability. Given the high level of property prices in Seoul, the mission commends the government’s continuing and timely efforts to stabilize the housing market, the recent adjustment of property-related taxes, and the increase in housing supply in particular. However, pockets of risk remain. The high household debt-to-disposable income ratio makes the low-income households more susceptible to economic and financial shocks and deteriorating labor market conditions. Moreover, a surge in housing prices in Seoul may be driven partly by speculation and thus warrants close monitoring (Box D and Appendix 5: Comprehensive Measures to Contain Rising Household Debt and Overheating Housing Market).",FALSE,normal
+22,12,NA,FALSE,empty
+22,13,-2,FALSE,garbage
+22,14,-1,FALSE,garbage
+22,15,0,FALSE,garbage
+22,16,1,FALSE,garbage
+22,17,2,FALSE,garbage
+22,18,3,FALSE,garbage
+22,19,4,FALSE,garbage
+22,20,2010 2011 2012 2013 2014 2015 2016 2017 2018,FALSE,garbage
+22,21,Realized infl-adj. ST rate Realized infl-adj. LT rate Expected infl-adj. ST rate Expected infl-adj. LT rate BOK Base rate,FALSE,normal
+22,22,%,FALSE,empty
+22,23,-2.5 -2.0 -1.5 -1.0 -0.5 0.0 0.5 1.0 1.5 2.0 2.5,FALSE,garbage
+22,24,20 00,FALSE,garbage
+22,25,20 01,FALSE,garbage
+22,26,20 02,FALSE,garbage
+22,27,20 03,FALSE,garbage
+22,28,20 04,FALSE,garbage
+22,29,20 05,FALSE,garbage
+22,30,20 06,FALSE,garbage
+22,31,20 07,FALSE,garbage
+22,32,20 08,FALSE,garbage
+22,33,20 09,FALSE,garbage
+22,34,20 10,FALSE,garbage
+22,35,20 11,FALSE,garbage
+22,36,20 12,FALSE,garbage
+22,37,20 13,FALSE,garbage
+22,38,20 14,FALSE,garbage
+22,39,20 15,FALSE,garbage
+22,40,20 16,FALSE,garbage
+22,41,20 17,FALSE,garbage
+22,42,20 18,FALSE,garbage
+22,43,f 20,FALSE,garbage
+22,44,19 f,FALSE,garbage
+22,45,Univariate Filter (HP),FALSE,normal
+22,46,Production Function,FALSE,normal
+22,47,%yoy,FALSE,garbage
+22,48,NA,FALSE,empty
+23,1,NA,FALSE,empty
+23,2,Korea Annual Consultation Report 2018,FALSE,page_header
+23,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 23 of 49,FALSE,page_footer
+23,4,Authorities’ Views,FALSE,normal
+23,5,"30. The authorities are paying close attention to financial stability amid the low interest rate environment. A rapid increase in housing prices in Seoul called for tightened measures. Despite a series of measures to stabilize the housing market, housing prices in some areas in Seoul continue to surge, partly contributed by speculative demand. Additional measures announced on 13 September 2018 are expected to curb speculation and stabilize housing prices in areas with overheating. Given the high household debt, the full implementation of the DSR framework is expected to lead to a further moderation in household debt. The authorities provide specific assistance targeted to vulnerable and low-income households.",FALSE,normal
+23,6,Box D. Comprehensive Measures to Contain the Build-up of Household Debt and Overheating in the Housing Market,FALSE,normal
+23,7,"In the period of easing monetary policy since 2014, Korea has experienced a rapid increase in household debt and housing prices. In addition, the relaxation of loan-to-value (LTV) ratio and the debt-to-income (DTI) ratio in August 2014 to support the housing market also spurred the growth of household debt in the following period. The annual growth of household debt rose from 5.7 percent in 2013 to its peak of 11.6 percent in 2016. In terms of household indebtedness, the household debt- to-disposable income ratio increased from around 134 percent in 2013 to 160 percent in 2017. Meanwhile, the housing market had boomed in almost the same period. The growth rate of nationwide housing prices doubled in one year, from 1.5 percent in 2014 to 3.4 percent in 2015. From mid-2015, nationwide housing prices have moderated, but the housing prices in some big cities continue to surge. Reflecting historical co-movements, and the results of the causality test, the increase in household debt and housing prices are inter-connected to some extent. According to Table 5.1, household debt increase has a lead effect to housing price growth. This may imply that a rapid rise in mortgage lending might spur housing demand.",FALSE,normal
+23,8,"While monetary accommodation has been maintained to support growth in a low inflation environment, the Korean authorities have deployed a series of pre-emptive policy actions to contain the build-up of financial stability risks (Appendix 5). Policymakers have used a broad range of policy instruments (“measures” hereafter) including macro-prudential regulations, property- related taxes and land development policies to manage demand and supply of loans and residential property. Despite the relaxation of the LTV and DTI ratios in 2014, prudential regulations related to household borrowing were strengthened in 2015. Over time, as household debt and housing market situations changed, the choices of instruments have been broadened and the measures have been more targeted and recalibrated to address different problems. The differentiation in measures reflects geographical heterogeneity of housing demand and supply, diverse financing and housing needs across households, and the unique characteristics of each group of financial institutions.",FALSE,normal
+23,9,Figure D1. Growth of Household Debt and Housing Price,FALSE,fig_table
+23,10,Table D1. Granger Causality Test on The Growth of Household Debt and Housing Prices,FALSE,fig_table
+23,11,NA,FALSE,empty
+23,12,NA,FALSE,empty
+23,13,"Source: Kookmin Bank; BOK; AMRO staff calculations Note: *** p < 0.01, ** p < 0.05, * p< 0.1. Source: AMRO staff estimates",FALSE,normal
+23,14,-2.5,FALSE,garbage
+23,15,-0.5,FALSE,garbage
+23,16,1.5,FALSE,garbage
+23,17,3.5,FALSE,garbage
+23,18,5.5,FALSE,garbage
+23,19,7.5,FALSE,garbage
+23,20,-5,FALSE,garbage
+23,21,0,FALSE,garbage
+23,22,5,FALSE,garbage
+23,23,10,FALSE,garbage
+23,24,15,FALSE,garbage
+23,25,05 06 07 08 09 10 11 12 13 14 15 16 17 18,FALSE,garbage
+23,26,Housing Price Index Loans to Households incl Housing Loans BOK's Base Rate (RHS),FALSE,normal
+23,27,%yoy % 1 2 3 4,FALSE,garbage
+23,28,Growth of household debt does not Granger Cause growth of housing price.,FALSE,normal
+23,29,12.381*** 5.483*** 5.730*** 4.498***,FALSE,garbage
+23,30,Growth of housing price does not Granger Cause growth of household debt.,FALSE,normal
+23,31,3.825*** 1.448 1.015 1.219,FALSE,garbage
+23,32,F-Statistic Null Hypothesis / Lag (Quarters),FALSE,normal
+23,33,NA,FALSE,empty
+24,1,NA,FALSE,empty
+24,2,Korea Annual Consultation Report 2018,FALSE,page_header
+24,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 24 of 49,FALSE,page_footer
+24,4,"In 2014-2015, the measures focused on improving the structure of household loans of banks and non-banks, and on ensuring households’ financial soundness. Financial institutions and borrowers were encouraged to shift from floating-rate and balloon-payment mortgages to fixed-rate and amortizing mortgages. Banks’ screening process of mortgage loan applications was also revised to more accurately assess borrower’s repayment ability. The loan structure of non-bank financial institutions (NBFIs) was improved by imposing the LTV ratio on mortgages and increasing the share of amortizing mortgages. The effectiveness of the measures was limited, as reflected by the continuing rise in housing prices and household debt.",FALSE,normal
+24,5,"Given the many types of financial institutions, Korea’s macro-prudential measures faced implementation challenges in the form of regulatory arbitrage. Due to some exemptions allowed for collective loans, burgeoning collective loans was one of the driving factors of a household debt surge in 2014-2015. In 2016, given the relatively tight regulations on bank lending to households, NBFI lending to households has outpaced bank lending since 2016. This led the authorities to tighten measures on collective loans and NBFIs. Moreover, risk management and monitoring of loans for self-employed business owners, part of which are counted in household debt, are strengthened in order to ensure that the loans would not be used for personal consumption or housing purchase.",FALSE,normal
+24,6,"From 2016 onwards, the measures were aimed at suppressing speculative housing demand and curbing the build-up in household debt. Amid tightened measures on mortgage lending, housing prices in major cities and non-metropolitan areas began to diverge in late 2015. The pace of the housing price increase was even faster in some districts, driven partly by expectations of higher prices. At the same time, the growth of household debt continued to increase. The authorities imposed measures that specifically targeted overheating areas that witnessed speculative housing demand and high levels of household debt. The LTV ratio and the DTI ratio were reduced twice in 2017. The tighter ceilings were imposed on designated overheating areas and multiple-mortgage borrowers. The formula of the DTI ratio was also broadened to cover more comprehensive household debt obligations. Moreover, the DSR was introduced as an additional indicator for assessing borrowers’ debt repayment capacity. Following a series of tightened macro-prudential regulations, the growth of household debt began to moderate in early 2017, although it still remained high, while housing prices in some parts of major cities still surged and actually grew much more rapidly than the long-term trend. In response, an increase in property-related taxes, targeted at speculative zones and multiple-mortgage borrowers, as well as supply-side measures such as reconstruction regulations and an increase in the government’s housing supply, have been deployed.",FALSE,normal
+24,7,NA,FALSE,empty
+24,8,Figure D2. Housing Price Movement Geographical Comparison Nationwide Seoul Areas,FALSE,fig_table
+24,9,"Note: The trend is estimated by using the one-sided Hodrick–Prescott filter (𝜆 =100,000 (Adalid and Detken (2007)). The band is calculated from the root mean square of the deviation from the trend. Source: Kookmin Bank; Bank of Korea Bank; AMRO staff calculations",FALSE,normal
+24,10,NA,FALSE,empty
+24,11,NA,FALSE,empty
+24,12,-5,FALSE,garbage
+24,13,0,FALSE,garbage
+24,14,5,FALSE,garbage
+24,15,10,FALSE,garbage
+24,16,15,FALSE,garbage
+24,17,20,FALSE,garbage
+24,18,25,FALSE,garbage
+24,19,05 06 07 08 09 10 11 12 13 14 15 16 17 18,FALSE,garbage
+24,20,Nationwide Seoul Non-metropolitan areas,FALSE,normal
+24,21,%yoy,FALSE,garbage
+24,22,-5,FALSE,garbage
+24,23,0,FALSE,garbage
+24,24,5,FALSE,garbage
+24,25,10,FALSE,garbage
+24,26,15,FALSE,garbage
+24,27,05 06 07 08 09 10 11 12 13 14 15 16 17 18,FALSE,garbage
+24,28,Housing price growth,FALSE,normal
+24,29,Trend,FALSE,normal
+24,30,%yoy,FALSE,garbage
+24,31,-10,FALSE,garbage
+24,32,-5,FALSE,garbage
+24,33,0,FALSE,garbage
+24,34,5,FALSE,garbage
+24,35,10,FALSE,garbage
+24,36,15,FALSE,garbage
+24,37,20,FALSE,garbage
+24,38,25,FALSE,garbage
+24,39,05 06 07 08 09 10 11 12 13 14 15 16 17 18,FALSE,garbage
+24,40,Housing price growth in Seoul Trend,FALSE,normal
+24,41,%yoy,FALSE,garbage
+24,42,NA,FALSE,empty
+25,1,NA,FALSE,empty
+25,2,Korea Annual Consultation Report 2018 - Appendix,FALSE,normal
+25,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 25 of 49,FALSE,page_footer
+25,4,Appendix 1. Selected Figures for Major Economic Indicators,FALSE,normal
+25,5,Figure 1.1. Real Sector,FALSE,normal
+25,6,Retail sales and consumer sentiment weakened in H1 2018 before inching up in Q3.,FALSE,normal
+25,7,High-frequency data showed a moderation in private investment in H1 2018.,FALSE,normal
+25,8,Source: BOK; Statistics Korea,FALSE,normal
+25,9,Source: BOK; AMRO Staff Estimates,FALSE,normal
+25,10,"In Q2 2018, manufacturing production rebounded from a drop in Q1, while construction weakened.",FALSE,normal
+25,11,Labor market condition remains weak.,FALSE,normal
+25,12,Source: Statistics Korea; AMRO staff calculations,FALSE,normal
+25,13,Source: Statistics Korea,FALSE,normal
+25,14,"Core inflation trended downward, while the acceleration of headline inflation since 2017 has",FALSE,normal
+25,15,been underpinned by food prices.,FALSE,normal
+25,16,Input prices have surged.,FALSE,normal
+25,17,NA,FALSE,empty
+25,18,Source: Statistics Korea,FALSE,normal
+25,19,NA,FALSE,empty
+25,20,"Note: Nominal wage growth is based on the monthly wage average of all workers including permanent employees, temporary employees and daily employees in all industries. Source: BOK; AMRO staff calculations",FALSE,normal
+25,21,NA,FALSE,empty
+25,22,90,FALSE,garbage
+25,23,95,FALSE,garbage
+25,24,100,FALSE,garbage
+25,25,105,FALSE,garbage
+25,26,110,FALSE,garbage
+25,27,115,FALSE,garbage
+25,28,120,FALSE,garbage
+25,29,-6 -4 -2 0 2 4 6 8,FALSE,garbage
+25,30,10 12,FALSE,garbage
+25,31,Jan Apr Jul Oct Jan Apr Jul Oct Jan Apr Jul Oct Jan Apr Jul,FALSE,garbage
+25,32,2015 2016 2017 2018,FALSE,garbage
+25,33,Real Retail Sales index,FALSE,normal
+25,34,"Consumption Sentiment Index, RHS",FALSE,normal
+25,35,%yoy Diffusion index,FALSE,normal
+25,36,-2,FALSE,garbage
+25,37,0,FALSE,garbage
+25,38,2,FALSE,garbage
+25,39,4,FALSE,garbage
+25,40,-40,FALSE,garbage
+25,41,-20,FALSE,garbage
+25,42,0,FALSE,garbage
+25,43,20,FALSE,garbage
+25,44,40,FALSE,garbage
+25,45,60,FALSE,garbage
+25,46,Jan May Sep Jan May Sep Jan May Sep Jan May Sep Jan May,FALSE,garbage
+25,47,2014 2015 2016 2017 2018,FALSE,garbage
+25,48,Domestic machinery orders excluded vessels Equipment Investment Estimation Machinery Imports Manufacturing Production Capacity (RHS),FALSE,normal
+25,49,%yoy %yoy,FALSE,normal
+25,50,90,FALSE,garbage
+25,51,100,FALSE,garbage
+25,52,110,FALSE,garbage
+25,53,120,FALSE,garbage
+25,54,130,FALSE,garbage
+25,55,140,FALSE,garbage
+25,56,95,FALSE,garbage
+25,57,100,FALSE,garbage
+25,58,105,FALSE,garbage
+25,59,110,FALSE,garbage
+25,60,Jan May Sep Jan May Sep Jan May Sep Jan May,FALSE,garbage
+25,61,2015 2016 2017 2018,FALSE,garbage
+25,62,Production Index Service Manufacturing SME Construction (RHS),FALSE,normal
+25,63,"Index (2015=100), sa Index (2015=100), sa",FALSE,normal
+25,64,62.0,FALSE,garbage
+25,65,62.5,FALSE,garbage
+25,66,63.0,FALSE,garbage
+25,67,63.5,FALSE,garbage
+25,68,3 4 5 6 7 8 9,FALSE,garbage
+25,69,10 11 12 13,FALSE,garbage
+25,70,Jan May Sep Jan May Sep Jan May Sep Jan Jun Oct Feb Jun Oct,FALSE,garbage
+25,71,2014 2015 2016 2017 2018,FALSE,garbage
+25,72,"Labour Force Participation Rate, sa (RHS) Youth Unemployment Rate, sa Unemployment rate, sa",FALSE,normal
+25,73,% %,FALSE,empty
+25,74,-15,FALSE,garbage
+25,75,-10,FALSE,garbage
+25,76,-5,FALSE,garbage
+25,77,0,FALSE,garbage
+25,78,5,FALSE,garbage
+25,79,10,FALSE,garbage
+25,80,15,FALSE,garbage
+25,81,-3,FALSE,garbage
+25,82,-2,FALSE,garbage
+25,83,-1,FALSE,garbage
+25,84,0,FALSE,garbage
+25,85,1,FALSE,garbage
+25,86,2,FALSE,garbage
+25,87,3,FALSE,garbage
+25,88,Jan May Sep Jan May Sep Jan May Sep Jan May Sep,FALSE,garbage
+25,89,2015 2016 2017 2018,FALSE,garbage
+25,90,% yoy,FALSE,garbage
+25,91,Inflation Target for 2016-2018: 2%,FALSE,normal
+25,92,% yoy,FALSE,garbage
+25,93,Headline Inflation,FALSE,normal
+25,94,Core Inflation,FALSE,normal
+25,95,Food Inflation (RHS),FALSE,normal
+25,96,"Electricity, Gas And Fuels (RHS)",FALSE,normal
+25,97,-20,FALSE,garbage
+25,98,-10,FALSE,garbage
+25,99,0,FALSE,garbage
+25,100,10,FALSE,garbage
+25,101,20,FALSE,garbage
+25,102,-15,FALSE,garbage
+25,103,-10,FALSE,garbage
+25,104,-5,FALSE,garbage
+25,105,0,FALSE,garbage
+25,106,5,FALSE,garbage
+25,107,10,FALSE,garbage
+25,108,15,FALSE,garbage
+25,109,Jan May Sep Jan May Sep Jan May Sep Jan May Sep Jan May Sep,FALSE,garbage
+25,110,2014 2015 2016 2017 2018,FALSE,garbage
+25,111,Nominal Wage (RHS) Import price index (KRW): Intermediate goods Producer price index,FALSE,normal
+25,112,"%yoy %yoy, 3MMA",FALSE,normal
+25,113,NA,FALSE,empty
+26,1,NA,FALSE,empty
+26,2,Korea Annual Consultation Report 2018 - Appendix,FALSE,normal
+26,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 26 of 49,FALSE,page_footer
+26,4,Figure 1.2. External Sector,FALSE,normal
+26,5,"Export growth was on the back of electronics and chemicals, while automotive exports were subdued.",FALSE,normal
+26,6,"Imports growth, capital goods in particular, was slowing down due to subdued private investment.",FALSE,normal
+26,7,Source: Korea Customs Service; AMRO staff calculations,FALSE,normal
+26,8,Source: Korea Customs Service; AMRO staff calculations,FALSE,normal
+26,9,"The arrival of Chinese tourists rebounded, while Koreans’ overseas travel grew persistently.",FALSE,normal
+26,10,Korea’s overseas portfolio assets have been growing since 2012.,FALSE,normal
+26,11,Source: National Tourism Organization; AMRO staff calculations,FALSE,normal
+26,12,Source: BOK,FALSE,normal
+26,13,KOSPI is less volatile than EME benchmarks. The won spiked up in June 2018 triggered by the probability of worsening U.S.-China trade tensions.,FALSE,normal
+26,14,NA,FALSE,empty
+26,15,Source: Thomson Reuters; AMRO staff calculations,FALSE,normal
+26,16,NA,FALSE,empty
+26,17,Source: Thomson Reuters; AMRO staff calculations,FALSE,normal
+26,18,NA,FALSE,empty
+26,19,-30,FALSE,garbage
+26,20,-20,FALSE,garbage
+26,21,-10,FALSE,garbage
+26,22,0,FALSE,garbage
+26,23,10,FALSE,garbage
+26,24,20,FALSE,garbage
+26,25,30,FALSE,garbage
+26,26,40,FALSE,garbage
+26,27,-20 -15 -10 -5 0 5,FALSE,garbage
+26,28,10 15 20 25 30,FALSE,garbage
+26,29,Jan May Sep Jan May Sep Jan May Sep Jan May Sep Jan May,FALSE,garbage
+26,30,2014 2015 2016 2017 2018,FALSE,garbage
+26,31,Total Exports Machinery Chemical products Semiconcutors & electronic products (RHS) Motor vehicles (RHS),FALSE,normal
+26,32,% yoy (3MMA) % yoy (3MMA),FALSE,normal
+26,33,-40,FALSE,garbage
+26,34,-30,FALSE,garbage
+26,35,-20,FALSE,garbage
+26,36,-10,FALSE,garbage
+26,37,0,FALSE,garbage
+26,38,10,FALSE,garbage
+26,39,20,FALSE,garbage
+26,40,30,FALSE,garbage
+26,41,40,FALSE,garbage
+26,42,-25 -20 -15 -10,FALSE,garbage
+26,43,-5 0 5,FALSE,garbage
+26,44,10 15 20 25 30,FALSE,garbage
+26,45,Jan May Sep Jan May Sep Jan May Sep Jan May Sep Jan May Sep,FALSE,garbage
+26,46,2014 2015 2016 2017 2018,FALSE,garbage
+26,47,"Total Imports, cif Consumer Goods Capital Goods Industrial materials & fuels (RHS)",FALSE,normal
+26,48,% yoy (3MMA) % yoy (3MMA),FALSE,normal
+26,49,-30,FALSE,garbage
+26,50,-20,FALSE,garbage
+26,51,-10,FALSE,garbage
+26,52,0,FALSE,garbage
+26,53,10,FALSE,garbage
+26,54,20,FALSE,garbage
+26,55,30,FALSE,garbage
+26,56,-100,FALSE,garbage
+26,57,-50,FALSE,garbage
+26,58,0,FALSE,garbage
+26,59,50,FALSE,garbage
+26,60,100,FALSE,garbage
+26,61,1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q 1Q 2Q,FALSE,garbage
+26,62,2014 2015 2016 2017 2018,FALSE,garbage
+26,63,Foreign Visitors Of which: Chinese tourists Korean overseas travel (RHS),FALSE,normal
+26,64,%yoy %yoy,FALSE,normal
+26,65,-40,FALSE,garbage
+26,66,-20,FALSE,garbage
+26,67,0,FALSE,garbage
+26,68,20,FALSE,garbage
+26,69,40,FALSE,garbage
+26,70,2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018,FALSE,garbage
+26,71,Inward Portfolio Investment (Liabilities) Outward Portfolio Investment (Assets) Inward Direct Investment (Liabilities) Outward Direct Investment (Assets),FALSE,normal
+26,72,USD bn,FALSE,normal
+26,73,0,FALSE,garbage
+26,74,10,FALSE,garbage
+26,75,20,FALSE,garbage
+26,76,30,FALSE,garbage
+26,77,40,FALSE,garbage
+26,78,50,FALSE,garbage
+26,79,60,FALSE,garbage
+26,80,0.0,FALSE,garbage
+26,81,0.5,FALSE,garbage
+26,82,1.0,FALSE,garbage
+26,83,1.5,FALSE,garbage
+26,84,2.0,FALSE,garbage
+26,85,2.5,FALSE,garbage
+26,86,2014 2015 2016 2017 2018,FALSE,garbage
+26,87,MSCI (10D Volatility) KOSPI (10D Volatility) VIX - Emerging Markets (RHS),FALSE,normal
+26,88,80,FALSE,garbage
+26,89,85,FALSE,garbage
+26,90,90,FALSE,garbage
+26,91,95,FALSE,garbage
+26,92,100,FALSE,garbage
+26,93,105,FALSE,garbage
+26,94,110,FALSE,garbage
+26,95,115,FALSE,garbage
+26,96,2015 2016 2017 2018,FALSE,garbage
+26,97,CNY/USD JPY/USD KRW/USD Dollar Index (DXY),FALSE,normal
+26,98,"Index (Jan 1, 2015) ↑ Depreciation against USD (for East Asia Currencies) ↓ DXY: Depreciation of the US Dollar",FALSE,normal
+26,99,NA,FALSE,empty
+27,1,NA,FALSE,empty
+27,2,Korea Annual Consultation Report 2018 - Appendix,FALSE,normal
+27,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 27 of 49,FALSE,page_footer
+27,4,Figure 1.3. Fiscal Sector,FALSE,normal
+27,5,"In 2017, tax revenue collection remained strong across the board.",FALSE,normal
+27,6,"In 2018, fiscal spending and revenue collection has showed a faster pace of growth than in previous",FALSE,normal
+27,7,years.,FALSE,normal
+27,8,Source: Ministry of Strategy and Finance Source: Ministry of Strategy and Finance,FALSE,normal
+27,9,"In 2017, the overall fiscal balance deficit continued at around 1 percent of GDP.",FALSE,normal
+27,10,…and the fiscal stance remained expansionary.,FALSE,normal
+27,11,Source: Ministry of Strategy and Finance,FALSE,normal
+27,12,NA,FALSE,empty
+27,13,Note: Fiscal impulse (FI) is the difference between fiscal balance of the current and previous fiscal years. (FI)<0 indicates less expansionary (or more contractionary) while FI>0 indicates more expansionary (or less contractionary) policy. Source: Ministry of Strategy and Finance; AMRO staff estimates,FALSE,normal
+27,14,"Government debt has edged down, while central government debt has increased slightly.",FALSE,normal
+27,15,"In 2016-17, central government debt moderated, mainly led by an improving primary balance and high",FALSE,normal
+27,16,GDP growth.,FALSE,normal
+27,17,Note: Government debt (D1) includes the budget accounts and the funds of central and local governments. Source: Ministry of Strategy and Finance,FALSE,normal
+27,18,Note: Based on debt dynamics decomposition. Source: Ministry of Strategy and Finance; AMRO staff estimates,FALSE,normal
+27,19,70.2,FALSE,garbage
+27,20,65.9,FALSE,garbage
+27,21,40,FALSE,garbage
+27,22,45,FALSE,garbage
+27,23,50,FALSE,garbage
+27,24,55,FALSE,garbage
+27,25,60,FALSE,garbage
+27,26,65,FALSE,garbage
+27,27,70,FALSE,garbage
+27,28,75,FALSE,garbage
+27,29,Total Revenue Total Expenditure,FALSE,normal
+27,30,Jan-Jul 2016 Jan-Jul 2017 Jan-Jul 2018% of main budget,FALSE,normal
+27,31,-4.0,FALSE,garbage
+27,32,-3.0,FALSE,garbage
+27,33,-2.0,FALSE,garbage
+27,34,-1.0,FALSE,garbage
+27,35,0.0,FALSE,garbage
+27,36,1.0,FALSE,garbage
+27,37,2.0,FALSE,garbage
+27,38,3.0,FALSE,garbage
+27,39,4.0,FALSE,garbage
+27,40,20 06,FALSE,garbage
+27,41,20 07,FALSE,garbage
+27,42,20 08,FALSE,garbage
+27,43,20 09,FALSE,garbage
+27,44,20 10,FALSE,garbage
+27,45,20 11,FALSE,garbage
+27,46,20 12,FALSE,garbage
+27,47,20 13,FALSE,garbage
+27,48,20 14,FALSE,garbage
+27,49,20 15,FALSE,garbage
+27,50,20 16,FALSE,garbage
+27,51,20 17,FALSE,garbage
+27,52,20 18,FALSE,garbage
+27,53,/B,FALSE,garbage
+27,54,"Fiscal impulse Overall fiscal balance, excl. Social Security Funds Cyclically adj. balance",FALSE,normal
+27,55,% of GDP,FALSE,normal
+27,56,More expansionary (or less contractionary),FALSE,normal
+27,57,NA,FALSE,empty
+28,1,NA,FALSE,empty
+28,2,Korea Annual Consultation Report 2018 - Appendix,FALSE,normal
+28,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 28 of 49,FALSE,page_footer
+28,4,Figure 1.4. Monetary and Financial Sectors,FALSE,normal
+28,5,"The average securities borrowing and lending (SBL) ratio of commercial banks declined in Q1 2018, but the SBL of specialized banks remained elevated.",FALSE,normal
+28,6,The household debt-to-disposable income ratio continued to increase.,FALSE,normal
+28,7,Source: Financial Supervisory Service,FALSE,normal
+28,8,"Note: The trend is calculated by the Hodrick–Prescott filter (𝜆 = 400,000) Source: BOK; Statistics Korea; AMRO staff calculations",FALSE,normal
+28,9,"Meanwhile, restructured industries are deleveraging. The profitability of state-owned specialized banks recovered in 2017 from the corporate restructuring.",FALSE,normal
+28,10,Source: BOK,FALSE,normal
+28,11,Source: Financial Supervisory Service,FALSE,normal
+28,12,New construction of residential properties declined in non-metropolitan areas but surged in metro-areas.,FALSE,normal
+28,13,"Despite a negative spread between Korean and the U.S. Treasury bond yields, there were inflows to the",FALSE,normal
+28,14,bond market.,FALSE,normal
+28,15,Source: Ministry of Land Infrastructure and Transport,FALSE,normal
+28,16,NA,FALSE,empty
+28,17,Source: BOK; the U.S. Federal Reserve; AMRO staff calculations,FALSE,normal
+28,18,NA,FALSE,empty
+28,19,NA,FALSE,empty
+28,20,0.00,FALSE,garbage
+28,21,0.50,FALSE,garbage
+28,22,1.00,FALSE,garbage
+28,23,1.50,FALSE,garbage
+28,24,2.00,FALSE,garbage
+28,25,2.50,FALSE,garbage
+28,26,3.00,FALSE,garbage
+28,27,3.50,FALSE,garbage
+28,28,Q1 Q4 Q3 Q2 Q1 Q4 Q3 Q2 Q1 Q4 Q3 Q2 Q1 Q4 Q3,FALSE,normal
+28,29,2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 20172018,FALSE,garbage
+28,30,Domestic Commercial Banks Specialized Banks%,FALSE,normal
+28,31,100,FALSE,garbage
+28,32,110,FALSE,garbage
+28,33,120,FALSE,garbage
+28,34,130,FALSE,garbage
+28,35,140,FALSE,garbage
+28,36,150,FALSE,garbage
+28,37,160,FALSE,garbage
+28,38,170,FALSE,garbage
+28,39,-8,FALSE,garbage
+28,40,-6,FALSE,garbage
+28,41,-4,FALSE,garbage
+28,42,-2,FALSE,garbage
+28,43,0,FALSE,garbage
+28,44,2,FALSE,garbage
+28,45,4,FALSE,garbage
+28,46,6,FALSE,garbage
+28,47,2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018,FALSE,garbage
+28,48,Gap from the trend Household debt to disposable income ratio (RHS),FALSE,normal
+28,49,percentage points %,FALSE,normal
+28,50,248.5,FALSE,garbage
+28,51,119.7,FALSE,garbage
+28,52,175.2,FALSE,garbage
+28,53,70.9,FALSE,garbage
+28,54,45.2,FALSE,garbage
+28,55,203.4,FALSE,garbage
+28,56,121.4,FALSE,garbage
+28,57,178.8,FALSE,garbage
+28,58,69.3,FALSE,garbage
+28,59,46.0,FALSE,garbage
+28,60,0 100 200 300 400 500 600,FALSE,garbage
+28,61,Shipping,FALSE,normal
+28,62,Shipbuilding,FALSE,normal
+28,63,Construction,FALSE,normal
+28,64,Petrochemical,FALSE,normal
+28,65,Steel 2014 2015 2016H1 2016 2017H1 2017,FALSE,garbage
+28,66,Debt-to-Equity Ratio (%),FALSE,normal
+28,67,-0.75,FALSE,garbage
+28,68,-0.50,FALSE,garbage
+28,69,-0.25,FALSE,garbage
+28,70,0.00,FALSE,garbage
+28,71,0.25,FALSE,garbage
+28,72,0.50,FALSE,garbage
+28,73,2015 2016 2017,FALSE,garbage
+28,74,ROA%,FALSE,garbage
+28,75,0,FALSE,garbage
+28,76,2,FALSE,garbage
+28,77,4,FALSE,garbage
+28,78,6,FALSE,garbage
+28,79,8,FALSE,garbage
+28,80,10,FALSE,garbage
+28,81,12,FALSE,garbage
+28,82,14,FALSE,garbage
+28,83,16,FALSE,garbage
+28,84,'15 '16 '17 '18Q1,FALSE,garbage
+28,85,CAR Tier-1 Ratio%,FALSE,normal
+28,86,0,FALSE,garbage
+28,87,20,FALSE,garbage
+28,88,40,FALSE,garbage
+28,89,60,FALSE,garbage
+28,90,80,FALSE,garbage
+28,91,100,FALSE,garbage
+28,92,Metropolitan area Seoul Non-metropolitan exc.Gyeonggi,FALSE,normal
+28,93,Gyeonggi,FALSE,normal
+28,94,2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018,FALSE,garbage
+28,95,"ytd, '000 units (Jan-May)",FALSE,normal
+28,96,-10,FALSE,garbage
+28,97,-5,FALSE,garbage
+28,98,0,FALSE,garbage
+28,99,5,FALSE,garbage
+28,100,10,FALSE,garbage
+28,101,-3,FALSE,garbage
+28,102,-2,FALSE,garbage
+28,103,-1,FALSE,garbage
+28,104,0,FALSE,garbage
+28,105,1,FALSE,garbage
+28,106,2,FALSE,garbage
+28,107,3,FALSE,garbage
+28,108,20 05,FALSE,garbage
+28,109,20 06,FALSE,garbage
+28,110,20 07,FALSE,garbage
+28,111,20 08,FALSE,garbage
+28,112,20 09,FALSE,garbage
+28,113,20 10,FALSE,garbage
+28,114,20 11,FALSE,garbage
+28,115,20 12,FALSE,garbage
+28,116,20 13,FALSE,garbage
+28,117,20 14,FALSE,garbage
+28,118,20 15,FALSE,garbage
+28,119,20 16,FALSE,garbage
+28,120,20 17,FALSE,garbage
+28,121,20 18,FALSE,garbage
+28,122,Net capital flows to equity (RHS),FALSE,normal
+28,123,Net capital flows to debt security (RHS),FALSE,normal
+28,124,Spread between 10Y KR Govt Bond Yield and 10Y US Treasury Note Yield,FALSE,normal
+28,125,USD bn%,FALSE,normal
+28,126,NA,FALSE,empty
+29,1,NA,FALSE,empty
+29,2,Korea Annual Consultation Report 2018 - Appendix,FALSE,normal
+29,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 29 of 49,FALSE,page_footer
+29,4,Appendix 2.Selected Economic Indicators for Korea,FALSE,normal
+29,5,Note: 1/ of which domestic commercial banks only. Source: Korean authorities; AMRO staff estimates,FALSE,normal
+29,6,2018 2019 National income and prices Real GDP 3.3 2.8 2.9 3.1 2.7 2.6 Final consumption 2.0 2.4 3.0 2.8 3.1 3.6,FALSE,normal
+29,7,Private sector 1.7 2.2 2.5 2.6 2.8 2.7 Public sector 3.0 3.0 4.5 3.4 3.9 6.5,FALSE,normal
+29,8,Gross capital formation 5.3 7.3 5.6 10.1 -0.9 1.2 Construction 1.1 6.6 10.3 7.6 -2.0 0.6 Facilities investment 6.0 4.7 -1.0 14.6 -1.6 1.8 Intellectual property products 5.4 1.8 3.5 3.0 2.7 2.6,FALSE,normal
+29,9,"Exports of Goods 1.1 -0.6 2.1 3.8 3.5 2.6 Imports of Goods 0.5 0.7 3.3 7.4 1.5 2.0 Labor Market Unemployment rate (in percent, period average) 3.5 3.6 3.7 3.7 … … Employment to population ratio (in percent, period average) 60.5 60.5 60.6 60.8 … … Prices Consumer price inflation (period average) 1.3 0.7 1.0 1.9 1.6 1.9 Core inflation, excluding food and energy (period average) 1.7 2.4 1.9 1.5 1.2 1.3",FALSE,normal
+29,10,External sector Current account balance 84.4 105.9 99.2 78.5 87.6 85.7 (In percent of GDP) 6.0 7.7 7.0 5.1 5.2 4.9,FALSE,normal
+29,11,"Trade balance 88.9 122.3 118.9 119.9 122.5 119.8 (In percent of GDP) 6.3 8.8 8.4 7.8 6.5 6.3 Services, net -3.7 -14.9 -17.7 -34.5 -34.4 -35.2 Primary income, net 4.2 3.6 3.9 0.1 4.5 5.0 Secondary income, net -5.0 -5.0 -5.8 -7.1 -5.0 -4.0",FALSE,normal
+29,12,Financial account balance 71.4 94.2 95.0 82.7 80.5 81.5 (In percent of GDP) 5.1 6.8 6.7 5.4 4.8 4.7,FALSE,normal
+29,13,Direct investment (net) 18.8 19.7 17.9 14.6 17.5 18.5 Portfolio investment (net) 30.6 49.5 67.0 57.8 49.5 50.5 Other investment (net) 25.9 23.3 13.6 18.5 16.0 15.0,FALSE,normal
+29,14,Overall balance 17.9 12.1 7.6 4.4 7.1 4.2 Gross official reserves 363.6 368.0 371.1 389.3 396.4 400.6 (In months of imports of goods & services) 6.8 8.3 8.8 8.1 6.5 6.3 Total external debt 424.3 396.1 384.1 418.8 451.5 484.5 Short-term external debt (% of international reserves) 32.0 28.3 28.2 29.8 32.5 35.4,FALSE,normal
+29,15,Central government Total Revenue 24.0 23.8 24.5 24.9 24.8 25.6 Total Expenditure 23.4 23.8 23.4 23.5 24.0 25.0 Overall balance including Social Security Fund 0.6 0.0 1.0 1.4 0.8 0.6 Managed balance -2.0 -2.4 -1.4 -1.1 -1.8 -2.1 Central and local government debt 35.9 37.8 38.2 38.2 … …,FALSE,normal
+29,16,Monetary and financial sector Domestic credit 6.1 6.8 5.5 5.6 … … (In percent of GDP) 188.9 191.7 192.7 193.1 … …,FALSE,normal
+29,17,"of which: Private sector 6.5 10.9 11.6 8.1 … … Broad money 2,077.2 2,247.4 2,407.5 2,530.4 … … Substandard-and-below loan ratio (in percent) 1/ 1.4 1.1 0.8 0.7 … … Capital adequacy ratio (in percent) 1/ 14.9 14.7 15.8 15.8 … …",FALSE,normal
+29,18,"Memorandum items: Exchange rate (KRW per US$, average) 1,053.1 1,131.5 1,160.4 1,130.5 … … Exchange rate (KRW per US$, end of period) 1,099.3 1,172.5 1,207.7 1,070.5 … … 10-year government bond yield (in percent, end of period) 2.7 2.2 2.2 2.5 … … 1-year government bond yield (in percent, end of period) 2.1 1.6 1.6 1.9 … … Property price ( in percentage change, period average) 1.5 3.4 2.7 1.3 … … Nominal GDP (in KRW trillion) 1,486.1 1,564.1 1,641.8 1,730.4 1,805.7 1,884.0 Nominal GDP (in US$ billion) 1,411.0 1,382.4 1,414.7 1,530.2 1,673.5 1,746.1 GDP per capita (US$) 27,804.5 27,097.1 27,606.7 29,743.5 … …",FALSE,normal
+29,19,(In percent change unless specified),FALSE,normal
+29,20,(in billions of U.S. dollars unless specified),FALSE,normal
+29,21,(In percent of GDP),FALSE,normal
+29,22,(In percent change),FALSE,normal
+29,23,2014 2015 2016 2017 Projections,FALSE,normal
+29,24,... ... ...,FALSE,empty
+29,25,NA,FALSE,empty
+30,1,NA,FALSE,empty
+30,2,Korea Annual Consultation Report 2018 - Appendix,FALSE,normal
+30,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 30 of 49,FALSE,page_footer
+30,4,Appendix 3.Balance of Payments,FALSE,normal
+30,5,Source: Korean authorities; AMRO staff estimates,FALSE,normal
+30,6,2018 2019,FALSE,garbage
+30,7,"Current account balance (I) 84.4 105.9 99.2 78.5 87.6 85.7 Trade balance 88.9 122.3 118.9 119.9 122.5 119.8 Exports, f.o.b. 613.0 542.9 511.9 577.4 641.5 673.4 Imports, f.o.b. 524.1 420.6 393.1 457.5 519.0 553.6 Services, net -3.7 -14.9 -17.7 -34.5 -34.4 -35.2 Receipts 112.1 97.7 94.9 87.5 93.9 98.4 Payments 115.8 112.6 112.6 122.0 128.2 133.6 Primary income, net 4.2 3.6 3.9 0.1 4.5 5.0 Secondary income, net -5.0 -5.0 -5.8 -7.1 -5.0 -4.0",FALSE,normal
+30,8,Capital account (II) 0.0 -0.1 0.0 0.0 0.0 0.0,FALSE,normal
+30,9,Financial account (III) (+ indicates net outflows) 71.4 94.2 95.0 82.7 80.5 81.5 Direct investment (net) 18.8 19.7 17.9 14.6 17.5 18.5 Portfolio investment (net) 30.6 49.5 67.0 57.8 49.5 50.5 Financial derivatives (net) -3.8 1.8 -3.4 -8.3 -2.5 -2.5 Other investment (net) 25.9 23.3 13.6 18.5 16.0 15.0,FALSE,normal
+30,10,Errors and omissions (IV) 5.0 0.4 3.4 8.7 0.0 0.0,FALSE,normal
+30,11,Overall balance (=I + II - III + IV) 17.9 12.1 7.6 4.4 7.1 4.2,FALSE,normal
+30,12,Reserve assets (+ indicates increases) 17.9 12.1 7.6 4.4 7.1 4.2,FALSE,normal
+30,13,"Memorandum items: Current account balance (In percent of GDP) 6.0 7.7 7.0 5.1 5.2 4.9 Gross reserves (US$ bns, T10) 363.6 368.0 371.1 389.3 396.4 400.6 (In months of imports of goods and services) 6.8 8.3 8.8 8.1 6.5 6.3 Changes in gross reserves (US$ bns, T10) 17.1 4.4 3.1 18.2 7.1 4.2 GDP (US$ billion) 1,411.0 1,382.4 1,414.7 1,530.2 1,673.5 1,746.1",FALSE,normal
+30,14,Projections,FALSE,normal
+30,15,(in billions of U.S. dollars unless specified),FALSE,normal
+30,16,2017201620152014,FALSE,garbage
+30,17,NA,FALSE,empty
+31,1,NA,FALSE,empty
+31,2,Korea Annual Consultation Report 2018 - Appendix,FALSE,normal
+31,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 31 of 49,FALSE,page_footer
+31,4,Appendix 4.Statement of Central Government Operations,FALSE,normal
+31,5,Source: Korean authorities; AMRO staff calculations,FALSE,normal
+31,6,2014 2015 2016 2017 H1 2017 H1 2018,FALSE,garbage
+31,7,Consolidated Fiscal Revenue 356.4 371.8 401.8 430.6 223.2 243.8 % of Estimation in the Budget Proposal (Budget) 96.5 98.4 100.2 101.8 52.8 54.4 % yoy 1.3 4.3 8.1 7.2 7.8 9.2 % of GDP 24.0 23.8 24.5 24.9 12.9 13.5 (1) National Budget 230.1 241.6 266.1 290.9 152.6 171.9 (1.1) Tax Revenue 205.5 217.9 242.6 265.4 137.9 157.2 % of Budget 94.9 101.1 104.2 105.7 54.9 58.6 % yoy 1.8 6.0 11.3 9.4 9.8 14.0 (1.1.1) General Accounts 199.3 210.8 235.7 258.5 134.6 152.9 % of Budget 95.3 101.0 104.4 106.0 55.2 58.6,FALSE,normal
+31,8,Income Tax 53.3 60.7 68.5 75.1 37.9 44.3 % of Budget 98.1 103.2 108.2 107.9 54.5 60.7 % yoy 11.5 13.9 12.8 9.6 6.8 16.8,FALSE,normal
+31,9,Corporate Income Tax 42.7 45.0 52.1 59.2 33.5 40.6 % of Budget 92.7 102.2 101.4 103.3 58.5 64.4 % yoy (2.7) 5.6 15.7 13.5 17.9 21.3,FALSE,normal
+31,10,Value-added Tax 57.1 54.2 61.8 67.1 33.1 34.8 % of Budget 97.7 97.7 103.5 107.2 52.8 51.6 % yoy 2.1 (5.2) 14.2 8.5 7.8 5.2,FALSE,normal
+31,11,Transportation Tax 13.4 14.1 15.3 15.6 7.8 7.8 Customs Duties 8.7 8.5 8.0 8.5 4.4 4.6 Others 24.1 28.4 29.9 33.1 18.0 20.8 (1.1.2) Special Accounts 6.2 7.1 6.8 6.9 3.3 4.3,FALSE,normal
+31,12,% of Budgeted 85.9 101.4 99.0 96.6 46.5 58.1,FALSE,normal
+31,13,(1.2) Non Tax Revenue 24.6 23.7 23.5 25.5 14.7 14.7 % of Budget 90.3 83.6 86.6 96.6 55.8 54.0,FALSE,normal
+31,14,% yoy (10.0) (3.8) (0.5) 8.4 14.3 0.0,FALSE,garbage
+31,15,(1.2.1) General Accounts 9.2 8.4 9.4 11.0 7.3 7.0 % of Budget 93.7 77.1 92.7 106.1 70.8 60.8,FALSE,normal
+31,16,(1.2.2) Special Accounts 15.4 15.3 14.2 14.5 7.4 7.7 % of Budget 88.4 87.7 83.0 90.5 46.2 49.0,FALSE,normal
+31,17,(2) Fund Revenue & Extra Budget Accounts 126.2 130.2 135.6 139.5 70.5 71.8 % of Budget 100.5 97.5 96.1 95.8 48.4 47.1,FALSE,normal
+31,18,Consolidated Fiscal Expenditure 347.9 372.0 384.9 406.6 225.4 247.3 % of Budget 97.8 96.7 96.6 99.1 55.0 57.2 % yoy 3.0 6.9 3.5 5.6 4.8 9.7 % of GDP 23.4 23.8 23.4 23.5 13.0 13.7,FALSE,normal
+31,19,Consolidated Fiscal Balance 8.5 (0.2) 16.9 24.0 (2.2) (3.5) Social Security Funds (SSF) 38.0 37.8 39.6 42.5 21.9 22.0,FALSE,normal
+31,20,Managed Fiscal Balance (excluding SSF) (29.5) (38.0) (22.7) (18.5) (24.1) (25.5) % of GDP (2.0) (2.4) (1.4) (1.1) (1.4) (1.4),FALSE,normal
+31,21,Annual performance Half-year performance,FALSE,normal
+31,22,(in trillions of Korean won unless specified) Unit: KRW trillion,FALSE,normal
+31,23,0.0,FALSE,garbage
+31,24,NA,FALSE,empty
+32,1,NA,FALSE,empty
+32,2,Korea Annual Consultation Report 2018 - Appendix,FALSE,normal
+32,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 32 of 49,FALSE,page_footer
+32,4,Appendix 5. Measures to Contain the Build-up of Household Debt And Overheating in the Housing Market,FALSE,normal
+32,5,Year Announced Implemented Summary of Key Policy Actions Demand-,FALSE,normal
+32,6,side measures,FALSE,normal
+32,7,Supply- side,FALSE,normal
+32,8,measures 2014 27 Feb - Increased the annual targets for the proportion of fixed-interest-,FALSE,normal
+32,9,rate mortgages and amortizing mortgages of banks ,FALSE,normal
+32,10,- Eased debt repayment burden for low-income borrowers by,FALSE,normal
+32,11,switching to lower-interest loans and debt restructuring ,FALSE,normal
+32,12,NA,FALSE,empty
+32,13,2015 Mar - Introduced the Guideline for the Loan-to-Value Ratio imposed on NBFIs,FALSE,normal
+32,14,,FALSE,empty
+32,15,22 Jul Sep - Tightened regulations on non-residential mortgages in NBFIs by,FALSE,normal
+32,16,reducing maximum LTV ratio from 60 percent to 50 percent and strengthening evaluation of collateral value,FALSE,normal
+32,17,,FALSE,empty
+32,18,Sep - Incentivized NBFIs to increase the proportion of amortized,FALSE,normal
+32,19,mortgages ,FALSE,normal
+32,20,Dec - Increased the annual targets for the proportion of fixed-interest-,FALSE,normal
+32,21,rate mortgages and amortizing mortgages of banks ,FALSE,normal
+32,22,Jan 2016 - Strengthened banks' screening process of loan applications by,FALSE,normal
+32,23,"focusing on borrower’s debt repayment capacity, rather than value of collaterals, loan applicant's actual income and repayment ability to all debts including mortgage loans",FALSE,normal
+32,24,,FALSE,empty
+32,25,- Included loans to households as a risk factor of Domestic,FALSE,normal
+32,26,Systemically Important Banks for maintaining countercyclical capital buffers and additional capital under Pillar 2,FALSE,normal
+32,27,,FALSE,empty
+32,28,14 Dec,FALSE,garbage
+32,29,"- Introduced the Guideline on Mortgage Loan Screening of Banks (1) Included (i) proof of income reference, (ii) the encouragement of fully-amortized loans, and (iii) the use of the stress interest rate to assess borrower's repayment ability and come up with an affordable size of the loan (2) Introduced DSR = (Principal and interests for a mortgage + Principal and interest payments for other debts)/ Annual income Exemptions: Collective loans (Group lending for apartment buyers), loans less than KRW30 million, loans for necessary living expenses such as healthcare and education",FALSE,normal
+32,30,,FALSE,empty
+32,31,NA,FALSE,empty
+32,32,1 Feb 2016 Applied the guideline to Seoul 2 May 2016 Applied the guideline to other provinces,FALSE,normal
+32,33,2016 25 Aug 25 Aug - Tightened monitoring and management of collective lending by requiring banks to secure borrower's income data and make onsite inspection at construction projects - Tightened the LTV ratio for commercial-property mortgages of NBFIs,FALSE,normal
+32,34,,FALSE,empty
+32,35,31 Oct - Tightened the LTV ratio for commercial-property mortgages of,FALSE,normal
+32,36,mutual banking sectors and NBFIs ,FALSE,normal
+32,37,24 Nov - Introduced the Guideline on Loan Screening of Collective Loans,FALSE,normal
+32,38,and Mutual Finance Loans ,FALSE,normal
+32,39,NA,FALSE,empty
+32,40,1 Jan 2017 Applied the guideline to collective loans,FALSE,normal
+32,41,Q1 2017 Applied the guideline to mutual finance institutions,FALSE,normal
+32,42,Early Dec - Applied the DSR by financial institutions as a reference for assessing loan applications and borrower's repayment ability ,FALSE,normal
+32,43,2017 19 Jun - Tightened LTV,FALSE,normal
+32,44,"Before: 70 percent for nationwide Amended: 60 percent for selected areas (""Bubble-prone Areas"") in Seoul (all 25 districts), Gyeonggi (7 cities including Gwacheon), Busan (7 cities) and Sejong; 70 percent for other areas - Tightened DTI Before: 60 percent for Seoul and only for apartment mortgage excluding collective loans Amended: 60 percent for Seoul including collective loans; 50.0 percent for selected areas in Seoul (all 25 districts), Gyeonggi (7 cities including Gwacheon), Busan (7 cities) and Sejong",FALSE,normal
+32,45,,FALSE,empty
+32,46,2 Aug 2 Aug - Tightened LTV from the measures announced on Jun 19,FALSE,normal
+32,47,"Amended: 50 percent for multiple mortgage borrowers and 60 percent for single mortgage borrowers in non-speculative areas in Seoul (all 25 districts), Gyeonggi (7 cities including Gwacheon), Busan (7 cities) and Sejong; 30 percent for multiple mortgage borrowers; 40 percent for single mortgage borrowers as well as 50 percent for first-time home buyers, low-income households and low-price housing in speculative (overheating) areas in Seoul, Gwacheon and Sejong; 70 percent for other areas - Tightened DTI from the measures announced on Jun 19 Amended: 60 percent for including collective loans; 40 percent for multiple mortgage borrowers and 50 percent for single mortgage borrowers in non-speculative selected areas in Seoul (all 25 districts), Gyeonggi (7 cities including Gwacheon), Busan (7",FALSE,normal
+32,48,,FALSE,empty
+32,49,NA,FALSE,empty
+32,50,NA,FALSE,empty
+33,1,NA,FALSE,empty
+33,2,Korea Annual Consultation Report 2018,FALSE,page_header
+33,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 33 of 49,FALSE,page_footer
+33,4,Year Announced Implemented Summary of Key Policy Actions Demand-,FALSE,normal
+33,5,side measures,FALSE,normal
+33,6,Supply- side,FALSE,normal
+33,7,"measures cities) and Sejong; 30.0 percent for multiple mortgage borrowers and 40 percent for single mortgage borrowers as well as 50 percent for first-home buyers, low-income households and low- price housing in speculative (overheating) selected areas in Seoul (all 25 districts), Gyeonggi (7 cities including Gwacheon), Busan (7 cities) and Sejong",FALSE,normal
+33,8,1 April 2018 - Raised the capital gains tax for residential property Additional 10 percent in addition to the current 6-40 percent capital gains tax for 2-home owners in designated areas Additional 20 percent on top of the current 6-40 percent capital gains tax for more-than-2-home owners in the designated areas,FALSE,normal
+33,9,,FALSE,empty
+33,10,(Tax),FALSE,garbage
+33,11,,FALSE,empty
+33,12,"24 Oct Jan 2018 - Adjusted formula of DTI ratio Regular DTI ratio: (Principal and interest repayment of a new mortgage + Interest payment of existing mortgages)/ Annual Income New DTI ratio for a borrower with multiple mortgages: (Principal and interest repayment of a new mortgage + Principal and Interest payment of existing mortgages)/ Annual Income Exemptions: Borrowers who temporarily own two mortgages for a new home, newly married couples and young employee who are yet to own any property",FALSE,normal
+33,13,,FALSE,empty
+33,14,NA,FALSE,empty
+33,15,- Applied DSR to evaluate borrower's debt repayment ability: DSR = (Principal and interest payments for all outstanding debts)/ Annual income Note: the DSR is not the regulation. The associations of each group of financial institutions would issue the guideline including recommended DSR ratio that will be applied to their own members.,FALSE,normal
+33,16,H2 2018 Applied to Banks,FALSE,normal
+33,17,H1 2019 Applied to the NBFIs,FALSE,normal
+33,18,- Tightened conditions for collective loans - Strengthened risk management of loans for self-employed business owners,FALSE,normal
+33,19,,FALSE,empty
+33,20,2018 Feb Mar - Tightened the regulations on reconstruction of apartment units,FALSE,normal
+33,21,,FALSE,empty
+33,22,7 Jul 2019 - Announced the Comprehensive Real Estate Tax Reform  13 Sep - Tightened loan conditions for multiple homeowners,FALSE,normal
+33,23,"1) Not allowing homeowners with more than two houses to take out mortgages for additional housing purchases, if the new house is in areas rife with speculation 2) Tightened mortgage conditions for high-end houses 3) Lowered the LTV ratio and DTI ratio for multiple homeowners",FALSE,normal
+33,24,,FALSE,empty
+33,25,1 Jan 2019 - Raised the property tax rates by 0.1-1.2 percentage points for,FALSE,normal
+33,26,multiple home owners (more than two houses in the areas with speculation and more than three houses elsewhere) - Raised the property tax by 0.2-0.7 percentage points for houses valued at KRW 300-600 million - Raised the ceiling of annual property ownership tax from 150 percent to 300 percent for multiple-home owners,FALSE,normal
+33,27,,FALSE,empty
+33,28,(Tax),FALSE,garbage
+33,29,,FALSE,empty
+33,30,- Increased housing supply in the metropolitan areas ,FALSE,normal
+33,31,Source: Ministry of Economy and Finance; Financial Services Commission; Ministry of Land; Infrastructure and Transport; other various sources and prepared by AMRO staff,FALSE,normal
+33,32,NA,FALSE,empty
+34,1,NA,FALSE,empty
+34,2,Korea Annual Consultation Report 2018 - Appendix,FALSE,normal
+34,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 34 of 49,FALSE,page_footer
+34,4,Appendix 6.Data Adequacy for Surveillance Purposes: a Preliminary Assessment Criteria/ Key Indicators for Surveillance,FALSE,normal
+34,5,Data Availability(i) Reporting Frequency/ Timeliness(ii) Data,FALSE,normal
+34,6,"Quality(iii) Consistency (iv) Others, if any(v)",FALSE,normal
+34,7,National Account,FALSE,normal
+34,8,"Yearly and quarterly data are available (for expenditure, production and income approach)",FALSE,normal
+34,9,"Quarterly data are released, within one months after the end of the reference quarter",FALSE,normal
+34,10,- - -,FALSE,empty
+34,11,Balance of Payments (BOP) and External Position,FALSE,normal
+34,12,Monthly BOP data are available in detail,FALSE,normal
+34,13,"Monthly BOP data are released about one month after the end of the reference period), while quarterly IIP data are released within two months after the end of the reference period.",FALSE,normal
+34,14,- - -,FALSE,empty
+34,15,Central Government Budget/ External Debt,FALSE,normal
+34,16,"Monthly central government public finance data are available, while quarterly external debt data available in detail",FALSE,normal
+34,17,"Monthly central government public finance data are released within four months after the end of the reference period), while quarterly data on external debt are released within two months after the end of the reference period.",FALSE,normal
+34,18,- - -,FALSE,empty
+34,19,"Inflation, Money Supply and Credit Growth",FALSE,normal
+34,20,"Monthly inflation, money supply and credit growth are available",FALSE,normal
+34,21,"Monthly inflation data are released within one month after the reference period, while data on money supply and credit growth are released within two months after the end of the reference period.",FALSE,normal
+34,22,- - -,FALSE,empty
+34,23,Financial Sector Soundness Indicators,FALSE,normal
+34,24,Available,FALSE,normal
+34,25,"Monthly data are released within one to two months after the end of the reference period, while quarterly data are available three months after the end of the reference period.",FALSE,normal
+34,26,- - -,FALSE,empty
+34,27,Housing Market Indicators Available,FALSE,normal
+34,28,Monthly data are released within one month after the end of the reference period.,FALSE,normal
+34,29,- - -,FALSE,empty
+34,30,Notes: (i) Data availability refers to whether the official data are available for public access by any means. (ii) Reporting frequency refers to the time interval that the available data are published. Timeliness refers to how up-to-date the published data,FALSE,normal
+34,31,are relatively with the publication date. (iii) Data quality refers to the accuracy and reliability of the available data given the data methodologies are taken into account. (iv) Consistency refers to both internal consistency within the data series itself and its horizontal consistency with other data series of either same,FALSE,normal
+34,32,"or different categories. (v) Other criteria might also apply, if relevant. Examples include but are not limited to potential areas of improvement for data adequacy.",FALSE,normal
+34,33,"Source: AMRO staff compilations. This preliminary assessment will form the “Supplementary Data Adequacy Assessment"" in the EPRD Matrix.",FALSE,normal
+34,34,NA,FALSE,empty
+35,1,NA,FALSE,empty
+35,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+35,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 35 of 49,FALSE,page_footer
+35,4,Annexes: Selected Issues 1. Assessment of Weakening Employment Conditions,FALSE,normal
+35,5,"1. Employment growth has been largely lagging GDP growth, despite showing some signs of decoupling with GDP growth, which has been hovering around its potential level. In theory, in response to labor markets shocks, employers tend to adjust working hours first and then employment subsequently. Following the global financial crisis (GFC), Korea witnessed changes in total employment, or job growth, largely in line with the theory that employment tends to lag business cycles. However, it appears that since early 2018, employment has deteriorated gradually, even though real GDP growth has remained moderate – 3.1 percent in 2017 and 2.8 percent in H1 2018 – at around the potential growth rate (FigureA1.1). This Selected Issue attempts to explore the background of employment deterioration in early 2018 from looking at the various relevant data as well as conducting a simple shift-share analysis over its long-term trend.",FALSE,normal
+35,6,Recent developments in the labor market,FALSE,normal
+35,7,"2. In H1 2018, employment conditions unexpectedly deteriorated. During the first eight months of 2018, the annual change in total employment, considered as a main indicator to gauge employment conditions, showed a sharp slowdown, which is far below the consensus. The unemployment rate increase to around 4.0 percent, particularly among the youth, where it reached about 10.1 percent (Figure A1.2). The employment-to-population ratio edged down to 60.9 percent in August 2018 from 61.2 percent a year ago, based on the working age population of age 15 and over (the national definition).",FALSE,normal
+35,8,Figure A1.1 GDP and Employment Growth Figure A1.2 Unemployment Rate by Age Group,FALSE,normal
+35,9,Source: The Bank of Korea; Statistics Korea Note: The 2018 figures are based on the January to August period.,FALSE,normal
+35,10,Source: Statistics Korea,FALSE,normal
+35,11,"3. By industry segment, employment in the manufacturing sector contracted in H1, while the services sector showed a sharp drop. As per the long-term trend, the increase in total employment over a year ago remained stable at around 300,000 in 2015-2017 after reaching a peak of 902,000 in February 2014. From early 2018, however, total employment growth showed a sharp drop, mainly led by a downward trend in the services sector, shrinkage in the manufacturing sector, and continued weakening in the construction sector (Figure A1.3).",FALSE,normal
+35,12,"4. By type of employment, temporary and daily workers underpinned the decline in employment growth, while regular workers employment held up. The first eight months of 2018 show that among the wage worker group, job creations for regular workers (with the",FALSE,normal
+35,13,NA,FALSE,empty
+36,1,NA,FALSE,empty
+36,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+36,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 36 of 49,FALSE,page_footer
+36,4,"contract period exceeding one year) edged down, compared to the full-year average in 2017. For temporary workers (with contracts between one month and one year) job creation declined, albeit less severely on average than in 2017. In contrast, job creation for daily workers (with less than one month’s contract) showed a sharp drop. Among the non-wage worker group, the self- employed showed a slight decline, while its contribution to total employment remains modest compared to that of daily workers (Figure A1.4).",FALSE,normal
+36,5,Figure A1.3 Employment Growth by Industry Figure A1.4 Employment Growth by Worker Status,FALSE,normal
+36,6,Source: Statistics Korea Source: Statistics Korea,FALSE,normal
+36,7,Impact of minimum wage hike,FALSE,normal
+36,8,"5. The service sector might have deteriorated further due to the sharp minimum wage hike while its impact on the self-employed group is hard to assess. As the hourly minimum wage was increased by a significant 16.4 percent starting January this year, it is suspected that an abrupt deterioration in employment may be associated with the sharp minimum wage hike. The detailed breakdown of employment data provides mixed evidence on such a conjecture (Figure A1.5). The sharp drop in the service sector’s employment was mainly driven by job losses in the categories of business, personal and public services. Moreover, wholesale and retail job growth turned negative in 2018 while it has shown cyclical fluctuations since mid-2013. The hospitality sector continued its downward trend following last year. In sum, the minimum wage hike may have contributed to accelerating the downward trend in the service sector’s employment growth that had already started even before the hike. However, the more granular employment data for the self-employed business with employees– which is considered as the most vulnerable group to a sharp minimum wage hike23 – seems to contradict the conjecture about adverse impacts of minimum wage hikes on the self-employed business with employees (Figure A1.6). Job creation for the self-employed with employees continued to increase despite the wage hike while the self-employed without employees showed job shedding. Therefore, it is ambiguous to assess the net impact from the minimum wage hike.",FALSE,normal
+36,9,"23 In Korea, according to the Statistics Korea survey in 2015, about 50 percent of self-employed business operates has annual sales of less than 46 million won. In particular, the self-employed with employees are active in wholesales and retails (27.7 percent of total units) and accommodation and restaurant (18.8 percent) whose employees are subject to minimum wages. Moreover, 69 percent of them remain small business with hiring 3 employees or less.",FALSE,normal
+36,10,NA,FALSE,empty
+37,1,NA,FALSE,empty
+37,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+37,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 37 of 49,FALSE,page_footer
+37,4,Figure A1.5 Employment Growth in the Services Sector,FALSE,normal
+37,5,Figure A1.6 Employment Growth among the Self-Employed,FALSE,normal
+37,6,Source: Statistics Korea Source: Statistics Korea,FALSE,normal
+37,7,Impact of industry shift and corporate restructuring,FALSE,normal
+37,8,"6. The manufacturing sector’s employment was hit hard by the ongoing corporate restructuring in the shipbuilding and auto industries. The shipbuilding industry is showing a modest recovery in new orders after a major shipbuilder being rescued by debt restructurings from its financial distress which peaked in April 2017. Nevertheless, massive layoffs are still underway among shipbuilders as shown in the employment insurance statistics of workers by sub-sectors in manufacturing (Figure A1.7). Moreover, since early 2018, restructuring in the auto industry, combined with weaker production and sales across the board, has led to a sharp drop in employment.",FALSE,normal
+37,9,"7. More structurally, a higher reliance on capital-intensive manufacturing - such as the Information and Communication Technology (ICT) sector - contributes to a reduction in firms’ labor demand. In terms of real GDP, the electric and electronic sector accounted for 10.2 percent in 2017, almost tripling from 3.8 percent in 2000. In contrast, the transportation sector - including automobiles and shipbuilding – increased to 4.2 percent in 2017 from 3.7 percent in 2000. According to Input-Output Statistics, given the demand for final goods, the services sector tends to have the largest job creation capacity, followed by construction and manufacturing (Figure A1.8). Among the manufacturers, the semiconductor industry created only three jobs to meet the final demand of KRW1billion, while non-ICT industries such as autos and shipbuilding created more than six jobs. Hence, Korea’s industrial restructuring towards capital-intensive and automated manufacturing is likely to exert downward pressure on firms’ labor market demands.",FALSE,normal
+37,10,Figure A1.7 Workers Registered under Employment Insurance in Restructuring Sectors,FALSE,normal
+37,11,Figure A1.8 Labor Inducement Coefficients by Industry,FALSE,normal
+37,12,Note: Daily workers and non-wage workers are not included. Source: Ministry of Employment and Labor,FALSE,normal
+37,13,Note: Based on the national 2014 Input-Output Statistics. Source: The Bank of Korea; AMRO staff calculations,FALSE,normal
+37,14,NA,FALSE,empty
+38,1,NA,FALSE,empty
+38,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+38,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 38 of 49,FALSE,page_footer
+38,4,Impact of an aging population,FALSE,normal
+38,5,"8. Korea’s rapidly aging population, reflecting its low fertility rates, is leading to a shrinkage in labor supply. The working age population (OECD standard, age 15-64) began to shrink after reaching a peak in 2016 (Figure A1.9). By age composition, prime-age workers (age 25-54) show a gradual decline (Figure A1.10). Although ‘baby boomers’ (born in 1955-63) still remain in the labor force, their exits will eventually lead to a decline in labor supply, suggesting that the total employment may decline in the future.",FALSE,normal
+38,6,Figure A1.9 Population and Fertility Rate Figure A1.10 Composition of Working Age Population,FALSE,normal
+38,7,Note: Based on the Korean authorities’ population projections. Source: Statistics Korea; World Bank,FALSE,normal
+38,8,Note: Based on the national definition (age 15 and over) and the 2018 figures are based on the January to August period. Source: Statistics Korea,FALSE,normal
+38,9,Shift-share analysis on the employment-to-population ratio,FALSE,normal
+38,10,"9. Aging demographic structures may have somewhat offset the boost in the employment-to-population ratio in recent years. Despite some moderation in 2018, from a long-term perspective, Korea’s labor force participation ratio has gradually increased mainly because of the increase in female participation rate and the reentry of older women into the labor force, while remaining lower at 69.2 percent (in 2017) as compared to the OECD average (72.1 percent). A rising trend in labor force participation has positively affected the employment- to-population ratios - another key labor market indicator that is independent of the non-labor force’s size. By age group, the employment-to-population ratio (the national definition) for prime- age workers (age 25-54), is the highest amongst all age groups at about 76.3 percent (as of 2017), while the ratio tends to decline with age - 67.5 percent for ages 55-64, and 30.6 percent for ages 65 and over (Figure A1.11). In essence, an aging population will lead to a dampening employment-to-population ratio via a reduction in the labor force participation ratio.",FALSE,normal
+38,11,"10. A decomposition of the employment-to-population ratio suggests that the aging population has already started to have an adverse effect on employment, slowly but persistently. To analyze the impact of population aging on total employment, we employ a simple decomposition method of shift-share analysis24, which allows us to capture the marginal",FALSE,normal
+38,12,"24Using the shift-share analysis, employment-to-population ratio can be decomposed into population share shift and employment-to- population (assuming no change in population structure).",FALSE,normal
+38,13,"𝐸𝑅𝑡 − 𝐸𝑅𝑡−1⏟ ""𝑃𝑒𝑟𝑖𝑜𝑑 𝐶ℎ𝑎𝑛𝑔𝑒 𝑖𝑛",FALSE,garbage
+38,14,𝑒𝑚𝑝𝑙𝑜𝑦𝑚𝑒𝑛𝑡−𝑡𝑜−𝑝𝑜𝑝.𝑟𝑎𝑡𝑒,FALSE,NA
+38,15,≈ ∑,FALSE,empty
+38,16,[,FALSE,empty
+38,17,𝐸𝑅𝑡−1 𝑖 (𝑆𝑡,FALSE,garbage
+38,18,𝑖 − 𝑆𝑡−1 𝑖 )⏟,FALSE,garbage
+38,19,"""𝑃𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛 𝑠ℎ𝑎𝑟𝑒 𝑠ℎ𝑖𝑓𝑡""",FALSE,NA
+38,20,+ 𝑆𝑡−1 𝑖 (𝐸𝑅𝑡,FALSE,garbage
+38,21,𝑖 − 𝐸𝑅𝑡−1 𝑖 )⏟,FALSE,garbage
+38,22,"""𝑒𝑚𝑝𝑙𝑜𝑦𝑚𝑒𝑛𝑡−𝑡𝑜−𝑝𝑜𝑝.𝑟𝑎𝑡𝑒 𝑠ℎ𝑖𝑓𝑡"" ]",FALSE,NA
+38,23,NA,FALSE,empty
+38,24,𝑖={𝑎𝑔𝑒 𝑔𝑟𝑜𝑢𝑝},FALSE,NA
+38,25,NA,FALSE,empty
+38,26,NA,FALSE,empty
+39,1,NA,FALSE,empty
+39,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+39,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 39 of 49,FALSE,page_footer
+39,4,"effects of changes in an age-group composition. Our analysis suggests that since the GFC, employment within each-age group continued to make a positive contribution to the total employment-to-population ratio, whereas the contribution of structural change in the population, measured by the shifts in age-group shares, turned negative persistently, albeit with some fluctuations across years, including 201825 (Figure A1.12). The latter can be explained by the fact that the declining share of the prime-age group with the highest employment-to-population ratio adversely affects the aggregate level of the employment-to-population ratio. The results suggest that the decline in the employment-to population ratio during the first eight months is partly affected by demographic changes, although the main driver is a deterioration in employment within age groups.",FALSE,normal
+39,5,Figure A1.11 Employment-to-Population Ratio by Age Group,FALSE,normal
+39,6,Figure A1.12 Decomposition of Employment-to- Population Ratio,FALSE,normal
+39,7,Note: Working age population as a denominator is based on the national definition (age 15 and over) and the 2018 figures are based on the January to August period. Source: Statistics Korea,FALSE,normal
+39,8,Note: Based on the shift-share decomposition method. The 2018 figures are based on the January to August period. Source: Statistics Korea; AMRO staff calculations,FALSE,normal
+39,9,Conclusion,FALSE,normal
+39,10,"11. Moving forward, it appears that a slower increase in employment is inevitable in comparison to the past due to a combination of cyclical and structural factors. As discussed so far, disaggregated employment data as well as adverse implications from the ongoing industrial restructuring and an aging population, support the view that such an unexpected decline in job growth in H1 2018 may emerge from not only the sharp minimum wage hike, but also sectoral adjustments and demographic changes. In this context, weaker employment growth is expected to continue for a prolonged period. On the policy front, more comprehensive and concerted efforts must be made to create job opportunities in “new” innovative industries and start-ups to compensate for declining labor demand in manufacturing. In addition, excessive protection for regular workers must be relaxed along with heightened labor market flexibility to secure more quality jobs for discouraged, young workers.",FALSE,normal
+39,11,NA,FALSE,empty
+39,12,"where 𝐸𝑅𝑡 refers to the employment-to-population ratio at period t, with 𝑆𝑡𝑖 the age-group i’s share of total working-age population.",FALSE,normal
+39,13,"25In this analysis, “population structure change” captures that the change in population shares in each age group, conditional on the previous period’s employment-to-population (ER; 𝐸𝑅𝑡−1𝑖 ) within respective age-group. If each age-group’s employment-to- population ratio is distinct but stable as in the early 2000s, then this term would mainly explain the change in aggregate ER by structure changes. However, since 2010 when the elderly’s ER starts to increase driven by high labor participation, the ER gap between the young (age 25-54) and the elderly (55-64) groups narrowed, so the negative impacts of “population structure change” were offset by the increase in ER in the elderly with some lags, as shown in the period from 2014.",FALSE,normal
+39,14,NA,FALSE,empty
+40,1,NA,FALSE,empty
+40,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+40,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 40 of 49,FALSE,page_footer
+40,4,2. Progress in Corporate Restructuring of the Korean Shipbuilding Industry,FALSE,normal
+40,5,"1. The shipbuilding industry, a golden industry in Korea previously, has been restructuring from huge losses suffered mainly due to low demand globally and low oil prices during 2014-2016. Korea’s shipbuilding industry has played an important role in the Korean economy. In terms of its contribution to the economy, its shares to GDP and export peaked at 4.7 percent and 11.7 percent in 2009, before declining to 2.8 percent and 7.1 percent in 2017, respectively (Figure A2.1). Workforce in the industry totaled around 120,000 (accounting for 0.5 percent of total workforce) in 2008 and 130,800 in 2017 (0.5 percent) (Figure A2.2). In the midst of slowing global demand, rising competition from regional peers, notably China, and low oil prices from 2014 to 2016, the industry experienced a huge loss, and has been forced to undertake corporate restructuring. This note discusses the restructuring efforts made by the Korean shipbuilding industry and considers the challenges that the industry is facing.",FALSE,normal
+40,6,Overview,FALSE,normal
+40,7,"2. Korea is among three shipbuilding giants in the world, together with China and Japan. The shipbuilding industry started to develop from early 1970s in Korea. Despite a slowdown in the mid-1980s and during the Asian Financial Crisis (AFC), Korean shipyards received high operating profits on account of the Korean won’s depreciation after the AFC. This provided an additional competitive advantage to the industry. In 2001, Korea overtook Japan in global market share, becoming the largest shipbuilder in the world26, with the order books27 peaking at 64.3 million compensated gross tonnage (CGT)28 and a global market share of 33.1 percent in 2008 (Figure A2.1).",FALSE,normal
+40,8,Figure A2.1 Market Share of Korean Shipbuilding and its Share of Total Exports29 and GDP,FALSE,normal
+40,9,Figure A2.2 Workforce in the Shipbuilding Industry,FALSE,normal
+40,10,Source: CEIC; Haver and UN Comtrade database; SEA Europe Shipbuilding Market Monitoring (2017),FALSE,normal
+40,11,Source: KOSHIPA; CEIC; AMRO staff calculation,FALSE,normal
+40,12,"3. After the GFC, Korean shipyards have experienced a slowdown in their orders, with a severe hit in 2015-16 partly due to low oil prices, low trade volume and rising competition from China. Following a decline in global new orders, Korea’s new orders fell considerably in 2009, staying relatively low since, while maintaining 30.0 percent market share",FALSE,normal
+40,13,"26 Korea leads the industry in building container ships, tankers, and offshore oil drilling rigs. 27 All order books, new order and deliveries are based on commercial shipbuilding activities. 28 CGT is a unit of measurement intended to provide a common yardstick to reflect the relative output of merchant shipbuilding activity in large aggregates such as ""World"", ""Regions"" or ""Groups of many yards"" (OECD, 2007). 29 Ships are categorized under HS Chapter 89 (Ships, boats and floating structures)",FALSE,normal
+40,14,NA,FALSE,empty
+41,1,NA,FALSE,empty
+41,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+41,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 41 of 49,FALSE,page_footer
+41,4,"(Figure A2.3). The decline in new orders affected the financial positions of shipbuilders with 3 to 4 years’ time lag30. In 2015, due to low oil prices, the offshore new building market31 and low trade volume, orders were postponed or cancelled. Together with overcapacity, Korea’s top three shipbuilders, namely, Hyundai Heavy Industries (HHI), Daewoo Shipbuilding & Marine Engineering (DSME) and Samsung Heavy Industries (SHI) reported huge operating losses, amounting to almost KRW8.5 trillion (USD7.4 billion, 0.5 percent of GDP). The financial positions of the three big shipbuilders declined sharply with interest coverage ratios below one in 2015/2016. Furthermore, on the back of lower trade volumes, Korean shipbuilders’ new orders decreased dramatically to 2,067 thousand CGT in 2016, resulting in market share of 19.3 percent. This pushed them down to third place in the global new orders market.",FALSE,normal
+41,5,"4. DSME, the second-largest shipbuilder, reported the largest operating loss among the top three shipbuilders. DSME specializes in commercial vessels including liquefied natural gas (LNG) carriers, specialty vessels, offshore and onshore plants32. An operating loss was recorded since 2013 mainly due to cost overruns and cancellations of offshore projects. The oil prices plunged to the lowest levels in more than a decade around that time. As a result, DSME was at the risk of debt servicing failure to creditors.",FALSE,normal
+41,6,Figure A2.3 Market Share of New Orders by Countries Table A2.1 Rescue plans,FALSE,normal
+41,7,"Self-rescue plan by selling non- core assets, downsizing employees",FALSE,normal
+41,8,"KRW10.8 trillion (USD9.16 billion, equivalent 0.7% GDP) + HHI: KRW3.5 trillion (USD2.94 billion) + DSME: KRW5.8 trillion (USD4.92 billion) + SHI: KRW1.5 trillion (USD1.3 billion)",FALSE,normal
+41,9,External rescue plan by all creditors,FALSE,normal
+41,10,KRW10.9 trillion (0.7% GDP) given to DSME + 1st Package: KRW4.2 trillion + 2nd Package: KRW6.7 trillion,FALSE,normal
+41,11,NA,FALSE,empty
+41,12,Source: SEA Europe Shipbuilding Market Monitoring Source: AMRO staff compilations from www.scholink.org and other,FALSE,normal
+41,13,sources Restructuring process,FALSE,normal
+41,14,"5. Corporate restructuring efforts have been made through self-rescue programs and external rescue packages since 2015. Self-rescue plans for these shipyards include asset sales and workforce reduction, worth a total of KRW10.8 trillion (USD9.16 billion, 0.7 percent of GDP). Of this, the self-rescue programs of HHI, DSME and SHI are KRW3.5 trillion (USD2.94 billion), KRW5.8 trillion (USD4.92 billion) and KRW1.5 trillion (USD1.3 billion), respectively (Table A2.1). In addition, DSME needed external rescue packages worth KRW10.9 trillion (USD9.25 billion, 0.7 percent of GDP), of which the first package of KRW4.2 trillion was",FALSE,normal
+41,15,"30 As the nature of shipbuilding activity, where there can be a significant time difference between a new order and completion/delivery (OECD, “Peer review of the Korean Shipbuilding industry and related government policies”, 13 January 2015) 31 SEA Europe Shipbuilding Market Monitoring, 2017. 32 Offshore plants consist of a platform (topside and hull), used for the exploration, drilling, and production of oil and gas, a subsea production and processing system, as well as URF (umbilical, riser and flow line) equipment (Invest Korea). Onshore plants include chemical plants, seawater treatment plants, power plants; Industrial facilities such as off-loading facilities; Steel structures such as steel bridges and steel cages (DSME).",FALSE,normal
+41,16,NA,FALSE,empty
+42,1,NA,FALSE,empty
+42,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+42,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 42 of 49,FALSE,page_footer
+42,4,implemented in October 2015 in the form of new investments and loans. The second package worth KRW6.7 trillion has been carried out since April 2017.,FALSE,normal
+42,5,"6. DSME succeeded in difficult debt restructuring. The second package included KRW3.8 trillion of debt restructuring and KRW2.9 trillion of new credit line (Figure A2.4). From this, debt amounting to KRW2.9 trillion was swapped with equity, while the remaining debt, amounting to KRW0.9 trillion, was rescheduled with maturity extended to 2023 and 2027, respectively, with the reduced interest rate. Following this restructuring operation, DSME will be able to reduce its debt service obligation significantly until 202133 (Figure A2.5). Creditors also gave DSME a new credit line of KRW2.9 trillion which will be disbursed in future stages.",FALSE,normal
+42,6,Figure A2.4 Structure of External Rescue Packages for DSME,FALSE,normal
+42,7,Figure A2.5 DSME's Debt Maturity Distribution after Restructuring,FALSE,normal
+42,8,Source: Bloomberg; AMRO staff calculations Source: Company’s financial report; AMRO staff calculations,FALSE,normal
+42,9,Outlook,FALSE,normal
+42,10,"7. Korea’s shipbuilding industry is in the process of revival. The combined self-rescue programs of the three shipbuilders, coupled with two rounds of external rescue packages for DSME proved successful. The financial indicators for these three shipbuilders, such as return on asset ratio (ROA) and debt to equity ratio (D/E), improved significantly in 2017, compared to 2015 (Table A2.2). In H1 2018, Korean shipbuilders received new orders equivalent to 4.96 million CGT, accounting for 40.0 percent of global orders, thereby reclaiming its global top rank, while new orders in H1 2017 was 3.21 million CGT (28.0 percent of global orders). This is the first time in the past three years that Korean shipbuilders have overtaken their Chinese competitors in terms of new orders received. The three shipbuilders won orders to build vessels, including very large crude oil carriers and LNG carriers34. However, the stock prices of these three shipbuilders have not reflected much improvement (Figure A2.6).",FALSE,normal
+42,11,NA,FALSE,empty
+42,12,NA,FALSE,empty
+42,13,NA,FALSE,empty
+42,14,NA,FALSE,empty
+42,15,NA,FALSE,empty
+42,16,"33 Average effective interest rate for 6-year debt is only 0.83 percent and 10-year debt is 1.33 percent. 34 www.pulsenews.co.kr (In H1 2016, Korean shipyards accounted for only 12.0 percent of global orders, while China ranked first with 40.0 percent).",FALSE,normal
+42,17,NA,FALSE,empty
+43,1,NA,FALSE,empty
+43,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+43,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 43 of 49,FALSE,page_footer
+43,4,NA,FALSE,empty
+43,5,Figure A2.6 Stock Prices of Three Shipbuilders,FALSE,normal
+43,6,Note: DSME’s data in 2018 based on H1 2018; Data of HHI and SHI in 2017 to 2019 are estimated by J.P Morgan. Source: Companies’ IR; Annual Report; J.P Morgan; AMRO staff calculations,FALSE,normal
+43,7,Note: Discontinued line showed postponed transactions Source: Thomson Reuters,FALSE,normal
+43,8,"8. Competitiveness of Korean shipbuilding. The productivity of Korean shipbuilders, measured by production (in CGT terms) per employee, started to decline after 2014, while that of Japan, was at a higher level (Figure A2.7). China’s productivity was low in 2013 compared to Japan and Korea, but is expected to have increased on account of cheaper labor costs and gradual technological advances made. Labor costs, which account for about 20.0 percent of the total shipbuilding production costs, are considered as one of decisive factor in receiving new orders. This was shown by the fact that Chinese shipbuilders defeated HHI in getting orders of container ships and Singapore’s shipbuilder (Sembcorp Marine, second largest offshore plant company that has no experience in large-scale projects) overcame SHI and DSME in winning the offshore plant orders on account of lower labor costs in August 201735.",FALSE,normal
+43,9,"9. Going forward, the downside risks of the Korean shipbuilding industry stems from uncertain global trade prospects. In 2017, Korean shipbuilding rebounded sharply and ranked second globally in terms of new orders received, deliveries and order books, accounting for 32.1 percent, 30.4 percent and 21.4 percent of global market share, respectively. However, according to Clarkson Research, fleet overcapacity began emerging since 2010 and still persists36. This trend is consistent with the higher global fleet growth than seaborne trade growth",FALSE,normal
+43,10,"35 https://www.hellenicshippingnews.com/s-koreas-shipbuilding-industry-losing-its-cost-competitive-edge/ 36 Clarkson Research, “Global shipping and shipbuilding market overview and outlook”, 12 September 2017.",FALSE,normal
+43,11,Figure A2.7 Korean Shipbuilding Productivity Compared to Peers,FALSE,normal
+43,12,Figure A2.8 Seaborne Trade and World Fleet Growth,FALSE,normal
+43,13,Source: Sea Europe; CEIC; KOSHIPA; AMRO staff calculations Note: Seaborne trade growth in 2018 is the forecast for 2017-2022,FALSE,normal
+43,14,Source: UNCTAD; CEIC; Clarkson; AMRO staff calculations,FALSE,normal
+43,15,NA,FALSE,empty
+44,1,NA,FALSE,empty
+44,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+44,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 44 of 49,FALSE,page_footer
+44,4,"from 2010 to 2013 (Figure A2.8). Therefore, despite recent improvements in orders, Korean shipbuilders may face weakness in their new orders due to continuing global excess capacity. Moreover, although global seaborne trade volumes are projected to grow by 3.2 percent per annum (as per UNCTAD) from 2017 to 2022, growing global trade tensions will pose downside risks to Korea’s shipbuilding industry.",FALSE,normal
+44,5,"10. However, the industry could gain from upside risks on account of the scheduled tightening of International Maritime Organization (IMO) regulations on fuel emission requirements. Stringent environmental regulation by the IMO will come into effect from 2020, which may enhance the competitive advantage of Korea’s shipbuilding industry. The upcoming regulation requires shipping companies to lower Sulphur levels in fuel from 3.5 percent to 0.5 percent37. The shipping companies need to achieve this requirement, either by using low- Sulphur fuel, installing sulphuric acid reduction devices, or switching to vessels consuming cleaner fuels like LNG. Korean shipbuilding will benefit from the stricter environmental regulations as its shipbuilders have the advanced skills and technology to produce vessels that meet the higher environmental standards.",FALSE,normal
+44,6,Conclusion,FALSE,normal
+44,7,"11. The Korean shipbuilding industry could recover in the medium term by continuing efforts to adopt advance technology. The shipbuilding industry has been under a restructuring process and still needs time to recover. Moving forward, growing global trade tensions will pose a downside risk to Korea’s shipbuilding industry 38 . Moreover, it faces challenges of increasing competition from Chinese shipbuilders. Korean shipbuilders could, however, benefit from the stricter IMO environmental standards that are impending. They could manufacture high-tech vessels such as LNG carriers, a segment in which Korean shipbuilders dominate with the share at about 60.0 percent of the market39.",FALSE,normal
+44,8,NA,FALSE,empty
+44,9,"37 This regulation is aimed at preventing marine pollution by ships. 38 Trade tension between the U.S. and China could derail recovery and reshape of global maritime trade patterns and dampen the outlook (UNCTAD, Review of Maritime Transport 2018, page X). This will affect demand for ships and therefore bring downside risk to shipbuilding industry. 39 J.P. Morgan, “Korea Shipbuilding-The Night is Darkest Just before the Dawn”, 20 September 2017.",FALSE,normal
+44,10,NA,FALSE,empty
+45,1,NA,FALSE,empty
+45,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+45,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 45 of 49,FALSE,page_footer
+45,4,3. Drivers of Korea’s Resident and Non-resident Portfolio Investments,FALSE,normal
+45,5,"1. Portfolio investment flows have become a dominant force in driving Korea’s financial account dynamics post-GFC. This was especially so in 2009-2010 when portfolio investments recorded net inflows of about USD47 billion per annum, thereby guiding the financial account balance into surplus, and then in 2015 through early 2018 when the same investments reverted to net outflows of about USD58 billion per annum, in turn bringing the financial account into deficits (Figure A3.1). Given their large size, portfolio flows have largely determined the direction of the financial account balance for most of the period since 2009.",FALSE,normal
+45,6,"2. The period immediately after the GFC was largely characterized by non-resident portfolio investment inflows (liabilities) (Figure A3.1). This trend likely reflected the global search for yield among investors as the adoption of unconventional monetary policy by the U.S. Federal Reserve depressed interest rates there. Meanwhile, even as Korea was attracting non-resident portfolio inflows, residents’ overseas portfolio investments (assets) also started to increase more rapidly starting in the latter half of 2012―led by growing assets of Korea’s pension funds and insurance and asset management companies (see Box A3. Resident and Non-resident Portfolio Investments―A detailed look), eventually eclipsing foreign inflows starting in the latter half of 2014. Structural forces may be at play; Korea’s strong current account surplus (which surged more than four-fold in the two years after 2011) and the economy’s high saving rate under an aging population may have spurred such residents’ overseas portfolio investments (Figure A3.2).",FALSE,normal
+45,7,An Empirical Analysis,FALSE,normal
+45,8,"3. Near-term deteminants of resident and non-resident portfolio investment can be tested empirically. The literature typically groups the determinants into common or “push” factors and country-specific or “pull” factors. To address our question, we adapt the methodology of Kim et al. (2013).40 The variables used to represent the push factors are the growth rate of world real GDP and the world ex-post real interest rate, both of which are",FALSE,normal
+45,9,"40 Kim, Soyoung, Sunghyun Kim, and Yoonseok Choi. 2013. “Determinants of International Capital Flows in Korea: Push and Pull Factors.” Korea and the World Economy 14 (3): 447-474.",FALSE,normal
+45,10,Figure A3.1. Financial Account Balance Figure A3.2 Korea’s Balance of Payments,FALSE,normal
+45,11,"Note: *Excludes Reserve Assets; Signs indicate the direction of net flows (negative means outflows). Source: BOK, AMRO staff calculations",FALSE,normal
+45,12,Source: BOK; AMRO staff calculations,FALSE,normal
+45,13,-30,FALSE,garbage
+45,14,-20,FALSE,garbage
+45,15,-10,FALSE,garbage
+45,16,0,FALSE,garbage
+45,17,10,FALSE,garbage
+45,18,20,FALSE,garbage
+45,19,30,FALSE,garbage
+45,20,40,FALSE,garbage
+45,21,50,FALSE,garbage
+45,22,-40,FALSE,garbage
+45,23,-20,FALSE,garbage
+45,24,0,FALSE,garbage
+45,25,20,FALSE,garbage
+45,26,40,FALSE,garbage
+45,27,60,FALSE,garbage
+45,28,80,FALSE,garbage
+45,29,100,FALSE,garbage
+45,30,120,FALSE,garbage
+45,31,2000 2002 2004 2006 2008 2010 2012 2014 2016 2018,FALSE,garbage
+45,32,"Current Account (12-month moving sum) Portfolio Investment Assets, Flows (6-month moving sum, RHS)",FALSE,normal
+45,33,USD bn USD bn,FALSE,normal
+45,34,NA,FALSE,empty
+46,1,NA,FALSE,empty
+46,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+46,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 46 of 49,FALSE,page_footer
+46,4,"proxied using U.S. data. Data for pull factors are the current account balance (percent of GDP), ex-post real interest rate, inflation rate, real GDP growth rate, and the growth rate of the stock price index. Kim et al. included the local exchange rate volatility as another pull factor, but in this exercise, we have replaced the variable with the Cboe VIX index to introduce a measure of uncertainty. Also, the VIX index is highly correlated with the implied volatility of the KRW/USD exchange rate and so it can act as proxy for exchange rate volatility. The dependent variables considered are the ratios of gross portfolio investments (assets and liabilities, and their equity and debt components) to nominal GDP.",FALSE,normal
+46,5,"4. Using data for the period from 1997 to Q1 2018, the model is estimated using the generalized method of moments (GMM) as in Kim et al. GMM is employed to address possible endogeneity between the independent and dependent variables, which in turn could yield biased estimates. This exercise follows the estimation specifications as well as data and model diagnostic checks as also detailed in Kim et al. Two lags of the pull variables, where no instrumental variable is used, and contemporaneous values of the push variables are used as instrumental variables. Two crisis dummies (Q3 1997 – Q2 1998 and Q3 2008 – Q4 2009) are included in the regression.",FALSE,normal
+46,6,"5. Both push and pull factors tend to drive resident portfolio investments (Table A3.1). But for residents’ total and equity investments, the coefficient of the U.S. real interest rate is greater in magnitude than its Korean equivalent. This implies that an increase in the U.S. real interest rate would trigger more resident outflows than an increase of the same magnitude in Korea’s real interest rate would attract inflows. In addition, a pick-up in Korea’s equity market also tends to encourage resident outflows somewhat which seems counter-intuitive, but may be reflective of increased earnings of Korean corporates, which in turn also increases the likelihood of greater overseas investments. On the other hand, a significant and negative coefficient for Korea’s real GDP growth rate implies that strong economic growth can slow the pace of residents’ overseas equity investments.",FALSE,normal
+46,7,"6. As for residents’ overseas debt investments, higher domestic real interest rates tend to restrain outflows more than higher foreign interest rates trigger outflows, although the difference is marginal. The VIX variable is significant although the magnitude is small and the sign is counter-intuitive. Higher GDP growth and inflation rates for Korea, the",FALSE,normal
+46,8,Table A3.1 Determinants of Portfolio Investment Assets (Residents’ Overseas Investments),FALSE,normal
+46,9,PIA PIA-Eq PIA-Dbt ODI Constant 5.035** 3.118* 2.089** 1.404*** Push factors US_GDP -0.171 0.061 0.195 -0.027 US_RINT 0.923*** 0.666*** 0.320** -0.358*** DVIX 0.024 -0.014 0.029* 0.017 Pull factors KR_RINT -0.772*** -0.529*** -0.354*** 0.071 KR_CAB 0.000 -0.160 0.034 0.188*** KR_INFL -0.432 -0.186 -0.170** -0.106* KR_GDP -0.661*** -0.599** -0.328*** 0.178*** KR_KOSPI 0.035** 0.038** 0.012 -0.013*** Dummy variables DUM_AFC -3.617 -1.862 -3.681*** 0.824 DUM_GFC -6.998*** -3.139** -2.381** 0.978 Diagnostic check DW statistic,FALSE,normal
+46,10,2.020 2`.032 2.042 1.776,FALSE,garbage
+46,11,J-statistic (p-value),FALSE,normal
+46,12,4.680 (0.699),FALSE,garbage
+46,13,6.034 (0.536),FALSE,garbage
+46,14,11.467 (0.572),FALSE,garbage
+46,15,12.022 (0.526),FALSE,garbage
+46,16,"Note: ***, **, and * indicate significance at the 1%, 5%, and 10% level, respectively. AR or MA terms have been added to the equations to correct for serial correlation. The J-statistics in the table above indicate that the null hypothesis of valid instruments cannot be rejected. PIA = Portfolio Investment Asset; ODI = Overseas Direct Investment. Source: AMRO",FALSE,normal
+46,17,NA,FALSE,empty
+47,1,NA,FALSE,empty
+47,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+47,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 47 of 49,FALSE,page_footer
+47,4,"latter likely an indication of an imminent increase in domestic interest rates, tend to dampen residents’ overseas debt investments.41 Overall, the estimation results indicate that domestic or pull factors can be influential in determining the strength of residents’ investments in foreign debt securities, while external or push factors tend to drive residents’ foreign equity investments more.",FALSE,normal
+47,5,"7. Shifting our analysis to non-resident portfolio investment in Korea, the regression results indicate the dominance of push factors in driving flows, in particular for overall gross and equity investments (Table A3.2). Stronger economic growth and lower domestic interest rates in the U.S. tend to encourage more foreign portfolio inflows to Korea. But also, foreign portfolio investors tend to be drawn by higher inflation and economic growth in Korea, although the magnitudes of the coefficients are smaller than those for the U.S. variables. The significance of the pull factors, however, diminishes as we examine the components; and especially for non-residents’ investments in Korean debt securities, an alternative model specification could provide more significant coefficients. Nonetheless, these preliminary findings provide a sense of the role of global and country-specific factors in driving non-resident portfolio investments for the case of Korea.",FALSE,normal
+47,6,Concluding Remarks,FALSE,normal
+47,7,"Understanding the nature and drivers of capital flows is crucial for effective policymaking. Portfolio investment outflows may be inevitable as the Korean economy has witnessed large current account surpluses. However, in the near term, our empirical findings suggest that during periods of sharp capital outflows, tightening monetary policy while taking measures to counter downside risks to growth, could mitigate the pace of outflows. Nonetheless, it would be prudent to complement such near-term measures with reforms aimed at addressing the structural issues of the economy such as population aging and declining competitiveness in some industries. Doing so would strengthen the economy’s structure and ensure sustainable growth, which in turn could ease the likelihood of sharp capital outflows.",FALSE,normal
+47,8,NA,FALSE,empty
+47,9,"41 The regression results fail to show the significance of the current account balance in driving resident portfolio investment outflows. However, using the same model for residents’ overseas direct investments shows that a wider CA surplus―together with higher Korean GDP growth and lower inflation as well as lower US interest rates―tends to encourage Korean ODI (Table A3.1).",FALSE,normal
+47,10,Table A3.2. Determinants of Portfolio Investment Liabilities (Non-Residents’,FALSE,normal
+47,11,Overseas Investments) PI Liab PIL-Eq PIL-Debt Constant -0.474 -2.356 1.576 Push factors US_GDP 0.526* 0.577** 0.343 US_RINT -0.347* -0.362* 0.005 DVIX -0.031 0.017 -0.029 Pull factors KR_RINT 0.076 0.126 -0.140 KR_CAB -0.063 0.276 -0.291 KR_INFL 0.205* 0.160 -0.037 KR_GDP 0.276** 0.342 -0.126 KR_KOSPI -0.005 -0.026* 0.002 Dummy variables DUM_AFC 1.610 -1.926 3.107** DUM_GFC 4.942*** 4.934** 0.845 Diagnostic check DW statistic 1.921 1.939 1.833 J-statistic (p-value),FALSE,normal
+47,12,16.488 (0.834),FALSE,garbage
+47,13,10.205 (0.667),FALSE,garbage
+47,14,5.042 (0.655),FALSE,garbage
+47,15,"Note: ***, **, and * indicate significance at the 1%, 5%, and 10% level, respectively. AR or MA terms have been added to the equations to address serial correlation. The J-statistics in the table above indicate that the null hypothesis of valid instruments cannot be rejected. Source: AMRO",FALSE,normal
+47,16,NA,FALSE,empty
+48,1,NA,FALSE,empty
+48,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+48,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 48 of 49,FALSE,page_footer
+48,4,Box A3. Resident and Non-resident Portfolio Investments – A Detailed Look,FALSE,normal
+48,5,Do residents differ from non-residents in their portfolio investments?,FALSE,normal
+48,6,"A look at stock data suggests that both prefer equity over debt securities, although residents have pared down their equity holdings from 73 percent of the total in 2010 to about 60 percent as of June 2018, while non-residents have marginally increased their equity investments by about 4 percentage points to 69 percent in the same period. The remainder is held mostly in long-term debt securities. However, once we account for the BOK’s securities holdings from its reserve assets, then residents’ portfolio investments get tilted towards debt securities, accounting for 63 percent of the total as at June 2018 (Figure A3.2). An important point to note is that although Korea saw more resident portfolio investments overseas in 2010 – Q2 2018 than non-resident portfolio investment inflows, the stocks of portfolio investments continue to show a net liability position, if reserve assets are excluded.",FALSE,normal
+48,7,"Resident and non-resident portfolio investment holdings also differ by asset type (Figure A3.3). For overseas portfolio investments by residents, Korea’s general government takes up over half of the equity investments and its share in total equity investments has risen sharply since 2010.42 This is driven by the National Pension Service (NPS) which has increased its overseas equity allocation in order to diversity its holdings.43 When investing overseas, the NPS invests more in equities than debt. On the whole, however, the bulk of its assets are still invested in domestic debt.44",FALSE,normal
+48,8,"Likewise, Korea’s other financial corporations such as securities and insurance companies have markedly increased their investments in overseas debt securities― from 4 percent in 2010 to 23 percent as of June 2018―even as the BOK continues to dominate residents’ investments in foreign debt markets. According to the IMF’s latest Coordinated Portfolio Investment Survey (CPIS), the U.S. is the primary destination for residents’ foreign portfolio",FALSE,normal
+48,9,"Figure A3.2 Stock of Portfolio Investment, by Asset Type",FALSE,normal
+48,10,Note: *Excludes Reserve Assets; signs indicate the direction of net flows (negative means outflows). Source: BOK,FALSE,normal
+48,11,"Figure A3.3. Portfolio Investment Assets and Liabilities, by Type of Security and Sector",FALSE,normal
+48,12,"Note: Portfolio Investment Assets include Reserve Assets, which are then classified under Central Bank; Non-financial corporations also include households and non-profit institutions serving households (NPISHs). Source: Bank of Korea",FALSE,normal
+48,13,"42 General government refers to central and local governments and social security institutions. 43 For example, the NPS increased its overseas equity allocation to USD110 billion as of July 2018 – equivalent to 19.2 percent of the fund’s value – from USD42 billion or 10.4 percent of its value as of end-2013, according to a press release. 44 As of July 2018, 46.7 percent of the NPS’ assets are in domestic debt, and less than 4 percent allocated to global fixed income.",FALSE,normal
+48,14,NA,FALSE,empty
+49,1,NA,FALSE,empty
+49,2,Korea Annual Consultation Report 2018 - Annex,FALSE,normal
+49,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 49 of 49,FALSE,page_footer
+49,4,"investments – representing 44 percent of the total – with the remainder distributed across the U.K., Japan, Luxembourg, France, and China, among others.",FALSE,normal
+49,5,"On the liability side, foreign investments in Korea’s equity market largely go into non-financial corporations while foreign investor presence in the local debt markets is more varied. Foreign investors purchase over a third of their total Korean bond purchases from the general government, over a quarter from financial institutions, and just short of 20 percent from non-financial corporations, according to the latest data. About 40 percent of the foreign investments also originate from the U.S., with the remainder spread across Luxembourg, the U.K., Singapore and Japan, to name a few.",FALSE,normal
+49,6,NA,FALSE,empty
+49,7,NA,FALSE,empty
+49,8,NA,FALSE,empty

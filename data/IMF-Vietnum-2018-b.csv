@@ -1,0 +1,1461 @@
+page_number,paragraph_number,text,pages_to_skip,detection
+1,1,NA,TRUE,empty
+1,2,NA,TRUE,empty
+1,3,© 2018 International Monetary Fund,TRUE,normal
+1,4,IMF Country Report No. 18/216,TRUE,normal
+1,5,VIETNAM SELECTED ISSUES,TRUE,normal
+1,6,This Selected Issues paper on Vietnam was prepared by a staff team of the International,TRUE,normal
+1,7,Monetary Fund as background documentation for the periodic consultation with the,TRUE,normal
+1,8,member country. It is based on the information available at the time it was completed on,TRUE,normal
+1,9,"May 23, 2018.",TRUE,garbage
+1,10,NA,TRUE,empty
+1,11,NA,TRUE,empty
+1,12,NA,TRUE,empty
+1,13,Copies of this report are available to the public from,TRUE,normal
+1,14,NA,TRUE,empty
+1,15,International Monetary Fund • Publication Services,TRUE,normal
+1,16,"PO Box 92780 • Washington, D.C. 20090",TRUE,normal
+1,17,Telephone: (202) 623-7430 • Fax: (202) 623-7201,TRUE,normal
+1,18,E-mail: publications@imf.org Web: http://www.imf.org,TRUE,normal
+1,19,Price: $18.00 per printed copy,TRUE,normal
+1,20,NA,TRUE,empty
+1,21,NA,TRUE,empty
+1,22,International Monetary Fund,TRUE,normal
+1,23,"Washington, D.C.",TRUE,normal
+1,24,July 2018,TRUE,garbage
+1,25,NA,TRUE,empty
+2,1,NA,TRUE,empty
+2,2,NA,TRUE,empty
+2,3,VIETNAM SELECTED ISSUES,TRUE,normal
+2,4,Approved By Asia and Pacific Department,TRUE,normal
+2,5,"Prepared by Anja Baum (FAD), David Corvino (APD) and Mitsuru Katagiri (MCM)",TRUE,normal
+2,6,NA,TRUE,empty
+2,7,"POTENTIAL OUTPUT ESTIMATES— A NEW LOOK ________________________________ 3 A. Potential Output Estimates Using A HP Filter ____________________________________ 3 B. Potential Output Estimates Using Multivariate Filter _____________________________ 4 C. Potential Output Estimates Using a Multivariate Filter with Financial Frictions __ 6 D. Potential Output Estimates Using a Production Function Approach _____________ 7 E. Conclusions ______________________________________________________________________ 9 References _________________________________________________________________________ 15 BOX 1. Vietnam’s Phillip’s Curve _________________________________________________________ 5 APPENDIX I. Models Equations, Calibration and Assumptions ______________________________ 11 VIETNAM: CREDIT GROWTH AND ASSET MARKET VALUATIONS ____________ 17 A. Credit Growth __________________________________________________________________ 17 B. Stock Markets __________________________________________________________________ 20 C. Real Estate Prices ______________________________________________________________ 22 D. Conclusions ____________________________________________________________________ 24 References _________________________________________________________________________ 25 FIGURES 1. Selected Economies: Credit-to-GDP Ratios Relative to Benchmark ____________ 20 2. Selected Economies: Real Estate Price Estimation______________________________ 24 FISCAL RULES IN VIETNAM: CALIBRATION AND OPTIONS ___________________ 26 A. Public Debt and the Debt Rule _________________________________________________ 26 B. Calibrating the Debt Rule ______________________________________________________ 27",TRUE,normal
+2,8,CONTENTS,TRUE,normal
+2,9,"May 23, 2018",TRUE,garbage
+2,10,NA,TRUE,empty
+3,1,NA,TRUE,empty
+3,2,VIETNAM,TRUE,normal
+3,3,2 INTERNATIONAL MONETARY FUND,TRUE,page_footer
+3,4,C. Augmenting Debt Ceilings with Expenditure Rules (ERs) ___________________________________ 29 References _______________________________________________________________________________________ 35,TRUE,normal
+3,5,TABLES 1. Scenario Analysis _____________________________________________________________________________ 29 2. 2015 Expenditure Rules in Emerging Markets ________________________________________________ 30 3. Options for Expenditure Rules ________________________________________________________________ 32,TRUE,normal
+3,6,APPENDIX I. Principles of Fiscal Rules ______________________________________________________________________ 33,TRUE,normal
+3,7,NA,TRUE,empty
+4,1,NA,FALSE,empty
+4,2,VIETNAM,FALSE,normal
+4,3,INTERNATIONAL MONETARY FUND 3,FALSE,page_footer
+4,4,"POTENTIAL OUTPUT ESTIMATES—A NEW LOOK1 Vietnam has undergone a major transition in the last decade. This paper seeks to assess how this transformation has affected its growth potential. Employing a range of methodologies, the analysis concludes that Vietnam’s medium-term growth potential has increased from 6.2 percent estimated in 2014 to 6.5 percent. Acceleration of reforms that have generated productivity gains in the last decade, including the implementation of agreed free trade agreements, could further boost growth potential.",FALSE,normal
+4,5,"1. Vietnam has undergone a major transformation in the last decade. A very productive export-oriented sector financed by FDI has boomed, and in 2017, was responsible for more than two-thirds of Vietnamese exports and a third of the ASEAN’s tech exports. Urbanization has progressed and, concomitantly, employment has continued to shift away from agriculture toward industry and the service sectors, further boosting productivity. The large state-owned enterprise (SOE) sector, which has historically been a barrier to the development of a vibrant private sector, is undergoing equitization and reforms. These measures are helping to limit state involvement in the economy by restricting SOE operations to core areas. Together, these forces have contributed to increase Vietnam’s productivity.",FALSE,normal
+4,6,"2. This paper seeks to understand how Vietnam’s transition has affected its growth potential. The most recent IMF estimates of potential GDP for Vietnam date back to 2014, before the FDI-boom started in earnest.2 Vietnamese authorities do not publish potential output calculations. The empirical foundations for estimating potential output have also evolved following the GFC. This paper uses several approaches—both well-established in the literature and new methodologies—to estimate potential output for Vietnam: (i) a Hodrick-Prescott (HP) filter; (ii) a multivariate filter; (iii) a multivariate filter augmented by financial frictions; and (iv) a production function approach. Appendix I contains the details on each methodology.",FALSE,normal
+4,7,A. Potential Output Estimates Using A HP Filter,FALSE,sectionheader
+4,8,"3. The HP filter, a purely statistical tool used to extract a trend component from a time series, is applied to GDP. The trend is chosen to minimize a loss function that depends on both the deviation of the trend from actual GDP and the curvature of the trend. The smoothing parameter λ determines the relative weight of these two objectives. While the HP filter’s main qualities are its simplicity and",FALSE,normal
+4,9,"1 Prepared by David Corvino (APD). I would like to thank Mr. Nguyen Duc Trung, Deputy Director General of the Forecasting and Statistics Department of the SBV for organizing the seminar as well as all the participants for their thoughtful comments. 2 In 2017, FDI inflows reached US$17.5 billion, up 40 percent compared to 2014.",FALSE,normal
+4,10,-3,FALSE,garbage
+4,11,-2,FALSE,garbage
+4,12,-1,FALSE,garbage
+4,13,0,FALSE,garbage
+4,14,1,FALSE,garbage
+4,15,2,FALSE,garbage
+4,16,3,FALSE,garbage
+4,17,4,FALSE,garbage
+4,18,5,FALSE,garbage
+4,19,0,FALSE,garbage
+4,20,1,FALSE,garbage
+4,21,2,FALSE,garbage
+4,22,3,FALSE,garbage
+4,23,4,FALSE,garbage
+4,24,5,FALSE,garbage
+4,25,6,FALSE,garbage
+4,26,7,FALSE,garbage
+4,27,8,FALSE,garbage
+4,28,9,FALSE,garbage
+4,29,10,FALSE,garbage
+4,30,20 00,FALSE,garbage
+4,31,Q1 20,FALSE,garbage
+4,32,00 Q3,FALSE,garbage
+4,33,20 01,FALSE,garbage
+4,34,Q1 20,FALSE,garbage
+4,35,01 Q3,FALSE,garbage
+4,36,20 02,FALSE,garbage
+4,37,Q1 20,FALSE,garbage
+4,38,02 Q3,FALSE,garbage
+4,39,20 03,FALSE,garbage
+4,40,Q1 20,FALSE,garbage
+4,41,03 Q3,FALSE,garbage
+4,42,20 04,FALSE,garbage
+4,43,Q1 20,FALSE,garbage
+4,44,04 Q3,FALSE,garbage
+4,45,20 05,FALSE,garbage
+4,46,Q1 20,FALSE,garbage
+4,47,05 Q3,FALSE,garbage
+4,48,20 06,FALSE,garbage
+4,49,Q1 20,FALSE,garbage
+4,50,06 Q3,FALSE,garbage
+4,51,20 07,FALSE,garbage
+4,52,Q1 20,FALSE,garbage
+4,53,07 Q3,FALSE,garbage
+4,54,20 08,FALSE,garbage
+4,55,Q1 20,FALSE,garbage
+4,56,08 Q3,FALSE,garbage
+4,57,20 09,FALSE,garbage
+4,58,Q1 20,FALSE,garbage
+4,59,09 Q3,FALSE,garbage
+4,60,20 10,FALSE,garbage
+4,61,Q1 20,FALSE,garbage
+4,62,10 Q3,FALSE,garbage
+4,63,20 11,FALSE,garbage
+4,64,Q1 20,FALSE,garbage
+4,65,11 Q3,FALSE,garbage
+4,66,20 12,FALSE,garbage
+4,67,Q1 20,FALSE,garbage
+4,68,12 Q3,FALSE,garbage
+4,69,20 13,FALSE,garbage
+4,70,Q1 20,FALSE,garbage
+4,71,13 Q3,FALSE,garbage
+4,72,20 14,FALSE,garbage
+4,73,Q1 20,FALSE,garbage
+4,74,14 Q3,FALSE,garbage
+4,75,20 15,FALSE,garbage
+4,76,Q1 20,FALSE,garbage
+4,77,15 Q3,FALSE,garbage
+4,78,20 16,FALSE,garbage
+4,79,Q1 20,FALSE,garbage
+4,80,16 Q3,FALSE,garbage
+4,81,20 17,FALSE,garbage
+4,82,Q1 20,FALSE,garbage
+4,83,17 Q3,FALSE,garbage
+4,84,20 18,FALSE,garbage
+4,85,Q1 20,FALSE,garbage
+4,86,18 Q3,FALSE,garbage
+4,87,"Series4 Output Gap (RHS) GDP Trend (HP filter, λ=1600)",FALSE,normal
+4,88,"Vietnam: HP Filter, 2000Q1–2018Q4 (In percent)",FALSE,normal
+4,89,Sources: Authorities' Data and IMF Staff estimates.,FALSE,normal
+4,90,NA,FALSE,empty
+5,1,NA,FALSE,empty
+5,2,VIETNAM,FALSE,normal
+5,3,4 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+5,4,"transparency, it remains a purely statistical tool and lacks economic relevance. In addition, the filter suffers from the well-known end-point bias, because the last point of the series has an exaggerated impact on the trend. To solve this problem and obtain a more robust estimate at end-2017, we complement the GDP time series with staff GDP projections for the period 2018Q1–2019Q4. With this approach, potential growth is estimated at 6.5 percent in 2017 and the output gap at 0.75 percent (text Figure).",FALSE,normal
+5,5,B. Potential Output Estimates Using A Multivariate Filter,FALSE,sectionheader
+5,6,"4. The multivariate filter approach (MVF) estimates potential GDP based on a model that captures relationships between actual and potential GDP, inflation and unemployment (Blagrave and others, 2015). Potential output is derived as the level of output that can be achieved when inflation and unemployment are at their equilibrium levels. Bayesian techniques are used to estimate a system of equations that describe the evolution of the 3 key observable variables (output, core inflation and unemployment) and their relationship with potential output (output gap, Phillip’s curve and Okun’s law). The model’s equations and calibration are detailed in Appendix I. Data on growth and inflation expectations (WEO projections for past vintages) are added, in part to help identify shocks, but mostly to improve the accuracy of estimates at the end of the sample period.",FALSE,normal
+5,7,"5. Using the MVF approach, potential growth is estimated at 6.4 percent in 2017 and the output gap at -0.1 percent. While, unlike the HP filter, this methodology relies on economic intuition, there are several shortcomings to applying it to an economy like Vietnam that are worth mentioning. First, as described in Box 1, the relationship between the output gap and inflation is weak. Furthermore, the official unemployment data series exhibits very little variation over the estimation period and unemployment does not seem to respond to aggregate demand shocks. (for example, unemployment was higher in 2004–07—when the output gap was positive—than in 2011–16, after the country was hit by a domestic financial crisis and a negative output gap opened up). This can be explained by the high share of the population employed in the informal, agriculture and the public sectors which are maybe less affected by cyclical conditions.",FALSE,normal
+5,8,NA,FALSE,empty
+5,9,-3 -2 -1 0 1 2 3 4 5,FALSE,garbage
+5,10,0 1 2 3 4 5 6 7 8 9,FALSE,garbage
+5,11,19 99,FALSE,garbage
+5,12,20 00,FALSE,garbage
+5,13,20 01,FALSE,garbage
+5,14,20 02,FALSE,garbage
+5,15,20 03,FALSE,garbage
+5,16,20 04,FALSE,garbage
+5,17,20 05,FALSE,garbage
+5,18,20 06,FALSE,garbage
+5,19,20 07,FALSE,garbage
+5,20,20 08,FALSE,garbage
+5,21,20 09,FALSE,garbage
+5,22,20 10,FALSE,garbage
+5,23,20 11,FALSE,garbage
+5,24,20 12,FALSE,garbage
+5,25,20 13,FALSE,garbage
+5,26,20 14,FALSE,garbage
+5,27,20 15,FALSE,garbage
+5,28,20 16,FALSE,garbage
+5,29,20 17,FALSE,garbage
+5,30,20 18,FALSE,garbage
+5,31,20 19,FALSE,garbage
+5,32,20 20,FALSE,garbage
+5,33,"Vietnam: MVF, 1999–2020 (In percent)",FALSE,normal
+5,34,Output Gap (RHS) GDP Growth Potential Growth,FALSE,normal
+5,35,Sources: Vietnamese authorities; and IMF Staff estimates.,FALSE,normal
+5,36,NA,FALSE,empty
+6,1,NA,FALSE,empty
+6,2,VIETNAM,FALSE,normal
+6,3,INTERNATIONAL MONETARY FUND 5,FALSE,page_footer
+6,4,"Box 1. Vietnam’s Phillip’s Curve The hybrid New-Keynesian Phillip’s curve defines the relationship between inflation, expected and lagged inflation, the lagged output gap and the exchange rate:",FALSE,normal
+6,5,π α π4 1 α π4 α α S (i) With: π = the annualized quarterly change in the core CPI π4 = the four-quarter change in the core CPI,FALSE,normal
+6,6,= the output gap (calculated by HP Filter) = the Nominal Effective Exchange Rate,FALSE,normal
+6,7,"This equation is based on the idea that the role of monetary policy is to provide a nominal anchor for inflation, while pursuing other objectives, such as output stabilization and, in the case of Vietnam, exchange rate stability. It describes the tradeoffs that monetary authority faces between its different objectives. In this definition, some firms (α optimally adjust their prices by taking into account expected inflation while the remaining firms (1 - α either don’t adjust their prices or adjust based on the most recently observed rate of inflation. Thus, the behavior of the economy depends critically on the value of α . If it is close to 1, a small monetary policy action (e.g. increase of interest rates) will have a large and rapid effect on inflation and consequently a limited negative impact on growth. The parameter α can also give some insight on the credibility of the monetary policy. The literature shows that economies with weak monetary credibility have low levels of forward- looking expectations as the inflation target is less likely to anchor expectations.1 This feature is found in highly dollarized economies (such as Vietnam historically), worsening tradeoffs between output and inflation stabilization and increasing the cost of carrying out a stabilization process.2 α measures the exchange rate pass-through to core inflation while α measures the effect of the output gap, that is the excess/slack of aggregate demand, on inflation. To analyze the effect of these variables on Vietnam’s inflation, we conduct a regression analysis to determine the parameters of the reduced-form Phillip’s curve. The coefficients on lagged and expected inflation are constrained so that they sum to one, to follow the definition given by equation (i). Finally, we use core inflation, which excludes raw food, energy and administered prices. The latter have been the main contributors to headline inflation in recent years, as the Vietnamese authorities have raised healthcare and education fees to increase cost recovery. Since the variation of these prices depends on fiscal and social policies rather than monetary policy, we exclude these prices from our analysis.",FALSE,normal
+6,8,"1For example, Laxton and N’Daye (2002), Cespedes and Soto (2005), and Argov et al. (2007). 2Felices and Tuesdta, (2010).",FALSE,normal
+6,9,NA,FALSE,empty
+6,10,0,FALSE,garbage
+6,11,5,FALSE,garbage
+6,12,10,FALSE,garbage
+6,13,15,FALSE,garbage
+6,14,20,FALSE,garbage
+6,15,25 20,FALSE,garbage
+6,16,08 Q1,FALSE,garbage
+6,17,20 08,FALSE,garbage
+6,18,Q3 20,FALSE,garbage
+6,19,09 Q1,FALSE,garbage
+6,20,20 09,FALSE,garbage
+6,21,Q3 20,FALSE,garbage
+6,22,10 Q1,FALSE,garbage
+6,23,20 10,FALSE,garbage
+6,24,Q3 20,FALSE,garbage
+6,25,11 Q1,FALSE,garbage
+6,26,20 11,FALSE,garbage
+6,27,Q3 20,FALSE,garbage
+6,28,12 Q1,FALSE,garbage
+6,29,20 12,FALSE,garbage
+6,30,Q3 20,FALSE,garbage
+6,31,13 Q1,FALSE,garbage
+6,32,20 13,FALSE,garbage
+6,33,Q3 20,FALSE,garbage
+6,34,14 Q1,FALSE,garbage
+6,35,20 14,FALSE,garbage
+6,36,Q3 20,FALSE,garbage
+6,37,15 Q1,FALSE,garbage
+6,38,20 15,FALSE,garbage
+6,39,Q3 20,FALSE,garbage
+6,40,16 Q1,FALSE,garbage
+6,41,20 16,FALSE,garbage
+6,42,Q3 20,FALSE,garbage
+6,43,17 Q1,FALSE,garbage
+6,44,20 17,FALSE,garbage
+6,45,Q3,FALSE,garbage
+6,46,Core Inflation,FALSE,normal
+6,47,Headline Inflation,FALSE,normal
+6,48,Vietnam: Inflation (In percent),FALSE,normal
+6,49,Sources: Vietnamese authorities; and IMF Staff estimates.,FALSE,normal
+6,50,NA,FALSE,empty
+7,1,NA,FALSE,empty
+7,2,VIETNAM,FALSE,normal
+7,3,6 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+7,4,"Box 1. Vietnam’s Phillip’s Curve (Concluded) The results from the regressions are presented in Table 1. Column (1) shows the results for the whole sample period 2000–17. The coefficient on expected inflation is relatively small, indicating backward-looking expectations. The results show a large impact of the output gap on inflation as well as a small passthrough from the exchange rate. The adjusted R2 stands at 0.56 and the residuals are particularly large around the periods of high inflation.",FALSE,normal
+7,5,"Over the period 2013–17, core inflation has been more stable. The regression results are shown in column (2). The negative sign of the output gap coefficient is counter-intuitive, pointing to the data issues discussed earlier. The coefficient on expected inflation is greater than for 2000–17, indicating that the expectations have become more forward-looking. It also implies that the effects of the exchange rate and output gap on inflation have become less persistent while the exchange rate pass-through effect has declined further, in line with the strong stability of the exchange rate during this period. These results may also reflect to some extent credibility gains from the central bank after a period of successful macro-stabilization, also evident in the e observed de-dollarization underway in Vietnam.",FALSE,normal
+7,6,C. Potential Output Estimates Using a Multivariate Filter with Financial Frictions,FALSE,sectionheader
+7,7,"6. This methodology deviates from the MFV in that it focuses on sustainable output levels, rather than potential output (Berger et al., 2015). The sustainable output level is the level of GDP that an economy can sustainably produce over the medium-term in the absence of imbalances. GDP can be at potential but may not be sustainable in the event of a credit boom that temporarily lifts output growth but affects inflation with a lag. This methodology maybe particularly relevant for Vietnam, which has experienced several years of sustained high credit growth. Financial cycles are incorporated in the model using two financial variables, the credit gap (calculated following BIS methodology) and the demeaned asset market price growth (excluding real estate market developments due to the lack of official real estate data for Vietnam).",FALSE,normal
+7,8,"7. Sustainable output growth is estimated at 6.4 percent in 2017, marginally lower than with other methods. This is consistent with the selected issues paper “Vietnam: Credit Growth and Asset Market Valuations“, which finds that asset price and credit growth appear to be stronger than warranted by fundamentals. However, the methodology contains some weaknesses that could be",FALSE,normal
+7,9,-3 -2 - 0 1 2 3 4 5,FALSE,garbage
+7,10,0 1 2 3 4 5 6 7 8 9,FALSE,garbage
+7,11,Ja n-,FALSE,garbage
+7,12,05 Oc,FALSE,garbage
+7,13,t-0 5,FALSE,garbage
+7,14,Ju l-0,FALSE,garbage
+7,15,6 Ap,FALSE,garbage
+7,16,r-0 7,FALSE,garbage
+7,17,Ja n-,FALSE,garbage
+7,18,08 Oc,FALSE,garbage
+7,19,t-0 8,FALSE,garbage
+7,20,Ju l-0,FALSE,garbage
+7,21,9 Ap,FALSE,garbage
+7,22,r-1 0,FALSE,garbage
+7,23,Ja n-,FALSE,garbage
+7,24,11 Oc,FALSE,garbage
+7,25,t-1 1,FALSE,garbage
+7,26,Ju l-1,FALSE,garbage
+7,27,2 Ap,FALSE,garbage
+7,28,r-1 3,FALSE,garbage
+7,29,Ja n-,FALSE,garbage
+7,30,14 Oc,FALSE,garbage
+7,31,t-1 4,FALSE,garbage
+7,32,Ju l-1,FALSE,garbage
+7,33,5 Ap,FALSE,garbage
+7,34,r-1 6,FALSE,garbage
+7,35,Ja n-,FALSE,garbage
+7,36,17 Oc,FALSE,garbage
+7,37,t-1 7,FALSE,garbage
+7,38,Ju l-1,FALSE,garbage
+7,39,8 Ap,FALSE,garbage
+7,40,r-1 9,FALSE,garbage
+7,41,Ja n-,FALSE,garbage
+7,42,20 Oc,FALSE,garbage
+7,43,t-2 0,FALSE,garbage
+7,44,"Vietnam: MVF-FIN, 2005–2020 (In percent)",FALSE,normal
+7,45,Output Gap (RHS) GDP growth Potential Growth,FALSE,normal
+7,46,Sources: Authorities' Data and IMF Staff estimates.,FALSE,normal
+7,47,(1) (2) Period 2000-17 2013-17,FALSE,normal
+7,48,απld 0.43 *** 0.57 *** 1 - απld 0.57 0.43 αGAP 0.75 -0.22 αS 0.24 0.10,FALSE,normal
+7,49,Observations 71 22 Adjusted R2 0.561445 0.861038,FALSE,normal
+7,50,Regressions on πt,FALSE,normal
+7,51,Source: IMF Staff Estimates.,FALSE,normal
+7,52,NA,FALSE,empty
+8,1,NA,FALSE,empty
+8,2,VIETNAM,FALSE,normal
+8,3,INTERNATIONAL MONETARY FUND 7,FALSE,page_footer
+8,4,leading to an underestimation of the size of the financial imbalances and therefore an overestimation of potential output by this model. 3,FALSE,normal
+8,5,D. Potential Output Estimates Using a Production Function Approach,FALSE,sectionheader
+8,6,"8. In this approach, we use the following human-capital augmented production function:4",FALSE,normal
+8,7,NA,FALSE,empty
+8,8,NA,FALSE,empty
+8,9,NA,FALSE,empty
+8,10,"where: Yt = total GDP in year t; At = total factor productivity in year t; Kt = capital stock in year t; αt = income share of capital in year t; Lt = labor force in year t; Ht = human capital in year t; ht = level of human capital per unit of labor in year t; φ = return to education; and St = average years of schooling in year t. 9. Determining elasticities. Due to the unavailability of Vietnam-specific values, the output elasticity with respect to labor, or income share of labor, is determined on the basis of regional estimates. To the extent that Vietnam is integrated into the Asian value chain because of the growing FDI flows from the region, one can expect Vietnam’s output elasticity trends to follow that of its predecessors in the value chain. ASEAN-4 countries (Indonesia, Philippines, Thailand and Malaysia), China (and India) show similar trends of declining income share of labor associated with rising per capita incomes. These countries also exhibit steady increases in their capital intensity (i.e. capital to labor ratio), which was identified as a main factor in the decline of labor income shares in emerging markets.5 By using the approximated linear relationship between the capital to labor ratio and the income share of labor, we estimate Vietnam’s income share of labor.",FALSE,normal
+8,11,"10. Human capital development. In this model, physical labor accumulation is augmented by human capital formation using data on years of schooling and return to education from the Barro- Lee database and Psacharopoulos and Patrinos (2004). Since the last reported data on schooling is as of 2010, we use a linear trend to extrapolate years of schooling in 2011–2023. It is worth mentioning that the present methodology only accounts for the “quantity” of education while the",FALSE,normal
+8,12,"3 Credit gap is calculated using a HP filter and therefore, it is subject to end-point bias. Moreover, the estimates of credit gap may also be affected by weaknesses in GDP and credit data quality and by the fact that the estimates do not incorporate the effect of structural factors underlying the economic transformation underway in Vietnam. 4 The assumptions made for estimating this model are detailed in Appendix I. 5 IMF, 2017c.",FALSE,normal
+8,13,NA,FALSE,empty
+9,1,NA,FALSE,empty
+9,2,VIETNAM,FALSE,normal
+9,3,8 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+9,4,"recent literature emphasizes the “quality” of education which affects the returns to education. This is particularly relevant for Vietnam, given its strong 2015 PISA scores.",FALSE,normal
+9,5,"11. Labor statistics. Vietnam is a young country (median age of 26) and enjoys a substantial demographic dividend.6 However, a declining population has led to a decline in the growth of the labor force since the mid-1990s. Participation rates, male and female, have been high at around 80 percent, largely above regional averages.",FALSE,normal
+9,6,"12. Physical capital. After two decades of steady decline, investment growth picked up in 2014. In 2017, total investment grew by 10 percent. As a result, the physical capital stock growth accelerated in the last 5 years, to about 8 percent in 2017 (this includes the growth of high quality FDI capital in recent years).",FALSE,normal
+9,7,"13. Total Factor Productivity. There have been three phases of productivity growth since the doi moi reforms launched in 1986. After a period of volatility, TFP growth averaged 2.1 percent until the Asian Financial Crisis. Between 2000−07, TFP grew more slowly, a little under 1 percent on average. The GFC and domestic financial turmoil in 2008 and 2011 led to a slowdown of TFP growth. Since 2013, TFP has recovered and grew at an average of 1.7 percent per year. 7 Regression analysis shows that the main drivers of TFP growth have been increasing FDI inflows, the declining share of employment in agriculture, declining credit to SOEs and increasing domestic private investment.",FALSE,normal
+9,8,"14. Using the augmented production function approach, we estimate potential GDP growth at 6.5 percent in 2017. Potential GDP is obtained by summing the growth rates of physical 6 IMF, 2017a. 7 Due to data constraints, TFP also captures other factors such as education quality, capacity utilization and average hours worked.",FALSE,normal
+9,9,NA,FALSE,empty
+9,10,-2,FALSE,garbage
+9,11,-1,FALSE,garbage
+9,12,0,FALSE,garbage
+9,13,1,FALSE,garbage
+9,14,2,FALSE,garbage
+9,15,3,FALSE,garbage
+9,16,4,FALSE,garbage
+9,17,19 86,FALSE,garbage
+9,18,19 88,FALSE,garbage
+9,19,19 90,FALSE,garbage
+9,20,19 92,FALSE,garbage
+9,21,19 94,FALSE,garbage
+9,22,19 96,FALSE,garbage
+9,23,19 98,FALSE,garbage
+9,24,20 00,FALSE,garbage
+9,25,20 02,FALSE,garbage
+9,26,20 04,FALSE,garbage
+9,27,20 06,FALSE,garbage
+9,28,20 08,FALSE,garbage
+9,29,20 10,FALSE,garbage
+9,30,20 12,FALSE,garbage
+9,31,20 14,FALSE,garbage
+9,32,20 16,FALSE,garbage
+9,33,20 18,FALSE,garbage
+9,34,20 20,FALSE,garbage
+9,35,20 22,FALSE,garbage
+9,36,Vietnam: Total Factor Productivity Growth (In percent),FALSE,normal
+9,37,Average 1.7,FALSE,normal
+9,38,percent,FALSE,normal
+9,39,Average 2.1,FALSE,normal
+9,40,percent,FALSE,normal
+9,41,Average 0.94,FALSE,normal
+9,42,percent,FALSE,normal
+9,43,Sources: Vietnamese authorities; PWT 8.1; and IMF Staff estimates.,FALSE,normal
+9,44,‐10.0,FALSE,garbage
+9,45,‐5.0,FALSE,garbage
+9,46,0.0,FALSE,garbage
+9,47,5.0,FALSE,garbage
+9,48,10.0,FALSE,garbage
+9,49,15.0,FALSE,garbage
+9,50,20.0,FALSE,garbage
+9,51,25.0,FALSE,garbage
+9,52,30.0,FALSE,garbage
+9,53,35.0,FALSE,garbage
+9,54,0,FALSE,garbage
+9,55,2,FALSE,garbage
+9,56,4,FALSE,garbage
+9,57,6,FALSE,garbage
+9,58,8,FALSE,garbage
+9,59,10,FALSE,garbage
+9,60,12,FALSE,garbage
+9,61,14,FALSE,garbage
+9,62,19 94,FALSE,garbage
+9,63,19 96,FALSE,garbage
+9,64,19 98,FALSE,garbage
+9,65,20 00,FALSE,garbage
+9,66,20 02,FALSE,garbage
+9,67,20 04,FALSE,garbage
+9,68,20 06,FALSE,garbage
+9,69,20 08,FALSE,garbage
+9,70,20 10,FALSE,garbage
+9,71,20 12,FALSE,garbage
+9,72,20 14,FALSE,garbage
+9,73,20 16,FALSE,garbage
+9,74,20 18,FALSE,garbage
+9,75,20 20,FALSE,garbage
+9,76,20 22,FALSE,garbage
+9,77,Investment growth (RHS) Capital growth (LHS),FALSE,normal
+9,78,"Vietnam: Physical Capital, 1990–2023 (In percent)",FALSE,normal
+9,79,Sources: Vietnamese authorities; PWT 8.1; and IMF Staff estimates.,FALSE,normal
+9,80,40 45 50 55 60 65 70 75 80 85,FALSE,garbage
+9,81,0.00 0.50 1.00 1.50 2.00 2.50 3.00 3.50 4.00 4.50 5.00,FALSE,garbage
+9,82,19 90,FALSE,garbage
+9,83,19 92,FALSE,garbage
+9,84,19 94,FALSE,garbage
+9,85,19 96,FALSE,garbage
+9,86,19 98,FALSE,garbage
+9,87,20 00,FALSE,garbage
+9,88,20 02,FALSE,garbage
+9,89,20 04,FALSE,garbage
+9,90,20 06,FALSE,garbage
+9,91,20 08,FALSE,garbage
+9,92,20 10,FALSE,garbage
+9,93,20 12,FALSE,garbage
+9,94,20 14,FALSE,garbage
+9,95,20 16,FALSE,garbage
+9,96,20 18,FALSE,garbage
+9,97,20 20,FALSE,garbage
+9,98,20 22,FALSE,garbage
+9,99,Labor force growth (LHS) Participation rate (RHS),FALSE,normal
+9,100,"Vietnam: Labor Force, 1990–2023 (In percent)",FALSE,normal
+9,101,Sources: Vietnamese authorities; PWT 8.1; and IMF Staff estimates.,FALSE,normal
+9,102,NA,FALSE,empty
+10,1,NA,FALSE,empty
+10,2,VIETNAM,FALSE,normal
+10,3,INTERNATIONAL MONETARY FUND 9,FALSE,page_footer
+10,4,"capital, human capital and labor, since the cyclical components such as capacity utilization and unemployment are not included in these series. However, the TFP growth series, which contains de facto these cyclical factors, is filtered using a HP filter to obtain a potential TFP growth.",FALSE,normal
+10,5,"15. The model can also be used to forecast potential output. The main assumptions regarding the GDP components are as follows.8 Investment is projected to grow at a rate of 10 percent in average, labor force growth to continue to decline at the rate of population growth and human capital growth to remain constant at 1.02 percent. We project a moderate improvement in average TFP growth due to the continued shift of labor away from agriculture and towards the more productive manufacturing sector, and increased FDI inflows and private sector participation. Regressions analysis supports a wide range of average TFP growth between 1.7 to 2.5 percent. An average TFP growth over 2 percent per year is unlikely to materialize in the current global and regional context, in which most countries have seen a worsening of productivity growth in the aftermath of the GFC and given the impact of aging on TFP growth.9 Hence, assuming continuity in the pace of structural reforms and improved fundamentals that have produced TFP growth in the recent past, we assume TFP to grow by an average 1.8 percent, similar to the 2014–17 average.",FALSE,normal
+10,6,"16. Given these assumptions, potential growth could average 6.8 percent over the medium-term, reaching 7.3 percent by 2023 (see text Table and Figure).",FALSE,normal
+10,7,E. Conclusions,FALSE,sectionheader
+10,8,"17. The four methodologies provide a range of estimates for Vietnam’s potential output. On balance, we assess the potential growth estimate in Vietnam to be at 6.5 percent in 2017, higher than previous staff estimates of 6.2. The output gap is estimated at 0.4 percent in 2017. Potential",FALSE,normal
+10,9,"8 Detailed assumptions are described in Appendix 1. 9 IMF, 2017b.",FALSE,normal
+10,10,-2,FALSE,garbage
+10,11,0,FALSE,garbage
+10,12,2,FALSE,garbage
+10,13,4,FALSE,garbage
+10,14,6,FALSE,garbage
+10,15,8,FALSE,garbage
+10,16,10,FALSE,garbage
+10,17,1986-93 1993-97 1998-2002 2003-07 2008-12 2013-17 2018-2023 α.kt (1-α).ht (1-α).Lt TFP Yt,FALSE,garbage
+10,18,Vietnam: Contribution to Growth,FALSE,normal
+10,19,"Sources: Authorities' Data, PWT 8.1, and IMF Staff estimates.",FALSE,normal
+10,20,Yt α.kt (1-α).ht (1-α).Lt TFP 1986-93 4.92 1.66 -0.16 1.84 1.57 1993-97 8.42 4.12 0.70 1.52 2.09 1998-200 5.13 4.02 0.72 1.82 -1.42 2003-07 6.92 3.84 0.68 1.46 0.94 2008-12 5.63 3.52 0.61 1.19 0.32 2013-17 6.03 3.10 0.58 0.71 1.65 2018-202 6.80 3.97 0.53 0.49 1.80,FALSE,garbage
+10,21,Vietnam: Contribution to Growth,FALSE,normal
+10,22,"Sources: Authorities' Data, PWT 8.1, and IMF Staff estimates",FALSE,normal
+10,23,NA,FALSE,empty
+11,1,NA,FALSE,empty
+11,2,VIETNAM,FALSE,normal
+11,3,10 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+11,4,"output growth is estimated to remain at 6.5 percent over the medium-term, and the output gap is expected to close in 2019. The higher rate of potential growth can be explained by relatively high investment levels, a large and well-educated labor force which is moving towards higher value-added industries. In addition, reforms reduced the size of the SOE sector and boosted the private sector’s participation in the economy have enhanced productivity. The booming FDI sector provides an excellent opportunity to enhance the quality of capital and facilitate the transfer of technology and expertise to the domestic sector.",FALSE,normal
+11,5,"18. This analysis will be extended further in a forthcoming paper. The production function estimates can be further improved by explicitly incorporating the effect of structural transformation due to labor reallocation into the model, and by better accounting for the impact of the quality of human capital accumulation by taking the quality of education into account. Improvements in data quality, for example, on real estate prices, quarterly GDP, unemployment rate and labor force in the informal sector, and capacity utilization, could further enhance the analysis.",FALSE,normal
+11,6,5,FALSE,garbage
+11,7,5.5,FALSE,garbage
+11,8,6,FALSE,garbage
+11,9,6.5,FALSE,garbage
+11,10,7,FALSE,garbage
+11,11,7.5,FALSE,garbage
+11,12,8,FALSE,garbage
+11,13,Estimates Average Growth,FALSE,normal
+11,14,"Vietnam: Potential Growth Estimates, 2001–20 (In percent)",FALSE,normal
+11,15,Sources: Authorities' Data and IMF Staff estimates.,FALSE,normal
+11,16,NA,FALSE,empty
+12,1,NA,FALSE,empty
+12,2,VIETNAM,FALSE,normal
+12,3,INTERNATIONAL MONETARY FUND 11,FALSE,page_footer
+12,4,"Appendix I. Models Equations, Calibration and Assumptions I. HP filter",FALSE,normal
+12,5,"The standard quarterly λ for economic variables of 1,600 is used here. The GDP series on which the HP filter is applied consists of actual data for 2000Q1–2017Q4 and staff GDP projections for the period 2018Q1–2019Q4 (to minimize the end-point bias).",FALSE,normal
+12,6,II. Multivariate Filter,FALSE,normal
+12,7,Equations:,FALSE,normal
+12,8,The equations describe the evolution of the output process and its relationship with inflation and unemployment.,FALSE,normal
+12,9,1. Output,FALSE,normal
+12,10,NA,FALSE,empty
+12,11,1,FALSE,garbage
+12,12,"The level of potential output evolves according to potential growth and a shock term . Potential growth is also subject to shocks , and converges back to its steady-state path according to the parameter . Finally, the output gap is also subject to shocks which are effectively demand shocks.",FALSE,normal
+12,13,2. Phillip’s Curve 1,FALSE,normal
+12,14,where is the core inflation and the output gap.,FALSE,normal
+12,15,3. Okun’s Law,FALSE,normal
+12,16,NA,FALSE,empty
+12,17,"where is the unemployment gap, that is the difference between the NAIRU and the unemployment rate .",FALSE,normal
+12,18,4. Unemployment 1,FALSE,normal
+12,19,1,FALSE,garbage
+12,20,NA,FALSE,empty
+13,1,NA,FALSE,empty
+13,2,VIETNAM,FALSE,normal
+13,3,12 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+13,4,"is time varying and subject to shocks and variations in the trend , which is itself also subject to shocks —this specification allows for persistent deviations of the NAIRU from its steady-state value .",FALSE,normal
+13,5,"In addition, data on growth and inflation expectations (WEO projections for past vintages) are added, in part to help identify shocks, but mostly to improve the accuracy of estimates at the end of the sample period.",FALSE,normal
+13,6,Calibration,FALSE,normal
+13,7,Vietnam: Regularized Maximum Likelihood,FALSE,normal
+13,8,III. Phillips Curve (Box 1),FALSE,normal
+13,9,"In regression (1), the statistical significance of the coefficients on output gap and exchange rate is weak, at 0.2. The estimated coefficient of the output gap could be affected by the quality of the quarterly GDP series which undermines the HP filter calculation. The exchange rate has been maintained within a tight range to the U.S. Dollar during most of the period, limiting the information available to explain changes in inflation.",FALSE,normal
+13,10,"A variation of the regression model, where the change in reserves and lagged credit growth are added as independent variables to the regression, increases the adjusted R2 increased to 0.74 for the period 2008–12. Reserve intervention has indeed been a major monetary policy instrument used by the SBV to limit exchange rate depreciation and as such, have impacted inflation during this period.",FALSE,normal
+13,11,Parameter Prior Posterior lambda 0.250 0.498 beta 0.250 0.252 phi 0.600 0.618 theta 0.100 0.161 std_RES_LGDP_BAR 0.500 0.500 std_RES_G 0.500 0.500 std_RES_Y 1.000 0.999 std_RES_PIE 1.000 1.365 std_RES_UNR_GAP 0.800 0.798 std_RES_UNR_BAR 0.300 0.300 std_RES_G_UNR_BAR 0.300 0.298 tau1 0.100 0.094 tau2 0.100 0.136 tau3 0.100 0.101 tau4 0.100 0.101,FALSE,normal
+13,12,Other Calibration Gss 2.2 Uss 6.5,FALSE,normal
+13,13,NA,FALSE,empty
+14,1,NA,FALSE,empty
+14,2,VIETNAM,FALSE,normal
+14,3,INTERNATIONAL MONETARY FUND 13,FALSE,page_footer
+14,4,One caveat about regression (2) results is that the small number of observations might impact negatively the robustness of the results.,FALSE,normal
+14,5,IV. Multivariate Filter with Financial Frictions,FALSE,normal
+14,6,Sustainable GDP is estimated by decomposing observed GDP time series into two unobservable components:,FALSE,normal
+14,7,∗,FALSE,empty
+14,8,∆ ∗ ∗,FALSE,empty
+14,9,∗,FALSE,empty
+14,10,"where ∗ is the sustainable output and is the business cycle. Mirroring the HP filter, the model is estimated with a constraint on the variance ratio to ensure the desired decomposition of the filtered series.",FALSE,normal
+14,11,"In addition, the model takes into account information from a set of observable variables, which could be correlated to the output gap:",FALSE,normal
+14,12,∗ ∗,FALSE,empty
+14,13,where the variance ratio ∗,FALSE,normal
+14,14,∆ ∗ is constrained to match the one implied by the three equations,FALSE,normal
+14,15,"above, and implicitly the frequency characteristics of the HP filter. Model parameters are estimated using maximum likelihood estimation method. contains three variables, headline inflation, stock market price growth and credit gap.",FALSE,normal
+14,16,V. Potential Output Estimates Using A Production Function Approach Assumptions made for potential output forecast,FALSE,sectionheader
+14,17,"Labor statistics. The participation rate is projected to remain constant during projection period, while labor force growth is projected to continue to decline at the rate of population growth, based on the United Nation’s population projections. Given the large share of informal and self- employment in Vietnam, as well as the lack of reliable comprehensive data, the unemployment rate is assumed unchanged over the period.",FALSE,normal
+14,18,Human Capital. Schooling for 2011–23 is extrapolated from a linear trend. Return to education is assume constant at 7% over the period.,FALSE,normal
+14,19,NA,FALSE,empty
+15,1,NA,FALSE,empty
+15,2,VIETNAM,FALSE,normal
+15,3,14 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+15,4,"Physical Capital. Data on capital stock is available from the Penn World Table until 2014. For 2015– 23, the new stock is calculated using the formula:",FALSE,normal
+15,5,1 where: Kt = Capital stock in year t; δt = Depreciation ratio in year t; It = Investment in year t.,FALSE,normal
+15,6,"The depreciation ratio is projected to remain constant, at 4.5 percent, while the data on investment is based on IMF baseline projections for gross fixed capital formation (for 2015–17, the data is provided by the Vietnamese authorities). In 2018–23, investment is projected to grow by 10 percent, in line with recent average growth rates. Capital stock is expected to continue to grow after sustained deceleration between 1994 and 2013. Given the unavailability of data, capacity utilization is assumed to be unchanged over the period. The actual changes of the capacity utilization are captured in the TFP.",FALSE,normal
+15,7,NA,FALSE,empty
+16,1,NA,FALSE,empty
+16,2,VIETNAM,FALSE,normal
+16,3,INTERNATIONAL MONETARY FUND 15,FALSE,page_footer
+16,4,"References Argov, Epstein, Karam, Laxton and Rose, 2007. “Endogenous Monetary Policy Credibility in a Small",FALSE,normal
+16,5,"Macro Model of Israel.” IMF Working Paper 07/207, International Monetary Fund, Washington, DC.",FALSE,normal
+16,6,"Benes, Clinton, Garcia-Saltos, Johnson, Laxton, Manchev and Matheson, 2010. “Estimating Potential Output with a Multivariate Filter.” IMF Working Paper 10/285, International Monetary Fund, Washington, DC.",FALSE,normal
+16,7,"Berger, Dowling, Lanau, Lian, Mrkaic, Rabanal and Sanjani, 2015. “Steady as She Goes—Estimating Potential Output During Financial “Booms and Busts”.” IMF Working Paper 15/233, International Monetary Fund, Washington, DC.",FALSE,normal
+16,8,"Blagrave, Garcia-Saltos, Laxton and Zhang, 2015. “A Simple Multivariate Filter for Estimating Potential Output.” IMF Working Paper 15/79, International Monetary Fund, Washington, DC.",FALSE,normal
+16,9,"Cespedes and Soto, 2006. “Credibility and Inflation Targeting in Chile.” Central Bank of Chile, Working Papers, N° 408",FALSE,normal
+16,10,"Dizioli and Schmittmann, 2015. “A Macro-Model Approach to Monetary Policy Analysis and Forecasting for Vietnam.” IMF Working Paper 15/273, International Monetary Fund, Washington, DC.",FALSE,normal
+16,11,"Felices and Tuesdta, 2007. ”Monetary Policy in a Dual Currency Environment.” Central Reserve Bank of Peru, Working Paper series, April 2007",FALSE,normal
+16,12,"International Monetary Fund, 2015. “Where are we Headed? Perspectives on Potential Output.” World Economic Outlook, April, Washington, DC.",FALSE,normal
+16,13,"International Monetary Fund, 2016. “Global Disinflation in an Era of Constrained Monetary Policy.” World Economic Outlook, April, Washington, DC.",FALSE,normal
+16,14,"International Monetary Fund, 2017a. “Vietnam, Selected Issues, Demographics.” IMF Country Report No. 17/191, International Monetary Fund, Washington, DC.",FALSE,normal
+16,15,"International Monetary Fund, 2017b. “The “new mediocre” and the Outlook for Productivity in Asia.” Regional Economic Outlook, April, Washington, DC.",FALSE,normal
+16,16,"International Monetary Fund, 2017c. “Understanding the Downward Trend in Labor Income Shares.” World Economic Outlook, April, Washington, DC.",FALSE,normal
+16,17,"Laxton and N’Daye, 2002. Monetary Policy Credibility and the unemployment-inflation trade-off, IMF Working Paper 02/220, International Monetary Fund, Washington, DC.",FALSE,normal
+16,18,NA,FALSE,empty
+17,1,NA,FALSE,empty
+17,2,VIETNAM,FALSE,normal
+17,3,16 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+17,4,"Maliszewski, 2010. “Vietnam: Bayesian Estimation of Output Gap.” IMF Working Paper 10/149, International Monetary Fund, Washington, DC.",FALSE,normal
+17,5,"Podpiera, Raei and Stepanyan, 2017. “A Fresh Look at Potential Output in Central, Eastern, and Southeastern European Countries.” IMF Working Paper 17/37, International Monetary Fund, Washington, DC.",FALSE,normal
+17,6,"Psacharopoulos and Patrinos, 2014. “Returns to Investment in Education: A Further Update.” Education Economics, Vol. 12, No. 2",FALSE,normal
+17,7,"Rand and Tarp, 2002. “Business Cycles in Developing Countries: Are They Different?” World Development, Vol. 30, No. 12, pp. 2071–2088",FALSE,normal
+17,8,NA,FALSE,empty
+18,1,NA,FALSE,empty
+18,2,VIETNAM,FALSE,normal
+18,3,INTERNATIONAL MONETARY FUND 17,FALSE,page_footer
+18,4,"VIETNAM: CREDIT GROWTH AND ASSET MARKET VALUATIONS1 Vietnam has experienced strong growth in credit and asset prices in recent years. This paper looks at recent developments in aggregate credit volumes, stock markets, and housing markets to examine whether financial market developments are in line with economic fundamentals. Overall, asset prices and credit growth appear to be stronger than warranted by fundamentals, suggesting the need for tighter policies including a lower credit growth target by the central bank. The analysis is, however, substantially constrained by the data weaknesses.",FALSE,normal
+18,5,"1. Vietnam has experienced strong growth in credit for several years and, more recently, in asset prices. Since a strong growth in financial variables can potentially signal overheating, it is important to assess the extent of their deviations from economic fundamentals. This paper looks at recent developments in aggregate credit volumes, stock markets, and housing markets to examine whether financial market developments are in line with economic fundamentals.",FALSE,normal
+18,6,"2. The analysis is constrained by data weaknesses. The analysis on credit growth is constrained by the lack of accurate data on sectoral credit growth, particularly those for real estate lending and lending to preferred sectors selected by the government. Furthermore, the analysis of stock markets cannot be extended to examine potential impacts of stock price corrections on the financial and corporate sector unless more granular data on individual bank and corporate balance sheet becomes available. Finally, official statistics for real estate prices are unavailable, and the large volatility in the housing price indices provided by private real estate firms and the small size of sample, makes the analysis less reliable.",FALSE,normal
+18,7,A. Credit Growth,FALSE,sectionheader
+18,8,"3. Credit-to-GDP ratios in Vietnam have increased for more than a decade (text Figure). While the ratios were around 30 percent in the early 2000s, they have significantly increased and reached around 130 percent in 2017. The HP filter trend (lambda = 400,000) shows a clear upward trend in the ratios, suggesting that Vietnam has been in the process of financial deepening. Around the trend of financial deepening, the credit-to-GDP ratios sharply increased after the global financial crisis in 2009–2010, experienced some corrections around the time Vietnam experienced a crisis in 2011 due to a real estate market bust, and have",FALSE,normal
+18,9,1 Prepared by Mitsuru Katagiri (MCM). The author thanks the seminar participants at the SBV for their thoughtful comments.,FALSE,normal
+18,10,NA,FALSE,empty
+18,11,0,FALSE,garbage
+18,12,20,FALSE,garbage
+18,13,40,FALSE,garbage
+18,14,60,FALSE,garbage
+18,15,80,FALSE,garbage
+18,16,100,FALSE,garbage
+18,17,120,FALSE,garbage
+18,18,140,FALSE,garbage
+18,19,160,FALSE,garbage
+18,20,19 92,FALSE,garbage
+18,21,Q1 19,FALSE,garbage
+18,22,93 Q1,FALSE,garbage
+18,23,19 94,FALSE,garbage
+18,24,Q1 19,FALSE,garbage
+18,25,95 Q1,FALSE,garbage
+18,26,19 96,FALSE,garbage
+18,27,Q1 19,FALSE,garbage
+18,28,97 Q1,FALSE,garbage
+18,29,19 98,FALSE,garbage
+18,30,Q1 19,FALSE,garbage
+18,31,99 Q1,FALSE,garbage
+18,32,20 00,FALSE,garbage
+18,33,Q1 20,FALSE,garbage
+18,34,01 Q1,FALSE,garbage
+18,35,20 02,FALSE,garbage
+18,36,Q1 20,FALSE,garbage
+18,37,03 Q1,FALSE,garbage
+18,38,20 04,FALSE,garbage
+18,39,Q1 20,FALSE,garbage
+18,40,05 Q1,FALSE,garbage
+18,41,20 06,FALSE,garbage
+18,42,Q1 20,FALSE,garbage
+18,43,07 Q1,FALSE,garbage
+18,44,20 08,FALSE,garbage
+18,45,Q1 20,FALSE,garbage
+18,46,09 Q1,FALSE,garbage
+18,47,20 10,FALSE,garbage
+18,48,Q1 20,FALSE,garbage
+18,49,11 Q1,FALSE,garbage
+18,50,20 12,FALSE,garbage
+18,51,Q1 20,FALSE,garbage
+18,52,13 Q1,FALSE,garbage
+18,53,20 14,FALSE,garbage
+18,54,Q1 20,FALSE,garbage
+18,55,15 Q1,FALSE,garbage
+18,56,20 16,FALSE,garbage
+18,57,Q1 20,FALSE,garbage
+18,58,17 Q1,FALSE,garbage
+18,59,20 18,FALSE,garbage
+18,60,Q1 20,FALSE,garbage
+18,61,19 Q1,FALSE,garbage
+18,62,"Credit-to-GDP ratios Trend (HP filter, lambda = 400,000)",FALSE,normal
+18,63,projection,FALSE,normal
+18,64,Vietnam: Credit-to-GDP (In Percent),FALSE,normal
+18,65,Sources: National authorities; and IMF staff calculations.,FALSE,normal
+18,66,NA,FALSE,empty
+19,1,NA,FALSE,empty
+19,2,VIETNAM,FALSE,normal
+19,3,18 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+19,4,"strongly increased again recently 2012, reflecting the government’s high annual credit growth targets.",FALSE,normal
+19,5,"4. To assess whether credit growth has been excessive, the analysis examines two early warning indicators (EWI) for credit widely used in the literature. The first EWI is the deviation of credit-to-GDP ratios from its HP filter trend (the credit gap, hereafter), where the HP filter trend provides an estimation of the long-term trend of financial deepening. The credit gap is considered the most informative EWI for capturing excessively rapid increases (or decreases) in credit volume in the literature (e.g., Drehmann and Tsatsaronis 2014). Given its high predictive powers for crises, it is often recommended as a trigger for implementing or tightening macroprudential policies. The second EWI is the year-on-year percentage point changes in credit-to-GDP ratios (the credit growth gap, hereafter). While the credit growth gap is a less common EWI than the credit gap in the literature, the analysis by Gersl and Jasova (2018) empirically shows that the credit growth gap is more informative in predicting financial crises in emerging economies than the credit gap.",FALSE,normal
+19,6,"5. The EWIs in Vietnam indicate that credit has been growing faster than financial deepening. The credit gap was positive but still less than 10 percent in 2017, as compared to the more than 20 percent gap during the 2011 crisis (text Figure). The credit growth gap reached almost the same level as the one during the 2011 crisis in the mid-2016 but declined somewhat in 2017 due to both the higher nominal GDP growth and the lower credit growth. It is worth noting, however, that the aggregate credit data cannot capture risks associated with sectoral credit growth, such as very high credit growth rates in consumer loans in recent years. Also, there may be risks from directed credit, namely commercial banks being asked by the government to lend to preferred sectors at lower interest rates.",FALSE,normal
+19,7,"6. Under current projections for the economic outlook, the risk to financial stability could be contained if overall credit growth is tightened further. The government’s credit growth target for 2018 is set at 17 percent. Under the baseline scenario of nominal GDP growth of around 10.5 percent in 2018 and 2019, the credit gap and the credit growth gap will increase but still be around 6–7 percent and 7–9 percentage points in 2019. However, if credit growth were to accelerate to 20 percent in 2018 and 2019, the credit gap and the credit growth gap would swiftly rise to",FALSE,normal
+19,8,NA,FALSE,empty
+19,9,-15,FALSE,garbage
+19,10,-10,FALSE,garbage
+19,11,-5,FALSE,garbage
+19,12,0,FALSE,garbage
+19,13,5,FALSE,garbage
+19,14,10,FALSE,garbage
+19,15,15,FALSE,garbage
+19,16,20,FALSE,garbage
+19,17,25,FALSE,garbage
+19,18,19 92,FALSE,garbage
+19,19,Q1 19,FALSE,garbage
+19,20,93 Q2,FALSE,garbage
+19,21,19 94,FALSE,garbage
+19,22,Q3 19,FALSE,garbage
+19,23,95 Q4,FALSE,garbage
+19,24,19 97,FALSE,garbage
+19,25,Q1 19,FALSE,garbage
+19,26,98 Q2,FALSE,garbage
+19,27,19 99,FALSE,garbage
+19,28,Q3 20,FALSE,garbage
+19,29,00 Q4,FALSE,garbage
+19,30,20 02,FALSE,garbage
+19,31,Q1 20,FALSE,garbage
+19,32,03 Q2,FALSE,garbage
+19,33,20 04,FALSE,garbage
+19,34,Q3 20,FALSE,garbage
+19,35,05 Q4,FALSE,garbage
+19,36,20 07,FALSE,garbage
+19,37,Q1 20,FALSE,garbage
+19,38,08 Q2,FALSE,garbage
+19,39,20 09,FALSE,garbage
+19,40,Q3 20,FALSE,garbage
+19,41,10 Q4,FALSE,garbage
+19,42,20 12,FALSE,garbage
+19,43,Q1 20,FALSE,garbage
+19,44,13 Q2,FALSE,garbage
+19,45,20 14,FALSE,garbage
+19,46,Q3 20,FALSE,garbage
+19,47,15 Q4,FALSE,garbage
+19,48,20 17,FALSE,garbage
+19,49,Q1 20,FALSE,garbage
+19,50,18 Q2,FALSE,garbage
+19,51,20 19,FALSE,garbage
+19,52,Q3,FALSE,garbage
+19,53,credit growth = 14 percent credit growth = 20 percent credit growth = 17 percent 1.0-sigma 2.0-sigma,FALSE,normal
+19,54,projection,FALSE,normal
+19,55,Vietnam: Credit Gap (In Percent),FALSE,normal
+19,56,Sources: National authorities; and IMF staff calculations.,FALSE,normal
+19,57,-20,FALSE,garbage
+19,58,-15 -10,FALSE,garbage
+19,59,-5 0,FALSE,garbage
+19,60,5 10 15,FALSE,garbage
+19,61,20 25,FALSE,garbage
+19,62,19 93,FALSE,garbage
+19,63,Q1 19,FALSE,garbage
+19,64,94 Q2,FALSE,garbage
+19,65,19 95,FALSE,garbage
+19,66,Q3 19,FALSE,garbage
+19,67,96 Q4,FALSE,garbage
+19,68,19 98,FALSE,garbage
+19,69,Q1 19,FALSE,garbage
+19,70,99 Q2,FALSE,garbage
+19,71,20 00,FALSE,garbage
+19,72,Q3 20,FALSE,garbage
+19,73,01 Q4,FALSE,garbage
+19,74,20 03,FALSE,garbage
+19,75,Q1 20,FALSE,garbage
+19,76,04 Q2,FALSE,garbage
+19,77,20 05,FALSE,garbage
+19,78,Q3 20,FALSE,garbage
+19,79,06 Q4,FALSE,garbage
+19,80,20 08,FALSE,garbage
+19,81,Q1 20,FALSE,garbage
+19,82,09 Q2,FALSE,garbage
+19,83,20 10,FALSE,garbage
+19,84,Q3 20,FALSE,garbage
+19,85,11 Q4,FALSE,garbage
+19,86,20 13,FALSE,garbage
+19,87,Q1 20,FALSE,garbage
+19,88,14 Q2,FALSE,garbage
+19,89,20 15,FALSE,garbage
+19,90,Q3 20,FALSE,garbage
+19,91,16 Q4,FALSE,garbage
+19,92,20 18,FALSE,garbage
+19,93,Q1 20,FALSE,garbage
+19,94,19 Q2,FALSE,garbage
+19,95,credit growth = 14 percent credit growth = 20 percent credit growth = 17 percent 1.0 - sigma 2.0 - sigma,FALSE,normal
+19,96,Sources: National authorities; and IMF staff calculations.,FALSE,normal
+19,97,Vietnam: Credit Growth Gap,FALSE,normal
+19,98,projection,FALSE,normal
+19,99,NA,FALSE,empty
+20,1,NA,FALSE,empty
+20,2,VIETNAM,FALSE,normal
+20,3,INTERNATIONAL MONETARY FUND 19,FALSE,page_footer
+20,4,"approach previous crisis level, thus posing a risk to financial stability. To close the credit gap to zero, credit growth should remain around 14 percent in 2018. In the long run, the credit growth target should be phased out along with adopting a monetary policy framework based on inflation targeting and open market operations, so that the credit growth is determined by a market-based mechanism.",FALSE,normal
+20,5,"7. A third approach to assessing excessive credit growth is to determine deviations from benchmark levels of credit-to-GDP ratios. The benchmark level of credit-to-GDP ratios, , is assumed to be a function of per capita GDP and computed by the fitted values in the following regression analysis,",FALSE,normal
+20,6,", ,",FALSE,empty
+20,7,"Here, , is per capita income in US dollar for country i in period t. 2 The deviations from fitted values of credit-to-GDP ratios are interpreted as an indication of excessive credit supply. Additional explanatory variables such as population, non-linear terms, etc. can be incorporated into these estimations to more precisely capture the improvements in economic fundamentals that foster financial development. 3 However, the simple regression model above provides a good framework for determining the benchmark because per capita GDP accounts for variations of the credit-to-GDP ratios across countries and periods very well (text Figure on next page) and because adding insignificant variables possibly poses a risk to overfitting.",FALSE,normal
+20,8,"8. The benchmarking exercise indicates that the recent increase in credit-to-GDP ratios may have been too rapid in Vietnam. The text Figure shows the benchmark level of credit-to-GDP ratios for Vietnam with 1.0- and 1.5-SD bands along with the actual values. The figure indicates that the credit-to-GDP ratios in Vietnam have grown at a faster pace than estimated by their per capita GDP. The ratios were within the 1.5-SD band after the correction during the 2011 crisis, but they are now outside the 1.5-SD band again reflecting the recent rapid credit growth. The same benchmarking exercise in selected countries (text Figure) shows large positive deviations from benchmark levels historically led to banking crises followed by sharp corrections in credit volumes. Past experiences in other countries also suggests that while large and positive deviations of credit-to-GDP ratios from 2 The data for credit-to-GDP ratios are taken from the BIS database of credit gaps (https://www.bis.org/statistics/c_gaps.htm). The estimation is conducted by the panel data for the average values of 1995–2004 and 2005–2016, and the dummy variables for Asian countries are added to control for their high credit- to-GDP ratios on average. 3 While other variables such as population, financial openness (Chinn-Ito index), and urbanization are arguably relevant explanatory variables for the level of financial development in the literature, they are not significant for the sample countries and periods here. For more details on the benchmark exercise of credit-to-GDP ratios, see Barajas et al. (2013) and Beck and Feyen (2013).",FALSE,normal
+20,9,NA,FALSE,empty
+20,10,0,FALSE,garbage
+20,11,20,FALSE,garbage
+20,12,40,FALSE,garbage
+20,13,60,FALSE,garbage
+20,14,80,FALSE,garbage
+20,15,100,FALSE,garbage
+20,16,120,FALSE,garbage
+20,17,140,FALSE,garbage
+20,18,19 92,FALSE,garbage
+20,19,19 93,FALSE,garbage
+20,20,19 94,FALSE,garbage
+20,21,19 95,FALSE,garbage
+20,22,19 96,FALSE,garbage
+20,23,19 97,FALSE,garbage
+20,24,19 98,FALSE,garbage
+20,25,19 99,FALSE,garbage
+20,26,20 00,FALSE,garbage
+20,27,20 01,FALSE,garbage
+20,28,20 02,FALSE,garbage
+20,29,20 03,FALSE,garbage
+20,30,20 04,FALSE,garbage
+20,31,20 05,FALSE,garbage
+20,32,20 06,FALSE,garbage
+20,33,20 07,FALSE,garbage
+20,34,20 08,FALSE,garbage
+20,35,20 09,FALSE,garbage
+20,36,20 10,FALSE,garbage
+20,37,20 11,FALSE,garbage
+20,38,20 12,FALSE,garbage
+20,39,20 13,FALSE,garbage
+20,40,20 14,FALSE,garbage
+20,41,20 15,FALSE,garbage
+20,42,20 16,FALSE,garbage
+20,43,20 17,FALSE,garbage
+20,44,Data Benchmark +1SD +1.5SD,FALSE,normal
+20,45,Sources: BIS; and IMF staff calculations.,FALSE,normal
+20,46,Vietnam: Credit-to-GDP Ratios,FALSE,normal
+20,47,NA,FALSE,empty
+21,1,NA,FALSE,empty
+21,2,VIETNAM,FALSE,normal
+21,3,20 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+21,4,"their benchmark level usually ends with sharp corrections in credit volumes, in some cases substantial deviations from fundamentals can persist for a long time without a correction.",FALSE,normal
+21,5,Figure 1. Selected Economies: Credit-to-GDP Ratios Relative to Benchmark,FALSE,normal
+21,6,NA,FALSE,empty
+21,7,NA,FALSE,empty
+21,8,NA,FALSE,empty
+21,9,NA,FALSE,empty
+21,10,NA,FALSE,empty
+21,11,NA,FALSE,empty
+21,12,NA,FALSE,empty
+21,13,NA,FALSE,empty
+21,14,NA,FALSE,empty
+21,15,B. Stock Markets,FALSE,sectionheader
+21,16,"9. The stock market performance in Vietnam has been very strong. The year-on- year growth of stock prices on a US dollar basis was more than 15 percent in 2016 and more than 40 percent in 2017, much higher than the U.S. and ASEAN markets (text Figure). Market capitalization increased significantly but steadily both in terms of volume and valuation until 2016 (and the GDP ratios remained almost flat during this time), suggesting that the",FALSE,normal
+21,17,0,FALSE,garbage
+21,18,50,FALSE,garbage
+21,19,100,FALSE,garbage
+21,20,150,FALSE,garbage
+21,21,200,FALSE,garbage
+21,22,250,FALSE,garbage
+21,23,19 80,FALSE,garbage
+21,24,19 82,FALSE,garbage
+21,25,19 84,FALSE,garbage
+21,26,19 86,FALSE,garbage
+21,27,19 88,FALSE,garbage
+21,28,19 90,FALSE,garbage
+21,29,19 92,FALSE,garbage
+21,30,19 94,FALSE,garbage
+21,31,19 96,FALSE,garbage
+21,32,19 98,FALSE,garbage
+21,33,20 00,FALSE,garbage
+21,34,20 02,FALSE,garbage
+21,35,20 04,FALSE,garbage
+21,36,20 06,FALSE,garbage
+21,37,20 08,FALSE,garbage
+21,38,20 10,FALSE,garbage
+21,39,20 12,FALSE,garbage
+21,40,20 14,FALSE,garbage
+21,41,20 16,FALSE,garbage
+21,42,Data Benchmark +1SD +1.5SD,FALSE,normal
+21,43,Sources: BIS; and IMF staff calculations.,FALSE,normal
+21,44,China: Credit-to-GDP Ratios,FALSE,normal
+21,45,0,FALSE,garbage
+21,46,20,FALSE,garbage
+21,47,40,FALSE,garbage
+21,48,60,FALSE,garbage
+21,49,80,FALSE,garbage
+21,50,100,FALSE,garbage
+21,51,120,FALSE,garbage
+21,52,140,FALSE,garbage
+21,53,19 80,FALSE,garbage
+21,54,19 82,FALSE,garbage
+21,55,19 84,FALSE,garbage
+21,56,19 86,FALSE,garbage
+21,57,19 88,FALSE,garbage
+21,58,19 90,FALSE,garbage
+21,59,19 92,FALSE,garbage
+21,60,19 94,FALSE,garbage
+21,61,19 96,FALSE,garbage
+21,62,19 98,FALSE,garbage
+21,63,20 00,FALSE,garbage
+21,64,20 02,FALSE,garbage
+21,65,20 04,FALSE,garbage
+21,66,20 06,FALSE,garbage
+21,67,20 08,FALSE,garbage
+21,68,20 10,FALSE,garbage
+21,69,20 12,FALSE,garbage
+21,70,20 14,FALSE,garbage
+21,71,20 16,FALSE,garbage
+21,72,Data Benchmark +1SD +1.5SD,FALSE,normal
+21,73,Sources: BIS; and IMF staff calculations.,FALSE,normal
+21,74,Indonesia: Credit-to-GDP Ratios,FALSE,normal
+21,75,0,FALSE,garbage
+21,76,50,FALSE,garbage
+21,77,100,FALSE,garbage
+21,78,150,FALSE,garbage
+21,79,200,FALSE,garbage
+21,80,250,FALSE,garbage
+21,81,19 80,FALSE,garbage
+21,82,19 82,FALSE,garbage
+21,83,19 84,FALSE,garbage
+21,84,19 86,FALSE,garbage
+21,85,19 88,FALSE,garbage
+21,86,19 90,FALSE,garbage
+21,87,19 92,FALSE,garbage
+21,88,19 94,FALSE,garbage
+21,89,19 96,FALSE,garbage
+21,90,19 98,FALSE,garbage
+21,91,20 00,FALSE,garbage
+21,92,20 02,FALSE,garbage
+21,93,20 04,FALSE,garbage
+21,94,20 06,FALSE,garbage
+21,95,20 08,FALSE,garbage
+21,96,20 10,FALSE,garbage
+21,97,20 12,FALSE,garbage
+21,98,20 14,FALSE,garbage
+21,99,20 16,FALSE,garbage
+21,100,Data Benchmark -1SD -1.5SD,FALSE,normal
+21,101,Sources: BIS; and IMF staff calculations.,FALSE,normal
+21,102,Malaysia: Credit-to-GDP Ratios,FALSE,normal
+21,103,0,FALSE,garbage
+21,104,50,FALSE,garbage
+21,105,100,FALSE,garbage
+21,106,150,FALSE,garbage
+21,107,200,FALSE,garbage
+21,108,250,FALSE,garbage
+21,109,300,FALSE,garbage
+21,110,350,FALSE,garbage
+21,111,400,FALSE,garbage
+21,112,450,FALSE,garbage
+21,113,19 80,FALSE,garbage
+21,114,19 82,FALSE,garbage
+21,115,19 84,FALSE,garbage
+21,116,19 86,FALSE,garbage
+21,117,19 88,FALSE,garbage
+21,118,19 90,FALSE,garbage
+21,119,19 92,FALSE,garbage
+21,120,19 94,FALSE,garbage
+21,121,19 96,FALSE,garbage
+21,122,19 98,FALSE,garbage
+21,123,20 00,FALSE,garbage
+21,124,20 02,FALSE,garbage
+21,125,20 04,FALSE,garbage
+21,126,20 06,FALSE,garbage
+21,127,20 08,FALSE,garbage
+21,128,20 10,FALSE,garbage
+21,129,20 12,FALSE,garbage
+21,130,20 14,FALSE,garbage
+21,131,20 16,FALSE,garbage
+21,132,Data Benchmark +1SD +1.5SD,FALSE,normal
+21,133,Sources: BIS; and IMF staff calculations.,FALSE,normal
+21,134,Singapore: Credit-to-GDP Ratios,FALSE,normal
+21,135,0 20 40 60 80,FALSE,garbage
+21,136,100 120 140 160 180 200,FALSE,garbage
+21,137,19 80,FALSE,garbage
+21,138,19 82,FALSE,garbage
+21,139,19 84,FALSE,garbage
+21,140,19 86,FALSE,garbage
+21,141,19 88,FALSE,garbage
+21,142,19 90,FALSE,garbage
+21,143,19 92,FALSE,garbage
+21,144,19 94,FALSE,garbage
+21,145,19 96,FALSE,garbage
+21,146,19 98,FALSE,garbage
+21,147,20 00,FALSE,garbage
+21,148,20 02,FALSE,garbage
+21,149,20 04,FALSE,garbage
+21,150,20 06,FALSE,garbage
+21,151,20 08,FALSE,garbage
+21,152,20 10,FALSE,garbage
+21,153,20 12,FALSE,garbage
+21,154,20 14,FALSE,garbage
+21,155,20 16,FALSE,garbage
+21,156,Data Benchmark -1SD -1.5SD,FALSE,normal
+21,157,Sources: BIS; and IMF Staff Calculations.,FALSE,normal
+21,158,Thailand: Credit-to-GDP Ratios,FALSE,normal
+21,159,NA,FALSE,empty
+21,160,-20,FALSE,garbage
+21,161,-10,FALSE,garbage
+21,162,0,FALSE,garbage
+21,163,10,FALSE,garbage
+21,164,20,FALSE,garbage
+21,165,30,FALSE,garbage
+21,166,40,FALSE,garbage
+21,167,50,FALSE,garbage
+21,168,20 14,FALSE,garbage
+21,169,20 15,FALSE,garbage
+21,170,20 16,FALSE,garbage
+21,171,20 17,FALSE,garbage
+21,172,US ASEAN Vietnam,FALSE,normal
+21,173,Sources: Bloomberg; and IMF staff calculations.,FALSE,normal
+21,174,Vietnam: Stock Price Index (Year-on-Year Percent Change),FALSE,normal
+21,175,NA,FALSE,empty
+22,1,NA,FALSE,empty
+22,2,VIETNAM,FALSE,normal
+22,3,INTERNATIONAL MONETARY FUND 21,FALSE,page_footer
+22,4,"increases in the market capitalization were in line with real economic developments (text Figure).4 In 2017, however, the increase in market capitalization was more than 70 percent, much higher growth than past growth rates, and it was mostly due to an increase in valuation reflecting rapid increases in stock prices. As a result, in market capitalization increased sharply to around 70 percent of GDP at the end of 2017 from around 40 percent in 2016, driven by valuation.",FALSE,normal
+22,5,"10. The sharp increase in valuation measures in 2017 suggests that the high stock prices are driven by elevated expectation of future growth. Substantial changes in valuation measures including the price-to-earnings ratios (PER), the price-to-book ratios (PBR) and the dividend yield suggest that the increase in stock prices are based on expectations of corporate performance in the future (text Figure). While valuation levels are not substantially higher than those in other countries, their large and rapid changes in 2017 implies that investors’ expectations for Vietnam have dramatically changed during 2017 and that if the elevated expectations for solid economic growth are not realized, the high stock prices could experience correction.",FALSE,normal
+22,6,"4 Market capitalization reflects the sum of the large three stock markets in Vietnam: The Ho Chi Minh City Stock Exchange (HOSE), Hanoi Stock Exchange (HNX), and the Unlisted Public Company Market (UPCoM). At the end of 2017, the HOSE was the dominant stock market in Vietnam and its share of total market capitalization in Vietnam was around 70 percent.",FALSE,normal
+22,7,NA,FALSE,empty
+22,8,NA,FALSE,empty
+22,9,0,FALSE,garbage
+22,10,5,FALSE,garbage
+22,11,10,FALSE,garbage
+22,12,15,FALSE,garbage
+22,13,20,FALSE,garbage
+22,14,25,FALSE,garbage
+22,15,30,FALSE,garbage
+22,16,Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4,FALSE,normal
+22,17,2012 2013 2014 2015 2016 2017,FALSE,garbage
+22,18,P/E Ratios (current period) P/E Ratios (Average profit for past 5 years),FALSE,normal
+22,19,Sources: Bloomberg; and IMF staff calculations.,FALSE,normal
+22,20,Vietnam: Price-to-Earnings Ratios,FALSE,normal
+22,21,-,FALSE,empty
+22,22,10,FALSE,garbage
+22,23,20,FALSE,garbage
+22,24,30,FALSE,garbage
+22,25,40,FALSE,garbage
+22,26,50,FALSE,garbage
+22,27,60,FALSE,garbage
+22,28,70,FALSE,garbage
+22,29,80,FALSE,garbage
+22,30,0,FALSE,garbage
+22,31,500000,FALSE,garbage
+22,32,1000000,FALSE,garbage
+22,33,1500000,FALSE,garbage
+22,34,2000000,FALSE,garbage
+22,35,2500000,FALSE,garbage
+22,36,3000000,FALSE,garbage
+22,37,3500000,FALSE,garbage
+22,38,4000000,FALSE,garbage
+22,39,Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3,FALSE,normal
+22,40,2009 2010 2011 2012 2013 2014 2015 2016 2017,FALSE,garbage
+22,41,Total Market cap (LHS) Market cap/GDP (RHS),FALSE,normal
+22,42,Sources: Bloomberg; and IMF staff calculations.,FALSE,normal
+22,43,Vietnam: Market Capitalization,FALSE,normal
+22,44,0,FALSE,garbage
+22,45,10,FALSE,garbage
+22,46,20,FALSE,garbage
+22,47,30,FALSE,garbage
+22,48,40,FALSE,garbage
+22,49,50,FALSE,garbage
+22,50,60,FALSE,garbage
+22,51,70,FALSE,garbage
+22,52,80,FALSE,garbage
+22,53,20 12,FALSE,garbage
+22,54,20 13,FALSE,garbage
+22,55,20 14,FALSE,garbage
+22,56,20 15,FALSE,garbage
+22,57,20 16,FALSE,garbage
+22,58,20 17,FALSE,garbage
+22,59,Volume Stock Price,FALSE,normal
+22,60,Sources: Bloomberg; and IMF staff calculations.,FALSE,normal
+22,61,Vietnam: Growth of Total Market Capitalization,FALSE,normal
+22,62,NA,FALSE,empty
+22,63,0,FALSE,garbage
+22,64,0.5,FALSE,garbage
+22,65,1,FALSE,garbage
+22,66,1.5,FALSE,garbage
+22,67,2,FALSE,garbage
+22,68,2.5,FALSE,garbage
+22,69,3,FALSE,garbage
+22,70,0,FALSE,garbage
+22,71,1,FALSE,garbage
+22,72,2,FALSE,garbage
+22,73,3,FALSE,garbage
+22,74,4,FALSE,garbage
+22,75,5,FALSE,garbage
+22,76,6,FALSE,garbage
+22,77,Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4,FALSE,normal
+22,78,2012 2013 2014 2015 2016 2017,FALSE,garbage
+22,79,Dividend Yield (LHS) P/B Ratios (RHS),FALSE,normal
+22,80,Sources: Bloomberg; and IMF staff calculations.,FALSE,normal
+22,81,Vietnam: Price-to-Book Ratios and Dividend Yield,FALSE,normal
+22,82,NA,FALSE,empty
+23,1,NA,FALSE,empty
+23,2,VIETNAM,FALSE,normal
+23,3,22 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+23,4,"11. Continued progress in privatizing and reforming state-owned enterprises (SOE) will be critical. SOE privatization and reforms will not only support the high economic growth but also directly contribute to the performance of listed SOEs, which still dominate stock markets in Vietnam.5 Stock market corrections could affect the real economy through declines in IPOs, a slowdown in SOE equitization, and the deterioration in bank and corporate balance sheets, but more granular data are needed for further assessment of the impact through this channel.",FALSE,normal
+23,5,C. Real Estate Prices,FALSE,sectionheader
+23,6,"12. House price misalignment is assessed by the following two approaches. First, substantial changes in the Price-to-Rent ratios (house prices divided by rent indexes) can be interpreted as deviations from economic fundamentals due to, for instance, excessive and risky lending by banks to this sector. In this approach, rent represents the fundamental value of housing, and theoretically the ratios should be stationary (Poterba 1984). The second approach is a regression-based assessment (e.g., IMF 2004). In this approach, house price misalignment is estimated by the following conventional model for house price valuation:",FALSE,normal
+23,7,", , , , , Here, the affordability ( , ) is defined as house prices divided by per capita GDP, and represents a long-term relation between house prices and real economy. The estimation is conducted by (unbalanced) cross-country panel data for Asian emerging economies, namely Indonesia, South Korea, Malaysia, Philippines, Singapore, Thailand, China and Vietnam. Then, the deviations from the fitted values are interpreted as house price misalignment.6",FALSE,normal
+23,8,"13. Price-to-rent ratios show that the rise in housing prices in HCMC remain in line with economic fundamentals. Since 2015, the residential property price index in HCMC has continued to increase (text Figure). The price-to-rent ratios, however, have not significantly increased as in the previous crisis period in 2011, and they are now converging to the 2015 level due to the increase in rent, suggesting that the increase in house prices are justified by economic fundamentals (text Figures). Economic fundamentals which can justify the recent increase in property prices include: (1) the strong income growth of a growing middle class, and (2) a steady rate of urbanization supporting the demand for housing in a city area. In addition, government policy to provide",FALSE,normal
+23,9,"5 As of January 2018, the share of Top 5 and 10 firms in terms of market capitalization in HOSE and NHX, respectively, are 36 percent and 52 percent. Among these top 5 and 10 firms, 4 and 7 firms, respectively are SOEs. 6 The estimated equation gives the fitted values for the growth rate of house prices rather than those for the level of house prices. Hence, in this paper, the base level of house prices in each country is set to the historical average level of real house prices in data, and the fitted values for the level of house prices are calculated by extending the house prices using the estimated growth rate.",FALSE,normal
+23,10,NA,FALSE,empty
+24,1,NA,FALSE,empty
+24,2,VIETNAM,FALSE,normal
+24,3,INTERNATIONAL MONETARY FUND 23,FALSE,page_footer
+24,4,mortgages at low interest rates to low income households through state-owned banks—while limited in scope—may have also helped support property prices.,FALSE,normal
+24,5,"14. The regression based assessment indicates that Vietnam’s property price appears not to substantially deviate from the estimated trend in recent years (text Figure). This result suggests that the recent developments in property prices in Vietnam are in line with economic fundamentals, which is consistent with the analysis by price-to-rent ratios. Based on our forecast for per capita income and working age population in Vietnam, the model would suggest that real house prices will be almost flat or increase only moderately for the next several years as houses become more affordable in Vietnam.",FALSE,normal
+24,6,"15. House price misalignments based on regression analysis should be interpreted with caution in the case of Vietnam. For Asian countries other than Vietnam, the model can account for most of the variation in house prices, suggesting that income growth and demographic variables capture the behavior of housing prices well (text Figure). However, given the large deviations of the actual historical values from fitted values in Vietnam, the model does not seem to have strong predictive powers in Vietnam (text Figure in paragraph 14). Since the large deviations from fitted values may be explained by the low quality of real estate data in Vietnam, more reliable data for house prices are necessary for a more precise and comprehensive assessment.",FALSE,normal
+24,7,NA,FALSE,empty
+24,8,0,FALSE,garbage
+24,9,20,FALSE,garbage
+24,10,40,FALSE,garbage
+24,11,60,FALSE,garbage
+24,12,80,FALSE,garbage
+24,13,100,FALSE,garbage
+24,14,120,FALSE,garbage
+24,15,140,FALSE,garbage
+24,16,160,FALSE,garbage
+24,17,180,FALSE,garbage
+24,18,20 02,FALSE,garbage
+24,19,20 03,FALSE,garbage
+24,20,20 04,FALSE,garbage
+24,21,20 05,FALSE,garbage
+24,22,20 06,FALSE,garbage
+24,23,20 07,FALSE,garbage
+24,24,20 08,FALSE,garbage
+24,25,20 09,FALSE,garbage
+24,26,20 10,FALSE,garbage
+24,27,20 11,FALSE,garbage
+24,28,20 12,FALSE,garbage
+24,29,20 13,FALSE,garbage
+24,30,20 14,FALSE,garbage
+24,31,20 15,FALSE,garbage
+24,32,20 16,FALSE,garbage
+24,33,20 17,FALSE,garbage
+24,34,20 18,FALSE,garbage
+24,35,20 19,FALSE,garbage
+24,36,20 20,FALSE,garbage
+24,37,20 21,FALSE,garbage
+24,38,20 22,FALSE,garbage
+24,39,20 23,FALSE,garbage
+24,40,Data Model,FALSE,normal
+24,41,Sources: Savills; and IMF staff calculations.,FALSE,normal
+24,42,Vietnam: Real Estate Price Estimation,FALSE,normal
+24,43,0,FALSE,garbage
+24,44,1,FALSE,garbage
+24,45,2,FALSE,garbage
+24,46,20 02,FALSE,garbage
+24,47,20 03,FALSE,garbage
+24,48,20 04,FALSE,garbage
+24,49,20 05,FALSE,garbage
+24,50,20 06,FALSE,garbage
+24,51,20 07,FALSE,garbage
+24,52,20 08,FALSE,garbage
+24,53,20 09,FALSE,garbage
+24,54,20 10,FALSE,garbage
+24,55,20 11,FALSE,garbage
+24,56,20 12,FALSE,garbage
+24,57,20 13,FALSE,garbage
+24,58,20 14,FALSE,garbage
+24,59,20 15,FALSE,garbage
+24,60,20 16,FALSE,garbage
+24,61,house price rent price-to-rent ratios,FALSE,normal
+24,62,Vietnam: Real Estate Prices (2014=1.0),FALSE,normal
+24,63,Sources: Savills; National authorities; and IMF staff calculations.,FALSE,normal
+24,64,0.92 0.94 0.96 0.98 1.00 1.02 1.04 1.06 1.08 1.10 1.12,FALSE,garbage
+24,65,Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1,FALSE,normal
+24,66,2014 2015 2016 2017,FALSE,garbage
+24,67,house price rent price-to-rent ratios,FALSE,normal
+24,68,Vietnam: Real Estate Prices (2014=1.0),FALSE,normal
+24,69,Sources: Savills; National authorities; and IMF staff calculations.,FALSE,normal
+24,70,NA,FALSE,empty
+25,1,NA,FALSE,empty
+25,2,VIETNAM,FALSE,normal
+25,3,24 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+25,4,Figure 2. Selected Economies: Real Estate Price Estimation,FALSE,normal
+25,5,NA,FALSE,empty
+25,6,NA,FALSE,empty
+25,7,NA,FALSE,empty
+25,8,NA,FALSE,empty
+25,9,NA,FALSE,empty
+25,10,NA,FALSE,empty
+25,11,NA,FALSE,empty
+25,12,NA,FALSE,empty
+25,13,NA,FALSE,empty
+25,14,NA,FALSE,empty
+25,15,D. Conclusions,FALSE,sectionheader
+25,16,"16. Overall, asset price and credit growth appear to be stronger than warranted by fundamentals. In particular, the central bank’s credit growth target should be decreased to avoid excessive risk taking by banks, and raising the target would not be warranted. Continued SOE and other growth-supporting reforms would help better align the rapid rise in stock market valuations with fundamentals. Finally, the SBV should develop a macroprudential policy framework including loan-to-value (LTV) and debt service-to-income (DSTI) requirements to deal with future possibilities of excessive exuberance in the real estate market.",FALSE,normal
+25,17,0,FALSE,garbage
+25,18,50,FALSE,garbage
+25,19,100,FALSE,garbage
+25,20,150,FALSE,garbage
+25,21,200,FALSE,garbage
+25,22,250,FALSE,garbage
+25,23,300 19,FALSE,garbage
+25,24,94 19,FALSE,garbage
+25,25,95 19,FALSE,garbage
+25,26,96 19,FALSE,garbage
+25,27,97 19,FALSE,garbage
+25,28,98 19,FALSE,garbage
+25,29,99 20,FALSE,garbage
+25,30,00 20,FALSE,garbage
+25,31,01 20,FALSE,garbage
+25,32,02 20,FALSE,garbage
+25,33,03 20,FALSE,garbage
+25,34,04 20,FALSE,garbage
+25,35,05 20,FALSE,garbage
+25,36,06 20,FALSE,garbage
+25,37,07 20,FALSE,garbage
+25,38,08 20,FALSE,garbage
+25,39,09 20,FALSE,garbage
+25,40,10 20,FALSE,garbage
+25,41,11 20,FALSE,garbage
+25,42,12 20,FALSE,garbage
+25,43,13 20,FALSE,garbage
+25,44,14 20,FALSE,garbage
+25,45,15 20,FALSE,garbage
+25,46,16,FALSE,garbage
+25,47,Data Model,FALSE,normal
+25,48,Sources: Global Housing Watch; and IMF staff calculations.,FALSE,normal
+25,49,Indonesia: Real Estate Price Estimation,FALSE,normal
+25,50,0,FALSE,garbage
+25,51,20,FALSE,garbage
+25,52,40,FALSE,garbage
+25,53,60,FALSE,garbage
+25,54,80,FALSE,garbage
+25,55,100,FALSE,garbage
+25,56,120,FALSE,garbage
+25,57,140,FALSE,garbage
+25,58,160,FALSE,garbage
+25,59,180,FALSE,garbage
+25,60,19 91,FALSE,garbage
+25,61,19 92,FALSE,garbage
+25,62,19 93,FALSE,garbage
+25,63,19 94,FALSE,garbage
+25,64,19 95,FALSE,garbage
+25,65,19 96,FALSE,garbage
+25,66,19 97,FALSE,garbage
+25,67,19 98,FALSE,garbage
+25,68,19 99,FALSE,garbage
+25,69,20 00,FALSE,garbage
+25,70,20 01,FALSE,garbage
+25,71,20 02,FALSE,garbage
+25,72,20 03,FALSE,garbage
+25,73,20 04,FALSE,garbage
+25,74,20 05,FALSE,garbage
+25,75,20 06,FALSE,garbage
+25,76,20 07,FALSE,garbage
+25,77,20 08,FALSE,garbage
+25,78,20 09,FALSE,garbage
+25,79,20 10,FALSE,garbage
+25,80,20 11,FALSE,garbage
+25,81,20 12,FALSE,garbage
+25,82,20 13,FALSE,garbage
+25,83,20 14,FALSE,garbage
+25,84,20 15,FALSE,garbage
+25,85,20 16,FALSE,garbage
+25,86,Data Model,FALSE,normal
+25,87,Sources: Global Housing Watch; and IMF staff calculations.,FALSE,normal
+25,88,Korea: Real Estate Price Estimation,FALSE,normal
+25,89,0,FALSE,garbage
+25,90,20,FALSE,garbage
+25,91,40,FALSE,garbage
+25,92,60,FALSE,garbage
+25,93,80,FALSE,garbage
+25,94,100,FALSE,garbage
+25,95,120,FALSE,garbage
+25,96,140,FALSE,garbage
+25,97,160,FALSE,garbage
+25,98,19 91,FALSE,garbage
+25,99,19 92,FALSE,garbage
+25,100,19 93,FALSE,garbage
+25,101,19 94,FALSE,garbage
+25,102,19 95,FALSE,garbage
+25,103,19 96,FALSE,garbage
+25,104,19 97,FALSE,garbage
+25,105,19 98,FALSE,garbage
+25,106,19 99,FALSE,garbage
+25,107,20 00,FALSE,garbage
+25,108,20 01,FALSE,garbage
+25,109,20 02,FALSE,garbage
+25,110,20 03,FALSE,garbage
+25,111,20 04,FALSE,garbage
+25,112,20 05,FALSE,garbage
+25,113,20 06,FALSE,garbage
+25,114,20 07,FALSE,garbage
+25,115,20 08,FALSE,garbage
+25,116,20 09,FALSE,garbage
+25,117,20 10,FALSE,garbage
+25,118,20 11,FALSE,garbage
+25,119,20 12,FALSE,garbage
+25,120,20 13,FALSE,garbage
+25,121,20 14,FALSE,garbage
+25,122,20 15,FALSE,garbage
+25,123,20 16,FALSE,garbage
+25,124,Data Model,FALSE,normal
+25,125,Sources: Global Housing Watch; and IMF staff calculations.,FALSE,normal
+25,126,Malaysia: Real Estate Price Estimation,FALSE,normal
+25,127,0,FALSE,garbage
+25,128,50,FALSE,garbage
+25,129,100,FALSE,garbage
+25,130,150,FALSE,garbage
+25,131,200,FALSE,garbage
+25,132,250,FALSE,garbage
+25,133,19 95,FALSE,garbage
+25,134,19 96,FALSE,garbage
+25,135,19 97,FALSE,garbage
+25,136,19 98,FALSE,garbage
+25,137,19 99,FALSE,garbage
+25,138,20 00,FALSE,garbage
+25,139,20 01,FALSE,garbage
+25,140,20 02,FALSE,garbage
+25,141,20 03,FALSE,garbage
+25,142,20 04,FALSE,garbage
+25,143,20 05,FALSE,garbage
+25,144,20 06,FALSE,garbage
+25,145,20 07,FALSE,garbage
+25,146,20 08,FALSE,garbage
+25,147,20 09,FALSE,garbage
+25,148,20 10,FALSE,garbage
+25,149,20 11,FALSE,garbage
+25,150,20 12,FALSE,garbage
+25,151,20 13,FALSE,garbage
+25,152,20 14,FALSE,garbage
+25,153,20 15,FALSE,garbage
+25,154,20 16,FALSE,garbage
+25,155,Data Model,FALSE,normal
+25,156,Sources: Global Housing Watch; and IMF staff calculations.,FALSE,normal
+25,157,Philippines: Real Estate Price Estimation,FALSE,normal
+25,158,0,FALSE,garbage
+25,159,20,FALSE,garbage
+25,160,40,FALSE,garbage
+25,161,60,FALSE,garbage
+25,162,80,FALSE,garbage
+25,163,100,FALSE,garbage
+25,164,120,FALSE,garbage
+25,165,19 98,FALSE,garbage
+25,166,19 99,FALSE,garbage
+25,167,20 00,FALSE,garbage
+25,168,20 01,FALSE,garbage
+25,169,20 02,FALSE,garbage
+25,170,20 03,FALSE,garbage
+25,171,20 04,FALSE,garbage
+25,172,20 05,FALSE,garbage
+25,173,20 06,FALSE,garbage
+25,174,20 07,FALSE,garbage
+25,175,20 08,FALSE,garbage
+25,176,20 09,FALSE,garbage
+25,177,20 10,FALSE,garbage
+25,178,20 11,FALSE,garbage
+25,179,20 12,FALSE,garbage
+25,180,20 13,FALSE,garbage
+25,181,20 14,FALSE,garbage
+25,182,20 15,FALSE,garbage
+25,183,20 16,FALSE,garbage
+25,184,Data Model,FALSE,normal
+25,185,Sources: Global Housing Watch; and IMF staff calculations.,FALSE,normal
+25,186,Singapore: Real Estate Price Estimation,FALSE,normal
+25,187,0,FALSE,garbage
+25,188,20,FALSE,garbage
+25,189,40,FALSE,garbage
+25,190,60,FALSE,garbage
+25,191,80,FALSE,garbage
+25,192,100,FALSE,garbage
+25,193,120,FALSE,garbage
+25,194,140,FALSE,garbage
+25,195,19 91,FALSE,garbage
+25,196,19 92,FALSE,garbage
+25,197,19 93,FALSE,garbage
+25,198,19 94,FALSE,garbage
+25,199,19 95,FALSE,garbage
+25,200,19 96,FALSE,garbage
+25,201,19 97,FALSE,garbage
+25,202,19 98,FALSE,garbage
+25,203,19 99,FALSE,garbage
+25,204,20 00,FALSE,garbage
+25,205,20 01,FALSE,garbage
+25,206,20 02,FALSE,garbage
+25,207,20 03,FALSE,garbage
+25,208,20 04,FALSE,garbage
+25,209,20 05,FALSE,garbage
+25,210,20 06,FALSE,garbage
+25,211,20 07,FALSE,garbage
+25,212,20 08,FALSE,garbage
+25,213,20 09,FALSE,garbage
+25,214,20 10,FALSE,garbage
+25,215,20 11,FALSE,garbage
+25,216,20 12,FALSE,garbage
+25,217,20 13,FALSE,garbage
+25,218,20 14,FALSE,garbage
+25,219,20 15,FALSE,garbage
+25,220,20 16,FALSE,garbage
+25,221,Data Model,FALSE,normal
+25,222,Sources: Global Housing Watch; and IMF staff calculations.,FALSE,normal
+25,223,Thailand: Real Estate Price Estimation,FALSE,normal
+25,224,NA,FALSE,empty
+26,1,NA,FALSE,empty
+26,2,VIETNAM,FALSE,normal
+26,3,INTERNATIONAL MONETARY FUND 25,FALSE,page_footer
+26,4,"References Barajas, Adolfo, Thorsten Beck, Era Dabla-Norris, and Reza Yousefi. 2013. “Too Cold, Too Hot, or Just",FALSE,normal
+26,5,"Right? Assessing Financial Sector Development Across the Globe,” IMF Working Paper 13/81, International Monetary Fund, Washington, DC.",FALSE,normal
+26,6,"Beck, Thorsten and Erik Feyen. 2013. “Benchmarking Financial Systems: Introducing the Financial Possibility Frontier,“ Policy Research Working Paper 6615, World Bank, Washington, DC.",FALSE,normal
+26,7,"Drehmann, Mathias and Kostas Tsatsaronis. 2014. “The Credit-to-GDP gap and Countercyclical Capital Buffers: Questions and Answers,“ BIS Quarterly Review, March 2014.",FALSE,normal
+26,8,"Gersl, Adam and Martina Jasova. 2018. “Credit-Based Early Warning Indicators of Banking Crises in Emerging Markets,“ Economic Systems 42(1), pp.18-31.",FALSE,normal
+26,9,"International Monetary Fund. 2004. World Economic Outlook, Chapter 1. Economic Prospects and Policy Issues, International Monetary Fund, Washington, DC.",FALSE,normal
+26,10,"Poterba, James M. 1984. “Tax Subsidies to Owner-Occupied Housing: an Asset-Market Approach,“ The Quarterly Journal of Economics, 99(4), pp.729-752",FALSE,normal
+26,11,NA,FALSE,empty
+27,1,NA,FALSE,empty
+27,2,VIETNAM,FALSE,normal
+27,3,26 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+27,4,"FISCAL RULES IN VIETNAM: CALIBRATION AND OPTIONS 1 Vietnam follows a debt rule, with a statutory limit of 65 percent of GDP on public and publicly guaranteed debt (PPG). The authorities have so far adhered to the rule, but recent high deficits have brought PPG close to the limit. This note analyzes the appropriateness of the current debt ceiling, while taking into account fiscal risks, rising age-related spending costs and other contingent liabilities. It concludes that a debt rule remains appropriate in Vietnam, but PPG of 55 percent of GDP maybe a more appropriate target in the medium-term. The paper suggests an expenditure rule as an additional operational target,2 concluding that a first best option would be a nominal expenditure growth rule of 10–11 percent.",FALSE,normal
+27,5,A. Public Debt and the Debt Rule,FALSE,sectionheader
+27,6,"1. Vietnam follows a debt rule, with a statutory limit of 65 percent of GDP for public and publicly guaranteed debt (PPG). The authorities are committed to adhering to their debt rule; PPG debt has so far remained below the statutory limit in recent years (Figure 1). They are also committed to bringing the deficit down to more sustainable levels (from an estimated 4.5 percent of GDP in 2017 and 4.6 percent in 2018).",FALSE,normal
+27,7,"2. However, PPG debt is close to statutory limits. It increased rapidly between 2011 and 2016, driven by fiscal deficits that jumped from an average 2 percent between 2000 and 2011 to an average 6.2 percent between 2012 and 2016. While ad-hoc measures and privatization receipts are likely to keep debt below 65 percent in the near- to medium-term, in the absence of further consolidation efforts, or in the case of adverse shocks, PPG debt could breach the debt limit within a few years. This paper analyzes the appropriateness of the current debt ceiling, while taking into account fiscal risks and other contingent liabilities.",FALSE,normal
+27,8,"3. In addition, Vietnam faces long-term demographic challenges. Vietnam has a rapidly aging population, with age-related spending needs estimated to increase by 8 percent of GDP by",FALSE,normal
+27,9,"1 Prepared by Anja Baum (FAD). We are grateful for thoughtful comments from Mr. Nguyen Trong Nghia and the March 26, 2017 seminar participants from the Ministry of Finance. 2 The quantitative exercise follows the IMF’s How-to Note on “How to Calibrate Fiscal Rules: A Primer” (IMF, March 2018).",FALSE,normal
+27,10,-8 -7 -6 -5 -4 -3 -2 -1 0 1,FALSE,garbage
+27,11,0 10 20 30 40 50 60 70 80 90,FALSE,garbage
+27,12,100,FALSE,garbage
+27,13,20 00,FALSE,garbage
+27,14,20 01,FALSE,garbage
+27,15,20 02,FALSE,garbage
+27,16,20 03,FALSE,garbage
+27,17,20 04,FALSE,garbage
+27,18,20 05,FALSE,garbage
+27,19,20 06,FALSE,garbage
+27,20,20 07,FALSE,garbage
+27,21,20 08,FALSE,garbage
+27,22,20 09,FALSE,garbage
+27,23,20 10,FALSE,garbage
+27,24,20 11,FALSE,garbage
+27,25,20 12,FALSE,garbage
+27,26,20 13,FALSE,garbage
+27,27,20 14,FALSE,garbage
+27,28,20 15,FALSE,garbage
+27,29,20 16,FALSE,garbage
+27,30,20 17 Go,FALSE,garbage
+27,31,ve rn,FALSE,garbage
+27,32,m en,FALSE,garbage
+27,33,t B al,FALSE,garbage
+27,34,an ce,FALSE,garbage
+27,35,", P er",FALSE,garbage
+27,36,ce nt,FALSE,garbage
+27,37,o f G,FALSE,garbage
+27,38,DP,FALSE,garbage
+27,39,De bt,FALSE,garbage
+27,40,", P er",FALSE,garbage
+27,41,ce nt,FALSE,garbage
+27,42,o f G,FALSE,garbage
+27,43,DP,FALSE,garbage
+27,44,General Government Gross Debt (% of GDP) (LHS) General Government Balance (% od GDP) (RHS),FALSE,normal
+27,45,Sources: WEO and IMF staff calculations.,FALSE,normal
+27,46,Vietnam: Historical PPG Debt and Overall Balance (In percent of GDP),FALSE,normal
+27,47,NA,FALSE,empty
+28,1,NA,FALSE,empty
+28,2,VIETNAM,FALSE,normal
+28,3,INTERNATIONAL MONETARY FUND 27,FALSE,page_footer
+28,4,"2050,3 increasing pension outlays by 6.7 percent of GDP. In addition, according to World Bank projections, in the absence of further reforms, the current pension scheme is expected to run deficits as of 2030.4 Thus, Vietnam is likely to face the challenges of high fiscal costs of aging and demographic headwinds to growth at relatively low per capita income levels. These dynamics should be taken into consideration when calibrating fiscal rules.",FALSE,normal
+28,5,B. Calibrating the Debt Rule,FALSE,sectionheader
+28,6,"4. A statutory limit on PPG debt is appropriate for Vietnam because it can help ensure debt sustainability and trigger a fiscal response that limits repeated fiscal slippages, while providing an anchor for medium-term fiscal planning. As of 2015, about 70 countries worldwide had a fiscal framework with an explicit cap on public debt. Debt rules are generally set in gross rather than net terms, as in Vietnam, because it is difficult to know a priori which government assets are truly liquid, particularly in times of financial stress. Also, the concept of net debt is less transparent than gross debt and more difficult to communicate to the public.",FALSE,normal
+28,7,5. The appropriate level of the debt target for Vietnam is one that is realistically calibrated to be aligned with Vietnam’s medium-term objectives. Calibration of the debt ceiling is done in three steps.,FALSE,normal
+28,8,"Step 1: setting a maximum debt limit. The maximum debt limit is the level beyond which a debt distress episode is likely to occur with heightened probability (for example, default, restructuring, or large increases in sovereign spreads). In this exercise, the maximum debt limit for Vietnam is set to 80 percent of GDP, similar to the limit for emerging economies in the MAC DSA (70 percent of GDP), plus 10 percent to account for public guarantees that enter the gross debt level to 100 percent, but are unlikely to be fully drawn.5 In fact, guarantees have rarely been drawn in Vietnam in the past (although debt restructuring was aided in alternative ways). This is why the analysis builds in an additional 10 percent buffer on top of the 70 percent of GDP maximum debt limit. As fiscal consolidation continues and the level of outstanding guarantees is reduced, a lower level of maximum debt limit could be considered in time. Similarly, as age related costs rise in the longer- term, a lower debt limit will be necessary to make room for future aging-related spending needs. The stochastic model calibrates a debt anchor based on short- to medium-term risk, therefore higher long-term costs cannot be modeled in the standard framework. To allow for the longer-term aging costs within this framework, the maximum debt limit should be set at a lower level by subtracting the estimated 8 percent of GDP age-related spending from the maximum debt limit (reducing it to",FALSE,normal
+28,9,"3 Selected Issues Vietnam. 2017. IMF Country Report No. 17/191. 4 The population growth rate is projected to fall close to zero at that point, with a working-age population share that already peaked in 2013. The share of the population age 65 and older (old-age population) will increase rapidly, although from low levels, and reach close to 3½ times the current level by 2050. 5 See also Ostry et al. (2010) and Baum et al. (2017) for a discussion on the maximum debt limit in light of fiscal space concerns.",FALSE,normal
+28,10,NA,FALSE,empty
+29,1,NA,FALSE,empty
+29,2,VIETNAM,FALSE,normal
+29,3,28 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+29,4,"72 percent of GDP from 80 percent of GDP), which indicates the additional fiscal space needed for aging costs in the future.",FALSE,normal
+29,5,"Step 2: identifying macroeconomic shocks. The second step is to perform stochastic simulations to gauge the potential impact of macroeconomic and fiscal shocks on debt over the medium term. This requires estimating the joint distribution of GDP growth, the interest rates on government debt (both foreign and domestic), and the exchange rate. In the baseline, past economic performance is used for the forecast (past means and variances). Earlier research on stochastic simulations of debt trajectories includes IMF (2003), Garcia and Rigobon (2004), and Celasun et al. (2007).",FALSE,normal
+29,6,"Step 3: estimating the debt anchor in the baseline scenario. The third step identifies the debt anchor (i.e., the debt ceiling) accounting for macroeconomic shocks. The debt anchor is defined as that level of debt which will remain below the maximum debt limit (i.e. 80 percent of GDP for Vietnam; see Step 1) over the medium term with high probability, despite the potential for negative macroeconomic shocks identified in step two. A fan chart of Vietnam’s public debt- to-GDP ratio is generated from stochastic simulations (Figure 2), accounting for macroeconomic shocks discussed under Step 2.6 The initial year chosen for the simulations is 2017. The simulation is based on historical data for Vietnam, and suggests that a debt anchor of 66.5 percent could be sufficient to ensure that debt stays below the maximum debt limit of 80 percent with 90 percent certainty.",FALSE,normal
+29,7,"Step 4: debt anchor accounting for fiscal risks. A lower debt anchor may be warranted than in the baseline scenario (Step 3) to accommodate a higher (than in the past) risk of a growth slowdown, increasing domestic interest rates and higher real exchange rate depreciation. Vietnam is also subject to the realizations of contingent liabilities in the form of adequately funding the deposit insurance system, local government borrowings, higher than expected costs of state-owned enterprise (SOE) and extra budgetary funds, costs of recapitalizing state-owned commercial banks, and non- guaranteed debt of SOEs.7 We also test the implications for higher aging costs in the future as outlined under Step 1, and lower the debt limit to 72 percent of GDP to calibrate the debt anchor accounting for long term age-related costs. Table 1 summarizes the resulting debt anchors under five different risk scenarios.",FALSE,normal
+29,8,"6 This method was developed in Baum et al. (2017) and IMF (2018a). 7 Other contingent liabilities are estimated at: Deposit insurance (1.1% of GDP), costs of SOE and banking sector restructuring (1.5% of GDP), recapitalization of the State Capital Investment Corporation SCIC (0.3% of GDP), recapitalization of Vietnam Development Bank, VDB (0.5% of GDP). Local government borrowing is on the rise, and extra budgetary fund balance sheet risks and non-guaranteed SOE debt levels are not fully known.",FALSE,normal
+29,9,40,FALSE,garbage
+29,10,45,FALSE,garbage
+29,11,50,FALSE,garbage
+29,12,55,FALSE,garbage
+29,13,60,FALSE,garbage
+29,14,65,FALSE,garbage
+29,15,70,FALSE,garbage
+29,16,75,FALSE,garbage
+29,17,80,FALSE,garbage
+29,18,85,FALSE,garbage
+29,19,90,FALSE,garbage
+29,20,Vietnam Debt Anchor,FALSE,normal
+29,21,2018 2019 2020 2021 2022 2023,FALSE,garbage
+29,22,Vietnam: Public Debt Fan Chart (In percent of GDP),FALSE,normal
+29,23,Source: IMF Staff Estimates.,FALSE,normal
+29,24,NA,FALSE,empty
+30,1,NA,FALSE,empty
+30,2,VIETNAM,FALSE,normal
+30,3,INTERNATIONAL MONETARY FUND 29,FALSE,page_footer
+30,4,Table 1. Vietnam: Scenario Analysis Scenario Debt Anchor (% of GDP) 1) 5 percent realization of contingent liabilities 58.8 2) Real GDP growth slowdown to 4 percent of GDP 52.3 3) Scenario 2 + 2.5 percent realization of contingent liabilities 50.1 4) Scenario 2 + real depreciation of 4 percent per year 49.9 5) Age related spending (maximum debt limit of 72 percent of 53.8 Source: IMF Staff Estimates.,FALSE,normal
+30,5,"6. Each of these scenarios demonstrates that the presence of fiscal risks and contingent liabilities requires a lower debt limit than the current statutory ceiling. Scenarios 3 and 4 indicate that a combined growth and contingent liability shock (lower growth could increase bank recapitalization needs, for example), or growth and exchange rate shock would necessitate a debt target of below 55 percent of GDP in the medium-term. The results suggest that the authorities should aim at a target of 55 percent of GDP to account for fiscal risks and aging costs that could materialize in the medium to long term; the current 65 percent of GDP ceiling should be considered an upper bound.",FALSE,normal
+30,6,C. Augmenting Debt Ceilings with Expenditure Rules (ERs),FALSE,sectionheader
+30,7,"7. While a debt rule provides a useful anchor for medium term fiscal policy, the debt rule should be augmented to provide operational guidance to fiscal policy in the short term. Operational rules target aggregates that the authorities have more direct control over, such as public expenditure, revenue and the budget balance. While not recognized officially as fiscal rules, Vietnam’s budget plan is subject to several thresholds, making the current fiscal framework in Vietnam potentially over-committed. Thresholds and floors determine the current balance, the overall balance, tax revenue, total spending (upper limit), capital spending (lower threshold), and others, some of which are specified annually, some as a medium-term perspective. In the current system, if one target underperforms, others will. For example, if public revenue underperforms, spending will have to be cut to reach the overall balance target, often done via capital spending, therefore missing the capital spending target. If the desired capital spending target is met, the budget balance target will not be reached. While these targets provide clear guidance for policy makers, they limit flexibility to respond to crises. The number of rules and targets also complicates communication, particularly if several targets are missed to compensate for one missed target. It would be preferable to replace these multiple targets with one or two shorter-term operational rules that is under the direct control of the government and has a close and predictable link to debt dynamics. In this paper, we suggest a ceiling on the nominal growth rate of expenditure rule (an expenditure rule). Appendix I provides more details on the principles of operational rules as well as on advantages and disadvantages of different types of operational rules.",FALSE,normal
+30,8,NA,FALSE,empty
+31,1,NA,FALSE,empty
+31,2,VIETNAM,FALSE,normal
+31,3,30 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+31,4,Cross Country Experience on Expenditure Rules8,FALSE,normal
+31,5,"8. As of 2015, 46 countries had ERs, 14 of which were in emerging markets (EMs). ERs set limits on total, primary, or current spending, with limits applying to nominal or real expenditure. They are typically set in absolute terms (levels) or growth rates, and occasionally in percent of GDP, with a time horizon of three to five years.",FALSE,normal
+31,6,"9. The types of ERs in EM countries vary (Table 2). In most of the 14 countries, the ER is accompanied by a debt rule (Botswana, Brazil, Bulgaria, Croatia, Ecuador, Georgia, Namibia, Peru, Poland, and Romania). Half of the nominal and real growth rate ceilings are specified in terms of either potential or nominal GDP growth. The others are specified in absolute growth rates (independent of GDP). Of the 14 rules, 9 cover overall expenditures, the remaining 5 either current and/or primary expenditure. EMs with ERs specified in nominal growth rates are Bulgaria, Colombia, Poland and Romania, of which all but Colombia also have a debt rule.9",FALSE,normal
+31,7,Table 2. Vietnam: 2015 Expenditure Rules in Emerging Market Economies,FALSE,normal
+31,8,"Public Expenditure Specified as … Number of Countries Ratio to GDP (30-40%) 4 Ratio to Revenue 3 Nominal Growth Ceiling 4 Real Growth Ceiling 4 Growth Limited by Potential GDP Growth 3 Growth Limited by Total GDP Growth 1 Others1 3 Source: IMF FAD Fiscal Rules Database 1 Rule includes additional elements, such as a spending reduction over time. For example, in Croatia real growth in public expenditures cannot exceed potential GDP growth, and total expenditure also must be cut 1% of GDP per year, until the primary balance reaches zero.",FALSE,normal
+31,9,Selecting the ‘Right’ Expenditure Rule,FALSE,normal
+31,10,"10. An ER specified in terms of nominal growth rates would be appropriate for Vietnam. Expenditure growth could be calibrated on the basis of nominal GDP growth initially, but should be relatively independent of the GDP series during implementation. In addition, the ERs should be re- calibrated every 3 to 5 years to account for underlying economic changes.",FALSE,normal
+31,11," ERs defined in growth rates can support macroeconomic stabilization and improve compliance, whereas ERs set as a ratio to GDP tend to be procyclical. Moreover, compliance",FALSE,normal
+31,12,"8 Expenditure rules are becoming more prominent for consolidation purposes. The post-global financial crisis period has, for instance, seen a surge in the number of expenditure rules and the number of countries adopting them. 9 The information on fiscal rules in emerging markets is extracted from the IMF FAD fiscal rule database. See Lledó and others (2017) and Bova and others (2012) for an overview of the database and existing fiscal rules.",FALSE,normal
+31,13,NA,FALSE,empty
+32,1,NA,FALSE,empty
+32,2,VIETNAM,FALSE,normal
+32,3,INTERNATIONAL MONETARY FUND 31,FALSE,page_footer
+32,4,"with ERs specified as nominal ceilings or nominal growth rate ceilings is significantly higher than those specified as a ratio to GDP or in real growth terms (Cordes et al., 2015),. Moreover, the government has less incentive to comply with the rules since accountability for non-compliance is reduced.",FALSE,normal
+32,5, The ER rule should be formulated on overall public expenditure (at the general government level) to avoid creative accounting.,FALSE,normal
+32,6, The ER should be defined in nominal terms for transparency and ease of monitoring and enforcement. Nominal targets also have better economic stabilization properties because they incorporate inflation developments. Expenditure targets in real terms can reduce the stabilization effect as compliance is not affected by inflation and it can foster strategic manipulation of the deflators to obtain additional spending room in the budget.,FALSE,normal
+32,7,Calibrating Expenditure Rules,FALSE,normal
+32,8,"11. A 10 to 11 percent growth rate ceiling on a nominal expenditure rule would be consistent with a medium-term debt target of 55 percent of GDP. Table 3 summarizes the debt levels reached by 2023 under different budget deficits and expenditure growth rules (in nominal terms). The presented expenditure growth rates are calculated as the average expenditure growth for the first 5 years (2018–2023) under a given fiscal balance and assuming a stable revenue ratio at 23 percent of GDP. The initial debt level is set at the end-2017 level of 58.5 percent of GDP. The illustrative scenario assumes a long-term nominal interest rate of 7 percent, and a long-term nominal GDP growth rate of 10 percent. In the illustrative scenario, Vietnam’s debt would reach 54 percent of GDP by 2023, if the average deficit was 4.4 percent of GDP and expenditure growth around 10.7 percent on average over the next 5 years. This scenario is close to the consolidation scenario suggested in the 2018 Article IV, where the deficit is declining to 3 percent by 2023, with an average expenditure growth of 10.3 percent annually until 2023.",FALSE,normal
+32,9,NA,FALSE,empty
+33,1,NA,FALSE,empty
+33,2,VIETNAM,FALSE,normal
+33,3,32 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+33,4,Table 3. Vietnam: Options for Expenditure Rules,FALSE,normal
+33,5,Scenario Nominal,FALSE,normal
+33,6,GDP Growth,FALSE,normal
+33,7,Overall Deficit,FALSE,normal
+33,8,Nominal Expenditure Growth Rule,FALSE,normal
+33,9,Debt Level in 2023,FALSE,normal
+33,10,Illustrative Scenario 10% 4.4% 10.7% 54%,FALSE,normal
+33,11,Consolidation Scenario 1/ 10.5% Declining to 3,FALSE,normal
+33,12,% by 2023 10.3%,FALSE,garbage
+33,13,52.8%,FALSE,garbage
+33,14,Stronger growth 12% 5.1% 11.2% 54%,FALSE,normal
+33,15,Weaker growth 7% 3.0% 9.6% 54%,FALSE,normal
+33,16,"1/ The consolidation scenario mirrors the one presented in the 2018 Article IV Staff Report. It incorporates the negative GDP growth impact of fiscal consolidation with a multiplier of 0.3. The scenario also assumes the implementation of a tax policy reform in 2019, and a positive impact of public investment efficiency gains following PIM improvements to begin in 2020. The scenario further assumes structural reforms aimed at improving public spending efficiency and addressing bank recapitalization needs, which together with higher public investment is expected to increase real GDP growth by 0.4 percent over the baseline by 2023.",FALSE,normal
+33,17,Source: IMF Staff Estimates.,FALSE,normal
+33,18,"12. Sensitivity analysis with respect to nominal GDP growth shows that deficit targets and expenditure growth rates can be relaxed or may need to be tightened depending on the economy’s growth performance. Given the possibility of a growth slowdown, increasing aging costs and the materialization of contingent liabilities, a prudent fiscal rule framework should an expenditure growth ceiling of 10–11 percent per year (tantamount to a limit to the overall balance of 3–4 percent of GDP).",FALSE,normal
+33,19,NA,FALSE,empty
+34,1,NA,FALSE,empty
+34,2,VIETNAM,FALSE,normal
+34,3,INTERNATIONAL MONETARY FUND 33,FALSE,page_footer
+34,4,"Appendix I – Principles of Fiscal Rules The system of fiscal rules should be anchored by a debt objective to preserve fiscal sustainability. The debt anchor is directly linked to fiscal sustainability, the main objective of the fiscal framework. The anchor should thereby inform medium-term expectations about fiscal policy, and is not meant to provide clear short-term guidance to policymakers. Public debt is inherently persistent and affected by many other developments besides changes in the overall budget balance. A well-anchored fiscal framework thus aims at bringing predicted public debt to or below the ceiling over the longer run. Short-term guidance, instead, should be given on the basis of operational rules, which concern variables under the direct control of governments and which serve to communicate the fiscal stance to the public, while having a close and predictable link to debt dynamics.",FALSE,normal
+34,5,"The fiscal framework should consist of a small set of rules. A debt rule serving as fiscal anchor should be combined with one or a few rules on operational variables under policymakers’ control, such as an expenditure growth limit or the budget balance. Parsimonious frameworks are more easily monitored and communicated to the public, building the government’s credibility. As such, the current fiscal framework in Vietnam might be over-committed and complicates communication, particularly if several targets are missed to compensate for one missed target. At the same time, it is not clear whether the number of operational rules should be limited to one.",FALSE,normal
+34,6,"Fiscal policy has numerous objectives, which are not as clearly defined as those of monetary policy (Leeper, 2015). Therefore, having one operational rule per key objective may be preferable to overloading a single rule with multiple tasks. For instance, a trade-off may emerge between the two objectives of ensuring long-term sustainability and protecting capital expenditure. In this case, two rules could be considered to combine a ceiling on total (current plus capital) expenditure, and current expenditure (see IMF 2018b), effectively adding one rule to the above described framework. IMF (2018b) provides some guidance on how to select the most appropriate fiscal rules.",FALSE,normal
+34,7,"The chosen rules should follow some general principles. They should assist the debt anchor in ensuring sustainability; they should ensure stabilization, i.e., they should not increase economic volatility through procyclicality; they should be simple, easily understood, and easy to monitor and enforce; they should provide clear operational guidance, meaning it should be possible to translate the rule into clear guidance in the annual budget process; and it should be resilient, i.e., it should be in place for a sustained period to build credibility and not be abandoned easily after a shock. The below table compares the advantages and disadvantages of different types of rules along these main criteria.",FALSE,normal
+34,8,"Relationships between the thresholds of the fiscal anchor and the operational rules should be transparent and grounded in economic analysis. Consistent calibration is essential to ensure unambiguous guidance to policy and effectively anchor expectations. As demonstrated in the paper, the debt ceiling should be set first, taking into account sustainability and sufficient buffers to absorb shocks to the public sector’s balance sheet (Ostry et al., 2010). Then the operational rules (on the fiscal balance and expenditure) can be calibrated from the debt ceiling to ensure consistency.",FALSE,normal
+34,9,NA,FALSE,empty
+35,1,NA,FALSE,empty
+35,2,VIETNAM,FALSE,normal
+35,3,34 INTERNATIONAL MONETARY FUND,FALSE,page_footer
+35,4,"Correction mechanisms setting the adjustment path following a breach can be useful to avoid drifting away from the anchor. Without a correction mechanism, repeated breaches of budget balance or expenditure rules can cause debt to drift up and away from its long run objective. Correcting for such deviations strengthens the link between the debt anchor and the operational rules. Designing credible correction mechanisms requires a balancing act between keeping the anchor and avoiding abrupt corrections, especially when they make little sense economically.",FALSE,normal
+35,5,Table 1. Vietnam: Pros and Cons of Operational Rules,FALSE,normal
+35,6,NA,FALSE,empty
+35,7,Overall Balance Golden + Easy to communicate/monitor + Protect public investment + Clear operational guidance + Intergenerational equity – Can lead to procyclicality – Weak link to debt sustainability – Could lead to changes in composition – Creative accounting,FALSE,normal
+35,8,Cyclically Adjusted and Structural Over the Cycle + Foster economic stabilization + Good stabilization properties + Good operational guidance – May entail too loose/tight stance – Difficult to compute and monitor – Difficult to monitor and enforce,FALSE,normal
+35,9,Expenditure Rules Revenue Rules + Easy to communicate/monitor + Raise revenues or limit tax burden + Allow macroeconomic stabilization – No direct link to debt sustainability + Clear operational guidance – Can lead to procyclicality + Can ensure debt sustainability if well designed – Could lead to changes in composition – May reduce incentive to mobilize revenues,FALSE,normal
+35,10,Source: IMF 2018b.,FALSE,normal
+35,11,NA,FALSE,empty
+36,1,NA,FALSE,empty
+36,2,VIETNAM,FALSE,normal
+36,3,INTERNATIONAL MONETARY FUND 35,FALSE,page_footer
+36,4,"References Baum, Anja, Andrew Hodge, Aiko Mineshima, Marialuz Moreno Badia, and Rene Tapsoba. 2017. “Can",FALSE,normal
+36,5,"They Do It All? Fiscal Space in Low-Income Countries,“ IMF Working Paper 17/110, International Monetary Fund, Washington, DC.",FALSE,normal
+36,6,"Budina, Nina, Tidiane Kinda, Andrea Schaechter, and Anke Weber. 2012. “Fiscal Rules at a Glance: Country Details from a New Dataset,” IMF Working Paper 12/273, International Monetary Fund, Washington, DC.",FALSE,normal
+36,7,"Celasun, Oya, Xavier Debrun, and Johathan Ostry. 2007. “Primary Surplus Behavior and Risks to Fiscal Sustainability in Emerging Market Countries: A Fan-Chart Approach,“ IMF Staff Papers 53 (3): 401.",FALSE,normal
+36,8,"Garcia, Marcio and Roberto Rigobon. 2004. “A Risk Management Approach to Emerging Market’s Sovereign Debt Sustainability with an Application to Brazilian Data.” NBER Working Paper 10336, National Bureau of Economic Research, Inc., Cambridge, Massachusetts.",FALSE,normal
+36,9,"Cordes, Till, Tidiane Kinda, Priscilla Muthoora, and Anke Weber. “Expenditure Rules: Effective Tools for Sounds Fiscal Policy?”, IMF Working Paper 15/29, International Monetary Fund, Washington, DC.",FALSE,normal
+36,10,"International Monetary Fund. 2003. “Sustainability Assessments—Review of Application and Methodological Refinements.” IMF Policy Paper, International Monetary Fund, Washington, DC available at https://www.imf.org/external/np/pdr/sustain/2003/061003.htm",FALSE,normal
+36,11,"International Monetary Fund. 2018a. “How to Calibrate Fiscal Rules? A Primer,” FAD How-To Note.",FALSE,normal
+36,12,"International Monetary Fund. 2018b. “How to Select Fiscal Rules? A Primer,” FAD How-To Note.",FALSE,normal
+36,13,"Leeper, Eric 2015. “Fiscal Analysis is Darned Hard,” CAEPR Working Paper #2015-021.",FALSE,normal
+36,14,"Lledó, Victor, Sungwook Yoon, Xiangming Fang, Samba Mbaye, and Young Kim. 2017. “Fiscal Rules at a Glance,” IMF Background Note, March 2017.",FALSE,normal
+36,15,"Ostry, Jonathan., Atish Ghosh, Jun Kim, and Mahbash Qureshi. 2010. “Fiscal Space,” IMF Staff Position Note, SPN/10/11.",FALSE,normal
+36,16,NA,FALSE,empty
+36,17,NA,FALSE,empty

@@ -1,0 +1,646 @@
+page_number,paragraph_number,text,pages_to_skip,detection
+1,1,NA,TRUE,empty
+1,2,NA,TRUE,empty
+1,3,NA,TRUE,empty
+1,4,NA,TRUE,empty
+1,5,NA,TRUE,empty
+1,6,NA,TRUE,empty
+1,7,NA,TRUE,empty
+1,8,NA,TRUE,empty
+1,9,NA,TRUE,empty
+1,10,NA,TRUE,empty
+1,11,AMRO Annual Consultation Report,TRUE,normal
+1,12,Indonesia - 2018,TRUE,normal
+1,13,NA,TRUE,empty
+1,14,NA,TRUE,empty
+1,15,NA,TRUE,empty
+1,16,NA,TRUE,empty
+1,17,NA,TRUE,empty
+1,18,NA,TRUE,empty
+1,19,NA,TRUE,empty
+1,20,NA,TRUE,empty
+1,21,NA,TRUE,empty
+1,22,NA,TRUE,empty
+1,23,NA,TRUE,empty
+1,24,NA,TRUE,empty
+1,25,NA,TRUE,empty
+1,26,NA,TRUE,empty
+1,27,NA,TRUE,empty
+1,28,NA,TRUE,empty
+1,29,NA,TRUE,empty
+1,30,NA,TRUE,empty
+1,31,NA,TRUE,empty
+1,32,NA,TRUE,empty
+1,33,The ASEAN+3 Macroeconomic Research Office (AMRO),TRUE,normal
+1,34,August 2018,TRUE,normal
+1,35,NA,TRUE,empty
+2,1,NA,TRUE,empty
+2,2,Indonesia Annual Consultation Report 2018,TRUE,page_header
+2,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 2 of 37,TRUE,page_footer
+2,4,NA,TRUE,empty
+2,5,NA,TRUE,empty
+2,6,NA,TRUE,empty
+2,7,Acknowledgements,TRUE,normal
+2,8,NA,TRUE,empty
+2,9,"1. This Annual Consultation Report on Indonesia has been prepared in accordance with the functions of AMRO to monitor, assess and report its members’ macroeconomic status and financial soundness and to identify the relevant risks and vulnerabilities, and assist them in the timely formulation of policy recommendation to mitigate such risks (Article 3(a) and (b) of AMRO Agreement).",TRUE,normal
+2,10,"2. This Report is drafted on the basis of the Annual Consultation Visit of AMRO to Indonesia from May 28 – June 7, 2018 (Article 5 (b) of AMRO Agreement). The AMRO Mission team was headed by Dr Sumio Ishikawa, Group Head and Lead Economist. Members include Dr Cuc Thi Kim Nguyen (Senior Economist), Mr Muhammad Firdauz Muttaqin (Economist), Dr Abdurohman (Specialist), Dr Jade Vichyanond (Economist), and Ms Vanne Khut (Associate). AMRO Director Dr Junhong Chang and Chief Economist Dr Hoe Ee Khor also participated in key policy meetings with the authorities. This AMRO Annual Consultation Report on Indonesia for 2018 was peer reviewed by Dr Jae Young Lee (Group Head and Lead Economist) and Ms Laura Grace Gabriella (Researcher); and approved by Dr Hoe Ee Khor, AMRO Chief Economist.",TRUE,normal
+2,11,3. The analysis in this Report is based on information available up to 15 August 2018.,TRUE,normal
+2,12,"4. By making any designation of or reference to a particular territory or geographical area, or by using the term “member” or “country” in this Report, AMRO does not intend to make any judgements as to the legal or other status of any territory or area.",TRUE,normal
+2,13,5. No part of this material may be disclosed unless so approved under the AMRO Agreement.,TRUE,normal
+2,14,"6. On behalf of AMRO, the Mission team wishes to thank the Indonesian authorities for their comments on this Report, as well as their excellent meeting arrangements and hospitality during our visit.",TRUE,normal
+2,15,NA,TRUE,empty
+2,16,NA,TRUE,empty
+2,17,NA,TRUE,empty
+2,18,"Disclaimer: The findings, interpretations, and conclusion expressed in this Report represent the views of the ASEAN+3 Macroeconomic Research Office (AMRO) and are not necessarily those of its members. Neither AMRO nor its members shall be held responsible for any consequence of the use of the information contained therein.",TRUE,normal
+2,19,NA,TRUE,empty
+3,1,NA,TRUE,empty
+3,2,Indonesia Annual Consultation Report 2018,TRUE,page_header
+3,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 3 of 37,TRUE,page_footer
+3,4,NA,TRUE,empty
+3,5,NA,TRUE,empty
+3,6,Table of Contents,TRUE,normal
+3,7,NA,TRUE,empty
+3,8,Executive Summary ................................................................................................................................ 4,TRUE,normal
+3,9,A. Recent Developments and Outlook .................................................................................................... 6,TRUE,normal
+3,10,A.1. Real Sector Developments and Outlook .................................................................................. 6,TRUE,normal
+3,11,A.2. External Sector and the Balance of Payments ........................................................................ 7,TRUE,normal
+3,12,A.3. Monetary Condition and Financial Sector .............................................................................. 10,TRUE,normal
+3,13,A.4. Fiscal Sector .......................................................................................................................... 11,TRUE,normal
+3,14,"B. Risks, Vulnerabilities and Challenges .............................................................................................. 14",TRUE,normal
+3,15,C. Policy Discussions and Recommendations...................................................................................... 17,TRUE,normal
+3,16,Appendices,TRUE,normal
+3,17,1. Selected Figures for Major Economic Indicators....................................................................... 22,TRUE,normal
+3,18,2. Selected Economic Indicators for Indonesia ............................................................................. 26,TRUE,normal
+3,19,3. Balance of Payments ................................................................................................................ 27,TRUE,normal
+3,20,4. Central Government Budget ...................................................................................................... 28,TRUE,normal
+3,21,5. Data Adequacy for Surveillance Purposes: a Preliminary Assessment .................................... 29,TRUE,normal
+3,22,Annexes: Selected Issues ..................................................................................................................... 30,TRUE,normal
+3,23,1. Financial Spillovers and Stress Test to Capital Outflows .......................................................... 30,TRUE,normal
+3,24,2. Inter-government Fiscal Relationship in Indonesia ................................................................... 33,TRUE,normal
+3,25,3. SOEs in Indonesia: Recent Developments ............................................................................... 36,TRUE,normal
+3,26,NA,TRUE,empty
+3,27,NA,TRUE,empty
+3,28,NA,TRUE,empty
+3,29,NA,TRUE,empty
+4,1,NA,FALSE,empty
+4,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+4,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 4 of 37,FALSE,page_footer
+4,4,NA,FALSE,empty
+4,5,"Executive Summary The Indonesian economy has been resilient against external headwinds, as growth is expected to remain robust and inflation contained in 2018. Recent policy mix recalibration with the implementation of “pre-emptive, front-loading, and ahead-of-the-curve” measures have focused on maintaining stability while supporting growth. Continued pro-active policy mix recalibration is hence recommended in light of rising external risks going forward. 1. Indonesia’s economic fundamentals remain robust with growth projected to continue picking up in 2018. Real GDP grew at 5.1 percent in 2017, led by public investment and commodity exports, amid stable consumption. Growth momentum continued to gather pace in the first half of 2018, with GDP growth increasing from 5.1 percent in Q1 to 5.3 percent in Q2 2018, respectively, supported by sustained investment and strengthened consumption, the latter reflecting higher real wage growth and increased social assistance disbursement. Real GDP growth is expected to be around 5.2 percent in 2018.",FALSE,normal
+4,6,"2. Inflation is expected to be contained within Bank Indonesia’s target band of 3.5±1 percent in 2018. Headline CPI averaged 3.8 percent in 2017, as increases in administered prices were partially offset by lower food inflation. In the absence of strong demand-driven inflationary pressures, both headline and core inflation slowed to 3.2 percent and 2.8 percent, respectively, in July 2018. The authorities have rolled out measures to keep inflation under control in 2018, including stabilizing food prices and keeping subsidized energy prices stable, which has contained the impact of rising global oil prices.",FALSE,normal
+4,7,"3. The current account deficit is expected to widen in 2018, driven by imports of raw materials and capital goods, as well as higher oil prices. To contain rising oil imports, the government has strengthened and broadened the implementation of the 20-percent biodiesel mix (B20) policy. Other measures to keep the current account deficit within the threshold of 3 percent of GDP, including the review of imports related to State-Owned- Enterprises (SOEs) and infrastructure projects, are also under consideration.",FALSE,normal
+4,8,"4. Reflecting risk aversion towards emerging markets (EMs) stemming from rising uncertainty in the global economy, Indonesian bond and equity markets experienced a sell-off in H1 2018 and the external position came under pressure. In the government bond market, the share of foreign holdings declined from a peak of 40.3 percent in January to about 37.1 percent in July, while the 10-year government bond yield rose to around 7.8 percent, about 150 basis points higher (year-to-date, as of end-July). Net capital outflows also intensified in the stock market in tandem with a significant decline in the Jakarta Composite Index. In response to the latest episode of heightened risk aversion towards EMs, Bank Indonesia raised its key rates four times in May-August 2018, by a total of 125 basis points. Financial markets have responded positively to this “pre-emptive, ahead of the curve, and front-loading” policy action, as foreign investors have returned to Indonesian markets from July 2018. To offset the negative impact of those rate hikes on domestic credit and growth, BI has eased macroprudential policies related to mortgage rules to support the housing market.",FALSE,normal
+4,9,"5. The official foreign reserves declined in early 2018 but remain adequate. Amid relatively large capital flow reversal, Bank Indonesia has conducted interventions in both the forex and bond markets to minimize excessive volatility of the rupiah. Against these backdrops, the official foreign reserves declined from a peak of USD130.2 billion at end-2017 to USD118.3 billion in July 2018, which is equivalent to about 7.0 months of imports or 6.9 months of imports and debt service payments.",FALSE,normal
+4,10,"6. The banking sector has maintained strong capital buffer with improved asset quality and sustained profitability. Domestic credit has picked up steadily since early 2018, led by working capital and consumption loans. While investment loans remain subdued, firms have increasingly tapped into domestic and overseas capital markets for medium- and long- term financing.",FALSE,normal
+4,11,"7. The fiscal deficit is expected to narrow to 2.1 percent of GDP in 2018, reflecting an improvement in revenue. Budget realization in H1 2018 suggests that revenue has",FALSE,normal
+4,12,NA,FALSE,empty
+5,1,NA,FALSE,empty
+5,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+5,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 5 of 37,FALSE,page_footer
+5,4,NA,FALSE,empty
+5,5,"strengthened and budget deficit has narrowed. Fiscal policies have focused on maintaining stability, aiming to enhance medium- and long-term growth prospects and build up cushions against external shocks. The commendable 2019 Macro-Fiscal Framework and Medium-Term Fiscal Objectives for 2020-2022, which seeks to strengthen the fiscal position with revenue- enhancing measures and continued prioritization of expenditure towards infrastructure investment, has been submitted to the Parliament for approval.",FALSE,normal
+5,6,"8. Risks to the downside have risen, stemming mainly from the external environment. Notably, risks of capital flow volatility have increased as global financial conditions have tightened amid heightened uncertainty over global trade policies, triggering risk aversion among investors toward emerging markets, including Indonesia. The implication of capital flow reversal on Indonesia could be significant, considering its reliance on external financing in the capital market, reflecting a narrow base of domestic long-term institutional investors. In addition to indirect spillovers through financial markets, escalating trade conflicts between the U.S. and China may directly affect Indonesia via trade channels, although the magnitude of such impacts is likely to be small, due to Indonesia’s lower trade openness relative to regional peers.",FALSE,normal
+5,7,"9. Rising oil prices could widen further Indonesia’s current account deficit. Indonesia has become increasingly reliant on oil imports in tandem with its shrinking oil output, which reflects the ongoing depletion of oil fields and lack of investment and exploration, while demand growth remains solid in recent years.",FALSE,normal
+5,8,"10. On the fiscal front, while the state-owned oil company Pertamina has borne the burden of stabilizing subsidized fuel prices thus far, the cost would eventually be shouldered by the budget, especially if oil prices continued to rise. A relatively low tax revenue to GDP ratio, meanwhile, remains the key challenge to Indonesia’s fiscal position in the medium to long-term.",FALSE,normal
+5,9,"11. Pro-active calibration of the policy mix is necessary to maintain stability while supporting growth. AMRO welcomes the authorities’ priority toward stability and their readiness to consider further pre-emptive measures, should risks to stability continue to build up. AMRO also welcomes BI’s commitment to maintain exchange rate flexibility while conducting judicious interventions to mitigate extreme volatility. To reduce Indonesia’s susceptibility to external shocks in the long term, ongoing efforts to deepen the domestic financial markets and broaden the domestic investor base, as well as to strengthen financial literacy and inclusion, are recommended.",FALSE,normal
+5,10,"12. Ongoing fiscal reforms on both revenue and expenditure fronts are commendable and should be continued. AMRO welcomes the recent focus on revenue- enhancement measures, such as broadening the tax base, reducing exemptions, and improving tax compliance. AMRO also supports the Medium-term Fiscal Objectives for 2020- 2022, and encourages the authorities to continue consolidating current spending, especially non-priority items, to make room for capital spending and other growth-enhancing expenditure. As budget execution of local governments has improved in tandem with fiscal decentralization, further efforts to channel expenditure towards capital spending are recommended. In a related note, energy subsidy reforms should be continued so that more fiscal resources can be channeled to finance needed infrastructure projects, while targeted assistance could be provided to vulnerable groups during the transitional period.",FALSE,normal
+5,11,"13. Further structural reforms to realize Indonesia’s long-term potentials are highly recommended. A series of economic policy packages to strengthen the investment climate and enhance competitiveness have contributed to Indonesia’s recent improvements in the Ease of Doing Business ranking by the World Bank and sovereign rating upgrades by the S&P, followed by Fitch Rating and Moody’s. Further efforts to diversify the economy and export structure, including by shifting global value chains participation towards export-oriented industries, are recommended. AMRO welcomes the recent boost in infrastructure investment to enhance connectivity and crowd in private investment. Continued reforms to strengthen competitiveness in the areas of labor skills and local supportive industries are also encouraged.",FALSE,normal
+5,12,NA,FALSE,empty
+6,1,NA,FALSE,empty
+6,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+6,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 6 of 37,FALSE,page_footer
+6,4,NA,FALSE,empty
+6,5,A. Recent Developments and Outlook,FALSE,normal
+6,6,A.1. Real Sector Developments and Outlook,FALSE,normal
+6,7,"1. Real GDP growth picked up modestly to 5.1 percent in 2017, with growth gathering momentum gradually led by public investment and commodity exports. Domestic consumption grew at 4.6 percent in 2017, after bottoming out a year earlier, supported by resilient household consumption and a recovery in public spending. Investment expanded at 6.2 percent – the fastest pace since 2013, led mainly by public infrastructural projects, and to a lesser extent, nascent recovery of private investment in the mining sector. Exports rebounded significantly, benefiting from strengthened demand for Indonesia’s key commodities, including coal, crude palm oil, and base metals, particularly from China and ASEAN countries. Imports also recovered, with capital goods imports registering high growth to meet the stronger investment demand.",FALSE,normal
+6,8,"2. The economy is projected to continue picking up in 2018. Real GDP grew by 5.1 percent and 5.3 percent in Q1 and Q2 2018, respectively, with the support of sustained investment and strengthened consumption (Figure 1). Strengthened domestic demand induced broad-based increases in imports, while exports were restrained by a weaker demand for several commodities, namely crude palm oil in key markets such as India and EU1, amid limited price increases. High-frequency household consumption indicators2 have picked up from a stagnant Q1, reflecting higher real wages 3 and increased social assistance disbursement. In addition, spending related to regional elections in June, the Asian Games in August, and the IMF/WB annual meetings in Bali in October, is expected to support stronger domestic consumption in subsequent quarters in 2018. Real GDP is projected to grow at 5.2 percent in 2018.",FALSE,normal
+6,9,Figure 1. Contribution to Real GDP Growth: from Demand Side,FALSE,fig_table
+6,10,Figure 2. Headline and Core CPI,FALSE,fig_table
+6,11,NA,FALSE,empty
+6,12,NA,FALSE,empty
+6,13,Sources: Statistics Indonesia (BPS) Sources: Statistics Indonesia (BPS),FALSE,normal
+6,14,"1 According to Reuters, from March 2018 India has raised import tax on crude and refined palm oil to the highest level in more than a decade, as the government tried to support local farmers. Indonesia’s exports of crude palm oil and refined products have been also affected by the recent EU proposal to ban the use of crude palm oil in the production of biofuels, citing environmental concerns. 2 These indicators include monthly retail sales, car and motorbike sales, as well as imports of consumption goods such as food and beverages. 3 Monthly labor wage data suggest wage growth has picked up on a broad-based in recent months.",FALSE,normal
+6,15,% point contribution,FALSE,normal
+6,16,NA,FALSE,empty
+7,1,NA,FALSE,empty
+7,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+7,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 7 of 37,FALSE,page_footer
+7,4,NA,FALSE,empty
+7,5,"3. Despite some pick-up in 2017, inflation is expected to be contained within Bank Indonesia’s target band of 3.5±1 percent in 2018. Headline CPI averaged 3.8 percent in 2017, as increases in administered prices were partially offset by lower food inflation. In light of well-anchored inflation expectation and a base effect of high inflation in H2 2017, both headline and core CPI slowed to 3.2 percent and 2.8 percent, respectively, in July 2018 (Figure 2). The Government and Bank Indonesia agreed on five measures to keep inflation under control in 2018, including stabilizing volatile food prices, in particular rice. To support the recovery in household consumption, the government has also committed to keep subsidized energy prices, including electricity and fuel, stable in 2018-20194 , which has contained the impact of rising global oil prices. Upside risks to inflation could emanate from rising global oil prices when energy subsidy reforms resume in the future. Although the rupiah has weakened, the pass-through impact on inflation is expected to be small.",FALSE,normal
+7,6,A.2. External Sector and the Balance of Payments,FALSE,normal
+7,7,"4. Indonesia’s external position improved in 2017, which allowed Bank Indonesia to build up its foreign reserves to an all-time high of USD130.2 billion by the year-end. The overall balance of payments surplus benefited from rebounding exports and strong capital inflows. Despite a strong recovery in imports, robust exports of Indonesia’s key commodities, including crude palm oil, coal, rubber, and base metals, supported by higher prices and stronger demand, particularly from China, India, and ASEAN, helped contain the current account deficit at 1.7 percent of GDP in 2017 (Figure 3). The financial account surplus was sustained by robust FDI inflows and portfolio investment into the domestic bond market. As a result, the overall balance of payments registered a surplus of USD11.6 billion in 2017, following a surplus of USD12.1 billion in 2016. The gross international reserves increased to an all-time high of USD130.2 billion, as at end-2017, equivalent to more than 8 months of imports of goods and services.",FALSE,normal
+7,8,"5. While rebounding exports strengthened the external position in 2017, the current account deficit is expected to widen in 2018 in tandem with rising imports stemming from increased economic activities. The current account deficit has widened to above 2 percent of GDP since Q4 2017, driven by a narrowing trade surplus. Higher oil prices have widened the oil and gas trade deficit, while the non-oil and gas trade surplus has narrowed on the back of rising imports related to increased consumption and investment, in line with increased economic activity, amid moderating export growth. According to AMRO staff’s projections, the current account deficit would widen in 2018 but within Bank Indonesia’s threshold of 3 percent of GDP.",FALSE,normal
+7,9,"6. Reflecting risk aversion towards emerging markets, the bond and equity markets experienced a sell-off in H1 2018 and the external position came under",FALSE,normal
+7,10,"4 In so doing, the government has capped the domestic price for thermal coal – input for electricity generation at USD70 per tonne, which is below the market prices. The government has also requested Pertamina, the state-owned distributor of subsidized fuel, to keep subsidized fuel prices unchanged since April 2016, despite the pick-up in global fuel prices. Stricter controls have been also imposed on the pricing of non-subsidized fuel products.",FALSE,normal
+7,11,NA,FALSE,empty
+8,1,NA,FALSE,empty
+8,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+8,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 8 of 37,FALSE,page_footer
+8,4,NA,FALSE,empty
+8,5,"pressure. As the U.S. dollar strengthened and global risk aversion heightened on the back of market expectations of more aggressive Fed rate hikes, amid rising trade tensions between the U.S. and China, investors reduced their holdings of emerging market (EM) assets, including Indonesian bonds and equities. In the local currency (LCY) government bond market, the share of foreign holdings declined from 40.3 percent in January to 37.1 percent in July5, while the 10-year government bond yield rose to around 7.8 percent, about 150 basis points higher (year-to-date, as of end-July). Net capital outflows also intensified in the stock market in tandem with a decline in the Jakarta Composite Index. As such, portfolio investment reversed from net inflows of about USD2 billion in Q4 2017 to net outflows of about USD1.2 billion in Q1 2018, and preliminary data suggest continued outflows in Q2 2018.",FALSE,normal
+8,6,Figure 3. Overall Balance of Payments Figure 4. FX Reserves and IDR Spot Rate,FALSE,fig_table
+8,7,NA,FALSE,empty
+8,8,NA,FALSE,empty
+8,9,Sources: Bank Indonesia Sources: Bank Indonesia,FALSE,normal
+8,10,"7. The official foreign reserves declined in early 2018 but remain ample. Amid relatively large capital flow reversal, Bank Indonesia has intervened to reduce excessive volatility in the rupiah exchange rate. At the same time, Bank Indonesia (BI) has purchased government bonds in the secondary market, conducted term repo operations with banks, and conducted forex swap auctions with increased frequency, to ensure sufficient rupiah liquidity. Against these backdrops, the official foreign reserves declined from USD130.2 billion at end- 2017 to USD118.3 billion in July 2018 (Figure 4). In terms of import cover, the latest reserves level is equivalent to about 7.0 months of imports or 6.9 months of imports and debt service payments. According to AMRO’s simplified scenario exercise, a shock similar to what happened during the Global Financial Crisis (GFC) could lead to a net capital outflow of about 2.6 percent of GDP and draw down the official foreign reserves by about USD28 billion. Even in this extreme scenario, FX reserves would still be adequate at about USD102 billion, which is well above the conventional metrics of 3 months of imports and within the IMF’s Assessment of Reserves Adequacy (ARA) of 100-150 percent (Annex 1).",FALSE,normal
+8,11,"8. Bank Indonesia raised its policy rates in May-July to safeguard stability amid rising external risks. In response to the heightened risk aversion towards EMs, Bank Indonesia (BI) raised its policy rate (7-day reverse repurchase rate) twice in May (17th and 30th), by 25 basis points each time. As EM sell-off pressure intensified following the FOMC",FALSE,normal
+8,12,"5 Data on the share of foreign holdings in LCY bond outstanding are sourced from Bank Indonesia-Scripless Securities Settlement System (BI SSSS). The system covers short- and long-term government bonds, as well as sukuk. USD billion IDR per USD IDR depreciation",FALSE,normal
+8,13,NA,FALSE,empty
+9,1,NA,FALSE,empty
+9,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+9,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 9 of 37,FALSE,page_footer
+9,4,NA,FALSE,empty
+9,5,"meeting in June, amid escalating trade tensions between the U.S. and China, BI raised its policy rate further by 50 basis points in late June, which was higher than market expectations of 25 basis points6. Financial markets responded positively to these “pre-emptive, ahead of the curve, and front-loading” policy actions. The rupiah weakened to IDR14,200 per USD in May 2018 but strengthened in early June, following BI’s second rate hike on May 30, and stabilized at around IDR14,350 per USD by mid-July, with the return of capital inflows to the government bond market, and to a lesser extent, equity market (Figure 5).",FALSE,normal
+9,6,Figure 5. Weekly Net Bond and Equity Flows Figure 6. External Debt by Maturity and Holders,FALSE,fig_table
+9,7,"Note: Weekly data as of 13 July 2018. Sources: Jakarta Stock Exchange, Ministry of Finance, and AMRO Staff Calculations Note: LT stands for long-term external debt, ST stands for short-term external debt. Sources: Bank Indonesia and Ministry of Finance",FALSE,normal
+9,8,"9. Declining corporate long-term borrowing helped contain Indonesia’s external debt below 35 percent of GDP in the past two years; government long-term external debt, meanwhile, has shifted from loans to debt securities issuance. Corporate long-term external debt has moderated to slightly above 11 percent of GDP as the hedging requirements on corporate FX exposure became fully effective in 20177. Government long-term external debt, meanwhile, picked up to about 17.3 percent of GDP in 2017, as a moderation in long- term loans has been more than offset by increased issuances of debt securities overseas, as well as higher foreign holding of LCY government bonds (IGBs) – which rose from 2.8 percent of GDP in 2011 to about 6.1 percent in 2017 (Figure 6)8. Short-term external debt was meanwhile contained below 5 percent of GDP. In terms of currency composition, USD- denominated debt remains dominant, accounting for almost 70 percent of total external debt, while the share of IDR-denominated debt rose in recent years to close to 20 percent as of end- 2017, in tandem with the above-mentioned rising foreign holding of IGBs. Authorities’ Views",FALSE,normal
+9,9,"10. The authorities shared the same view as AMRO that the current account deficit may widen in 2018, but would remain within a prudent threshold, which is less than 3 percent of",FALSE,normal
+9,10,"6 In the latest episode of EM sell-off triggered by the Turkish crisis, Bank Indonesia raised its policy rate further by 25 basis points in its August Board meeting. 7 According to Bank Indonesia’s regulation No 16/21/PBI/2014, non-bank corporations holding external debt in foreign currency are required to fulfil a specified minimum hedging ratio of 25 percent of their net FX liabilities maturing in the next 6 months, a specified minimum liquidity ratio of 70 percent, and fulfill a credit rating of no less than equivalent to BB- by a rating agency recognized by Bank Indonesia. The regulation became fully effective from 2017 onwards, while a lower hedging ratio of 20 percent and liquidity ratio of 50 percent were set during the transitional period. 8 This is equivalent to about USD61.2 billion, or 40 percent of total LCY government bonds outstanding, as of end-2017. IDR trillion",FALSE,normal
+9,11,NA,FALSE,empty
+10,1,NA,FALSE,empty
+10,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+10,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 10 of 37,FALSE,page_footer
+10,4,NA,FALSE,empty
+10,5,"GDP. A widened current account deficit would be driven by a lower trade surplus in line with stronger domestic demand, and a wider deficit in the services account.",FALSE,normal
+10,6,A.3. Monetary Condition and Financial Sector,FALSE,normal
+10,7,"11. Domestic credit continued to pick up in early 2018. Credit growth increased to 8.2 percent (year-on-year) in 2017, up from 7.8 percent in the previous year. The small increase in credit growth was mainly due to ongoing corporate consolidation and selective bank lending. Latest data point to steady credit growth at 10.2 percent, as of May 2018, driven by working capital and consumer loans, while investment loans also picked up (Figure 7). Firms increasingly tapped into both domestic and overseas capital markets for long-term financing in recent years, with total corporate bonds outstanding picking up from below",FALSE,normal
+10,8,"5 percent of GDP before 2014 to 5.6 percent of GDP at end-2017. 9 To neutralize the dampening impact of policy rate hikes on domestic credit and growth, Bank Indonesia has relaxed macroprudential regulations related to mortgage rules to support the housing market. In particular, existing caps on Loan-to-Value (LTV) for first-time home buyers have been removed, home buyers are now allowed to take up to five loan/financing facilities through the indent mechanism, and partial disbursement of mortgage loans/financing (up to 30 percent of total loan amount) could be made upon contract signing10. Those relaxations are expected to offset the dampening impact of policy rate hikes on domestic credit, which is projected to pick up to around 9 percent in 2018.",FALSE,normal
+10,9,Figure 7. Contribution to Bank Loan Growth: by Loan Purpose,FALSE,fig_table
+10,10,Figure 8. Banks’ Soundness Indicators,FALSE,fig_table
+10,11,Sources: Bank Indonesia and Otoritas Jasa Keuangan (OJK) Sources: Bank Indonesia and OJK,FALSE,normal
+10,12,"12. Latest financial soundness indicators suggest that the banking sector has remained sound. Banks have maintained strong capital buffers with capital adequacy ratios kept at above 20 percent, albeit on a decline in recent months11 (Figure 8). The official non- performing loans (NPL) ratios have become more stable recently, with both gross and net NPL ratios maintained at 2.63 percent and 1.23 percent of total loans outstanding, respectively, as",FALSE,normal
+10,13,"9 Total corporate bonds outstanding includes corporate bonds issued in both domestic and overseas markets. Data on domestically-issued corporate bonds outstanding are sourced from the OJK, whereas data on the outstanding of globally-issued corporate bonds are sourced from the external debt database released by Bank Indonesia. 10 In addition, the amount and pace of loan/financing disbursement have been adjusted, allowing up to 50 percent and 90 percent of the loan amount to be disbursed upon the completion of footing and rooftop work, respectively, compared to previously 40 percent and 70/80 percent. For further details on those adjustments, please refer to BI’s press release and appendix on its policy rate hike in June 2018, available at BI’s website (https://www.bi.go.id/en/ruang-media/siaran-pers/Pages/sp_205118.aspx). 11 According to the OJK, latest banks’ capital adequacy ratio was 22.07 percent, as of June 2018.",FALSE,normal
+10,14,NA,FALSE,empty
+11,1,NA,FALSE,empty
+11,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+11,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 11 of 37,FALSE,page_footer
+11,4,NA,FALSE,empty
+11,5,"of June 2018, while special-mentioned loans also stabilized at 5 percent. The improvement in banks’ loan quality was due to their efforts to write off bad debts, notwithstanding the recent expiry of OJK’s policy to relax the criteria for loan restructuring in 2015-2017.12 Similarly, profitability data show that Indonesian banks remain among the most profitable in the region. BI adjusted its reserve requirement regulations in early 2018 to allow greater flexibility in banks’ daily liquidity management and recalibrated macroprudential intermediation ratio and liquidity buffer to enhance bank intermediation.",FALSE,normal
+11,6,A.4. Fiscal Sector,FALSE,normal
+11,7,"13. Budget outturn in 2017 benefited from higher fuel prices and expenditure rationalization. Revenue collection increased by 7 percent in 2017 from a year earlier, corresponding to about 96 percent of the revised budget, supported by stronger oil and gas- related revenue, which increased by 64 percent during the same period. In addition to a one- off increase to the budget revenue mostly in 2016, the tax amnesty (TA) program reportedly has helped broaden the tax base from 201713. As far as budget expenditure is concerned, expenditure realization in 2017 increased by 7.5 percent from a year earlier, and was equivalent to about 93 percent of the revised budget. Expenditure was rationalized to prioritize growth-support spending, including capital expenditure, regional transfers, as well as social spending. Subsidy spending remained under control, as the increase in fuel subsidies was fully offset by lower electricity and non-energy subsidies (Figure 9). The net impact of higher fuel prices on the budget was positive in 2017. Against these backdrops, budget deficit was about 2.5 percent of GDP in 2017, unchanged from 2016 and lower than the revised target of 2.9 percent. Central government debt continued to increase, albeit at a moderating pace, to about 29 percent of GDP in 2017 (Figure 10).",FALSE,normal
+11,8,Figure 9. Budget Performance and Oil Prices Figure 10. Debt Dynamics,FALSE,fig_table
+11,9,"Sources: Ministry of Finance and AMRO Staff Calculations Note: Debt level for 2018 are AMRO staff estimates, using 2018 Budget data. Sources: Ministry of Finance and AMRO Staff Calculations",FALSE,normal
+11,10,"14. Indonesia’s fiscal position is expected to strengthen in 2018, reflecting improvement in revenue collection. Budget revenue is projected to increase by about",FALSE,normal
+11,11,"12 Following OJK’s relaxation of loans restructuring requirements from August 2015 to August 2017, the share of performing restructured loans increased from around 0.5 percent of total loans outstanding in August 2015 to 4.3 percent, as at August 2017, of which 2.7 percent were reclassified in Collect 1 (pass loans) and 1.9 percent in Collect 2 (special mention loans). 13 Indonesia’s Tax Amnesty (TA) program was rolled out between June 2016 and March 2017. By the end of the TA program, the total value of asset declaration amounted to about 30 percent of GDP, of which 1.2 percent of GDP were repatriated. It is estimated that the net impact of the TA program on the budget revenue collection was a one-time increase of 1.1 percent of GDP, of which 0.9 percent of GDP was reflected in 2016 Budget statistics, and 0.2 percent of GDP was accounted in 2017 Budget statistics.",FALSE,normal
+11,12,"% of GDP USD per barrel Central government debt, % of GDP",FALSE,normal
+11,13,F is,FALSE,garbage
+11,14,c a,FALSE,garbage
+11,15,l b,FALSE,garbage
+11,16,a la,FALSE,garbage
+11,17,n c e,FALSE,garbage
+11,18,", %",FALSE,empty
+11,19,o f,FALSE,garbage
+11,20,G D,FALSE,garbage
+11,21,P,FALSE,garbage
+11,22,2011,FALSE,garbage
+11,23,2017,FALSE,garbage
+11,24,2018,FALSE,garbage
+11,25,NA,FALSE,empty
+12,1,NA,FALSE,empty
+12,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+12,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 12 of 37,FALSE,page_footer
+12,4,NA,FALSE,empty
+12,5,"13.7 percent in 2018, benefiting from a broadened tax base and strengthened tax administration, underpinned by the TA program and business process re-engineering initiative. In addition to the TA program, the implementation of the International Automatic Exchange of Information (AEoI) initiative from H2 2018 is also expected to contribute to improved availability of data and information for tax purposes, and hence further enhance tax compliance going forward. Expenditure is budgeted to expand by 10.5 percent, while the budget deficit would narrow to 2.1 percent of GDP from 2.5 percent in 2017. Preliminary data for the first half of 2018 show cumulative revenue was largely in line with the Budget, supported by buoyant indirect taxes and non-tax oil revenue, while income tax revenue has also picked up. Despite a higher disbursement rate for fuel and electricity subsidies and social assistance, expenditure realization increased more slowly, as capital spending and transfers to regions and village funds lagged behind (Appendix 4).",FALSE,normal
+12,6,"15. Inter-governmental fiscal relationship has evolved in line with fiscal decentralization in the past two decades. In term of revenue autonomy, while local governments (LGs) remain reliant on transfers from the central government (CG), their own revenues have increased from 19.9 percent of total revenue in 2011 to 22.6 percent in 2016. LGs have increased their expenditure substantially, with greater autonomy in allocating their spending as the CG switched from earmarked grants to a block grant system. This has led to an increase in LGs’ capital spending, from an average of about 22.8 percent of total spending in 2011, to almost 25 percent in 2016, while operational spending has remain dominant. It is also worth noting that while more LGs have run fiscal deficits due to lower revenue collection and tighter financial conditions in recent years, a significant number of LGs are still building up fiscal surpluses, which amounted to about IDR94 trillion at end-2016 (Annex 2).",FALSE,normal
+12,7,"16. Recent acceleration in infrastructure projects has resulted in rising debt in involved SOEs, but the CG’s contingent liabilities for the SOE sector has remained contained. Increased involvement in infrastructure projects has led to a rise in debt of related SOEs from below 1 percent of GDP prior to 2013 to 2.5 percent in 2016. On a positive note, firm-level data suggest that the balance sheets of Pertamina and PLN14, the two largest SOEs in the energy sector, improved in recent years in tandem with energy subsidy reforms (Annex 3). Overall, non-financial SOEs’ debt liabilities have remained manageable at around",FALSE,normal
+12,8,"5 percent of GDP, while contingent liabilities of the central government were contained at about 0.5 percent of GDP, as of 2017.",FALSE,normal
+12,9,"17. The 2019 Macro-Fiscal Framework and Medium-Term Fiscal Objectives for 2020- 2022 aim to strengthen the fiscal position by revenue-enhancing measures and reprioritization of expenditure. Measures will be adopted to raise tax revenue to GDP ratio from below 11 percent currently to above 13 percent by 2022. This would allow more fiscal room to tackle the current low capital spending and support the much-needed social spending. Non-priority spending will be further consolidated in tandem with strengthened spending quality and efficiency. Under the draft medium-term fiscal plan, the overall fiscal deficit is",FALSE,normal
+12,10,"14 PLN stands for PT Perusahaan Listrik Negara, Indonesia’s state-owned electricity company.",FALSE,normal
+12,11,NA,FALSE,empty
+13,1,NA,FALSE,empty
+13,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+13,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 13 of 37,FALSE,page_footer
+13,4,NA,FALSE,empty
+13,5,"expected to narrow to around 1.5 percent of GDP while the primary balance would turn positive in 2020. In light of still-significant demand for infrastructure financing in the coming years, development of innovative financing instruments, such as limited concession schemes (LCS), in addition to securitization – revenue-backed vehicles issued by limited mutual funds (locally known as RDPT), and IDR-linked global bonds (Komodo bonds) issued by domestic corporations, will be further explored (Box A). Box A. Infrastructure Financing in Indonesia As of end-May 2018, 222 National Strategic Projects (PSNs) and 3 programs form the backbone of the authorities’ infrastructure drive, worth around US$303.1 billion15. The current infrastructure development program can be traced back to 2016, when the authorities designated 225 infrastructure projects as PSNs as well as one electricity generation program (building 35 GW of electricity production capacity) as a key imperative, at an estimated cost of US$216.8 billion. Most of these projects involve road and dam construction, as well as creation of special economic zones (SEZs) and industrial zones, with the rest spanning from train networks and airports to clean water facility development. Since then, some projects were eliminated from the PSN list due to milestones not being met, while a number of new projects and two programs (on aircraft development and economic equality) were added to the list, which currently consists of 222 PSNs.16,17 Geographically, most of the projects are in Java (87 projects) and Sumatra (53 projects), which would absorb USD72.3 billion and USD39.7 billion, respectively. Bali & Nusa Tenggara (13 projects) and Sulawesi (25 projects) are the regions with the lowest allocations of infrastructure investment, at US$0.7 billion and US$24.1 billion, respectively. The three programs, however, are nation-wide, as are twelve projects, both of which are estimated to cost around US$98.8 billion. Out of US$303.1 billion of infrastructure spending, the private sector is expected to provide the bulk of the financing, approximately US$178.8 billion, or 59 percent of total financing requirements. SOEs are the second most important source of funding, estimated at US$92.9 billion, or 31 percent of the total costs, while the rest, US$31.3 billion, or 10 percent of the total costs, is borne by the central and regional government budgets.18 In terms of realization, from 2016 until end- May this year, around 72 percent of the funding was provided by the private sector (Figure A1). Going forward, however, the private sector’s share is projected to decline to around 50-55 percent as SOEs and central and regional governments expend greater financial resources on PSNs and the three programs (Figure A2). As far as progress is concerned, as of end-2017, 30 projects had been completed, with a total investment value of USD7.0 billion. Meanwhile, 37 projects and the electricity generation program are currently under construction and partially operating, with an estimated total investment value of USD109.5 billion. With regard to the electricity generation program, only two percent of the planned capacity has been completed so far and operating, while 43 percent is under construction and is set to be finished by 2019-2020.19 Meanwhile, the aircraft development program is in the preparation phase. Currently, there are one SOE and one private company involved in the development, each already with a working prototype; it is likely that production of these prototypes will commence by",FALSE,normal
+13,6,2022.,FALSE,garbage
+13,7,"15 From 2016 until the completion of all PSNs. 16 The aircraft development program aims to fill a void in the availability of commercial aircraft. Due to the rugged terrain of eastern Indonesia, medium-size aircraft (for 80-100 passengers) is best suited for the region, but lack of availability of such aircraft in the commercial aircraft market has prompted the authorities to promote for the initiative to develop medium-size aircraft domestically. 17 The economic equality program addresses issues related to agrarian and land reform. 18 In addition to funding infrastructure investment directly from the budget, the government also injects capital into SOEs, allowing them to use additional equity to increase leverage. (Capital injection transactions are recorded below the line in the central government budget.) 19 In terms of proprietorship, projects by PLN constitute 33 percent of electricity production. IPPs (independent power producers), which could be domestically- or foreign-owned, account for 55 percent; PLN simply buys electricity from these producers, who generally bear all financial risks (such as exchange rate risk). Lastly, PPP projects account for 12 percent of production, with risks shared between the private sector and the government (not PLN); for example, the government shoulders exchange rate risk by guaranteeing USD amounts of revenue for the private sector.",FALSE,normal
+13,8,NA,FALSE,empty
+14,1,NA,FALSE,empty
+14,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+14,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 14 of 37,FALSE,page_footer
+14,4,NA,FALSE,empty
+14,5,"Figure A1: Funding realization (2016-2017) Figure A2: Projected funding (2018 and beyond) Sources: KPPIP and AMRO staff calculations Sources: KPPIP and AMRO staff calculations Innovative financing instruments are increasingly being used. Securitization, or revenue-backed vehicles issues by limited mutual funds (known locally as RDPT), which are offered to a limited number of investors, have become a popular financing vehicle for infrastructure projects. More than",FALSE,normal
+14,6,"50 RDPT products have been issued as of January this year, with a total value of approximately USD125 million. Komodo bonds—rupiah-denominated bonds issued by an Indonesian institution listed abroad—provide another avenue for non-bank financing; two bonds (issued by two SOEs, Jasa Marga and Wijaya Karya) were listed in the London Stock Exchange in the past twelve months, with a combined value of around USD672 million. One of the more recent initiatives under discussion within the government is the limited concession scheme (LCS), whereby funds from the private sector are injected into existing assets owned by the government, such as airports, in exchange for operational concessions; the funds raised could in turn be used for other infrastructure projects.20",FALSE,normal
+14,7,"B. Risks, Vulnerabilities and Challenges",FALSE,normal
+14,8,"18. Risks of capital flow volatility have risen as global financial conditions tightened amid heightened uncertainty over global trade policies. Recent studies suggest that the sensitivity of capital flows into emerging markets to US monetary policies has increased significantly since the GFC21. Most notably, strong U.S. economic data this year have triggered a more aggressive Fed rate hike pathway and risk-off sentiments among investors. In addition, other advanced economies, such as the Eurozone, have started the normalization talk. These developments, coupled with escalating trade conflicts between the U.S. and China, will continue to plague global financial markets with rising volatility and risk aversion, and more episodes of capital flow reversal among EMs, including Indonesia. The impact of capital flow reversal on Indonesia could be significant, considering its high reliance on external financing in the government bond market, reflecting a narrow domestic investor base. In particular, in the government bond market, despite some decline in early 2018, foreign ownership of IGBs has remained at about 38 percent of total bonds outstanding – the highest level among regional economies. In comparison, foreign ownership of government bonds in Malaysia and Thailand were 29 percent and 16 percent, respectively, as at end-2017 (Figure 11). In addition, domestic long-term institutional investors, namely insurance and pension funds, have established a strong presence in the domestic capital markets in Malaysia and Thailand. During episodes of severe capital outflows, these domestic investors could repatriate their overseas funds, or mobilize domestic funds, to support the domestic markets. In contrast,",FALSE,normal
+14,9,20 An example of this scheme is Japan’s Kansai airport. This method of financing is not considered privatization by conventional definitions. 21 Examples of such studies is Avdjiev et al. (2016) and Hannan (2017).,FALSE,normal
+14,10,NA,FALSE,empty
+15,1,NA,FALSE,empty
+15,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+15,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 15 of 37,FALSE,page_footer
+15,4,NA,FALSE,empty
+15,5,"domestic long-term investors in Indonesia remains small and fragmented, and hence are still unable to provide similar buffer to foreign sell-off.",FALSE,normal
+15,6,"19. In addition to spillovers through financial markets, prolonged trade conflicts between the U.S. and China may affect Indonesia via trade channels, albeit less severely. As China and the U.S. – Indonesia’s largest trading partners22, have become increasingly important in recent years, any decline in economic activity in these economies due to the recent escalation of trade tensions could lead to lower demand for Indonesia’s exports. Indonesia’s industries and firms that have participated in global value chains (GVCs) could be adversely affected should trade conflicts lead to disruptions to those GVCs. However, the impact via trade channels could be less severe for a domestic-oriented economy like Indonesia, in comparison with regional peers that have higher trade openness. An analysis of GDP composition by expenditure using the import-adjusted technique 23 suggests that Indonesia has remained a largely domestic demand driven economy, with domestic demand playing an increasingly dominant role in tandem with a declining share of exports (Figure 12). According to AMRO’s latest study which estimates the spillover impact of the U.S. – China trade war scenario using GVAR model, Indonesia is found to be among the least affected, while Singapore, Thailand and Vietnam could be affected more significantly.24",FALSE,normal
+15,7,Figure 11. Government Bond Profile by Investors: Selected ASEAN,FALSE,fig_table
+15,8,"Figure 12. GDP Composition by Expenditure (Import-Adjusted), selected ASEAN",FALSE,fig_table
+15,9,"Note: 1/ IDN stands for Indonesia, MYS – Malaysia, and THA – Thailand. 2/ Long-term domestic investors include insurance companies, social security funds, and/or contractual savings funds. Other domestic investors refer to mutual funds and retail investors. Sources: National Authorities, Asian Bonds Online, AMRO Staff Calculations Notes: 1/ IDN stands for Indonesia, MYS – Malaysia, PHL – the Philippines, THA – Thailand, and VNM – Vietnam. 2/ DD stands for domestic demand, consisting of final (private and government) consumption, gross fixed capital formation, and change in stocks – all are netted out of imports. Sources: OECD and AMRO staff calculations",FALSE,normal
+15,10,"20. Rising oil prices could widen further Indonesia’s current account deficit. Indonesia has become increasingly reliant on oil imports in tandem with its shrinking oil output, which reflects the ongoing depletion of oil fields and lack of investment and exploration, while demand has been growing strongly in recent years (Figure 13). As a result, its oil and gas",FALSE,normal
+15,11,"22 China was the largest export destination for Indonesia in 2017, accounting for about 13.7 percent of its total exports, followed by the U.S. and Japan – each accounting for 10.5 percent, and the European Union – 10.2 percent. Meanwhile, ASEAN as a whole accounted for an aggregate of 23.3 percent. 23 In determining the sources of growth, the conventional approach is to use private consumption, investment, public consumption, and net exports as a share to GDP. The limitation of this approach, however, is that it is not representative if the true relative contribution of domestic and external demand in driving growth, as imports that help satisfy domestic demand are not netted out from domestic demand, overstating the true impact of domestic demand on domestic value added. The import-adjusted methodology, or input-output cumulative production structure (CPS) technique, estimates the import content of the goods and services associated with each component of final demand for the economy. The difference between a particular final demand component and its import content is used to derive the net contribution of each demand component to overall GDP. (Source: Kranendonk and Verbruggen (2008) and Bank Negara Malaysia Annual Report (2012), pp 34-39.) 24 AMRO report on ASEAN+3 Regional Economic Outlook 2018, Box B, pp 23-27.",FALSE,normal
+15,12,"% of GDP, in value-added terms and net out of imports % of total bonds outstanding",FALSE,normal
+15,13,NA,FALSE,empty
+16,1,NA,FALSE,empty
+16,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+16,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 16 of 37,FALSE,page_footer
+16,4,NA,FALSE,empty
+16,5,"trade deficit has widened in recent quarters, as global oil prices recovered (Figure 14). Continued increases in global oil prices could further enlarge Indonesia’s current account deficit25.",FALSE,normal
+16,6,Figure 13. Oil Production-Consumption Gap: Selected ASEAN,FALSE,fig_table
+16,7,Figure 14. Oil and Gas Trade Balance and Oil Prices,FALSE,fig_table
+16,8,Source: BP Statistical Review of World Energy (2017) Note: Trade balance axis is in reverse order. Source: Statistics Indonesia (BPS),FALSE,normal
+16,9,"21. On the fiscal front, while Pertamina has borne the burden of keeping subsidized energy prices unchanged, the cost would eventually be shouldered by the Budget, especially if oil prices were to surge further. In case the authorities opt to increase spending on energy subsidies, this could translate into a wider budget deficit.",FALSE,normal
+16,10,Figure 15. Tax Buoyancy and Revenue,FALSE,fig_table
+16,11,Sources: Ministry of Finance and AMRO Staff Calculations,FALSE,normal
+16,12,"22. A relatively low tax revenue to GDP ratio remains the key challenge to Indonesia’s fiscal position over the medium to long-term. Indonesia’s tax revenue to GDP ratio averaged below 11 percent of GDP during 2012-2017, lower than the 14 percent average in ASEAN-426. While recent fiscal reforms, including the Tax Amnesty program27 and lower income tax rates applicable to Micro, Small and Medium-Sized Enterprises (MSMEs)28, may have helped broadened the tax base, a significant part of the informal sector of the economy",FALSE,normal
+16,13,"25 Oil and gas trade deficit (customs basis) widened from 0.6 percent of GDP in 2016 to 0.9 percent in 2017, as oil price increased 26 percent during the same period. AMRO staff’s preliminary estimates suggest that the oil and gas trade deficit (customs basis) could widen further to about 1.2 percent of GDP in 2018, assuming similar growth in oil prices and trading volume as with 2017. 26 ASEAN-4 consists of Malaysia, the Philippines, Singapore, and Thailand. 27 The number of Tax Amnesty participants reached about 973 thousands, of which 52,700 are newly registered taxpayers. 28 In order to encourage MSMEs to register in the tax system, the VAT registration threshold for taxable income/turnover has been raised from IDR600 million to IDR4.8 billion since 2014. Firms with income/turnover below IDR4.8 billion and met with certain criteria are hence exempted from a 25-percent income tax and 10-percent VAT, but subject to only a final income tax rate of 1 percent, which has been lowered further to 0.5 percent from July 2018.",FALSE,normal
+16,14,NA,FALSE,empty
+17,1,NA,FALSE,empty
+17,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+17,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 17 of 37,FALSE,page_footer
+17,4,NA,FALSE,empty
+17,5,"remain outside the income tax system.29 Declining tax buoyancy has been also a factor behind Indonesia’s relatively low tax revenue in recent years (Figure 15). In addition, weak budget execution, due to still-limited institutional capacity, highlight ongoing fiscal challenges at local government levels (Annex 2).",FALSE,normal
+17,6,"23. Indonesia has lagged behind regional peers in terms of global value chain’s participation, as commodities and food products constitute a major share of total exports compared with manufactured products. As commodity exports30 still account for almost half of total exports (Figure 16), Indonesia’s engagement in GVCs remains relatively low compared with other economies in the region, and has been concentrated in industries with forward participation, i.e. exports of raw materials as inputs for the production of semi- final or final products in other countries (Figure 17).",FALSE,normal
+17,7,"Figure 16. Indonesia’s Export Composition by Major Product, 2012-17 average",FALSE,fig_table
+17,8,Figure 17. GVC Participation: Selected ASEAN+3,FALSE,fig_table
+17,9,Source: Statistics Indonesia (BPS) Sources: OECD TiVA Database and AMRO Staff Calculations Authorities’ Views,FALSE,normal
+17,10,"24. Indonesian authorities have been fully aware of the risk of capital flow volatility and taken measures to deepen the domestic market and broaden the domestic investor base, such as by developing new instruments to meet the demand of institutional investors, conducting a series of domestic roadshows, and improving the market infrastructure. In addition, the authorities have underscored the importance of having all policy toolkits available to address capital flow volatility , including capital flow management (CFM) and macroprudential measure (MPM) as part of policy mix. The authorities have also attempted to embrace more retail investors by developing an online distribution system (e-SBN) for retail bonds which offered its first product (Savings Bond Ritel SBR003) in May 2018, with the issuance amount (of IDR1,900 billion) exceeding the initial target (of IDR1,000 billion). Through the partnership with five banks, one securities firm, and three fintech companies, the government has succeeded in receiving finance from about 7,642 investors across 34 provinces in Indonesia.",FALSE,normal
+17,11,"29 According to the estimate by Ministry of Cooperatives and MSMEs (2013), there have been about 54-55 million of MSMEs in Indonesia. Meanwhile, the number of SMEs that have registered in the tax system and pay their tax in line with turnover tax regulations is estimated at about 1.4 million, of which 1.2 million are individual taxpayers and 205,000 institutional taxpayers. 30 Including oil and gas, coal, palm oil, rubber, and base metals.",FALSE,normal
+17,12,% of respective gross exports,FALSE,normal
+17,13,NA,FALSE,empty
+18,1,NA,FALSE,empty
+18,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+18,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 18 of 37,FALSE,page_footer
+18,4,NA,FALSE,empty
+18,5,C. Policy Discussions and Recommendations,FALSE,normal
+18,6,"25. Indonesia has become more resilient to external shocks on account of its strengthened fundamentals and institutions, and underpinned by the skillful conduct of an appropriate policy mix. The policy mix concept embraces the close coordination among Bank Indonesia, Ministry of Finance, OJK, and other relevant government agencies in formulating macroeconomic policies and structural reforms to ensure macroeconomic and financial stability in the short term, while enhancing growth prospects in the long term. In light of contained inflationary pressure and financial stability risks, Bank Indonesia lowered its policy rates in 2016-2017 to support domestic economic activity, relaxed the loan-to-value (LTV) regulations to support the housing market, as well as recalibrated its macroprudential measures related to reserve requirements to provide flexibility in banks’ liquidity management. In the fiscal sector, the government successfully pushed through the Tax Amnesty program and reforms in energy subsidies. On structural policies, the authorities have implemented a number of economic policy packages to improve the business climate and strengthen competitiveness31. Most recently, the government has increased tax holidays for a wider range of important sectors and industries in the economy, as well as launched the Online Single Submission (OSS) – a web-based platform that integrates all business licensing, and enable the simultaneous issuance of permits (at both central and regional government levels) (Table 1). These efforts have contributed to recent enhancements in Indonesia’s economic fundamentals and institutional framework, as evident in its improvement in Ease of Doing Business ranking32, and sovereign rating upgrades, first by S&P in May 2017 and followed by Fitch Rating in December 2017 and Moody’s in April 201833 . Against these backdrops, adverse impacts of external spillovers have abated progressively over time during episodes of global market volatility, including the taper tantrum in May 2013, market anxiety over China spillovers in August 2015, risk aversion towards emerging markets in late 2016-early 2017, and more recently during the trade conflicts between the U.S. and China (Annex 1).",FALSE,normal
+18,7,"26. Pro-active calibration of the policy mix is necessary to maintain stability while supporting growth. Capital flow volatility has complicated the management of macroeconomic policies in EMs, including Indonesia. In response to recent episodes of capital flow reversal and their spillovers to domestic financial markets, BI increased its policy rate three times by a total of 100 basic points in May-June 2018. Financial markets have responded positively to these “pre-emptive, ahead of the curve, and front-loading” policy actions. To counter the dampening effects of the policy rate hikes on domestic credit and growth which are still at the early recovery stage, BI has further eased macroprudential policies related to mortgage rules to support the housing market. To contain rising oil imports, the government",FALSE,normal
+18,8,"31 Between 2015 and 2017, the government issued 16 economic policy packages, focusing on (i) deregulation and simplification of investment procedure (business registration and license, land acquisition and clearance for industrial purposes), (ii) providing incentives for investment in specific sectors (sharia banking, labor-intensive industries, domestic oil production, aviation industries, e-commerce, logistics) and among specific groups of business such as SMEs, and (iii) improving investment climate (tax incentives, logistics and distribution improvement. Most recently, the Government issued two (revised) regulations in April 2018 to streamline the procedure of visa application for foreign workers and to revise the current tax incentive scheme to promote investment and exports in a number of pioneer industries. 32 Indonesia’s overall ranking in the World Bank’s Ease of Doing Business improved from the 91st place in 2017 to the 72nd place in 2018, out of a sample of 190 countries and territories. 33 S&P Global Rating upgraded Indonesia to investment grade in May 2017, Fitch Ratings upgraded Indonesia one notch above the investment grade in December 2017, and Moody’s upgrade followed in April 2018.",FALSE,normal
+18,9,NA,FALSE,empty
+19,1,NA,FALSE,empty
+19,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+19,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 19 of 37,FALSE,page_footer
+19,4,NA,FALSE,empty
+19,5,"has imposed a mandatory use of 20 percent of biodiesel mix (B20) for both subsidized and non-subsidized diesel fuel consumed domestically, effective from September 2018. In this regard, AMRO strongly supports the authorities’ priority toward stability and their readiness to consider further pre-emptive measures to address risks of financial instability. AMRO also welcomes BI’s commitment to maintaining exchange rate flexibility while conducting judicious interventions to mitigate extreme volatility.",FALSE,normal
+19,6,"27. The current fiscal reform is appropriately aimed at strengthening the fiscal position and supporting economic growth. The authorities should continue to focus on revenue-enhancement measures, such as broadening the tax base, reducing exemptions, and improving tax compliance. AMRO supports the Medium-term Fiscal Objectives for 2020-2022, and encourages the authorities to continue consolidating current spending, especially non- priority items, to make room for capital spending and other growth-promoting expenditure. As budget execution at local governments has improved with fiscal decentralization, further efforts to channel expenditure towards capital spending are recommended. While contingent liabilities stemming from SOE-led infrastructure projects remain contained, monitoring is warranted. Lastly, energy subsidy reforms should be continued so that more fiscal resources can be channeled to finance needed infrastructure projects, while targeted assistance could be provided to vulnerable groups during the transitional period.",FALSE,normal
+19,7,"28. To reduce Indonesia’s susceptibility to external shocks in the long term, the authorities should make greater efforts to develop and deepen the domestic financial markets and broaden the institutional investor base. In addition to the development of new structured instruments, such as securitization of infrastructure loans, efforts to promote greater use of money market reference rates will support a more liquid and deeper capital market. These include the provision of INDONIA - a new overnight benchmark based on actual transactions in July 2018, and an enhanced Jakarta Interbank Offer Rate (JIBOR) for term rates by adopting IOSCO principles for financial benchmarks as a suitable reference rate for interest rate swaps expected by January 2019. The future adoption of the General Master Repurchase Agreement (GMRA) could bring about the participation of non-bank institutions and increase liquidity in the repo market. From an institutional perspective, the authorities should also take measures to encourage and facilitate the development of domestic institutional investors such as insurance and pension funds. Efforts have been made to strengthen financial literacy and inclusion, including financing initiatives catered to certain communities who have little or no access to bank loans. Last, but not least, the rapid growth of Fintech, albeit from a small base, will also contribute to financial inclusion and market deepening in Indonesia.",FALSE,normal
+19,8,29. The government’s efforts to diversify Indonesia’s economic activity and exports from the commodity sector in the past few years are commendable. Mining firms have been encouraged to engage in high value-added activities such as smelting and refinery. Efforts to promote more investment and exploration in the oil and gas sector should be enhanced. Initiatives have also taken place in the automotive industry to increase exports of,FALSE,normal
+19,9,NA,FALSE,empty
+20,1,NA,FALSE,empty
+20,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+20,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 20 of 37,FALSE,page_footer
+20,4,NA,FALSE,empty
+20,5,"multi-purpose vehicles and their components recently. Efforts to diversify economic and export structure, including by shifting global value chains participation towards increasing exports and employment, particularly in the services sector, should continue. AMRO welcomes the authorities’ recent boost in infrastructure investment to enhance connectivity and crowd in private investment. Continued reforms to enhance competitiveness in the areas of labor skills and local supportive industries are encouraged. Authorities’ Views",FALSE,normal
+20,6,"30. The authorities emphasized that the recent recalibration of the policy mix had been successful in maintaining short-term stability while preserving growth momentum. They agreed with AMRO’s recommendation that continuous recalibration of the policy mix would be essential, in light of increased uncertainty in the global environment going forward. In this regard, the authorities reiterated their commitment towards safeguarding short-term stability and readiness to take further pre-emptive measures should stability risks continue to build up. On the other hand, while priority would continue to be given to short-term stability, the policy mix framework provides the authorities with flexibility to adjust other policy instruments, such as macroprudential measures, to counterbalance the adverse impact on growth without sending conflicting signals to the market.",FALSE,normal
+20,7,"31. The authorities elaborated that the concept of “short-term stability” in their policy mix framework, encompass not only price and financial stability but also, and more comprehensively, economic and social stability. In this regard, keeping subsidized fuel prices stable in support of the recovery in consumers’ purchasing power – which declined somewhat in 2017 due to increased electricity tariffs –ahead of elections this year and in 2019, is also an integral part of the policy mix package to maintain short-term stability. Regarding the concern over Pertamina’s financial soundness, the authorities assured that they were mindful of this. One of the options under discussion is for the budget to share part of the costs incurred by Pertamina in keeping subsidized fuel prices unchanged this year. This coupled with Pertamina’s efficiency-enhancing measures and a number of concessions entitled by the authorities, are expected to support Pertamina in maintaining its financial soundness, despite the higher cost incurred from fuel subsidies.",FALSE,normal
+20,8,"32. As far as structural reforms are concerned, the authorities highlighted recent efforts to continue improving the business climate and attracting investment into export-oriented industries in the economy, in addition to ongoing infrastructure investment drive, while noting that it may take time for the benefit of these reform measures to materialize. The two recent examples highlighted by the authorities were the launch of the Online Single Submission (OSS) platform and revised tax holidays for new (and expanded) investment in a number of upstream industries. These efforts were expected to help attract more investment into Indonesia, diversify the economy and export structure, and strengthen the current account over the medium to long-term.",FALSE,normal
+20,9,NA,FALSE,empty
+20,10,NA,FALSE,empty
+21,1,NA,FALSE,empty
+21,2,NA,FALSE,empty
+21,3,NA,FALSE,empty
+21,4,"Table 1. Risks, Vulnerabilities, and Policy Responses",FALSE,fig_table
+21,5,"Type of risks Likelihood Potential impacts Policy responses AMRO recommendations Policy mix: monetary, FX rate, and macroprudential measures to ensure macroeconomic and financial stability; fiscal and structural policies to improve medium- to long-term growth prospects.",FALSE,normal
+21,6,NA,FALSE,empty
+21,7,External Risks Faster-than- expected tightening in global financial conditions Medium High: Capital flow volatility; rising fiscal financing and roll- over costs,FALSE,normal
+21,8,"- Policy rates have been raised three times between May-June 2018, by a total of 100 basis points, to safeguard the rupiah stability; dual interventions to mitigate FX volatility (selling FXs and buying LCY sovereign bonds); urging firms to hedge their FX net liabilities due within the next six months beyond the 25% minimum requirement.",FALSE,normal
+21,9,"- Relaxed macroprudential measures related to mortgage rules to offset the potential impact of rate hikes on the housing market. Support BI’s pre-emptive, front-loading, and ahead-of-the-curve policy action, as well as their priority toward stability; Uphold commitment to forex flexibility while conducting judicious interventions Escalation of global trade tensions from U.S. tariff imposition Medium Low: Lower exports and growth Structural reform acceleration to boost investment - 2015-17: 16 economic policy packages - 2018: (i) revising up tax incentives for a wider coverage of key industries and sector in the economy; and (ii) moving forward with the launch of the Online Single Submission (OSS), a web-based platform that integrates all business licensing and enable the simultaneous issuance of permits. To continue structural reforms to improve business climate and to enhance competitiveness and productivity Weaker-than- expected growth in G3 Low Medium: Lower exports and growth Rising oil prices Medium Medium: Higher oil trade deficits, which could widen the current account deficit. Maintaining subsidized fuel price could affect energy SOEs’ financial soundness and eventually increase energy subsidy.",FALSE,normal
+21,10,"- Introduced fixed subsidy system during 2015-2017, hence lowering energy subsidies.",FALSE,normal
+21,11,"- Recent priority on energy price stability and household purchasing power, in light of political pressure ahead of the legislative and presidential elections in 2019. To continue energy subsidy reform. Provide grants/assistance with directly targeting to the vulnerable groups Domestic Weaknesses Relatively low tax revenue to GDP ratio",FALSE,normal
+21,12,"- Depressed expenditure, especially growth-promoting spending, in light of the fiscal deficit ceiling of 3 percent of GDP.",FALSE,normal
+21,13,"- Conducted Tax Amnesty program and lower final income tax rate for MSMEs with revenue below the IDR4.8 trillion threshold from 1 percent to 0.5 percent, to broaden the tax base.",FALSE,normal
+21,14,"- Implemented measures to enhance tax compliance, including business process re-engineering and participation in the Automatic Exchange of Information agreement.",FALSE,normal
+21,15,- To raise tax revenue to GDP ratio from below 11 percent currently to above 13 percent by 2022.,FALSE,normal
+21,16,- Non-priority spending will be further consolidated in tandem with strengthened spending quality and efficiency Support the medium-term fiscal plan; revenue-enhancing and spending efficiency strengthening measures are commendable; energy subsidy reforms should continue to ensure financial soundness of SOEs and minimize contingent liabilities on the budget Weak GVC participation and still-elevated commodity dependence,FALSE,normal
+21,17,"- Unable to reap the benefit of GVC participation, including export and employment boost.",FALSE,normal
+21,18,"- Policies to encourage higher GVC participation in high value added sectors and sub-sectors, to diversify economic and export structures",FALSE,normal
+21,19,"- Structural reform acceleration to boost investment, including recent focus on infrastructure development, enhancing business climate, and strengthening productivity. To continue reforms to enhance competitiveness in the areas of labor skills and local supportive industries. Source: AMRO staff compilations",FALSE,normal
+21,20,NA,FALSE,empty
+22,1,NA,FALSE,empty
+22,2,NA,FALSE,empty
+22,3,NA,FALSE,empty
+22,4,"Appendix 1. Selected Figures for Major Economic Indicators Figure 1.1. Real Sector GDP growth continued to pick up in Q2 2018, after increasing modestly in 2017, with a pick-up in the agricultural sector. It is likely that growth continues to be driven by investment, underpinned by ongoing State-led infrastructural projects Source: Statistics Indonesia (BPS) Source: Statistics Indonesia (BPS) .. in tandem with robust cement sales and capital goods imports seen in early 2018. Household consumption has picked up since April, and is expected to strengthen with real wage increases and higher social assistance. Sources: Bank Indonesia, BPS Source: Bank Indonesia, BPS Headline inflation eased in early 2018, driven by lower fuel and transportation costs. Core inflation remained anchored in the absence of strong demand-driven inflationary pressures.",FALSE,normal
+22,5,NA,FALSE,empty
+22,6,"Source: BPS Sources: Bank Indonesia, BPS",FALSE,normal
+22,7,NA,FALSE,empty
+22,8,NA,FALSE,empty
+22,9,% point contribution,FALSE,normal
+22,10,% point contribution,FALSE,normal
+22,11,% yoy 3MMA % yoy 3MMA,FALSE,normal
+22,12,NA,FALSE,empty
+23,1,NA,FALSE,empty
+23,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+23,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 23 of 37,FALSE,page_footer
+23,4,NA,FALSE,empty
+23,5,"Figure 1.2. External Sector The trade balance deteriorated in H1 2018, as investment-related and fuel imports grew amidst export moderation,…",FALSE,normal
+23,6,"… which could widen the current account deficit. Sources: BPS, AMRO staff calculations Sources: Bank Indonesia, AMRO staff calculations The net capital inflows observed in 2017 have reversed... …in H1 2018 in tandem with increased volatility in global financial markets, triggered by aggressive Fed rate hikes and escalating trade tensions. Sources: Bank Indonesia, AMRO staff calculations Sources: Jakarta Stock Exchange and Ministry of Finance",FALSE,normal
+23,7,NA,FALSE,empty
+23,8,"BI has intervened in the FX market to mitigate extreme volatility in the rupiah, resulting in a decline in the FX reserves. External debt indicators, meanwhile, remain in check.",FALSE,normal
+23,9,NA,FALSE,empty
+23,10,"Sources: Bank Indonesia, AMRO staff calculations Sources: Bank Indonesia, AMRO staff calculations",FALSE,normal
+23,11,NA,FALSE,empty
+23,12,NA,FALSE,empty
+23,13,NA,FALSE,empty
+23,14,IDR depreciation,FALSE,normal
+23,15,% yoy USD billion IDR per USD USD billion IDR trillion,FALSE,normal
+23,16,NA,FALSE,empty
+24,1,NA,FALSE,empty
+24,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+24,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 24 of 37,FALSE,page_footer
+24,4,NA,FALSE,empty
+24,5,"Figure 1.3. Monetary and Financial Sector Both deposit and lending rates moderated in early 2018. BI meanwhile raised its 7DRR rate three times by 100 bps in total in May-June amid rising external risks. Credit growth picked up more strongly in early 2018… Sources: Bank Indonesia, AMRO staff calculations Sources: Bank Indonesia, AMRO staff calculations",FALSE,normal
+24,6,"… driven mainly by consumption and working capital loans, while investment loans also picked up in recent months. Banks’ NPL ratio was contained below 3 percent in early 2018, while banks remained well-capitalized. Sources: Bank Indonesia, OJK, AMRO staff calculations Sources: Bank Indonesia, OJK, AMRO staff calculations",FALSE,normal
+24,7,NA,FALSE,empty
+24,8,"The Jakarta Composite Index retreated in H1 2018, as a net foreign sell resumed from February onwards. Foreign investors also redeemed some of their government bond holding, in tandem with the spike in the 10-year government bond yield. Sources: Jakarta Stock Exchange, AMRO staff calculations Sources: Ministry of Finance and Indonesian Bond Pricing Agency",FALSE,normal
+24,9,NA,FALSE,empty
+24,10,NA,FALSE,empty
+24,11,NA,FALSE,empty
+24,12,NA,FALSE,empty
+25,1,NA,FALSE,empty
+25,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+25,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 25 of 37,FALSE,page_footer
+25,4,NA,FALSE,empty
+25,5,"Figure 1.4. Fiscal Sector Budget revenue is expected to strengthen in 2018, driven by non-oil and gas revenue. A broader tax base and enhanced tax compliance are budgeted to boost non-oil and gas income tax revenue in the 2018 Budget.",FALSE,normal
+25,6,NA,FALSE,empty
+25,7,NA,FALSE,empty
+25,8,"Note: 2018 data are from the authorities’ budget Sources: Ministry of Finance and AMRO staff calculations Note: 2018 data are from the authorities’ budget Sources: Ministry of Finance and AMRO staff calculations Expenditure is also projected to increase in 2018, on the back of higher current expenditure, ...",FALSE,normal
+25,9,"… driven mainly by personnel and material spending, whereas energy subsidies and capital spending are budgeted to decline. Note: 2018 data are from the authorities’ budget. Sources: Ministry of Finance and AMRO staff calculations Note: 2018 data are from the authorities’ budget. Sources: Ministry of Finance and AMRO staff calculations Central government debt is expected to remain contained at below 30 percent of GDP in 2018, … …driven by narrowed fiscal deficit.",FALSE,normal
+25,10,NA,FALSE,empty
+25,11,Sources: Ministry of Finance and AMRO staff calculations Sources: Ministry of Finance and AMRO staff calculations,FALSE,normal
+25,12,NA,FALSE,empty
+25,13,NA,FALSE,empty
+25,14,NA,FALSE,empty
+25,15,"Central government debt, % of GDP",FALSE,normal
+25,16,O v e,FALSE,garbage
+25,17,ra ll,FALSE,garbage
+25,18,b a,FALSE,garbage
+25,19,la n,FALSE,garbage
+25,20,c e,FALSE,garbage
+25,21,", %",FALSE,empty
+25,22,o f,FALSE,garbage
+25,23,G D,FALSE,garbage
+25,24,P,FALSE,garbage
+25,25,2011,FALSE,garbage
+25,26,2017,FALSE,garbage
+25,27,% of GDP % of GDP,FALSE,normal
+25,28,% of GDP,FALSE,normal
+25,29,2018,FALSE,garbage
+25,30,NA,FALSE,empty
+26,1,NA,FALSE,empty
+26,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+26,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 26 of 37,FALSE,page_footer
+26,4,NA,FALSE,empty
+26,5,Appendix 2. Selected Economic Indicators for Indonesia 2013 2014 2015 2016 2017 Projection*,FALSE,normal
+26,6,2018 2019,FALSE,garbage
+26,7,"Real sector (in annual percentage change, unless otherwise indicated) Real GDP 5.6 5.0 4.9 5.0 5.1 5.2 5.3 Household consumption 5.4 5.1 5.0 5.0 4.9 5.1 5.2 Government consumption 6.7 1.2 5.3 -0.1 2.1 3.6 3.5 Gross fixed capital formation 5.0 4.4 5.0 4.5 6.2 6.5 6.3 Export 4.2 1.1 -2.1 -1.6 9.1 7.2 8.0 Import 1.9 2.1 -6.2 -2.4 8.1 9.2 8.4 Balance of payments (in percent of GDP, unless otherwise indicated) Current account balance -3.2 -3.1 -2.0 -1.8 -1.7 -2.2 -2.2 Trade balance 0.6 0.8 1.6 1.6 1.9 1.0 1.0 Oil and gas -1.1 -1.3 -0.7 -0.5 -0.7 -0.8 -0.8 Non-oil and gas 1.7 2.1 2.3 2.2 2.6 1.8 1.8 Financial account balance 2.4 5.0 2.0 3.1 2.9 2.0 2.5 Foreign direct investment (net) 1.3 1.7 1.2 1.7 1.9 1.8 2.0 Portfolio investment (net) 1.2 2.9 1.9 2.0 2.0 0.5 0.9 Other investment (net) -0.1 0.5 -1.2 -0.6 -1.0 -0.3 -0.4 Overall balance -0.8 1.7 -0.1 1.3 1.1 -0.2 0.3 Central government (in percent of GDP, unless otherwise indicated) Revenue and grant 15.1 14.7 13.1 12.5 12.3 12.8 13.1 Expenditure 17.3 16.8 15.7 15.0 14.8 15.0 15.0 Overall balance -2.2 -2.1 -2.6 -2.5 -2.5 -2.2 -1.9 Central government debt 24.9 24.7 27.5 28.3 29.2 29.3 29.1 Money and credit (in annual percentage change, unless otherwise specified) Broad money 12.8 11.9 9.0 10.1 8.3 10.3 10.9 Private sector credit 21.4 11.6 10.1 7.8 8.2 8.9 11.3 Memorandum items Headline inflation (yoy, end of period) 8.1 8.4 3.4 3.0 3.6 4.0 4.0 BI 7-day reverse repo rate (% per annum) 7.50 7.75 7.50 4.75 4.25 5.25** n-a Exchange rate (rupiah/USD, period average) 10,461 11,876 13,392 13,305 13,385 n-a n-a International reserves (USD bn) 99.4 111.9 105.9 116.4 130.2 n-a n-a External debt (percent of GDP) 29.1 32.9 36.1 34.3 34.8 33.3 30.6 Nominal GDP (USD bn) 914 890 861 933 1,016 1,069 1,149 Note: */ Data for 2018-2019 are AMRO staff projections. Fiscal projections are based on the Budget for 2018-2019. **/ As of July 31, 2018 Sources: National Authorities, AMRO Staff Calculations",FALSE,normal
+26,8,NA,FALSE,empty
+26,9,NA,FALSE,empty
+26,10,NA,FALSE,empty
+26,11,NA,FALSE,empty
+27,1,NA,FALSE,empty
+27,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+27,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 27 of 37,FALSE,page_footer
+27,4,NA,FALSE,empty
+27,5,"Appendix 3. Balance of Payments in % of GDP, unless otherwise indicated 2013 2014 2015 2016 2017 Current Account -3.2 -3.1 -2.0 -1.8 -1.7 Goods 0.6 0.8 1.6 1.6 1.8 Oil-and-gas balance -1.1 -1.3 -0.7 -0.5 -0.7 Non-oil-and-gas balance 1.7 2.1 2.4 2.2 2.7 Exports 19.9 19.7 17.3 15.5 16.6",FALSE,normal
+27,6,Oil 2.0 1.5 0.9 0.7 0.7,FALSE,garbage
+27,7,Gas 1.7 1.7 1.1 0.7 0.8,FALSE,garbage
+27,8,Non-oil & gas 16.0 16.3 15.2 14.0 14.9 Imports 19.3 18.9 15.7 13.8 14.8,FALSE,normal
+27,9,Oil 4.4 4.2 2.4 1.7 2.0,FALSE,garbage
+27,10,Gas 0.3 0.3 0.2 0.2 0.3,FALSE,garbage
+27,11,Non-oil & gas 14.5 14.3 13.0 11.9 12.4 Services -1.3 -1.1 -1.0 -0.8 -0.8 Primary Income -3.0 -3.3 -3.3 -3.2 -3.2 Secondary Income 0.5 0.6 0.6 0.5 0.4,FALSE,normal
+27,12,NA,FALSE,empty
+27,13,Financial Account 2.4 5.0 2.0 3.1 2.9 Direct Investment 1.3 1.7 1.2 1.7 1.9 Portfolio Investment 1.2 2.9 1.9 2.0 2.0 Other Investment -0.1 0.5 -1.2 -0.6 -1.0,FALSE,normal
+27,14,NA,FALSE,empty
+27,15,Net Error & Omissions 0.0 -0.2 -0.1 0.0 0.0,FALSE,normal
+27,16,NA,FALSE,empty
+27,17,Overall Balance -0.8 1.7 -0.1 1.3 1.1,FALSE,normal
+27,18,NA,FALSE,empty
+27,19,"Memorandum items: International reserves (USD bn) 112.8 111.9 105.9 116.4 130.2 External debt 29.1 32.9 36.1 34.3 34.8 Exchange rate (rupiah/USD) 10,461 11,876 13,392 13,305 13,385 Nominal GDP (USD bn) 914 890 861 933 1,016 Note: */ Data for 2018-2019 are AMRO staff projections. Sources: National Authorities, AMRO Staff Calculations",FALSE,normal
+27,20,NA,FALSE,empty
+27,21,NA,FALSE,empty
+28,1,NA,FALSE,empty
+28,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+28,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 28 of 37,FALSE,page_footer
+28,4,NA,FALSE,empty
+28,5,"Appendix 4. Central Government Budget (Data in IDR trillion, unless otherwise indicated) Sources: Ministry of Finance and AMRO staff calculations",FALSE,normal
+28,6,2016 2017 2018 H1-17 H1-18,FALSE,garbage
+28,7,Act Act Budget from 2015 from 2016 from 2017 Act Act Act Act,FALSE,normal
+28,8,"A. Total Revenue and Grants 1,556 1,666 1,895 3.2 7.1 13.7 720 833 13.4 15.8",FALSE,normal
+28,9,"I. Domestic Revenue 1,547 1,655 1,894 3.4 7.0 14.4 720 830 13.5 15.4",FALSE,normal
+28,10,"1. Taxes Revenue 1,285 1,344 1,618 3.6 4.6 20.4 572 653 9.5 14.3 a. Domestic taxes 1,249 1,304 1,579 3.7 4.4 21.1 554 633 9.9 14.1 i.Income Taxes 666 647 855 10.6 -2.9 32.2 314 359 9.6 14.3",FALSE,normal
+28,11,- Oil and Gas 36 50 38 -27.3 39.4 -24.2 28 30 68.8 9.1,FALSE,normal
+28,12,- Non-Oil and Gas 630 597 817 14.0 -5.3 36.9 287 329 6.0 14.8,FALSE,normal
+28,13,ii.VAT 412 481 542 -2.7 16.6 12.7 192 218 13.5 13.6,FALSE,garbage
+28,14,iv.Excise 144 153 155 -0.8 6.8 1.4 44 51 0.7 15.0 b. International Taxes 35 39 39 1.5 10.6 -1.3 17 21 0.3 20.9 i.Import Duties 32 35 36 4.0 8.0 1.8 16 18 -2.2 13.0 ii.Export Tax 3 4 3.0 -19.5 38.3 -27.7 2 3 31.6 93.8,FALSE,normal
+28,15,2. Non tax Revenue 262 311 275.4 2.5 18.8 -11.5 148 177 31.9 19.6 a. Natural resources 65 111 103.7 -35.7 71.2 -6.7 53 75 92.5 42.5 i. Oil and Gas 44 83 80.3 -43.6 87.1 -2.6 40 59 115.1 47.9 ii. Non Oil and Gas 21 29 59.6 -8.7 40.8 103.4 13 16 45.5 26.0,FALSE,normal
+28,16,b. Others 197 200 172 27.4 1.5 -14.2 42 27 -26.0 -37.3,FALSE,garbage
+28,17,"B. Government Expenditures 1,864 2,004 2,221 3.2 7.5 10.8 894 944 3.3 5.6",FALSE,normal
+28,18,"I. Central Government 1,154 1,262 1,454 -2.5 9.4 15.2 499 558 3.6 11.9 a. Personnel 305 313 366 8.5 2.5 17.0 157 171 0.2 8.6 b. Materials 260 295 338 11.3 13.6 14.6 97 106 2.7 9.5",FALSE,normal
+28,19,c. Capital 169 206 179 -21.3 21.3 -12.7 47 41 7.0 -14.2,FALSE,garbage
+28,20,d.Interest Payment 183 217 239 17.1 18.5 10.2 107 121 22.4 12.9,FALSE,normal
+28,21,Domestic 168 200 222 18.2 19.2 11.2 99 112 23.6 13.3,FALSE,garbage
+28,22,Foreign 15 17 16 6.4 10.5 -1.8 8 9 9.6 7.3 e.Subsidies 174 166 156 -6.3 -4.5 -6.1 59 74 -18.8 25.9,FALSE,normal
+28,23,Energy 107 98 95 -10.3 -8.6 -3.2 38 60 -26.3 58.1,FALSE,garbage
+28,24,Fuel (Pertamina) 44 47 47 -28.1 7.7 -0.4 20 35 -6.1 74.0 Electricity (PLN) 63 51 48 8.2 -19.8 -5.8 17 24 -41.1 39.4 Non Energy 67 69 62 0.8 1.9 -10.2 21 14 -0.8 -31.6 f. Grants spending 7 5 1 67.3 -23.6 -73.2 2 0 898.5 -98.7,FALSE,normal
+28,25,g. Social 50 55 81 -48.9 11.5 46.5 26 45 12.5 75.0,FALSE,garbage
+28,26,h. Other Spendings 6 9 67 -40.1 44.7 671.2 4 1 31.2 -78.6 I I . Transfer to Region & Village Funds 710 742 766 14.0 4.5 3.3 395 386 2.8 -2.3,FALSE,normal
+28,27,1. Transfer to Regions 664 682 706 10.2 2.8 3.5 371 361 4.0 -2.8 Balance Fund 640 654 677 31.7 2.3 3.4 360 350 3.4 -3.0 a.Revenue Sharing 91 88 89 16.0 -2.5 1.1 50 34 -7.4 -31.0 b.General Allocation Fund 385 399 401 9.2 3.4 0.7 233 234 4.0 0.3 c. Special Allocation Funds 164 168 186 198.6 2.3 10.9 67 70 -6.1 5.9 Other transfer 24 28 30 -79.6 16.5 6.5 11 11 29.2 0.7,FALSE,normal
+28,28,2. Village Fund 47 60 60 124.8 28.0 0.4 34 36 28.2 4.3,FALSE,normal
+28,29,C.Primary Balance -126 -122 -87,FALSE,normal
+28,30,% of GDP -1.0 -0.9 -0.6,FALSE,normal
+28,31,D.Overal Balance -308 -338 -326,FALSE,normal
+28,32,% of GDP -2.5 -2.5 -2.2,FALSE,normal
+28,33,E. Financing 335 364 326 29.8 8.7 -10.3,FALSE,normal
+28,34,I. Debt financing Financing 426 399 -6.2 Gov Bonds (netto) 442 415 -6.2 Loans (net0 -22 -15 -32.0 I I . Investment Financing -59 -66 10.5,FALSE,normal
+28,35,SOEs -6.4,FALSE,garbage
+28,36,Public Services Inst. (BLU) -48 Others Institutions -5 I I I . Others -3 IV. SILPA 25 -70 Items 20182016 2017 Changes (% yoy) H1-17 H1-18 Changes (%),FALSE,normal
+28,37,NA,FALSE,empty
+29,1,NA,FALSE,empty
+29,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+29,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 29 of 37,FALSE,page_footer
+29,4,NA,FALSE,empty
+29,5,Appendix 5. Data Adequacy for Surveillance Purposes: a Preliminary Assessment Criteria/ Key Indicators for Surveillance Availability(i) Reporting Frequency/ Timeliness(ii) Data Quality(iii) Consistency(,FALSE,normal
+29,6,iv),FALSE,garbage
+29,7,"Others, if",FALSE,normal
+29,8,Any(v),FALSE,garbage
+29,9,National Account Available Quarterly data is available within 3 months after the end of the reference period,FALSE,normal
+29,10,- - -,FALSE,empty
+29,11,Balance of Payment (BOP) and External Position Available Quarterly data is available within 3 months after the end of the reference period,FALSE,normal
+29,12,- - -,FALSE,empty
+29,13,State Budget and Government/External Debt Available Annual data is available within 6 months after the end of the reference period,FALSE,normal
+29,14,- - -,FALSE,empty
+29,15,Money Supply and Credit Growth Available Monthly data is available within 3 months after the end of the reference period,FALSE,normal
+29,16,- - -,FALSE,empty
+29,17,Financial Sector Soundness Indicators Available Monthly data is available within 3 months after the end of the reference period,FALSE,normal
+29,18,- - -,FALSE,empty
+29,19,State-Owned-Enterprises Statistics Available Annual data is available upon request,FALSE,normal
+29,20,- - -,FALSE,empty
+29,21,"Others, if relevant Notes: (i) Data availability refers to whether the official data are available for public access by any means. (ii) Reporting frequency refers to the periodicity that the available data are published. Timeliness refers to how up-to-date the published data are relatively with the publication date. (iii) Data quality refers to the accuracy and reliability of the available data given the data methodologies are taken into account. (iv) Consistency refers to both internal consistency within the data series itself and its horizontal consistency with other data series of either same or different categories. (v) Other criteria might also apply, if relevant. Examples include but are not limited to potential areas of improvement for data adequacy. Source: AMRO staff compilations.",FALSE,normal
+29,22,NA,FALSE,empty
+29,23,NA,FALSE,empty
+29,24,NA,FALSE,empty
+30,1,NA,FALSE,empty
+30,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+30,3,NA,FALSE,empty
+30,4,Annexes: Selected Issues,FALSE,normal
+30,5,1. Financial Spillovers and Stress Test to Capital Outflows,FALSE,normal
+30,6,"1. External spillovers could be transmitted via different channels, depending on the nature of the shock as well as inherent weaknesses and vulnerabilities of the affected economy. Recent episodes of global volatilities, triggered by a combination of factors, including market uncertainty over the pace of Fed rate hike, fueled by strong U.S. economic data, and escalating trade tensions among global powerhouses have led to higher risk aversion sentiments and investors’ rebalancing of their emerging market portfolio, including Indonesia. The current literature finds that international capital flows after the Global Financial Crisis (GFC) have shifted from bank loans to direct market financing. Drivers of such shift include a number of push factors, most notably global risk aversion, as measured by the Cboe Volatility Index (VIX index)34, and US economic and monetary conditions, as reflected via the strength of the U.S. dollar (the U.S. dollar index – DXY)35. This selected issue focuses on a preliminary analysis of external shocks related to the above-mentioned factors on Indonesia. A simplified scenario exercise is also conducted to test Indonesia’s resilience to such shocks.",FALSE,normal
+30,7,"2. Preliminary analysis suggest that bond and equity flows into Indonesia exhibit a negative correlation with global risk aversion. Figures A1.1 and A1.2 plot the monthly change in bond and equity flows (in rupiah terms) into Indonesia against the (log) change in the monthly VIX, indicating that rising global risk version tend to correlate with net capital outflows from both bond and equity markets, with a somewhat stronger correlation for the equity flow. A close look at the movement of capital flows during the GFC in 2008, U.S. debt ceiling crisis and the European sovereign debt crisis (ESDC) in 2011-2012, market anxiety over China spillovers in August-September 2015, as well as Trump’s U.S. election victory – when the VIX index increased sharply, show significant outflows from Indonesia’s bond and equity markets, with larger magnitude for the latter (Figures A1.3 & A1.4)36. In the latest episode of global uncertainty in early 2018, market anxiety over stronger-than expected US economic data and escalating global trade tensions shored up the VIX index, triggering investors’ EM portfolio rebalancing and relatively large capital outflows from Indonesia.37",FALSE,normal
+30,8,"3. Data also point to a negative correlation between Indonesia’s capital flows and the strength of the U.S. dollar. Figure A1.5 and A1.6 plot the monthly change in bond and equity flows (in rupiah terms) versus the monthly change in the DXY, indicating that a stronger",FALSE,normal
+30,9,U.S. dollar tends to be associated with outflows from Indonesia’s bond and equity markets.,FALSE,normal
+30,10,NA,FALSE,empty
+30,11,"34 The VIX Index is a financial benchmark designed to be an up-to-the-minute market estimate of expected volatility of the S&P 500 Index, and is calculated by using the midpoint of real-time S&P 500 Index (SPX) option bid/ask quotes. More specifically, the VIX Index is intended to provide an instantaneous measure of how much the market thinks the S&P 500 Index will fluctuate in the 30 days from the time of each tick of the VIX Index. 35 The broad dollar index – DXY is an index of the value of the U.S. dollar in comparison to a basket of six currencies (euro, Japanese yen, Pound sterling, Canadian dollar, Swedish krona, and Swiss franc) 36 The only exception is during the taper tantrum period in May 2013 when capital outflows, in particular from the equity market, were significant while the VIX remained relatively stable. 37 Foreign investors redeemed partly their holding of IGBs in the secondary bond market in early 2018, which lowered foreign ownership of IGBs from 41 percent of total bonds outstanding in January 2018 to 38 percent, as at June. Foreign net selling of Indonesian equities, which started from mid-2017, also intensified in the first half of 2018, with net outflows amounting to IDR43.3 trillion in January-June, in tandem with a sharp fall in the Jakarta Composite Index.",FALSE,normal
+30,12,NA,FALSE,empty
+31,1,NA,FALSE,empty
+31,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+31,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 31 of 37,FALSE,page_footer
+31,4,NA,FALSE,empty
+31,5,"Figure A1.1. Bond Flows vs VIX Figure A1.2. Equity Flows vs VIX Note: A positive value for the log change in monthly VIX index indicate higher volatility and an increase in risk aversion sentiments. Sources: Thomson Reuters Datastream, Ministry of Finance, and AMRO Staff Calculations Note: A positive value for the log change in monthly VIX index indicate higher volatility and an increase in risk aversion sentiments. Sources: Thomson Reuters Datastream, Jakarta Stock Exchange, and AMRO Staff Calculations Figure A1.3. Bond Flows vs VIX Figure A1.4. Equity Flows vs VIX Sources: Thomson Reuters Datastream, Ministry of Finance, and AMRO Staff Calculations Sources: Thomson Reuters Datastream, Jakarta Stock Exchange, and AMRO Staff Calculations Figure A1.5. Bond Flows vs DXY Figure A1.6. Equity Flows vs DXY Note: A positive value for the monthly change in the DXY indicates an appreciation in the value of the U.S. dollar. Sources: Thomson Reuters Datastream, Ministry of Finance, and AMRO Staff Calculations Note: A positive value for the monthly change in the DXY indicates an appreciation in the value of the U.S. dollar. Sources: Thomson Reuters Datastream, Jakarta Stock Exchange, and AMRO Staff Calculations",FALSE,normal
+31,6,"4. A simplified scenario exercise conducted by AMRO staff suggests that Indonesia has become more resilient to capital flow reversal risks, supported by the accumulation of ample foreign reserves in the past years. Simulation results show that in an extreme scenario based on the GFC episode, external spillovers via financial markets could lead to net capital outflows of about 2.6 percentage points of GDP (Tables A1.1 & A1.2). However, even in this scenario, the reserves would remain adequate at about USD102 billion, well above the conventional metrics of 3 months of imports, as well as within the range of 100- 150 percent of ARA metrics recommended by the IMF. This is mainly due to the past efforts in building up the reserves buffer, with the official foreign reserves rising to all-time high of USD130.2 billion as at end-2017. In addition, as the exchange rate risks are borne by foreign investors who hold IGBs as well as other rupiah-denominated assets, those investors may be",FALSE,normal
+31,7,GFC,FALSE,garbage
+31,8,Taper Tantrum,FALSE,normal
+31,9,RMB,FALSE,garbage
+31,10,depreciation Trump,FALSE,normal
+31,11,won,FALSE,garbage
+31,12,"election Index, points Index, points standard deviations Taper Tantrum",FALSE,normal
+31,13,RMB,FALSE,garbage
+31,14,depreciation Trump,FALSE,normal
+31,15,won,FALSE,garbage
+31,16,"election DXY, % mom Monthly change in foreign holding of IGBs in rupiah terms",FALSE,normal
+31,17,(% mom),FALSE,garbage
+31,18,Monthly change in foreign holding of Indonesian equities in rupiah terms (% mom) Monthly change in foreign holding of Indonesian equities in rupiah terms,FALSE,normal
+31,19,(% mom),FALSE,garbage
+31,20,"Monthly VIX, log change Monthly VIX, log change",FALSE,normal
+31,21,U.S. debt ceiling crisis and ESDC,FALSE,normal
+31,22,U.S. debt ceiling crisis and ESDC Monthly change in foreign holding of IGBs in rupiah terms (%,FALSE,normal
+31,23,mom),FALSE,garbage
+31,24,NA,FALSE,empty
+32,1,NA,FALSE,empty
+32,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+32,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 32 of 37,FALSE,page_footer
+32,4,NA,FALSE,empty
+32,5,"reluctant to wind down their portfolios during periods of rupiah depreciation, and hence contribute to lower net capital outflows. Table A1.1. Capital flow shocks: Past Experience and AMRO scenarios Timeline and Parameters What happened in the past AMRO Scenarios GFC Taper tantrum RMB depreciation Volatile global conditions (1) (2) (3) 2008 May-13 Aug-Sep 2015 Early 2018* Exchange rate IDR spot rate (% change, nominal) -7.4 -11.5 -12.8 -3.2 -15 -10 -5",FALSE,normal
+32,6,Bond,FALSE,garbage
+32,7,LCY bonds held by foreigners (% change in rupiah value),FALSE,normal
+32,8,-17.9 -6.6 -2.6 -2.8 -15 -10 -5,FALSE,garbage
+32,9,Gov’t bond yield (change in bps) +440 +345 +180 +60 +500 +300 +100 Short-term debt Short-term debt rollover ratio (%) 70 80 90 Equity Equities held by foreigners (% change in rupiah value),FALSE,normal
+32,10,-23.2 -20.1 -7.9 -20 -15 -10,FALSE,garbage
+32,11,"Jakarta Composite Index (% change) -54.8 -17.2 -19.0 -9.3 -50 -20 -10 Note: Data as of up to April 2018 and exclude the recent episodes of volatility in May-June 2018. Sources: Thomson Reuters Datastream, National Authorities, and AMRO Staff Calculations",FALSE,normal
+32,12,"5. Pro-active recalibration of the policy mix is essential in strengthening resilience against external shocks, including further pre-emptive measures to safeguard short- term stability, and structural reforms to enhance medium- to long-term prospects. Amid the latest episode of capital flow reversal in H1 2018, Bank Indonesia increased its policy rates twice by a total of 50 basis points in May 2018, and again in June by another 50 basis points. These “pre-emptive, frontloading and ahead-of-the-curve” policy actions were welcomed by the market. In light of continued uncertainty in the global markets and prevailing capital flow reversal risks, it is encouraging that the authorities are open to additional policy rate hikes. As a number of studies have found, the role of economic fundamentals has become more important in explaining differences in EMs’ responses to post-GFC external shocks 38 . Indonesia’s fiscal and structural reforms in recent years to strengthen its fundamentals were prudent, and further reforms should continue to help differentiate Indonesia from other EMs (Figure A1.7). Ongoing efforts of financial deepening, including the establishment of relevant benchmarks and products to pool in new liquidity and investors, are also commendable. Table A1.2. Capital Flow Shocks: Impact Estimates Figure A1.7. Current Account and Fiscal Balance in Selected EMs, 2017 in billions of USD, unless otherwise indicated 2017 (Outstanding) Capital outflows in 2018* Scenario (1) Scenario (2) Scenario (3)",FALSE,normal
+32,13,NA,FALSE,empty
+32,14,IGBs held by foreign investors,FALSE,normal
+32,15,61.7 5.6 4.5 2.6,FALSE,garbage
+32,16,NA,FALSE,empty
+32,17,Short-term debt of the banking sector,FALSE,normal
+32,18,17.6 5.3 3.5 1.8,FALSE,garbage
+32,19,NA,FALSE,empty
+32,20,Foreign holding of equities,FALSE,normal
+32,21,148.5 17.2 16.9 12.9,FALSE,garbage
+32,22,"Total impacts 28.1 24.9 17.2 in percent of GDP (%) 2.6 2.3 1.6 FX reserves, end-2017 130.2 in percent of ARA (%) 138 Estimated reserves, as at end-2018",FALSE,normal
+32,23,102.1 105.3 113.0,FALSE,garbage
+32,24,in percent of ARA (%),FALSE,normal
+32,25,108.2 111.6 119.8,FALSE,garbage
+32,26,NA,FALSE,empty
+32,27,"Note: */ Impact on the LCY bonds = 𝑓(𝐿𝐶𝑌 𝑏𝑜𝑛𝑑 𝑠𝑡𝑜𝑐𝑘 𝑖𝑛 𝑈𝑆𝐷, 𝛥𝑒𝑥𝑐ℎ𝑎𝑛𝑔𝑒 𝑟𝑎𝑡𝑒, 𝛥𝑏𝑜𝑛𝑑 𝑝𝑟𝑖𝑐𝑒, 𝛥𝑓𝑜𝑟𝑒𝑖𝑔𝑛 ℎ𝑜𝑙𝑑𝑖𝑛𝑔) Impact on the ST debt = 𝑓(𝑆𝑇 𝑑𝑒𝑏𝑡 𝑠𝑡𝑜𝑐𝑘 𝑖𝑛 𝑈𝑆𝐷, 𝑟𝑜𝑙𝑙𝑜𝑣𝑒𝑟 𝑟𝑎𝑡𝑖𝑜 ) Impact on the equity = 𝑓(𝑒𝑞𝑢𝑖𝑡𝑦 𝑠𝑡𝑜𝑐𝑘 𝑖𝑛 𝑈𝑆𝐷, 𝛥𝑒𝑥𝑐ℎ𝑎𝑛𝑔𝑒 𝑟𝑎𝑡𝑒, 𝛥𝑓𝑜𝑟𝑒𝑖𝑔𝑛 ℎ𝑜𝑙𝑑𝑖𝑛𝑔 ) Sources: National Authorities, AMRO Staff Calculations Sources: National Authorities, CEIC",FALSE,normal
+32,28,38 An example of such studies is Ahmed et al. (2015).,FALSE,normal
+32,29,F is,FALSE,garbage
+32,30,c a l b,FALSE,garbage
+32,31,a la,FALSE,garbage
+32,32,n c e,FALSE,garbage
+32,33,", % o",FALSE,garbage
+32,34,f G D,FALSE,garbage
+32,35,P,FALSE,garbage
+32,36,Indonesia,FALSE,normal
+32,37,NA,FALSE,empty
+33,1,NA,FALSE,empty
+33,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+33,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 33 of 37,FALSE,page_footer
+33,4,NA,FALSE,empty
+33,5,2. Inter-government Fiscal Relationship in Indonesia,FALSE,normal
+33,6,"6. Indonesia has embarked on fiscal decentralization since the early 2000s, which has restructured the inter-governmental fiscal relationship. A new intergovernmental fiscal framework has been introduced with the enforcement of Law 22/1999 on local governments’ authority and responsibility and Law 25/1999 on the central government’s transfer and local governments’ own source of revenue from 2001. In particular, earmarked grants have been replaced with general grants (block grants), allowing local governments (LGs) greater flexibility in their budget planning and execution. LGs have been also assigned with more spending responsibilities in tandem with increased transfer from the CG. This selected issue focusses on major developments in LGs’ budget structure and implementation during the decentralization period using budget data from the Ministry of Finance of Indonesia. Recent Developments in Inter-governmental Fiscal Relations",FALSE,normal
+33,7,"7. LGs’ expenditure has expanded rapidly, mainly financed by increased transfers from the CG, while their own source of revenue has also picked up. Table A2.1 shows the overall picture of the inter-governmental fiscal relationship during the decentralization period. With the implementation of Law 22/1999 and Law 25/1999 in 2001, LGs’ expenditure has increased sharply and so has the transfers from the CG to LGs. For instance, LGs’ expenditure increased from 15.9 percent of total consolidated expenditure in 2000 to 46.5 percent in 2016. A large number of facilities has been transferred to the LGs (e.g. health and education facilities), while almost two third of the civil servants in the central government (CG) were re-assigned to the LGs. Similarly, transfer from CG to LGs also rose from 14.9 percent of CG expenditure in 2000 to 38.1 percent in 2016. In addition to regional transfers, transfers to so-called “village funds” have been introduced to enhance infrastructure development and local economic activities at villages/subregional levels. Lastly, aggregate revenue data show that LGs’ own source of revenue has increased during the same period, from about 14.6 percent of total LGs’ revenue in 2000 to 22.6 percent in 2016 (Table A2.1). Table A2.1. Inter-governmental Fiscal Relationship: Before and After Decentralization Notes: 1) Calculated by dividing total own source revenue of all LGs with total LGs revenue. LGs refers to provinces and districts/municipalities. Sources: DG Fiscal Balance, Ministry of Finance of Indonesia, AMRO staff calculations Items 2000 2005 2011 2016 Local Government Revenue 37.9 181.1 547.7 1,013.5 Own source revenue 5.5 38.0 109.2 229.4 Transfer from CG 29.4 127.0 406.2 711.4 Others 2.9 16.0 32.3 72.7 Expenditure 35.7 161.5 518.8 1,003.3 Fiscal Balance 2.2 19.5 28.9 10.2 SILPA (cummulative) 4.4 5.1 78.3 93.9 Central Government Revenue 205 495 1,211 1,556 Expenditure 221 510 1,295 1,864 Transfer to CG 33 150 411 710 CG expenditures 188 359 884 1,154 Fiscal Balance -16 -14 -84 -308 Memorandum Ratio of LGs' own source of revenue to total LGs' revenue (%) 1) 14.6 21.0 19.9 22.6 Ratio of Transfer to LGs to CG expenditure (%) 14.9 29.5 31.8 38.1 Ratio of LGs' expenditure to total Consolidated expenditure (%) 15.9 31.0 37.0 46.5 LG expenditure (% of GDP) 2.6 5.8 7.0 8.1 Consolidated Revenue (% of GDP) 15.2 19.2 17.8 15.0 Consolidated CG and LGs Expenditure (% of GDP) 16.1 18.8 18.9 17.4 Consolidated CG and LGs Fiscal Balance (% of GDP) -0.9 0.5 -1.1 -2.4",FALSE,normal
+33,8,NA,FALSE,empty
+34,1,NA,FALSE,empty
+34,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+34,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 34 of 37,FALSE,page_footer
+34,4,NA,FALSE,empty
+34,5,LGs’ Revenue and Expenditure,FALSE,normal
+34,6,"8. Despite a pick-up in their own revenue, LGs remain reliant on CG transfer. Table A2.2 shows LGs’ own source of revenues (OSR) versus CG transfer in 2011 and 2016, focusing on the revenue distribution pattern across LGs39. OSR contribution to LGs’ total revenue increased from 9.7 percent on average in 2011 to 12.2 percent in 2016. The share of CG transfer moderated from 83.7 percent in 2011, but remained significant at 79.8 percent in 2016. In this regard, the CG’s budget performance could affect LGs’ budget execution. Table A2.2. LGs’ Revenue Structure: Own Source Revenue vs. CG Transfer (% of Total Revenue) Table A2.3. LGs’ Expenditure Composition (% to Total Expenditure) Note: Figures in Table 2 is calculated based on the average of own source revenue ratio across LGs. Own sources revenue includes local charges and taxes (fuel tax, hotel, restaurant and entertainment tax and property taxes). Sources: Ministry of Finance, AMRO staff calculations Sources: Ministry of Finance, AMRO staff calculations",FALSE,normal
+34,7,NA,FALSE,empty
+34,8,"9. A relatively large proportion of LGs’ budget is still allocated towards operational spending, amid increased capital spending. Table A2.3 shows that the share of operational spending, mainly personnel spending and material purchases, in LGs’ total expenditure, moderated somewhat from 68.2 percent on average in 2011, but remained significant at 59.4 percent in 2016. On a positive note, LGs’ capital spending picked up from 22.8 percent of total spending in 2011 to 24.8 percent in 2016, possibly due to measures to encourage LGs to allocate a minimum of 25 percent of their budget to capital expenditure. LGs’ Budget Planning and Realization",FALSE,normal
+34,9,"10. The number of LGs with realized budget deficits has increased in recent years, likely driven by smaller revenue sharing from CG. Table A2.4 summarizes LGs’ budget plan versus realization in 2011 and 2016. In 2011, about 84 percent of LGs planned some budget deficits, whereas the number of LGs which actually ran deficits is only 18 percent. The picture changed somewhat in 2016, with the number of LGs which ran deficits rising sharply to about 60 percent (compared with about 81 percent planning a deficit in the same year). This could be due to smaller CG revenue realization than planned in 2016 on the back of lower commodity (oil) prices. As LGs still relied significantly on transfers from CG, the revenue shortfall in the CG has led to smaller revenue transfers to LGs (Table A2.5) resulting in more LGs with realized budget deficits than planned in 2016. Table A2.4. LGs’ Fiscal Balance: Budget vs. Realization Table A2.5. Regional Transfer Disbursement (% of Budget) Note: The number of local governments in budget and realization column in 2016 are different as some of the local governments did not reported their budget to the Ministry of Finance. Sources: Ministry of Finance, AMRO staff calculations Note: The disbursement rate is calculated by comparing the actual with the initial budget. Others includes special autonomy and village funds. Sources: Ministry of Finance, AMRO staff calculations",FALSE,normal
+34,10,"39 In addition to analysing the aggregate revenue of all LGs, this selected issue also investigates the distribution pattern of revenue using individual LG data, which helps mitigate the distortive impact of outliers to the whole sample.",FALSE,normal
+34,11,2011 2016 2011 2016,FALSE,garbage
+34,12,Mean 9.7 12.2 83.7 79.8,FALSE,garbage
+34,13,Min 1.8 1.8 19.8 14.2,FALSE,garbage
+34,14,Max 77.4 82.3 98.1 96.9,FALSE,garbage
+34,15,Description Own Source Revenue Central Gov. Transfer,FALSE,normal
+34,16,2011 2016 2011 2016,FALSE,garbage
+34,17,Mean 68.2 59.4 22.8 24.8,FALSE,garbage
+34,18,Min 28.4 16.8 6.0 9.0,FALSE,garbage
+34,19,Max 87.3 86.5 61.3 55.6,FALSE,garbage
+34,20,Description Personnel and Goods Spending Capital Spending 2011 Prop. (%) 2016 Prop. (%) 2011 Prop. (%) 2016 Prop. (%) Deficit 439 83.8 466 86.8 95 18.1 327 60.3 Balance 6 1.1 13 2.4 3 0.6 5 0.9 Surplus 79 15.1 58 10.8 426 81.3 210 38.7,FALSE,normal
+34,21,Total 524 100 537 100 524 100 542 100,FALSE,garbage
+34,22,Budget Realization Items 2011 2014 2016 Transfer to Region 99.7 96.8 92.2 Revenue Sharing 100.1 91.4 85.3 General Allocation Fund 100.0 100.0 100.0 Special Allocation Funds 98.3 96.7 78.4 Others 98.6 292.9 101.1,FALSE,normal
+34,23,NA,FALSE,empty
+35,1,NA,FALSE,empty
+35,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+35,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 35 of 37,FALSE,page_footer
+35,4,NA,FALSE,empty
+35,5,"11. A slow and uneven pace of expenditure disbursement is another challenge related to LGs’ budget execution. Monthly bank deposits held by LGs could be used as mirrored data for LGs’ expenditure disbursement, indicating that disbursement is generally slow in the early part of the year and spiked up only in the final months of the year (Figure A2.1)40. This also matches the pattern of monthly regional transfer from the CG, which tend to be moderate in the beginning and increase sharply towards the year-end. Figure A2.1. LGs’ Deposit Holding in Banks Table A2.6. Financing Surplus (IDR billion)",FALSE,normal
+35,6,NA,FALSE,empty
+35,7,NA,FALSE,empty
+35,8,"Sources: Bank Indonesia, CEIC, AMRO staff calculations Note: Financing surplus (SILPA) is defined as the SILPA of last year last plus fiscal balance minus financing expense including capital injection to the State Own Enterprises owned by the LGs. Sources: Ministry of Finance, AMRO staff calculations",FALSE,normal
+35,9,"12. Most of LGs have built up fiscal reserves, which can be used for financing deficits in years when there is a shortfall in revenue, or injecting capital in SOEs owned by LGs. Table A2.6 shows the accumulative financing surplus (SILPA) of the LGs in 2011 and 2016. The average size of LGs’ SILPA as of 2016 was IDR173 billion, with some LGs reporting a cumulative surplus of up to IDR10.6 trillion. As of 2016, aggregate SILPA surplus for all LGs amounted to about IDR94 trillion, which is close to about 10 percent of LGs’ total expenditure. Conclusion",FALSE,normal
+35,10,"13. LGs’ autonomy in budget execution has increased in tandem with fiscal decentralization efforts in the past years. LGs’ expenditure has expanded significantly, mainly financed by increased transfer from the CG, while their own source of revenue has also picked up. LGs’ still-heavy reliance on CG transfers has partly affected LGs’ budget execution, characterized by uneven disbursement during the year. While capital spending has increased among LGs in recent years, the share of operating spending in LGs’ total expenditure remains significant. Lastly, despite the challenge in budget execution emanating from CG revenue shortfall and smaller revenue transfers from CG, most of the LGs have continued to build up fiscal reserves.",FALSE,normal
+35,11,NA,FALSE,empty
+35,12,"40 Bank deposits held by LGs gradually increase in early part of the year, stay at high level in the middle of the year, and drop sharply in December.",FALSE,normal
+35,13,2011 2016,FALSE,garbage
+35,14,Mean 150 173,FALSE,garbage
+35,15,Min -141 -113,FALSE,garbage
+35,16,"Max 6,471 10,579",FALSE,garbage
+35,17,"Total 78,334 93,907 Memorandum Ratio of SILPA to Total LGs Expenditures (%) 15.1 9.4 Items SILPA",FALSE,normal
+35,18,NA,FALSE,empty
+36,1,NA,FALSE,empty
+36,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+36,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 36 of 37,FALSE,page_footer
+36,4,NA,FALSE,empty
+36,5,3. SOEs in Indonesia: Recent Developments,FALSE,normal
+36,6,"14. State-Owned Enterprises have played an important role in the Indonesian economy, serving as a vehicle to implement the government’s overarching economic development policies. As of 2016, there were about 99 non-financial State-Owned Enterprises (SOEs) with total assets worth 26 percent of GDP, concentrated in electricity and gas, mining and quarrying, transport and warehouse, and construction sectors (Figure A3.1). According to OECD’s estimate41, Indonesia is one of the top 10 countries with the highest SOEs’ share among their largest firms. This box discusses the recent developments in non- financial SOEs, specifically energy and infrastructure-related SOEs, in the context of the energy subsidy reform and infrastructure-push strategy in the past years. Figure A3.1. Non-financial SOEs’ Total Assets Figure A3.2. Non-financial SOEs’ Total Liabilities Note: The increase in assets in 2015 and 2016 was driven largely by PLN’s asset revaluation in 2016, applied retroactively to 2015. Sources: National Authorities, AMRO staff calculations Note: The decline in liabilities in 2016 was driven by a sharp fall in long- term lease of the electricity SOE PLN, due to the change in accounting practice. Sources: National Authorities, AMRO staff calculation Table A3.1. Non-financial SOEs: Sources of Debt Financing",FALSE,normal
+36,7,% of GDP 2011 2012 2013 2014 2015 2016 2017,FALSE,garbage
+36,8,"External borrowing 1.46 1.72 2.36 2.99 3.20 2.83 2.78 Loans provided commercial banks 1.14 1.66 1.95 1.83 1.61 2.21 2.21 Sources: National Authorities, AMRO staff calculations",FALSE,normal
+36,9,"15. Data suggest that SOEs’ financial positions remained sound with contained debt level, adequate liquidity, and sustained profitability. SOEs’ liabilities were contained at below 12 percent of GDP (Figure A3.2), of which loan liabilities remained manageable at around 5 percent of GDP (Table A3.1). SOEs maintained sufficient liquidity to meet their short- term obligations, as indicated in their current ratio and interest coverage ratio. Lastly, SOEs’ net profit margins have also picked up from some deterioration in 2013-2014 (Table A3.2). Table A3.2. Selected Key Ratios of Non-financial SOEs Key ratios (%) 2011 2012 2013 2014 2015* 2016 Current ratio 1.35 1.39 1.30 1.29 1.28 1.33 Net profit margin 0.06 0.06 0.04 0.04 0.53 0.11 Debt to Equity Ratio 1.52 1.61 1.65 1.74 0.94 0.81 Interest coverage ratio 5.85 4.64 3.09 3.33 2.43 4.15 Note: */ The jump in net profit margin in 2015 was driven by the change in methodology of asset valuation for PLN in 2016 and applied retroactively to 2015. Based on PLN’s financial statement 2016, the asset revaluation worth IDR653 trillion was categorized as “property, plant and equipment revaluation surplus” under “other comprehensive income for the year” in 2015. The decrease in interest coverage ratio in 2015 was partly due to the PLN’s forex losses, leading to lower earnings before interest and tax. Sources: National Authorities, SOEs’ financial statements, AMRO staff calculations",FALSE,normal
+36,10,"16. Energy SOEs’ financial performance generally improved in recent years. In particular, Indonesia’s electricity company, PT Perusahaan Listrik Negara or PLN, and the",FALSE,normal
+36,11,41 OECD study on state-owned enterprises: trade effects and policy implications (2013).,FALSE,normal
+36,12,0,FALSE,garbage
+36,13,5,FALSE,garbage
+36,14,10,FALSE,garbage
+36,15,15,FALSE,garbage
+36,16,20,FALSE,garbage
+36,17,25,FALSE,garbage
+36,18,30,FALSE,garbage
+36,19,2011 2012 2013 2014 2015 2016,FALSE,garbage
+36,20,% of GDP Electricity & gas Mining and Quarrying Transport and Warehouse Processing industry Others Information & communication Construction,FALSE,normal
+36,21,0,FALSE,garbage
+36,22,2,FALSE,garbage
+36,23,4,FALSE,garbage
+36,24,6,FALSE,garbage
+36,25,8,FALSE,garbage
+36,26,10,FALSE,garbage
+36,27,12,FALSE,garbage
+36,28,14,FALSE,garbage
+36,29,2011 2012 2013 2014 2015 2016,FALSE,garbage
+36,30,% of GDP Electricity and Gas Mining and Quarrying Transport and Warehouse Others Processing Industry Construction,FALSE,normal
+36,31,NA,FALSE,empty
+37,1,NA,FALSE,empty
+37,2,Indonesia Annual Consultation Report 2018,FALSE,page_header
+37,3,ASEAN+3 Macroeconomic Research Office (AMRO) Page 37 of 37,FALSE,page_footer
+37,4,NA,FALSE,empty
+37,5,"largest oil and gas company, Pertamina, witnessed an improvement in their gross profits (prior to government subsidies), due to lower production (oil) costs and adjustments in the pricing mechanism of retail products in alignment with world markets prices (Table A3.3a)42. Other financial ratios, such as debt-to-equity ratios, also pointed to a better performance, especially for Pertamina. While gross profits improved, PLN’s current ratio has declined below 1 since 2013, possibly reflecting weakness in managing liquidity and ability to pay interest expenses (Table A3.3b). Table A3.3. Financial Performance of Energy SOEs a. Income Statement, Selected Components, % of GDP b. Selected Financial Ratios, % Sources: SOEs’ financial statements, AMRO staff calculations Notes: 1/ PLN’s asset revaluation in 2015 and 2016 results in higher equity, and hence lower debt-to-equity ratio in respective years. 2/ Receivable turnover ratio is computed by dividing total comprehensive income for the year by total receivable. Sources: SOEs’ financial statements, AMRO staff calculations",FALSE,normal
+37,6,"17. Liabilities in construction, and transport and warehouse SOEs have risen, in tandem with their increased involvement in the recent infrastructure investment drive. As mentioned in Box A, SOEs have become the second largest funding source for infrastructure projects. This has led to an increase in liabilities of related SOEs from below 1 percent of GDP prior to 2013 to 2.5 percent in 2016, driving their debt to equity ratios higher. Besides traditional access to bank loans, new financing tools such as securitization and global IDR-linked bond issuance have been increasingly explored. Financial data, meanwhile, suggest related SOEs remain healthy, given their ability to maintain profits and liquidity (Table A3.4). Table A3.4. Selected Financial Ratios, Construction, and Transport & Warehouse SOEs Current ratio (%) 2011 2012 2013 2014 2015 2016 2017 Jasa Marga 0.98 0.68 0.78 0.82 0.49 0.70 0.76 Waskita Karya 1.04 1.47 1.43 1.31 1.16 1.27 1.00 Wijaya Karya 1.14 1.10 1.16 1.21 1.24 1.59 1.34 Adhi Karya 1.13 1.24 1.39 1.30 1.56 1.29 1.41 Debt to equity ratio (%) 2011 2012 2013 2014 2015 2016 2017 Jasa Marga 1.50 1.53 1.66 1.89 1.97 2.27 3.31 Waskita Karya 7.25 3.17 2.69 3.54 2.12 2.66 3.30 Wijaya Karya 2.75 2.89 3.01 2.26 2.60 1.46 2.12 Adhi Karya 5.17 5.67 5.28 5.37 2.25 2.68 3.83 Interest coverage ratio (%) 2011 2012 2013 2014 2015 2016 2017 Jasa Marga 3.33 3.24 2.82 2.52 2.47 2.76 3.56 Waskita Karya 3.16 3.70 7.31 5.17 5.11 3.19 3.39 Wijaya Karya 41.11 23.98 16.88 5.31 2.74 3.98 3.16 Adhi Karya 4.74 5.91 7.62 5.39 6.46 3.37 4.13 Receivables turnover ratio (%) 2011 2012 2013 2014 2015 2016 2017 Jasa Marga 13.42 23.97 4.71 8.01 4.38 0.20 0.16 Waskita Karya 0.11 0.13 0.16 0.16 0.27 0.15 0.29 Wijaya Karya 0.22 0.26 0.22 0.23 0.17 0.21 0.15 Adhi Karya 0.09 0.09 0.15 0.11 0.26 0.10 0.14 Sources: SOEs’ Financial Statements, AMRO Staff Calculations",FALSE,normal
+37,7,NA,FALSE,empty
+37,8,"42 The changes in the price mechanism are part of energy subsidy reforms conducted since 2015, which helped lower subsidy expenditure from the budget from above 3 percent of GDP prior to 2015 to below 1 percent of GDP from 2015 onwards.",FALSE,normal
+37,9,PLN 2011 2012 2013 2014 2015 2016 2017,FALSE,garbage
+37,10,Revenue (excl. govt. subsidy) 1.47 1.50 1.68 1.83 1.89 1.80 1.88 Cost of revenues 2.37 2.36 2.31 2.34 1.96 2.05 2.03 Gross profit -0.90 -0.86 -0.63 -0.51 -0.07 -0.25 -0.15 Govt. electricity subsidy 1.19 1.20 1.06 0.94 0.49 0.47 0.34 Gross profit (incl. subsidy) 0.29 0.34 0.43 0.42 0.42 0.21 0.19 Pertamina 2011 2012 2013 2014 2015 2016 2017 Revenue (excl. govt. subsidy) 5.72 5.50 6.49 6.14 4.62 3.67 3.93 Cost of revenues 6.94 7.18 8.35 7.46 4.28 3.03 3.53 Gross profit -1.21 -1.68 -1.87 -1.32 0.33 0.65 0.39 Govt. subsidy 2.07 2.46 2.59 2.10 0.38 0.28 0.36 Gross profit (incl. subsidy) 0.86 0.78 0.73 0.78 0.71 0.93 0.75,FALSE,normal
+37,11,NA,FALSE,empty
+37,12,PLN 2011 2012 2013 2014 2015 2016 2017,FALSE,garbage
+37,13,Current ratio 1.05 1.04 0.95 0.98 0.66 0.81 0.67 Debt to equity ratio 2.08 2.45 2.93 2.96 0.63 0.45 0.54 Interest coverage ratio 1.32 1.04 -0.15 1.42 0.60 1.73 1.46 Receivables turnover ratio 0.32 0.09 -0.62 0.18 16.86 0.16 -0.19 Pertamina 2011 2012 2013 2014 2015 2016 2017 Current ratio 1.38 1.56 1.46 1.49 1.68 2.00 1.84 Debt to equity ratio 1.67 1.70 1.73 1.69 1.34 1.14 1.15 Interest coverage ratio 15.67 14.58 10.52 7.46 5.98 8.76 6.34 Receivables turnover ratio 0.61 0.57 0.58 0.31 0.36 0.97 0.79,FALSE,normal
+37,14,NA,FALSE,empty
+37,15,NA,FALSE,empty

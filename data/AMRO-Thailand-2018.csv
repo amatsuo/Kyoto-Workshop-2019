@@ -1,0 +1,1110 @@
+page_number,paragraph_number,text,pages_to_skip,detection
+1,1,NA,TRUE,empty
+1,2,``,TRUE,empty
+1,3,NA,TRUE,empty
+1,4,NA,TRUE,empty
+1,5,NA,TRUE,empty
+1,6,NA,TRUE,empty
+1,7,NA,TRUE,empty
+1,8,NA,TRUE,empty
+1,9,NA,TRUE,empty
+1,10,AMRO Annual Consultation Report,TRUE,normal
+1,11,Thailand - 2018,TRUE,normal
+1,12,NA,TRUE,empty
+1,13,NA,TRUE,empty
+1,14,NA,TRUE,empty
+1,15,NA,TRUE,empty
+1,16,NA,TRUE,empty
+1,17,NA,TRUE,empty
+1,18,NA,TRUE,empty
+1,19,NA,TRUE,empty
+1,20,NA,TRUE,empty
+1,21,NA,TRUE,empty
+1,22,NA,TRUE,empty
+1,23,NA,TRUE,empty
+1,24,NA,TRUE,empty
+1,25,NA,TRUE,empty
+1,26,NA,TRUE,empty
+1,27,NA,TRUE,empty
+1,28,NA,TRUE,empty
+1,29,NA,TRUE,empty
+1,30,NA,TRUE,empty
+1,31,The ASEAN+3 Macroeconomic Research Office (AMRO),TRUE,normal
+1,32,September 2018,TRUE,normal
+1,33,NA,TRUE,empty
+1,34,2018/SVL/TH/04,TRUE,normal
+1,35,NA,TRUE,empty
+2,1,NA,TRUE,empty
+2,2,Page 2 of 48,TRUE,page_footer
+2,3,NA,TRUE,empty
+2,4,Acknowledgments,TRUE,normal
+2,5,"1. This Annual Consultation Report on Thailand has been prepared in accordance with the functions of AMRO to monitor, assess and report its members’ macroeconomic status and financial soundness and to identify the relevant risks and vulnerabilities, and assist them in the timely formulation of policy recommendation to mitigate such risks (Article 3 (a) and (b) of the AMRO Agreement).",TRUE,normal
+2,6,"2. This Report is drafted on the basis of the Annual Consultation Visit of AMRO to Thailand from 4-12 June 2018 (Article 5 (b) of AMRO Agreement). The AMRO Mission team was headed by Dr Jae Young Lee, Group Head and Lead Economist. Mission members include Dr Ruperto Pagaura Majuca (Country Economist for Thailand), Ms Wanwisa May Vorranikulkij (Specialist and Back-up Economist for Thailand), Dr Tanyasorn Ekapirak (Researcher and Back-up Economist for Thailand), Mr Yang-Hyeon Yang (Senior Economist), and Ms Aphonethip Luangbouathong (Associate). AMRO Director Dr Junhong Chang and Chief Economist Dr Hoe Ee Khor also participated in key policy meetings with the authorities. This AMRO Annual Consultation Report on Thailand for 2018 was prepared by Dr Jae Young Lee, Dr Ruperto Pagaura Majuca, Ms Wanwisa May Vorranikulkij, Ms Laura Grace Gabriella, Dr Tanyasorn Ekapirak, Mr Yang-Hyeon Yang, Mr Anthony Tan, and Ms Aphonethip Luangbouathong; peer reviewed by Dr Sumio Ishikawa (Group Head and Lead Economist) and Dr Jade Vichyanond (Economist); and approved by Dr Hoe Ee Khor, AMRO Chief Economist.",TRUE,normal
+2,7,3. The analysis in this Report is based on information available up to 16 July 2018.,TRUE,normal
+2,8,"4. By making any designation of or reference to a particular territory or geographical area, or by using the term “member” or “country” in this Report, AMRO does not intend to make any judgements as to the legal or other status of any territory or area.",TRUE,normal
+2,9,5. No part of this material may be disclosed unless so approved under the AMRO Agreement.,TRUE,normal
+2,10,"6. On behalf of AMRO, the Mission team wishes to thank the Thailand authorities for their comments on this Report, as well as their excellent meeting arrangements and hospitality during our visit.",TRUE,normal
+2,11,NA,TRUE,empty
+2,12,NA,TRUE,empty
+2,13,NA,TRUE,empty
+2,14,"Disclaimer: The findings, interpretations, and conclusion expressed in this Report represent the views of the ASEAN+3 Macroeconomic Research Office (AMRO) and are not necessarily those of its members. Neither AMRO nor its members shall be held responsible for any consequence of the use of the information contained therein.",TRUE,normal
+2,15,NA,TRUE,empty
+3,1,NA,TRUE,empty
+3,2,Page 3 of 48,TRUE,page_footer
+3,3,NA,TRUE,empty
+3,4,Table of Contents,TRUE,normal
+3,5,NA,TRUE,empty
+3,6,Executive Summary ........................................................................................................ 4,TRUE,normal
+3,7,NA,TRUE,empty
+3,8,A. Recent Developments and Outlook ............................................................................. 6,TRUE,normal
+3,9,A.1 Real Sector ............................................................................................................... 6,TRUE,normal
+3,10,A.2 Inflation and Monetary Policy ......................................................................................10,TRUE,normal
+3,11,A.3 External Sector .........................................................................................................11,TRUE,normal
+3,12,A.4 Financial Sector.........................................................................................................12,TRUE,normal
+3,13,A.5 Fiscal Sector .............................................................................................................14,TRUE,normal
+3,14,NA,TRUE,empty
+3,15,"B. Risks, Vulnerabilities and Challenges .........................................................................16",TRUE,normal
+3,16,B.1 Risks to Macroeconomic Outlook .................................................................................16,TRUE,normal
+3,17,B.2 Capital Flow Volatility Risks ........................................................................................21,TRUE,normal
+3,18,B.3 Financial Sector Risks ................................................................................................21,TRUE,normal
+3,19,B.4 Structural Challenges .................................................................................................24,TRUE,normal
+3,20,NA,TRUE,empty
+3,21,C. Policy Discussions ....................................................................................................25,TRUE,normal
+3,22,C.1 Fiscal Role in Infrastructure Investment and Structural Reform........................................25,TRUE,normal
+3,23,C.2 Accommodative Monetary Policy is appropriately supportive of growth,TRUE,normal
+3,24,and financial stability ........................................................................................................27 C.3 Structural Reforms to Boost Potential Growth ...............................................................29,TRUE,normal
+3,25,NA,TRUE,empty
+3,26,Boxes,TRUE,normal
+3,27,A. Alternative Approach to Estimating the Net Contribution of Key Demand,TRUE,normal
+3,28,Components to GDP Growth in Thailand…………………………………………………..….………..7,TRUE,normal
+3,29,B. Quantifying the Impact of US-China Trade Conflict on Thailand's Real Sector……….……….17,TRUE,normal
+3,30,C. Moving to Thailand 4.0: An Innovation-driven Economy…………………………………………19,TRUE,normal
+3,31,NA,TRUE,empty
+3,32,Appendices………..……………………………………………………………………………………..30,TRUE,normal
+3,33,1. Selected Figures for Major Economic Indicators ..............................................................30,TRUE,normal
+3,34,2. Selected Economic Indicators for Thailand .............................................................................. 34,TRUE,normal
+3,35,3. Data Adequacy for Surveillance Purposes .....................................................................35,TRUE,normal
+3,36,NA,TRUE,empty
+3,37,Annexes: Selected Issues..…………………………………………………………………………...36,TRUE,normal
+3,38,1. Key Determinants of Thailand's Private Consumption Growth…..............................................36,TRUE,normal
+3,39,2. Why has Thailand's Tourism Industry Been Successful? ......................................................... 42,TRUE,normal
+3,40,NA,TRUE,empty
+3,41,NA,TRUE,empty
+4,1,NA,FALSE,empty
+4,2,Page 4 of 48,FALSE,page_footer
+4,3,NA,FALSE,empty
+4,4,Executive Summary,FALSE,normal
+4,5,NA,FALSE,empty
+4,6,"1. The Thai economy continues to gain traction, with growth increasing from 3.3 percent in 2016, to 3.9 percent in 2017 and 4.8 percent in Q1 2018, mainly driven by strong exports and tourism. Strong global demand has boosted export-oriented manufacturing production, while increasing tourist arrivals have benefited several service sectors. Going forward, the Thai economy is expected to maintain its strong momentum, and is projected to expand at 4.2 percent in 2018, with growth moderating slightly to 4.0 percent in 2019. The contributions from external and domestic drivers of growth are expected to be more balanced.",FALSE,normal
+4,7,NA,FALSE,empty
+4,8,"2. Headline inflation has continued to inch up in recent months, although it remains low. Mainly driven by higher oil prices, it rose to 1.1 percent in April 2018, the first time inflation has been back in the BOT’s target range since February 2017; and it has been in the target band since then. Going forward, inflation is expected to be slightly stronger and is forecast to be 1.2 percent in 2018 and 2019.",FALSE,normal
+4,9,NA,FALSE,empty
+4,10,"3. The external position remains strong, underpinned by the sizeable current account surplus and substantial international reserves. The current account surplus narrowed slightly to 11.2 percent of GDP in 2017, reflecting a significant increase in imports of intermediate and consumer goods. The current account surplus has been partially recycled and invested overseas in the form of direct investment by domestic corporate and portfolio outflows by residents.",FALSE,normal
+4,11,NA,FALSE,empty
+4,12,"4. Overall fiscal policy remains expansionary in support of the economy. The overall fiscal deficit widened by 0.8 percentage points in 2017 to 3.6 percent of GDP, mainly on account of a fall in revenue, and despite the decline in expenditure. In FY2018, fiscal revenue and expenditure are budgeted to decline to 15.2 percent and 18.5 percent of GDP respectively, with the overall fiscal deficit at 3.3 percent of GDP, slightly lower than in FY2017. Disbursements of capital expenditure and SOEs’ investment budget were low in FY 2017 and the first eight months of FY2018.",FALSE,normal
+4,13,NA,FALSE,empty
+4,14,"5. Downside risks to growth stem mainly from spillover effects of a further escalation in trade conflicts and domestic political uncertainties. A further escalation of trade conflicts, in particular between the U.S. and China, would be a downside risk to Thai exports reflecting its linkages to the regional supply chain. On the domestic front, political uncertainty surrounding the next general elections and its outcome may affect private investment sentiment, with investors maintaining a wait-and-see mode.",FALSE,normal
+4,15,NA,FALSE,empty
+4,16,"6. Risks to financial stability remain contained, although some pockets of vulnerabilities remain. Overall, the trend deterioration of bank asset quality has flattened out in line with the broader improvement of the economy. The search-for-yield behavior in what has been a prolonged period of low interest rates requires continued vigilance, particularly with regard to",FALSE,normal
+4,17,NA,FALSE,empty
+5,1,NA,FALSE,empty
+5,2,Page 5 of 48,FALSE,page_footer
+5,3,NA,FALSE,empty
+5,4,"savings cooperatives and mutual fund investments. The household debt-to-GDP ratio, albeit moderating, remains high compared to regional peers.",FALSE,normal
+5,5,NA,FALSE,empty
+5,6,"7. Thailand is aging at a relatively fast pace, reflecting its low fertility rate, putting it at risk of “growing old before getting rich”. Thailand’s aging will reduce the growth in the working age population, with a consequent reduction in the contribution of labor to Thailand’s potential growth. Population aging may also put pressures on the fiscal position, as pension and health-related spending will rise.",FALSE,normal
+5,7,NA,FALSE,empty
+5,8,"8. Fiscal policy should be directed towards infrastructure investment and structural reforms in order to lift growth potential and enhance the social security system to prepare for an aging population. The government’s thrust for mega-infrastructure projects is a welcome development and these projects should be expedited and executed in a timely and well-coordinated manner. Project planning, budgeting, and execution, could be done in a more coordinated manner in order to enhance the efficiency of public investment projects. To support the infrastructure drive and expansionary fiscal policy, it is important to improve the buoyancy of the tax system. Therefore, efforts to broaden the tax base and improve tax administration are needed in order to raise the tax revenue ratio and maintain fiscal sustainability.",FALSE,normal
+5,9,NA,FALSE,empty
+5,10,"9. The current monetary policy stance is appropriate in supporting growth and financial stability. While inflation is still low, it is gaining traction, and is expected to move to within the target band. Given the ample liquidity in the financial system, a reduction in the policy rate will not be effective in boosting domestic demand but may increase household borrowing. Maintaining financial stability in a prolonged period of low interest rate environment requires a set of well-calibrated and coordinated policy instruments that include monetary policy, macroprudential regulation, and coordination with other regulatory agencies.",FALSE,normal
+5,11,NA,FALSE,empty
+5,12,"10. The 20-year Strategic Plan, including the Thailand 4.0 scheme, and the flagship project of Eastern Economic Corridor (EEC), is a welcome move. Labor productivity can be increased by improving the quality of education, especially in science and technology, and enhancing vocational training. A coordinated package of reforms is necessary in order to cope with the rapid pace of aging, including extending the retirement age, mobilizing previously untapped talents in the countryside, and encouraging high- skilled immigration.",FALSE,normal
+5,13,NA,FALSE,empty
+6,1,NA,FALSE,empty
+6,2,Page 6 of 48,FALSE,page_footer
+6,3,NA,FALSE,empty
+6,4,A. Recent Developments and Outlook,FALSE,normal
+6,5,NA,FALSE,empty
+6,6,A.1 Real Sector,FALSE,normal
+6,7,"1. The Thai economy continues to gain traction, with growth increasing from 3.3 percent in 2016 to 3.9 percent in 2017 and 4.8 percent in Q1 2018, mainly driven by strong exports and tourism (Figure 1). Private consumption has been partly boosted by the end of the five-year lock-in period under the first-time car buyer scheme.1 Overall, however, the recovery in household consumption remains gradual as labor income growth, particularly of low-income households, has been moderate (see Appendix Figure 1.1). In addition, household debt is high,2 and the aging population is a drag on private consumption (see Selected Issue 1: Key Determinants of Thailand’s Private Consumption Growth).3 Private investment (see Figure 2), though still soft in 2017, is showing brighter prospects, as indicated by an increase in capacity utilization and capital goods imports (Appendix Figure 1.1). Public consumption and investment growth has been inching up but remain soft. Meanwhile, merchandise exports and tourist arrivals have rebounded strongly in 2017 and early 2018, while imports grew strongly (Figure 7; Appendix Figure 1.2).",FALSE,normal
+6,8,"Figure 1. Real GDP Growth, Expenditure Side",FALSE,fig_table
+6,9,Figure 2. Gross Fixed Capital Formation,FALSE,fig_table
+6,10,NA,FALSE,empty
+6,11,NA,FALSE,empty
+6,12,Source: CEIC; National Economic and Social Development Board Source: CEIC; National Economic and Social Development Board,FALSE,normal
+6,13,NA,FALSE,empty
+6,14,"2. On the supply side, the increase in GDP growth was led by stronger service sector and a recovery in agricultural production, and boosted by a rebound in manufacturing starting in the second half of 2017 (Figure 3). Strong growth in tourist arrivals at 15.4 percent in Q1 2018 (Figure 4) and slightly higher private consumption growth at 3.6 percent",FALSE,normal
+6,15,"1 The first-time buyer scheme, introduced in 2011, offered tax rebates to incentivize car ownership, but prohibited transfer of the car ownership for five years. Vehicle sales shot up in 2012, but fell in the succeeding years. 2 Although it has continued to decline from its peak in 2015. 3 Overall, the share of consumption to GDP, is relatively smaller when calculated using the “Import-adjusted Method” (compared to the conventional method), and has been falling through the years (see Box A: Alternative Approach to Estimating the Net Contribution of Key Demand Components to GDP Growth in Thailand).",FALSE,normal
+6,16,NA,FALSE,empty
+7,1,NA,FALSE,empty
+7,2,Page 7 of 48,FALSE,page_footer
+7,3,NA,FALSE,empty
+7,4,"in Q1 2018 have benefited several service sectors such as hotels, restaurants and retail trade. Favorable weather, meanwhile, has spurred the recovery in agricultural output, Box A: Alternative Approach to Estimating the Net Contribution of Key Demand Components to GDP Growth in Thailand Similar to other emerging ASEAN economies, Thailand has achieved high economic growth, underpinned by rapid industrialisation and integration into the global economy, particularly in the 1970-90s and 2000s with sustained average annual real GDP growth of above 7 percent.4 Since the global financial crisis (GFC) in 2008/09, Thailand’s economic growth has been marked by fits and starts, reflecting small but frequent cyclical surges and retractions in economic activity. These developments reflect the more uncertain global landscape post-2008/09, as well as domestic factors (such as the 2011 flooding, domestic political conflicts in 2013/14, and the passing of King Bhumibol Adulyadej in 2016). As a result, real GDP growth had slowed to 3 percent annually on average, since 2012 (Figure A1). In the era of ‘new normal’, it is important to examine the drivers of economic growth over time, particularly the sources of demand in an open economy such as Thailand in order to gauge the structural changes taking place that will, in turn, have implications for future economic growth. In determining the drivers (or sources) of growth, conventional methods often use private consumption, public consumption, gross fixed capital formation (investment) and net exports as a share to GDP. The advantage of this method is the fact that net exports highlight the net contribution of foreign trade to economic growth. The limitation of this simple method is that it is not representative of the true relative contribution of domestic and external demand in driving growth. This is because imports that satisfy domestic demand are not netted out from each demand components, thereby overstating total domestic value-added. In this context, this Box looks at an alternative approach to estimating the net contribution of key demand components to GDP growth in Thailand (known as the ‘Import-adjusted’ Method), in order to identify the main drivers underlying the structural changes in growth dynamics observed in the Thai economy over the past several decades.",FALSE,normal
+7,5,Figure A1. Historical Annual Economic Growth Rates (1990-2017),FALSE,fig_table
+7,6,Figure A2. Conventional vs. ‘Import-Adjusted’ Method of National Accounting,FALSE,fig_table
+7,7,NA,FALSE,empty
+7,8,NA,FALSE,empty
+7,9,% Share of GDP (2017) Conventional Method GDP = C + I + G + (X-M) Import-Adjusted Method GDP = (C-MC) + (I-MI) + (G-MG) + (X-MX),FALSE,normal
+7,10,NA,FALSE,empty
+7,11,NA,FALSE,empty
+7,12,NA,FALSE,empty
+7,13,"Note: Numbers may not necessarily add-up due to changes in stocks, which are not shown. Source: National Economic and Social Development Board, OECD and AMRO staff estimates.",FALSE,normal
+7,14,NA,FALSE,empty
+7,15,NA,FALSE,empty
+7,16,"Following the approach of Kranendonk and Verbruqqen (2008) 5 , the input-output cumulative production structure (CPS) technique is applied to Thailand using the Input-Output (IO) Table for various years. 6 The CPS technique estimates the import content of the goods and services associated with each component of final demand for the economy. The difference between a particular final demand component and its import content is then used to derive the net contribution of each demand component to overall GDP. For example, the net contribution of private consumption to GDP is private consumption less both final imports for consumption and intermediate imports used",FALSE,normal
+7,17,"4 Excluding crises years of 1997-98 and 2008-09. 5 Kranendonk and Verbruqqen, 2008, “Decomposition of GDP Growth in Some European Countries and the United States”, Netherland Bureau of Economic Policy Analysis. 6 For this exercise, the IO tables are sourced from OECD. The preliminary results may differ from those estimated using official IO tables from national authorities.",FALSE,normal
+7,18,NA,FALSE,empty
+8,1,NA,FALSE,empty
+8,2,Page 8 of 48,FALSE,page_footer
+8,3,NA,FALSE,empty
+8,4,"by domestic firms to produce goods and services that are consumed. Figure A2 shows the comparison between the conventional method and the ‘Import-Adjusted’ method, which clearly underscores the stark differences in interpretations of the role of domestic and external demand in driving economic growth in Thailand.",FALSE,normal
+8,5,NA,FALSE,empty
+8,6,"Applying the ‘Import-Adjusted’ Method to the various demand components for the Thai economy, the following are the key observations, and potential implications:",FALSE,normal
+8,7," First, the contribution of external demand to value-added creation in the Thai economy rose to a peak in 2000–2010 and has since declined to 34 percent in 2017. The share of exports (net of imports) in total value-added increased sharply from 30 percent in 1995, just before the Asian financial crisis, to a peak of around 40 percent in 2000-2010 reflecting the boom in the regional supply chain. External demand share fell markedly to an estimated 34 percent in 2017 reflecting the collapse in global trade in the wake of the Global Financial Crisis and the European Sovereign Debt Crisis (ESDC). Considering Thailand’s export dependency, export- oriented firms (or SMEs with large exposure to the export sector), could likely see a slower growth in the period ahead (Figure A3). There could be additional headwinds to the Thai export sector, stemming from the current global trade tensions amid rising protectionist threats.",FALSE,normal
+8,8," Second, partly reflecting the weak growth in disposable income, and to some extent, demographic headwinds from a rapidly aging population, private consumption (net of imports) has seen much slower growth in recent decade. In terms of GDP, it accounts for an estimated 33 percent share of GDP (down from 37 percent in 1995-2000). This is consistent with the findings that the five-year average propensity to consume of Thailand has declined to 0.65 in 2011-2015, against 0.83 in 2001-2005 (see Selected Issue 1). In contrast, public consumption (net of imports) has helped to support growth in recent years.",FALSE,normal
+8,9," Third, fixed investment (net of imports) fell sharply from 21 percent in 1995, just before the AFC, to about 10.5 percent in 2000-2010 and has stayed relatively sluggish in recent years, increasing by only 2 percentage points from 2010 to 2017. While domestic considerations such as political uncertainty had play a large part in dampening private investment and domestic capacity utilization, the collapse in external demand and global trade in the wake of the GFC and ESDC, had reinforced the structural weakness.",FALSE,normal
+8,10,Figure A3. Evolution of Thai GDP by Import-Adjusted Components,FALSE,fig_table
+8,11,NA,FALSE,empty
+8,12,"% Share of GDP Source: National Economic and Social Development Board, OECD and AMRO staff estimates With respect to policy, it is important to acknowledge that the Thai economy is at a critical juncture in its economic development. Recognising the challenges ahead, it is encouraging to note that various strategies have been adopted to boost Thailand’s future growth, such as the mega projects initiatives: the North Eastern Railway, Eastern Economic Corridor and the 4th Industrial Revolution. The mega projects, in particular, would help to improve physical infrastructure, while promoting connectivity and crowding in private investment. The rebalancing of growth towards domestic sources will be critical at a time when the external environment is turning less supportive, including downside risks to exports. Other suggested policy consideration would include strengthening domestic-oriented industry’s competitiveness such as those in the services sector.",FALSE,normal
+8,13,NA,FALSE,empty
+8,14,NA,FALSE,empty
+9,1,NA,FALSE,empty
+9,2,Page 9 of 48,FALSE,page_footer
+9,3,NA,FALSE,empty
+9,4,"which reversed from 2.5 percent contraction in 2016 to 6.2 and 6.5 percent growth in 2017 and Q1 2018, respectively. Strong global demand has boosted export-oriented manufacturing production. The transportation, storage and communications sectors, also benefited from both strong tourist arrivals and favorable global demand conditions.",FALSE,normal
+9,5,NA,FALSE,empty
+9,6,"Figure 3. Real GDP Growth, Supply Side Figure 4. Tourist Arrivals and Revenue",FALSE,fig_table
+9,7,NA,FALSE,empty
+9,8,NA,FALSE,empty
+9,9,Source: National Economic and Social Development Board Source: Office of Industrial Economics; Office of Agricultural Economics,FALSE,normal
+9,10,"3. Going forward, the Thai economy is expected to maintain strong momentum. The economy is projected to expand at 4.2 percent in 2018, and moderate slightly to 4.0 percent in 2019. The contributions from external and domestic drivers are expected to gradually become more balanced. As indicated by the rise in high-frequency consumption and investment indices, and consumer and business sentiment indices (Appendix Figure 1.1), consumption and investment growth are expected to continue to rise, supported by increased activity in both the private and public sectors. Import is projected to remain strong, as domestic demand strengthens, while export is projected to moderate somewhat in line with world trade. Capacity utilization in the manufacturing sector is expected to continue rising, reflecting the pick-up in production. Authorities’ Views",FALSE,normal
+9,11,"4. The authorities expect 2018 GDP growth to come in stronger, at around 4.4 to 4.5 percent. Following the strong Q1 2018 GDP numbers, the authorities have revised their 2018 annual GDP growth projections upwards. The Ministry of Finance (MOF) revised its 2018 GDP growth to 4.5 percent, while BOT increased it to 4.4 percent. Meanwhile, the National Economic and Social Development Board (NESDB) has also revised its GDP growth to a range of 4.2-4.7 percent. Overall, the authorities anticipate a stronger momentum of exports and tourist receipts, and a stronger growth in private consumption and investment.",FALSE,normal
+9,12,NA,FALSE,empty
+9,13,NA,FALSE,empty
+10,1,NA,FALSE,empty
+10,2,Page 10 of 48,FALSE,page_footer
+10,3,NA,FALSE,empty
+10,4,NA,FALSE,empty
+10,5,NA,FALSE,empty
+10,6,A.2 Inflation and Monetary Policy,FALSE,normal
+10,7,"5. Headline inflation has been gradually inching up in recent months, although it remains low. Headline inflation was 0.7 percent in 2017, below the BOT’s medium-term inflation target of 2.5 ± 1.5 percent. The main contributing factor to low inflation in 2017 was the falling fresh food prices, while weak domestic demand dampened 2017 inflation to some extent.7 Mainly driven by higher oil prices, headline inflation rose to 1.1 percent yoy in April 2018, the first time it has been back in BOT’s target range since February 2017, and it has been in BOT’s target band since then (Figure 5). However, on a twelve-month moving average basis, inflation is around 0.82 percent, still below the lower end of the band. Core inflation has also been generally inching up since its trough in mid-2017, to reach 0.83 percent in June 2018. Based on BOT’s survey, the median inflation expectation by firms for the next 12 months falls within the BOT’s inflation target range, but below the midpoint (Figure 6). AMRO staff expects that going forward, inflationary pressure will be slightly stronger owing to strengthening demand conditions, and headline inflation would average around 1.2 percent in both 2018 and 2019.",FALSE,normal
+10,8,Figure 5. Inflation Figure 6. Inflation Expectations for the Next 12 Months,FALSE,fig_table
+10,9,NA,FALSE,empty
+10,10,NA,FALSE,empty
+10,11,Source: CEIC; Bureau of Trade and Economic Indices Source: Bank of Thailand,FALSE,normal
+10,12,"6. With subdued inflation, monetary policy has been accommodative, with the policy rate kept at 1.5 percent since the last rate cut in April 2015. Since the April 2015 policy rate cut, interest rates such as the minimum retail rate, minimum lending rate8 and the average savings deposit rate have been trending down (Figure 31). Commercial bank loan growth has been trending up since Q1 2017, and in Q1 2018, commercial bank loans to",FALSE,normal
+10,13,"7 In 2017, there were some signs of domestic demand recovery. However, recovery had yet to benefit labor markets, wages, and household income. Demand pull inflationary pressure had thus not yet materialized. 8 The minimum retail rate is the interest rate charged by banks to their most creditworthy retail borrowers, whereas the minimum lending rate is the interest rate charged by banks to their most creditworthy major borrowers. The difference between these two rates reflects the risk premium differential between retail and major borrowers.",FALSE,normal
+10,14,NA,FALSE,empty
+11,1,NA,FALSE,empty
+11,2,Page 11 of 48,FALSE,page_footer
+11,3,NA,FALSE,empty
+11,4,"consumers, small and medium enterprises (SME) and corporates grew by 7.1 percent, 7.4 percent and 3.6 percent respectively.",FALSE,normal
+11,5,NA,FALSE,empty
+11,6,A.3 External Sector,FALSE,normal
+11,7,"7. The current account surplus continued to be large, supported by an export upturn and buoyant tourism (Figures 7 and 8). Goods exports to most major trading partners such as ASEAN, the U.S., China, and Japan, grew strongly. The growth was across most major products such as automotives, electrical and electronic (E&E) products, and other manufacturing products. The robust growth in tourist arrivals (Appendix Figure 1.2) also resulted in higher services export growth (Figure 8) (see Selected Issue 2: Why has Thailand’s Tourism Industry Been Successful?). Nonetheless, the current account surplus narrowed slightly to 11.2 percent of GDP in 2017, primarily reflecting a significant increase in imports of raw materials and intermediate goods. Driven by the increase in oil prices and the pickup in exports, investment and consumption, imports have been recovering since September 2016, with raw materials and intermediate goods imports registering strong growth, although consumer goods and capital goods imports also broadly increased. The current account surplus is projected to continue to narrow in 2018 and 2019 reflecting strong increase in the domestic consumption and investment.",FALSE,normal
+11,8,NA,FALSE,empty
+11,9,Figure 7. Trade Balance Figure 8. Services Export,FALSE,fig_table
+11,10,Source: CEIC; Ministry of Commerce Source: CEIC; Bank of Thailand,FALSE,normal
+11,11,NA,FALSE,empty
+11,12,"8. The current account surplus has been partially recycled and invested overseas in the form of direct investment by domestic corporates and portfolio outflows by residents. As a result, the financial account balance has been mainly in deficit in 2017 (Figure 9). Although inward investment by non-residents increased in 2017, direct investment overseas by Thai residents increased by even more, resulting in higher net direct investment outflow in 2017. However, in Q1 2018, net direct investment outflows fell sharply as inward foreign investment",FALSE,normal
+11,13,NA,FALSE,empty
+12,1,NA,FALSE,empty
+12,2,Page 12 of 48,FALSE,page_footer
+12,3,NA,FALSE,empty
+12,4,"increased significantly, while outward direct investment decreased (Figure 9). In comparison, net portfolio flows turned negative in late 2017 and early 2018 reflecting risk aversion by investors towards emerging markets due to concerns over the escalating trade conflicts between the U.S. and China.",FALSE,normal
+12,5,NA,FALSE,empty
+12,6,"9. Overall, the external position remains strong, underpinned by the sizeable current account surplus and substantial international reserves. Notwithstanding the capital outflows, foreign reserves increased further, to cover 3.4 times of short-term external debt and 9.3 months of import payments for goods and services as of June 2018. In addition, gross external debt remains low at 35.4 percent of GDP, and short-term debt at 41.2 percent of the total debt as of Q1 2018 (Figure 10).",FALSE,normal
+12,7,A.4 Financial Sector,FALSE,normal
+12,8,"10. Total loan growth and bond issuance broadly moderated in 2017 (Figures 11 and 12), resulting in lower private sector leverage (Figure 13). Total commercial loan growth stood at 5.4 percent yoy in Q2 2018, up from 4.4 percent in Q4 2017. Bank loans to corporates grew by 4.1 percent in Q2 2018, driven by loans to the SME sector, which grew 7.5 percent in Q2 2018, up from 5.7 percent in Q4 2017. Meanwhile, consumer loans grew by 8.0 percent in Q2 2018, from 6.1 percent in Q4 2017, spurred by the end of the first-car buyer lock-up period. Domestic bond issuances by corporates and state-owned enterprises (SOE) grew faster than either corporate or household loans, although it too moderated in 2017 as compared to 2016 (Figure 11). Overall, private sector leverage as a percentage of GDP has been declining since 2015 (Figure 13). In particular, household loans have declined from 80.8 percent of Q4 GDP in 2015 to 77.6 percent in Q1 2018.",FALSE,normal
+12,9,NA,FALSE,empty
+12,10,Figure 9. Financial Account Figure 10. External Debt Soundness Indicators,FALSE,fig_table
+12,11,NA,FALSE,empty
+12,12,NA,FALSE,empty
+12,13,Source: CEIC; Bank of Thailand Source: CEIC; Bank of Thailand,FALSE,normal
+12,14,NA,FALSE,empty
+13,1,NA,FALSE,empty
+13,2,Page 13 of 48,FALSE,page_footer
+13,3,NA,FALSE,empty
+13,4,Figure 11. Loans Extended by Other Depository Corporations and Outstanding Corporate Bonds,FALSE,fig_table
+13,5,Figure 12. New Securities Issuance,FALSE,fig_table
+13,6,NA,FALSE,empty
+13,7,NA,FALSE,empty
+13,8,Note: Loans include loans from other depository institutions and other financial corporations Source: Bank of Thailand; AMRO staff calculations Source: Bank of Thailand; Stock Exchange of Thailand; Thai Bond Market Association; Securities and Exchange Commission,FALSE,normal
+13,9,NA,FALSE,empty
+13,10,"11. Financial institutions remain sound with strong capital buffers and high loan- loss reserves. The protracted economic slowdown in 2013-2014 and the subsequent slow recovery have led to a deterioration in loan quality, particularly among SMEs and low-income households, although some signs of stabilization have appeared recently. Banks’ overall non- performing loans (NPL) ratio stood at 2.93 percent in Q2 2018, roughly the same in Q4 2017. A strong capital buffer and high loan-loss reserves will help shield commercial banks and state-owned specialized financial institutions (SFIs) from credit risks. Commercial banks’ liquidity coverage ratio stood at 177.6 percent on an aggregate basis as of June 2018, comfortably higher than the minimum requirement.9 However, banks’ return on assets and return on equity have been declining from 2014 to 2017, but slightly increased in the first half of 2018 due to lower provisioning expenses in line with stabilizing loan quality. Regulatory reforms, including the transfer of regulatory mandate of SFIs to the BOT, will result in SFIs being subject to comparable supervision as commercial banks, and help improve the financial soundness of SFIs. Other measures recently adopted to enhance financial stability are the issuance of the systematically important domestic banks regulation and the issuance of revised regulations on credit cards and household loans. In addition, regulatory reforms targeting saving cooperatives and credit unions have been ongoing.",FALSE,normal
+13,11,"12. Thai financial markets – along with financial markets in other emerging market economies – have seen some increase in volatility (Figure 14) and mild outflows (Figure 21) in H1 2018, triggered by uncertainty arising from trade conflicts among major economies, with additional pressures from the U.S. Fed rate hike and the strengthening",FALSE,normal
+13,12,U.S. dollar. The Thai stock exchange index has been trending down from its peak in January,FALSE,normal
+13,13,"9 Under the Basel III, the minimum requirement for the liquidity coverage ratio is phased it and set initially to 60 percent on 1 January 2015, increasing by 10 ppts every year to 100% on 1 January 2019.",FALSE,normal
+13,14,NA,FALSE,empty
+14,1,NA,FALSE,empty
+14,2,Page 14 of 48,FALSE,page_footer
+14,3,NA,FALSE,empty
+14,4,"2018 while 10-year government bond yields have been trending up (Figure 14). Meanwhile, the Thai baht has been on a depreciating trend since the second week of April 2018 (Figure",FALSE,normal
+14,5,21).,FALSE,garbage
+14,6,NA,FALSE,empty
+14,7,A.5 Fiscal Sector,FALSE,normal
+14,8,"13. The overall fiscal policy remains expansionary in support of the economy. Overall fiscal deficit widened by 0.8 percentage points (ppts) in FY 2017,10 mainly on account of a fall in revenue and notwithstanding the decline in expenditure (Figure 15). Both revenue and expenditure are budgeted to continue falling in FY2018 and FY2019, with the budget deficit targeted to be reduced to 3.3 and 2.6 percent of GDP in FY2018 and FY2019 respectively.",FALSE,normal
+14,9,Figure 15. Government Fiscal Position Figure 16. Fiscal Revenue,FALSE,fig_table
+14,10,NA,FALSE,empty
+14,11,NA,FALSE,empty
+14,12,Note: FY18BE and FYBE are budget numbers Source: CEIC; Fiscal Policy Office; Bureau of Budget Source: CEIC; Fiscal Policy Office,FALSE,normal
+14,13,10 Thailand’s fiscal year is from 1 October to 30 September.,FALSE,normal
+14,14,Figure 13. Private Sector Leverage Figure 14. The Stock Exchange Index and Bond Yields,FALSE,fig_table
+14,15,NA,FALSE,empty
+14,16,NA,FALSE,empty
+14,17,NA,FALSE,empty
+14,18,"Source: Bank of Thailand; Thai Bond Market Association; Securities and Exchange Commission Source: CEIC; Stock Exchange of Thailand; Thai Bond Market Association,",FALSE,normal
+14,19,NA,FALSE,empty
+15,1,NA,FALSE,empty
+15,2,Page 15 of 48,FALSE,page_footer
+15,3,NA,FALSE,empty
+15,4,"14. Revenue fell to 15.5 percent of GDP in FY2017 from 16.8 percent in FY2016, and is budgeted to decline further to 14.8 percent in FY2018. The fall in FY2017 revenue was partly on account of a high base in FY2016 due to the 4G auction, which represented about 0.4 percent of GDP. However, the net tax revenue-to-GDP ratio also fell by 0.4 ppts in FY2017. Overall, the net tax revenue-to-GDP ratio has fallen from 14.7 percent in FY2012 to 13.3 percent in FY2017 (see Figure 16), reflecting low tax revenue buoyancy. Part of the fall in tax revenue can be explained by changes in tax policy such as a reduction in the corporate income tax rate, 11 corporate income tax exemptions for SMEs registered in the Single Account Project,12 and the cut in personal income tax rates13 and custom duties for intermediate goods.14 However, value added tax collection has also fallen from 5.6 percent of GDP in FY2012 to 4.9 percent in FY2017, suggesting that VAT tax elasticity may also be less than",FALSE,normal
+15,5,one.,FALSE,garbage
+15,6,Figure 17. Budget Disbursement Rate Figure 18. Public Debt,FALSE,fig_table
+15,7,NA,FALSE,empty
+15,8,Source: Fiscal Policy Office; Bureau of Budget; AMRO staff calculations Source: CEIC; Public Debt Management Office,FALSE,normal
+15,9,NA,FALSE,empty
+15,10,"15. The government has adopted a supplementary budget of THB150 billion in FY2018 with the aim of stimulating the local economy and plans to expedite public investment. Notwithstanding the additional spending, expenditure is projected to decline to 18.5 percent of GDP in FY2018 from 19.0 in FY2017, and the overall fiscal deficit to remain at around 3.3 percent of GDP in FY2018, slightly lower than 3.6 percent in FY2017. Disbursement was low in FY2017 and the first eight months of FY2018, particularly for capital expenditure (Figure 17), due to the flood situation and newly introduced budget procurement procedure. And notwithstanding the substantial increase in SOEs’ investment budget in FY2018, the disbursement rate for SOEs’",FALSE,normal
+15,11,"11 The avowed purpose is to increase investor confidence. 12 The stated purpose is to incentivize SMEs to register to bring them into the formal tax system. 13 According to the government, the purpose is to increase equity, reduce tax burden, boost consumer’s purchasing power, and broaden the tax base. Thus, it is hoped that the tax decrease will incentivize middle-income earners to spend more, while high- income taxpayers to engage less in tax evasion. In addition, it is hoped that taxpayers with families to have more children. 14 The apparent purpose is to enhance Thailand’s competitiveness, so that the competitiveness of Thai products will not lose out to competitors from other countries with lower import duties, such as those from countries with free trade agreements.",FALSE,normal
+15,12,NA,FALSE,empty
+16,1,NA,FALSE,empty
+16,2,Page 16 of 48,FALSE,page_footer
+16,3,NA,FALSE,empty
+16,4,"capital expenditure in the first eight months of FY2018 is low as well (Appendix Figure 1.3). Going forward, budget disbursement rate may increase somewhat relative to the past year, as agencies get adjusted to the new procurement procedure. However, the disbursement rate has traditionally been low for capital expenditures by both the central government (Figure 17) as well as transport SOEs (Appendix Figure 1.3).",FALSE,normal
+16,5,"16. Notwithstanding the sustained fiscal deficit, Thailand has significant fiscal space as public debt is only slightly above 40 percent of GDP. The Fiscal Responsibility Act was promulgated in April 2018 and will help ensure fiscal discipline and medium-term fiscal sustainability. The level of public debt as of end May 2018 stood at 40.8 percent of GDP, still well below the 60 percent ceiling under the fiscal rules set by the Fiscal Policy Committee in accordance with Section 50 of the Act (Figure 18). In addition, external public debt comprises less than 5 percent of total public debt, also well below the 10 percent ceiling according to the fiscal rules.",FALSE,normal
+16,6,NA,FALSE,empty
+16,7,NA,FALSE,empty
+16,8,"B. Risks, Vulnerabilities and Challenges",FALSE,normal
+16,9,NA,FALSE,empty
+16,10,B.1 Risks to Macroeconomic Outlook,FALSE,normal
+16,11,"17. Downside risks to growth stem mainly from the possible escalation of trade conflicts, particularly between the U.S. and China. The possible impacts of this on Thailand are multi-faceted (see Box B. Quantifying the Impact of U.S.-China Trade Conflict on Thailand’s Real Sector). On the one hand, Thailand’s exports have diversified over the years (Figure 19), and that should soften the potential negative effects of the U.S.-China trade conflict. Also, there are Thai industries that may benefit from the U.S.-China trade conflict as the U.S. and China import more substitute products from Thailand (trade diversion). Likewise, some Chinese (or U.S.) firms could potentially relocate their production to Thailand as a way to get around the additional tariffs on domestic exports (investment diversion). However, there are also potential trade destruction effects which could adversely affect other Thai industries supplying intermediate goods or those that are part of the global value chain. In addition, there could be an overall reduction in imports from the U.S. and China resulting from lower GDP in those economies as a result of the trade war. These trade destruction effects could pose downside risks to Thai exports, in addition to a possible downturn in the export cycle as signaled by the recent moderation in export growth (Figure 20).",FALSE,normal
+16,12,NA,FALSE,empty
+16,13,NA,FALSE,empty
+16,14,NA,FALSE,empty
+17,1,NA,FALSE,empty
+17,2,Page 17 of 48,FALSE,page_footer
+17,3,NA,FALSE,empty
+17,4,Figure 19. Exports Destination Figure 20. Recent Export Performance,FALSE,fig_table
+17,5,NA,FALSE,empty
+17,6,NA,FALSE,empty
+17,7,Source: Customs Department (compiled by the Bank of Thailand); National Economic and Social Development Board Source: Customs Department (compiled by the Bank of Thailand),FALSE,normal
+17,8,NA,FALSE,empty
+17,9,"Box B: Quantifying the Impact of US-China Trade Conflict on Thailand’s Real Sector Recently, trade conflicts between the US and China have escalated. The U.S. imposed additional tariffs on solar panels and washing machines, steel and aluminum, and on USD50 billion worth of Chinese products, sparking retaliation from China as well as the E.U., Canada and Mexico. In particular, China has retaliated with its own tariffs on USD50 billion worth of U.S. products. In turn, the U.S. has threatened tariffs on European cars, and on an additional USD200 billion of Chinese goods if China slaps further tariffs on U.S. products.15 The possible impacts of all these in Thailand are multi-faceted. On the one hand, there are potential trade destruction effects which could affect other Thai industries supplying intermediate goods or those that are part of the global value chain, in addition to the reduction in imports from US and China resulting from the their lower GDP as a result of the trade war. On the other hand, there are Thai industries that may benefit from the trade conflict, as for instance when US and China import more substitute products on their respective tariff lists from Thailand (trade diversion effect). Likewise, some Chinese (or U.S.) firms can potentially relocate their production to Thailand as a way to bypass the tariffs on exports (investment diversion effect). In this Box, we attempt to quantity the impact of the US imposing 25 percent tariff on 1,333 products from China covering USD46.4 billion worth of goods. The products are listed in the Office of the United States Trade Representative website, alongside the products’ 8-digit harmonized code.16 We aggregate the product list into their 2-digit classification product group and analyze the impact of US tariffs on different Thai sectors and economy as a whole, using the international input output table. In our analysis, we assume that due to the US tariffs, China will lose 30 percent of its exports to the US of the products subject to tariffs, and the production of these products are distributed pro-rata to Thailand, and other countries (including the U.S.) in proportion to their existing supply share to the U.S. The potential winners are Thai industries that export final products to the US in competition with China, while the potential losers are Thai industries that export intermediate goods to China for products destined to the US. Thus, according to our preliminary results, industries such as motor vehicle, other transport equipment, and machinery and equipment exporters will experience positive impact, while industries such as chemical and rubber products will experience negative effects. Overall, among the product groups in the US tariff list, Thai intermediate inputs to Chinese exports to the US are more substantial than what they potentially may (additionally) export directly to the U.S., given that Thailand’s relative production share in those product groups is small relative to other countries’. In addition, other Thai industries not in the US tariff list (such as agriculture) also supply intermediate inputs to Chinese exports in the US tariff list. In sum, therefore, the total net",FALSE,normal
+17,10,"15 Recently, however, the US and the EU agreed to negotiate for decrease of tariffs. 16 https://ustr.gov/sites/default/files/files/Press/Releases/301FRN.pdf.",FALSE,normal
+17,11,NA,FALSE,empty
+18,1,NA,FALSE,empty
+18,2,Page 18 of 48,FALSE,page_footer
+18,3,NA,FALSE,empty
+18,4,"effect on the Thai economy is calculated to be only marginal, albeit a little negative at -0.02 percent of GDP (see Table B1).",FALSE,normal
+18,5,Table B1. Potential Impact on Thai Industries of US Tariffs on China’s Exports,FALSE,fig_table
+18,6,ISIC Rev. 3 Code Product Description (In % of GDP) Gain Loss NET GAIN (LOSS),FALSE,normal
+18,7,24 Chemicals and chemical products 0.0000841 0.0053428 -0.0052586,FALSE,normal
+18,8,25 Rubber and plastics products 0.0004216 0.0029576 -0.0025360,FALSE,normal
+18,9,27 Basic metals 0.0001601 0.0014925 -0.0013325,FALSE,normal
+18,10,"29 Machinery and equipment, nec 0.0043751 0.0017915 0.0025836",FALSE,normal
+18,11,"31 Electrical machinery and apparatus, nec 0.0034724 0.0053547 -0.0018823 30-33 Computer, electronic and optical equipment 0.0100783 0.0111306 -0.0010523",FALSE,normal
+18,12,"34 Motor vehicles, trailers and semi-trailers 0.0000992 0.0000533 0.0000459",FALSE,normal
+18,13,"35 Other transport equipment 0.0000132 0.0000005 0.0000127 36-37 Manufacturing nec; recycling 0.0023140 0.0002441 0.0020699 NA Other Industries 0.0112313 -0.0112313 TOTAL 0.0210 0.0396 -0.0186 Source: AMRO staff calculations Our estimates are subject to some caveats. First, we have assumed that China will lose 30 percent of its US exports of products in the tariff list. The magnitude of the net negative impact on Thailand will be proportionally lower if China’s US export market share erosion turns out to be lower, and conversely if the share erosion turns out to be bigger. Second, we have assumed that China will not be able to diversify its exports into other markets. If China diversifies to other countries (other than Thailand), then Thailand’s intermediate suppliers to China will benefit. But if a significant portion of China’s exports is redirected to Thailand, then the negative impact on Thailand’s net exports will be higher. Third, our calculations incorporate only direct first round effects associated with trade diversion and trade destruction. In particular, it does not incorporate the impact of Chinese companies relocating to Thailand to export to US (investment diversion effects) which will be positive for Thailand. It also does not incorporate the second round effects to intermediate suppliers of Thailand which will get a boost as a result of an increase in production in Thailand (from exporting to US in competition with China), in addition to the boost to Thai intermediate suppliers from Chinese companies relocating production to Thailand. It also does not incorporate the impact of the decrease in US and China GDP, which will lower Thai exports. Some mitigating measures. First, Thailand could make itself more attractive to Chinese producers looking to outsource their production. Thus Thailand could invite Chinese producers in the US product list to relocate to Thailand and make Thailand its production base to export to the U.S. Along these lines, policies to increase infrastructure quality, ease doing business, and enhance the investment climate overall will be steps in the right direction. Second, the government can help suppliers affected by the trade conflict to restructure. Thailand’s intermediate producers can diversify and supply more products to the US and other third country beneficiaries of China’s export market share loss. Along these lines, the government can support Thai companies’ outward direct investment efforts and diversification strategy. More broadly, the government can support Thai companies to diversify their export destinations and better respond to changing global environment.",FALSE,normal
+18,14,"18. Aside from risks on the external front, domestic factors also can affect investor sentiment and growth. On the domestic front, political uncertainty surrounding the upcoming general election and its outcome has weighed on investor sentiment, with investors remaining in a wait-and-see mode. On a positive note, the efforts by the government to develop the Eastern Economic Corridor (EEC) and ramp up mega infrastructure projects have been well received, and the passage of the EEC law has helped contribute towards the stability of the investment environment (see Box C: Moving to Thailand 4.0: An Innovation-driven Economy). Meanwhile, the",FALSE,normal
+18,15,NA,FALSE,empty
+19,1,NA,FALSE,empty
+19,2,Page 19 of 48,FALSE,page_footer
+19,3,NA,FALSE,empty
+19,4,"effectiveness of a new law capping foreign workers in each firm to 20 percent of its workforce, may present a drag on firms’ activities and investments, particularly SMEs and firms in the hospitality sector, which hire a significant number of foreign workers.",FALSE,normal
+19,5,NA,FALSE,empty
+19,6,"Box C: Moving to Thailand 4.0: An Innovation-driven Economy Thailand has been through at least four different stages of economic development from agricultural- to manufacturing-oriented. Starting from Thailand 1.0 period before 1960, the economy was mainly driven by agricultural production. During Thailand 2.0 period from 1960 to 1987, the economy focused on labour-intensive industries, such as clothing and garment production. After 1987, during Thailand 3.0, the country shifted into heavy industries. In this phase, the automobile and chemical industries were the most important drivers of the economy. While the Thailand 3.0 strategy has been successful in upgrading the country as a major manufacturing hub in ASEAN, Thailand has faced major challenges over time and appears to have fallen into three economic development traps, namely the imbalance trap, income inequality trap, and a middle-income trap. 17 An imbalance trap is when an economic system is characterized by disparities in several dimensions, such as economic, social, or environmental, between the rich and the poor as well as between the urban and provincial. The income inequality trap refers to an economic structure that keeps poor people poor and destitute across generations. As for the middle-income trap, Thailand appears stuck in a middle income level of development and its growth is too low to allow it to move up the value chain to a high income level such as Korea. These major concerns prompted the government to adopt a new strategy to transform the economy into Thailand 4.0, which envisages a digitally-oriented and innovation-driven economy, focusing on high-value-added manufacturing and services. Thailand 4.0 aims at overcoming the three development traps through new growth engines with high technology, innovation and a knowledge-driven society, which is expected to promote sustainable growth, reduce income inequality, and to elevate Thailand to high-income country status, in accordance with the 12th National Economic and Social Development Plan for 2017-2021 as well as the 20-year National Strategy. As part of the Thailand 4.0 initiative, the government is developing the Eastern Economic Corridor (EEC) project as the prime driver for economic growth. This model is an enhancement of the previous Eastern Seaboard Development Program, which was launched in 1982 across the three provinces of Chonburi, Rayong and Chachoengsao. These comprise a collective area of 13,285 square kilometres. The Board of Investment (BOI) recently announced that the model will transform the eastern part of Thailand into a key investment, technology and transportation hub for the country and the ASEAN region. The implementation of EEC will be based on three pillars – an infrastructure upgrade, new industry development, and investment incentive and facilitation. First, physical infrastructure investment is designed to support transportation, logistics and public utilities. Physical infrastructure is divided into three modes of transportation: a) air transportation: U-Tapao Airport will be upgraded to an international airport and support the EEC’s logistics industry; b) sea ports: Laem Chabang deep- sea port will be expanded from being am import-export port to a transhipment port for distribution to CLMV countries; and c) land transport: the integration of the high-speed train and the airport link is designed to connect Don Muang, Suvarnnabhumi and U-Tapao airports. Second, in terms of new industry development, the EEC will promote 10 target industries, which are expected to become the new drivers of growth.",FALSE,normal
+19,7,Figure A1. Evolution of Thai Economies,FALSE,fig_table
+19,8,Source: C ASEAN,FALSE,normal
+19,9,"17 United Overseas Bank, Flash Notes dated 16 May 2017.",FALSE,normal
+19,10,NA,FALSE,empty
+20,1,NA,FALSE,empty
+20,2,Page 20 of 48,FALSE,page_footer
+20,3,NA,FALSE,empty
+20,4,Figure A3. Five Current Industries and Five Future Industries,FALSE,fig_table
+20,5,"Source: Thailand Board of Investment The 10 target industries are divided into two categories, the S-Curve and New S-Curve. The S- Curve industries are comprised of five existing groups of industries in which Thailand has high potential and that can be developed by adding value through advanced technologies. These include next-generation automotives, smart electronics, affluent medical and wellness tourism, agriculture and biotechnology, and food for the future. The second group is that of the New S-Curve industries, which will become significant long-term growth divers: robotics, aviation and logistics, biofuels and biochemical, digital, and medical hubs. Third, investment incentives and facilitation are divided into tax and non-tax related incentives. The government will offer the investors in the special economic zone more corporate and personal income tax privileges beyond the current BOI regulations – such as the exemption of import duty on machine and raw material and corporate income tax exemption of up to 15 years. Non-tax incentives will cover visa and work permit facilitation, infrastructure readiness, and ease of doing business. Significant strides have brought good opportunities for both Thai and international investors. Thailand serves as an economic hub in Asia by virtue of its strategic location in the heart of the AEC, benefiting production, trade, exports and logistics. The country borders Cambodia, Laos, Myanmar and Vietnam, all of which are undergoing rapid growth. It is therefore one of the most suitable investment destinations for connecting Asia to the world. The EEC’s strategic location also makes it convenient for investors to import and export raw materials and finished goods to border countries – Cambodia, Lao, Myanmar, Vietnam, Malaysia and Singapore. This is a great opportunity for Thailand to attract investment from foreign firms to invest in Thailand. It also involves the improvement and establishment of regional R&D centers. In the medium term, there are three challenges or concerns that need to be addressed for Thailand to achieve the potential presented by Thailand 4.0. The first is the inadequacy of a sufficiently highly-skilled workforce, especially of technology specialistsis; the second is the lack of quality infrastructure resulting in high administrative costs; and the third is the inadequacy of intellectual property right protections. Therefore, additional measures to strengthen labor capacity, such as an intensive vocational training, will need to be enhanced. In addition, the legislative and regulatory environment for property rights should be upgraded. References: Bhunai, P. (2017, June 1). ‘Thailand 4.0 Means Opportunity Thailand’: Government taking steps to attract investments in targeted industries. Retrieved March 19, 2018, from https://www.opengovasia.com/articles/7386-thailand-40-means-opportunity-thailand-government-taking- steps-to-attract-investments-in-targeted-industries Bruton, C. (2017, July 31). Solving skill shortages. Retrieved March 19, 2018, from https://www.bangkokpost.com/business/news/1297199/solving-skill-shortages Harnhirun, S. (n.d.). Ministry of industry's role in Thailand 4.0. Retrieved March 19, 2018, from http://www.jtecs.or.jp/wp-content/uploads/hpb- media/PPTTNI.pdf Udomkerdmongkol, M. (2017, May 16). Thailand’s Eastern Economic Corridor: The Next major Economic Zone of ASEAN. Retrieved March 19, 2018, from https://www.uobgroup.com/assets/pdfs/research/FN_170516B.pdf Ministry of Transportation, Board of Investment, Office of National Economic and Social Development Board Muangsiri, C. (2017, August 16). EEC Thailand: How it works and the benefits it offers. Retrieved March 19, 2018, from https://canchamthailand.org/19603-2/ Pomberja, H. N. (2017, June 15). Thailand’s EEC: a global gateway to Asia services. Retrieved March 19, 2018, from http://silklegal.com/thailands-eec-a-global-gateway-to-asia-services/ Stuart, C. (2017, June 29). Will Thailand 4.0 and the Eastern Economic Corridor Lead to More Innovation?. Retrieved March 19, 2018, from http://en.naipo.com/Portals/0/web_en/Knowledge_Center/Feature/IPNE_170629_0702.htm",FALSE,normal
+20,6,Figure A2. Infrastructure Upgrading in the EEC,FALSE,fig_table
+20,7,NA,FALSE,empty
+20,8,Source: Thailand Board of Investment,FALSE,normal
+20,9,NA,FALSE,empty
+21,1,NA,FALSE,empty
+21,2,Page 21 of 48,FALSE,page_footer
+21,3,NA,FALSE,empty
+21,4,"Tangkitvanich, S., & Rattanakhamfu, S. (2017, October 10). EEC’s Role in Shaping up Thailand 4.0. Retrieved March 19, 2018, from https://tdri.or.th/wp-content/uploads/2017/10/EEC-TDRI-talk-on-October-10.pdf Udomkerdmongkol, M. (2017, May 16). Thailand’s Eastern Economic Corridor: The Next Major Economic Zone Of ASEAN. Retrieved March 19, 2018, from https://www.uobgroup.com/assets/pdfs/research/FN_170516B.pdf",FALSE,normal
+21,5,NA,FALSE,empty
+21,6,B.2 Capital Flow Volatility Risks,FALSE,normal
+21,7,"19. Faster-than-expected U.S. Fed rate hikes could lead to capital flow volatility. Recently, there have been net outflows by non-residents in both the stock and bond markets (Figure 21), reflecting risk aversion towards emerging markets and concerns over the escalating trade conflicts between the U.S. and China. Also, the Thai baht has been on a depreciating trend since April 2018 (Figure 21), while bond yields have been increasing. The stock market index was declining since January before rebounding in July (Figure 14). However, non-resident bond outflows should not be a big cause of concern as foreigners hold only about 10 percent of government securities (Figure 22). Moreover, Thailand’s substantial international reserves, at 9.3 months of imports and 3.4 times of short-term debt as of June 2018, provide the economy with a strong cushion against the adverse impact of outflows. That said, capital flow volatility amid global uncertainty would warrant continued vigilance.",FALSE,normal
+21,8,NA,FALSE,empty
+21,9,Figure 21. Non-resident Net Flows in Stock and,FALSE,fig_table
+21,10,Bond Markets,FALSE,normal
+21,11,Figure 22. Foreign Holdings of Debt Securities,FALSE,fig_table
+21,12,NA,FALSE,empty
+21,13,NA,FALSE,empty
+21,14,NA,FALSE,empty
+21,15,Source: CEIC; Bank of Thailand Source: CEIC; Bank of Thailand,FALSE,normal
+21,16,NA,FALSE,empty
+21,17,B.3 Financial Sector Risks,FALSE,normal
+21,18,"20. Risks to financial stability remain contained, although some pockets of risks remain. Overall, the trend deterioration of bank asset quality has flattened out in line with the broader improvement of the economy. After deteriorating in 2015 through Q3 2017, the credit quality of commercial banks began to improve with the reduction of NPL ratio from 2.97 in Q3 2017 to 2.93 percent in Q2 2018. Consumer NPL ratios decreased in 2017, but slightly increased again in Q2 2018 to 2.72 percent. In most consumer loan segments, NPLs decreased in 2017 but",FALSE,normal
+21,19,NA,FALSE,empty
+22,1,NA,FALSE,empty
+22,2,Page 22 of 48,FALSE,page_footer
+22,3,NA,FALSE,empty
+22,4,"increased in Q1 2018 (Table 1). However, housing loans NPLs have continued to increase side by side with the rise in the percentage of new housing loans’ ratio with LTV above 90 percent, and the rise in median loan-to-income ratio. There is thus a need to monitor housing loans alongside developments in the real estate supply. NPLs in the SME sector remain elevated, although some signs of stabilization have appeared recently. Overall, however, although credit risk in the banking system warrants continued vigilance, commercial banks remain sound with a strong buffer from capital and loan-loss reserves. Meanwhile, following SFI reforms, which included the transfer of their supervision to the BOT in 2016, the SFIs’ NPL ratio has declined and is now closer to the NPL ratio of commercial banks (Figure 23).",FALSE,normal
+22,5,Table 1. Selected NPL Ratios,FALSE,fig_table
+22,6,NPL items Q3 2017 Q4 2017 Q1 2018 Q2 2018 Banks 2.97 2.91 2.92 2.93 Consumer loans 2.97 2.68 2.78 2.72 Housing loans 2.34 3.23 3.38 3.39,FALSE,normal
+22,7,NA,FALSE,empty
+22,8,"21. The search-for-yield behavior under a prolonged period of low interest rate environment requires continued vigilance, in particular, in savings cooperatives and mutual fund investments. Household savings in credit cooperatives and credit unions, together with investment in fixed income funds and foreign investment funds (see Figure 24), have expanded faster than household deposits at commercial banks and SFIs in the past five years. There is thus a need to continue close monitoring of the search-for-yield behavior and ensure that it does not lead to the underpricing of risks. There is also a need to reform the regulatory and supervisory framework of savings cooperatives, to ensure they adopt best practices and do not pose risks to the financial system. Toward this end, the authorities’ efforts to develop a savings cooperative plan and to draft the Cooperative Act are steps in the right direction.",FALSE,normal
+22,9,Figure 23. Non-performing Loans (NPL) Figure 24. Structure of Mutual Fund Market (Net Asset Value),FALSE,fig_table
+22,10,NA,FALSE,empty
+22,11,Source: CEIC; Bank of Thailand; Fiscal Policy Office Source: Association of Investment Management Companies,FALSE,normal
+22,12,NA,FALSE,empty
+23,1,NA,FALSE,empty
+23,2,Page 23 of 48,FALSE,page_footer
+23,3,NA,FALSE,empty
+23,4,"22. The Bills of Exchange (B/E) defaults in late 2016 and the first half of 2017 have resulted in a greater proportion of higher-rated bond issuances and a smaller proportion of lower- or non-rated bond issuances. In late 2016 and the first half of 2017, there were defaults on several non-rated corporates’ B/Es. These B/Es represented only about 0.2 percent of total corporate bonds outstanding and did not result in systemic defaults in other B/Es. In the wake of the B/E defaults, the percentage of non-rated and lower-rated bonds issued fell and the percentage of higher-rated bond issuances increased, in large part due to investors’ becoming more aware of the risks associated with lower or non-rated B/Es. Thus, the share of bonds rated below BBB or non-rated fell to 4.8 percent in H1 2018 from 7.7 percent in 2016, while the share of bonds rated AA or higher increased to 79.2 percent from 76.2 percent (Figure 25).",FALSE,normal
+23,5,"23. The household debt to GDP ratio, albeit gradually decreasing, remains high, compared to regional peers. Thailand’s household debt-to-GDP ratio remains high relative to other economies in the region, and the highest among economies with comparable per capita GDP, and needs continued monitoring. On a positive note, the household debt-to-GDP ratio has declined from its peak of 80.8 percent in Q4 2015 to 77.6 percent in Q1 2018 (Figure 26). Nonetheless, deleveraging is taking place mainly in high-income households, and low- and medium-income households and farmers remain vulnerable, given their higher debt-to-financial asset ratio and weaker debt service capacity.18 To help ease the household debt problem, the BOT, together with commercial banks and Sukhumvit Asset Management Company, set up the Household Debt Clinic to facilitate the debt restructuring of distressed households.",FALSE,normal
+23,6,NA,FALSE,empty
+23,7,Figure 25. Corporate Bond Issuances Figure 26. Household Debt,FALSE,fig_table
+23,8,NA,FALSE,empty
+23,9,NA,FALSE,empty
+23,10,Source: Thai Bond Market Association; AMRO staff calculations Source: Bank of Thailand,FALSE,normal
+23,11,NA,FALSE,empty
+23,12,"18 In addition, there is high debt and delinquency prevalence among the young working age population. Chantarat, S., Lamsam, A., Samphantharak, K., and Tangsawasdirat, B. (2017), “Thailand's Household Debt through the Lens of Credit Bureau Data: Microscopic View of Debt and Delinquency. https://www.pier.or.th/wp-content/uploads/2017/08/pier_dp_061.pdf.",FALSE,normal
+23,13,NA,FALSE,empty
+24,1,NA,FALSE,empty
+24,2,Page 24 of 48,FALSE,page_footer
+24,3,NA,FALSE,empty
+24,4,B4. Structural Challenges,FALSE,normal
+24,5,"24. Thailand is aging at a relatively fast pace (Figure 27), with significant decline in the national fertility rate, and is at risk of “getting old before getting rich”. Based on UN population projections, the share of Thailand’s working age population is expected to fall by more than 10 ppts between now and 2040. The proportion of the working age population has been falling since 2011, at a faster rate than the regional average (Figure 27b). In addition, the labor force participation rate has been declining since 2013, while the dependency ratio (see Figure 27c) has been rising since 2012. Thailand’s aging will decrease the working age population, with a consequent reduction in the contribution of labor to Thailand’s potential growth. Aging has also contributed to the sluggish growth of household consumption in Thailand (see Selected Issue 1: Key Determinants of Thailand’s Private Consumption Growth). Population aging may also put pressures on the fiscal position, as pension and health-related spending will rise. And unlike other industrialized countries facing similar aging problem, Thailand is at risk of “getting old before getting rich” – which makes aging a relatively bigger challenge for Thailand’s policymakers.",FALSE,normal
+24,6,"25. In addition, the shortage of skilled labor poses a challenge to growth, particularly as the country pursues the Thailand 4.0 initiative and endeavors to become a high- income country by 2026. Thailand’s 20-year national development strategy envisions it as a high income country by 2026, and that requires the economy to expand at an average rate of 5.0 percent a year.19 However, in addition to the potential shrinking of the labor force, Thai firms also face difficulty in hiring skilled labor, in particular engineers in both IT and non-IT fields, scientists, researchers, managers and salespersons with technical skills. This shortage will be a medium- to long-term challenge and warrants improvement in the quality of Thai education— especially in science and technology—which remains relatively poor compared to regional peers. Figure 27a. Population Growth Figure 27b. Working Age (15-59 years old) Figure 27c. Old Age (60+ years old) Source: United Nations",FALSE,normal
+24,7,18 As estimated by the Office of National Economic and Social Development Board.,FALSE,normal
+24,8,-1.0,FALSE,garbage
+24,9,-0.5,FALSE,garbage
+24,10,0.0,FALSE,garbage
+24,11,0.5,FALSE,garbage
+24,12,1.0,FALSE,garbage
+24,13,1.5,FALSE,garbage
+24,14,2.0,FALSE,garbage
+24,15,2.5,FALSE,garbage
+24,16,3.0,FALSE,garbage
+24,17,3.5,FALSE,garbage
+24,18,1 9,FALSE,garbage
+24,19,5 0,FALSE,garbage
+24,20,-1 9 5,FALSE,garbage
+24,21,5,FALSE,garbage
+24,22,1 9,FALSE,garbage
+24,23,5 5,FALSE,garbage
+24,24,-1 9 6,FALSE,garbage
+24,25,0,FALSE,garbage
+24,26,1 9,FALSE,garbage
+24,27,6 0,FALSE,garbage
+24,28,-1 9 6,FALSE,garbage
+24,29,5,FALSE,garbage
+24,30,1 9,FALSE,garbage
+24,31,6 5,FALSE,garbage
+24,32,-1 9 7,FALSE,garbage
+24,33,0,FALSE,garbage
+24,34,1 9,FALSE,garbage
+24,35,7 0,FALSE,garbage
+24,36,-1 9 7,FALSE,garbage
+24,37,5,FALSE,garbage
+24,38,1 9,FALSE,garbage
+24,39,7 5,FALSE,garbage
+24,40,-1 9 8,FALSE,garbage
+24,41,0,FALSE,garbage
+24,42,1 9,FALSE,garbage
+24,43,8 0,FALSE,garbage
+24,44,-1 9 8,FALSE,garbage
+24,45,5,FALSE,garbage
+24,46,1 9,FALSE,garbage
+24,47,8 5,FALSE,garbage
+24,48,-1 9 9,FALSE,garbage
+24,49,0,FALSE,garbage
+24,50,1 9,FALSE,garbage
+24,51,9 0,FALSE,garbage
+24,52,-1 9 9,FALSE,garbage
+24,53,5,FALSE,garbage
+24,54,1 9,FALSE,garbage
+24,55,9 5,FALSE,garbage
+24,56,-2 0 0,FALSE,garbage
+24,57,0,FALSE,garbage
+24,58,2 0,FALSE,garbage
+24,59,0 0,FALSE,garbage
+24,60,-2 0 0,FALSE,garbage
+24,61,5,FALSE,garbage
+24,62,2 0,FALSE,garbage
+24,63,0 5,FALSE,garbage
+24,64,-2 0 1,FALSE,garbage
+24,65,0,FALSE,garbage
+24,66,2 0,FALSE,garbage
+24,67,1 0,FALSE,garbage
+24,68,-2 0 1,FALSE,garbage
+24,69,5,FALSE,garbage
+24,70,2 0,FALSE,garbage
+24,71,1 5,FALSE,garbage
+24,72,-2 0 2,FALSE,garbage
+24,73,0,FALSE,garbage
+24,74,2 0,FALSE,garbage
+24,75,2 0,FALSE,garbage
+24,76,-2 0 2,FALSE,garbage
+24,77,5,FALSE,garbage
+24,78,2 0,FALSE,garbage
+24,79,2 5,FALSE,garbage
+24,80,-2 0 3,FALSE,garbage
+24,81,0,FALSE,garbage
+24,82,2 0,FALSE,garbage
+24,83,3 0,FALSE,garbage
+24,84,-2 0 3,FALSE,garbage
+24,85,5,FALSE,garbage
+24,86,2 0,FALSE,garbage
+24,87,3 5,FALSE,garbage
+24,88,-2 0 4,FALSE,garbage
+24,89,0,FALSE,garbage
+24,90,2 0,FALSE,garbage
+24,91,4 0,FALSE,garbage
+24,92,-2 0 4,FALSE,garbage
+24,93,5,FALSE,garbage
+24,94,2 0,FALSE,garbage
+24,95,4 5,FALSE,garbage
+24,96,-2 0 5,FALSE,garbage
+24,97,0,FALSE,garbage
+24,98,Actual data Projection Thailand ASEAN+3 ASEAN 5 %yoy,FALSE,normal
+24,99,40,FALSE,garbage
+24,100,45,FALSE,garbage
+24,101,50,FALSE,garbage
+24,102,55,FALSE,garbage
+24,103,60,FALSE,garbage
+24,104,65,FALSE,garbage
+24,105,70,FALSE,garbage
+24,106,19 50,FALSE,garbage
+24,107,19 60,FALSE,garbage
+24,108,19 70,FALSE,garbage
+24,109,19 80,FALSE,garbage
+24,110,19 90,FALSE,garbage
+24,111,20 00,FALSE,garbage
+24,112,20 10,FALSE,garbage
+24,113,20 20,FALSE,garbage
+24,114,20 30,FALSE,garbage
+24,115,20 40,FALSE,garbage
+24,116,20 50,FALSE,garbage
+24,117,Actual Projection,FALSE,normal
+24,118,ASIA,FALSE,garbage
+24,119,ASEAN Thailand,FALSE,normal
+24,120,% of total population,FALSE,normal
+24,121,0,FALSE,garbage
+24,122,5,FALSE,garbage
+24,123,10,FALSE,garbage
+24,124,15,FALSE,garbage
+24,125,20,FALSE,garbage
+24,126,25,FALSE,garbage
+24,127,30,FALSE,garbage
+24,128,35,FALSE,garbage
+24,129,40,FALSE,garbage
+24,130,19 50,FALSE,garbage
+24,131,19 60,FALSE,garbage
+24,132,19 70,FALSE,garbage
+24,133,19 80,FALSE,garbage
+24,134,19 90,FALSE,garbage
+24,135,20 00,FALSE,garbage
+24,136,20 10,FALSE,garbage
+24,137,20 20,FALSE,garbage
+24,138,20 30,FALSE,garbage
+24,139,20 40,FALSE,garbage
+24,140,20 50,FALSE,garbage
+24,141,Actual Projection,FALSE,normal
+24,142,ASIA,FALSE,garbage
+24,143,ASEAN Thailand,FALSE,normal
+24,144,% of total population,FALSE,normal
+24,145,NA,FALSE,empty
+25,1,NA,FALSE,empty
+25,2,Page 25 of 48,FALSE,page_footer
+25,3,NA,FALSE,empty
+25,4,NA,FALSE,empty
+25,5,C. Policy Discussions,FALSE,normal
+25,6,C.1 Fiscal Role in Boosting Recovery and Restoring Private Investment,FALSE,normal
+25,7,"26. Thailand should prioritize fiscal policy towards infrastructure investment and structural reforms in order to lift the growth potential and enhance the social security system to prepare for the aging population. Overall, fiscal space remains significant with the public debt at a moderate level of 40.8 percent of GDP, well below the 60.0 percent ceiling (Figure 28). Given that the economy is growing at close to potential, fiscal spending should prioritize infrastructure investment and structural reforms in order to strengthen the recovery and enhance the growth potential.",FALSE,normal
+25,8,"27. The government’s thrust for mega-infrastructure projects is a welcome development, and should be expedited and executed in a timely and well-coordinated manner to crowd in private investment, which has been relatively subdued, and to enhance potential growth. The authorities’ efforts in pushing forward non-debt financing, including Public Private Partnerships and the Thailand Future Fund for mega-infrastructure projects, are commendable as they will help contain the fiscal deficit and growing public debt. The large current account surplus also gives considerable space to Thailand to pursue more structural measures such as increasing the investment rate, which has not recovered following the sharp drop after the Asian Financial Crisis (see Box A: Alternative Approach to Estimating the Net Contribution of Key Demand Components of GDP Growth in Thailand).",FALSE,normal
+25,9,Figure 28. Fiscal Deficit Figure 29. SOE Budget and Disbursement,FALSE,fig_table
+25,10,Source: CEIC; Fiscal Policy Office; Public Debt Management Office; Office of the National Economic and Social Development Board Source: State Enterprise Policy Office; AMRO staff calculations,FALSE,normal
+25,11,NA,FALSE,empty
+25,12,"28. Strengthening public infrastructure management would improve the efficiency and effectiveness of public investment. Project planning, screening, budgeting and execution, currently dispersed among several agencies, should be done in a more coordinated manner in order to enhance the efficiency of public investment projects. To maximize the boost from",FALSE,normal
+25,13,NA,FALSE,empty
+26,1,NA,FALSE,empty
+26,2,Page 26 of 48,FALSE,page_footer
+26,3,NA,FALSE,empty
+26,4,"infrastructure investment, the government should formulate an urban and regional development plan that incorporates detailed local area development and the building of residential and commercial properties along key nodes of the transportation network. An integrated and well-formulated public investment program should help ensure that investments in mega-infrastructure projects will help crowd in private investment and enhance the growth potential over the medium and long term. This will also help increase the absorptive capacity for capital expenditure and SOE investment projects, which have been plagued by low disbursement rates (see Figure 29).",FALSE,normal
+26,5,"29. To support the infrastructure drive and expansionary fiscal policy, it is important to improve the buoyancy of the tax system. The fiscal position could be pressured by the huge investment in infrastructure projects over the medium term and expanding medical expenses, as a result of aging population. Therefore, efforts to broaden the tax base and improve tax administration are needed in order to raise the tax revenue ratio and maintain fiscal sustainability as mandated by the Fiscal Responsibility Act. Accordingly, AMRO staff welcomes the government’s plan to raise fiscal revenue to around 20 percent of GDP, as well as the plan to improve tax administration through the use of technology by moving towards e-revenue, utilizing Promptpay, and using big data analytics and machine learning, among others. In addition, over the medium term, there is room to increase the VAT rate, which was lowered “temporarily” from",FALSE,normal
+26,6,10 percent to 7 percent until 30 September 2019. Authorities’ View,FALSE,normal
+26,7,"30. The authorities are committed to ramping up infrastructure spending. They emphasize that the EEC project does not merely focus on physical infrastructure investment, but includes human capital investment as well, with the establishment of the Eastern Economic Corridor of Innovation (EECi) and the like. The authorities believe that the ramp up in infrastructure investment will not necessarily result in a significant increase in government expenditures, as the investment will also tap on alternative sources of financing such as the Thailand Future Fund and Public Private Partnerships. They are also of the view that the aging population will not necessary result in higher government spending, as they are encouraging the population to save for their post-retirement spending, such as through the National Savings Fund launched in 2015 and the National Pension Fund, which is in the process of being established.",FALSE,normal
+26,8,"31. The authorities agreed with AMRO’s assessment on the need to increase the revenue-to-GDP ratio, and emphasized that they have a roadmap for several tax reform measures, with the goal of increasing the ratio to around 20 percent of GDP. These",FALSE,normal
+26,9,NA,FALSE,empty
+27,1,NA,FALSE,empty
+27,2,Page 27 of 48,FALSE,page_footer
+27,3,NA,FALSE,empty
+27,4,"include several tax policy and tax administration measures, including the use of technology to increase tax collection. The authorities agreed that the declining trend of tax revenue-to-GDP ratio from FY2012 to FY2017 was mainly due to the reduction of corporate income tax rate, change in personal income tax structure, tax exemption for SMEs under single bookkeeping, and customs reforms. However, they were of the view that the revision of GDP definition and scope also contributed to the decline.",FALSE,normal
+27,5,C.2 Accommodative Monetary Policy is appropriately supportive of growth and financial stability,FALSE,normal
+27,6,"32. The current monetary policy stance is appropriate in supporting growth and financial stability, and consistent with inflation moving in line with the inflation target. While growth is only slightly above potential of around 3.8 percent (Figure 30) and yet to be broad-based, it is gradually gaining momentum. While inflation is still low, it is also gaining traction, and is expected to continue to inch up to the target band. Given the ample liquidity in the financial system and the weak demand for credit (see Figure 31), as well as a relatively flat Phillips curve, a reduction in the policy rate will not be effective in boosting credit and domestic demand but may increase risk to financial stability. Maintaining financial stability in a prolonged period of low interest rate environment is challenging and requires a set of well-coordinated policies that include appropriate monetary policy, well calibrated macro- and micro-prudential regulations, and coordination with other regulatory agencies. The search-for-yield behavior associated with the low interest rate environment requires continued monitoring and should be supported by a financial literacy campaign, to ensure that retail investors are well-informed and do not take excessive risks. In particular, a continued search-for-higher-yield behavior through savings cooperatives, whose assets and deposits surged at a higher rate, has led to a need to reform the regulatory and supervisory framework of savings cooperatives, to ensure that they adopt best practices and do not pose risks to the financial system.",FALSE,normal
+27,7,Figure 30. Potential Growth Figure 31. Interest Rates,FALSE,fig_table
+27,8,Note: Potential output was calculated using the Kalman filter to estimate an unobserved components model with fixed autoregressive parameters. The estimation was done using WinRATS Pro 9.10. Source: AMRO staff calculations Source: CEIC; Bank of Thailand,FALSE,normal
+27,9,NA,FALSE,empty
+28,1,NA,FALSE,empty
+28,2,Page 28 of 48,FALSE,page_footer
+28,3,NA,FALSE,empty
+28,4,"33. Household debt remains high, albeit slightly reduced, and requires continued vigilance. Thailand’s household debt-to-GDP ratio is among the highest in the region alongside Korea and Malaysia, and the highest among economies with comparable per capita GDP. The elevated level of household debt is a vulnerability and a potential source of distress to low income indebted households when the credit cycle turns. Accordingly, there is need to monitor the mortgage and housing market to ensure that the housing loan debt burden does not become excessive and that housing loan NPLs do not continue increasing.",FALSE,normal
+28,5,"34. A strong external position has provided Thailand with ample buffer against external shocks and monetary policy space. Going forward, exchange rate flexibility should help cushion external shocks, while foreign exchange intervention can be used judiciously to ensure orderly foreign exchange market condition. The authorities’ efforts to liberalize capital outflows are welcome and should be continued, in view of the strong current account surplus and to better facilitate efforts by the private sector to expand overseas investments. The sizeable foreign exchange reserves provide a cushion against external shocks and provides monetary authorities with policy space.",FALSE,normal
+28,6,"35. Regulatory reforms relating to SFIs, savings cooperatives and household debt are a welcome development. SFI regulatory reforms will enhance their financial soundness, and efforts to upgrade the regulatory and supervisory framework and improve the surveillance of savings cooperatives and credit unions are steps in the right direction. Along these lines, the efforts by the authorities to develop database for supervision of cooperative, formulate a savings cooperative plan, and to draft the Cooperative Act are commendable. Also, the tightened regulation on personal loans and credit cards, effective since 1 September 2017, and the Household Debt Clinic loan restructuring program, will help enhance credit quality relating to household loans, and help ease households’ financial burden. In addition, continuing efforts to enhance financial discipline and financial literacy of households—in particular low-income households and the youth—will help promote prudent borrowing behavior. Authorities’ Views",FALSE,normal
+28,7,"36. The monetary authorities agreed that the current monetary policy setting is appropriate in view of the need to support growth while maintaining financial stability in the current low interest rates environment. They emphasize that lowering the interest rate further under the current conditions could risk greater search-for-yield behavior in shadow banking, mutual funds and savings cooperatives. They view that applying solely macroprudential measures may not sufficiently address the search-for-yield behavior as its root cause is the low interest rate itself. They clarified that although their existing macroprudential measures are not automatically",FALSE,normal
+28,8,NA,FALSE,empty
+29,1,NA,FALSE,empty
+29,2,Page 29 of 48,FALSE,page_footer
+29,3,NA,FALSE,empty
+29,4,"countercyclical, they are adjusted in an effectively countercyclical manner. They also shared that they are currently looking into the possibility of adopting countercyclical buffers.",FALSE,normal
+29,5,C.3 Structural Reforms to Boost Potential Growth,FALSE,normal
+29,6,"37. The 20-year Strategic Plan, including the Thailand 4.0 scheme and the EEC flagship project, is a welcome move. Efforts to increase potential growth should be continued in order to achieve the goal of becoming a high-income country by 2026. Given the aging population, this would require higher contributions of labor productivity, total factor productivity and capital formation in order to counteract the declining contribution of labor input. Labor productivity can be increased by improving the quality of education, especially in science and technology, and expanding vocational training, while more resources can be devoted to research and development. To increase total factor productivity, Thailand needs to develop an ecosystem for innovation and entrepreneurship, increase R&D expenditure, increase its number of scientists and engineers, and enhance IP protection. In addition, a coordinated package of reforms is necessary in order to cope with the rapid pace of aging, including extending the retirement age, mobilizing previously untapped talents in the countryside, and encouraging high-skilled immigration.20 The multiplier effects of the EEC on other regions in the country should also be enhanced to promote inclusive growth and reduce inequality. To further strengthen private investment, the services sector can be further liberalized, in addition to strengthening public investment screening, programming, and execution.",FALSE,normal
+29,7,NA,FALSE,empty
+29,8,"20 In line with this, the authorities’ decision to look into the possibility of extending the retirement age and encouraging high-skilled immigration is a step in the right direction.",FALSE,normal
+29,9,NA,FALSE,empty
+30,1,NA,FALSE,empty
+30,2,Page 30 of 48,FALSE,page_footer
+30,3,NA,FALSE,empty
+30,4,"Appendix 1. Selected Figures for Major Economic Indicators Figure 1.1. Real Sector Economic growth gained traction. Private consumption has gradually strengthened. Source: National Economic and Social Development Board Source: CEIC; Bank of Thailand; University of the Thai Chamber of Commerce Farm income growth increased recently, although it has largely remained soft. Labor income growth has also been fairly soft. Source: Office of Agricultural Economics; Bank of Thailand; AMRO staff calculations",FALSE,normal
+30,5,NA,FALSE,empty
+30,6,NA,FALSE,empty
+30,7,"Source: National Statistical Office, Bank of Thailand FDI application and inflows picked up gradually… … alongside the gradual improvement in capital utilization, private investment index, and capital goods imports. Note: The value of FDI applications was converted from Thai baht terms to USD by using a monthly average rate of the Thai baht against the USD Source: CEIC; Board of Investment; Bank of Thailand",FALSE,normal
+30,8,NA,FALSE,empty
+30,9,NA,FALSE,empty
+30,10,Source: CEIC; Office of Industrial Economics; Bank of Thailand,FALSE,normal
+30,11,NA,FALSE,empty
+31,1,NA,FALSE,empty
+31,2,Page 31 of 48,FALSE,page_footer
+31,3,NA,FALSE,empty
+31,4,Figure 1.2. External Sector The Balance of Payments registered a surplus at 5.7 percent of GDP in 2017. The current account surplus stood at 11.6 percent of GDP as of Q1 2017 on the back of an export upturn…,FALSE,normal
+31,5,NA,FALSE,empty
+31,6,Source: CEIC; Bank of Thailand,FALSE,normal
+31,7,NA,FALSE,empty
+31,8,"Source: CEIC; Bank of Thailand ….and robust growth of tourist arrivals. In Q1 2018, the financial account deficit narrowed mainly due to inward foreign direct investment, although resident outward direct investment expanded.",FALSE,normal
+31,9,NA,FALSE,empty
+31,10,"Source: CEIC; Department of Tourism, Ministry of Tourism and Sports",FALSE,normal
+31,11,NA,FALSE,empty
+31,12,"Source: CEIC; Bank of Thailand Thai residents’ direct investment abroad has been increasing in recent years. Meanwhile, there have been outflows in bond and equity markets recently. Source: CEIC; Bank of Thailand Source: CEIC; Bank of Thailand",FALSE,normal
+31,13,NA,FALSE,empty
+31,14,NA,FALSE,empty
+31,15,NA,FALSE,empty
+32,1,NA,FALSE,empty
+32,2,Page 32 of 48,FALSE,page_footer
+32,3,NA,FALSE,empty
+32,4,"Figure 1.3. Fiscal Sector The revenue-to-GDP ratio has been falling from FY2012 to FY2017. The expenditure-to-GDP ratio has also fallen in recent years, and is budgeted to fall further in FY2018 and FY2019.",FALSE,normal
+32,5,NA,FALSE,empty
+32,6,Source: CEIC; Fiscal Policy Office,FALSE,normal
+32,7,NA,FALSE,empty
+32,8,Source: CEIC; Fiscal Policy Office; Bureau of Budget The public debt-to-GDP ratio has been largely stable. The disbursement rate of capital expenditure has been consistently low…,FALSE,normal
+32,9,NA,FALSE,empty
+32,10,Source: CEIC; Public Debt Management Office; AMRO staff calculations,FALSE,normal
+32,11,NA,FALSE,empty
+32,12,Source: Fiscal Policy Office; Bureau of Budget; AMRO staff calculations,FALSE,normal
+32,13,… as has the disbursement of SOEs’ investment budgets.,FALSE,normal
+32,14,NA,FALSE,empty
+32,15,"Although the SOE budget has increased substantially for FY2018, the disbursement rate to date has been",FALSE,normal
+32,16,low.,FALSE,garbage
+32,17,Source: State Enterprise Policy Office; AMRO staff calculations,FALSE,normal
+32,18,NA,FALSE,empty
+32,19,Source: State Enterprise Policy Office; AMRO staff calculations,FALSE,normal
+32,20,NA,FALSE,empty
+32,21,NA,FALSE,empty
+33,1,NA,FALSE,empty
+33,2,Page 33 of 48,FALSE,page_footer
+33,3,NA,FALSE,empty
+33,4,"Figure 1.4. Monetary and Financial Sectors Headline inflation has been below BOT’s medium-term inflation target until recently. After moderating in 2017, growth in loans and bond issuances inched up in Q1 2018. Source: Ministry of Commerce; Bank of Thailand; AMRO staff calculations Source: Bank of Thailand; AMRO staff calculations Loan quality has started to stabilize recently. The growth in house prices increased marginally recently, though it is still moderate. Source: Bank of Thailand Source: CEIC; Bank for Thailand Higher-yield investments, in particular foreign investment funds, have grown persistently. Volatility in the Stock Exchange Index heightened in early 2018. Source: Association of Investment Management Companies Source: CEIC; Stock Exchange of Thailand; Thai Bond Market Association; AMRO staff calculations",FALSE,normal
+33,5,NA,FALSE,empty
+33,6,NA,FALSE,empty
+33,7,NA,FALSE,empty
+33,8,NA,FALSE,empty
+34,1,NA,FALSE,empty
+34,2,Page 34 of 48,FALSE,page_footer
+34,3,NA,FALSE,empty
+34,4,Appendix 2. Selected Economic Indicators for Thailand,FALSE,normal
+34,5,NA,FALSE,empty
+34,6,2014 2015 2016 2017 2018 2019,FALSE,garbage
+34,7,Projection (in percent change unless specified) Real sector and prices Real GDP 1.0 3.0 3.3 3.9 4.2 4.0 Final consumption 1.5 2.3 2.8 2.6 3.1 3.1,FALSE,normal
+34,8,- Private sector 0.8 2.3 3.0 3.2 3.5 3.5,FALSE,normal
+34,9,- General government 2.8 2.5 2.2 0.5 1.9 1.9 Capital formation -2.2 4.3 2.8 0.9 3.3 3.3,FALSE,normal
+34,10,- Private sector -0.9 -2.1 0.5 1.7 3.1 3.0,FALSE,normal
+34,11,"- General government -6.6 28.4 9.5 -1.2 4.0 4.3 Exports of goods and services 0.3 1.6 2.8 5.5 6.8 4.2 Imports of goods and services -5.3 0.0 -1.0 6.8 7.7 5.5 Labor market Unemployment rate (in percent, period average) 0.8 0.9 1.0 1.2 .. .. Prices Consumer price inflation (period average) 1.9 -0.9 0.2 0.7 1.2 1.2 External sector (in billions of U.S. dollars unless specified) Current account balance 15.2 32.1 48.2 49.3 43.5 37.4 (in percent of GDP) 3.7 8.0 11.7 11.2 9.0 7.6 Trade balance 17.2 26.8 36.5 34.2 25.5 16.7 Exports, fob 226.6 214.0 214.3 235.3 251.6 261.6 Imports, fob 209.4 187.2 177.7 201.1 226.1 244.9 Services, net 10.3 19.2 24.2 29.8 31.3 31.8 Receipts 55.5 61.8 67.7 75.6 81.4 87.1 Payments 45.2 42.5 43.5 45.8 50.1 55.3 Primary income, net -21.0 -20.6 -19.3 -19.8 -20.7 -19.3 Secondary income, net 8.7 6.7 6.8 7.4 7.4 8.2 Financial account balance -16.0 -16.8 -21.0 -19.1 -17.9 -13.4 Direct investment, net -0.8 3.9 -10.3 -12.3 -4.0 -3.0 Portfolio investment, net -12.0 -16.5 -2.8 -2.6 -5.0 -2.0 Other investment, net -3.2 -4.2 -7.9 -4.2 -9.0 -8.5 Errors and Omissions -0.6 -9.5 -14.4 -3.8 -5.5 -5.5 Overall balance -1.2 5.9 12.8 26.0 20.1 18.5 Gross official reserves excluding net forward position 157.1 156.5 171.9 197.8 217.9 236.4 (In months of imports of goods & services) 7.4 8.2 9.3 9.5 9.7 9.5 Total external debt in percent of GDP 34.8 35.1 32.5 35.2 28.2 25.8 Fiscal sector /1 (in percent of FYGDP) Revenue 15.8 16.2 16.8 15.5 15.2* 14.5* Expenditure 18.7 19.1 19.6 19.0 18.5* 17.1* Budget balance -2.9 -2.9 -2.8 -3.6 -3.3* -2.6* Public Debt 43.3 42.6 41.8 41.9 … … Monetary sector (in percent) Domestic credit (percent yoy) 11.6 0.5 2.1 4.7 5.8 6.2 Policy rate (percent per annum, end of period) 2.0 1.5 1.5 1.5 … … 10-year government bond yield 2.9 2.6 2.8 2.6 … … Note: 1/ Fiscal year 2018 runs from 1 October 2017 to 30 September 2018.",FALSE,normal
+34,12,* Budget number Source: Data provided by Thai authorities; AMRO staff estimates,FALSE,normal
+34,13,NA,FALSE,empty
+34,14,NA,FALSE,empty
+35,1,NA,FALSE,empty
+35,2,Page 35 of 48,FALSE,page_footer
+35,3,NA,FALSE,empty
+35,4,"Appendix 3. Data Adequacy for Surveillance Purposes: A Preliminary Assessment Surveillance Areas Data Availability(i) Reporting Frequency/ Timeliness(ii) Data Quality(iii) Consistency(iv) Others, if any(v) National Account Available Quarterly, six weeks after the end of the reference quarter, based on an advance release calendar.",FALSE,normal
+35,5,- - -,FALSE,empty
+35,6,"Balance of Payments (BOP) and External Position Available BOP data are reported monthly with a two-month lag (one- month lag for trade data), released on last business day of the month. Official reserve assets reported weekly with a one-week lag. External debt reported quarterly with a one quarter lag. Exchange rates reported daily with at 06.00 pm (BKK- GMT+07:00) on that working day.",FALSE,normal
+35,7,- - -,FALSE,empty
+35,8,State Budget and Government/E xternal Debt Available Planned budget announced before the beginning of the fiscal year in October (annual). Budget implementation (expenditure and revenue) reported monthly with a one- month lag. Government/external debt reported monthly with a one- month lag.,FALSE,normal
+35,9,- - -,FALSE,empty
+35,10,Money Supply and Credit Growth Available Monetary aggregates and monetary survey reported monthly with a one-month lag. Credit and deposit data reported monthly with a six-week lag.,FALSE,normal
+35,11,- - -,FALSE,empty
+35,12,"Financial Sector Soundness Indicators Available “Performance of the Thai Banking System”, as well as related data, reported quarterly by the BOT with a quarter lag.",FALSE,normal
+35,13,- - -,FALSE,empty
+35,14,"State-Owned- Enterprises’ Statistics Available (1) State Enterprise Key Indicators (quarterly, in Thai) by the State Enterprise Policy Office (SEPO) under the MOF. (2) State Enterprise Review published annually by SEPO for individual SOEs as well. (3) Monthly and (4) Quarterly report on data and performance review (respectively) of Specialized Financial Institutions (no fixed calendar of release); Listed companies must follow stock exchange disclosure requirements.",FALSE,normal
+35,15,- - -,FALSE,empty
+35,16,"Notes: (i) Data availability refers to whether the official data are available for public access by any means (ii) Reporting frequency refers to the periodicity of data publication. Timeliness refers to how up-to-date the published data are relative to the publication date (iii) Data quality refers to the accuracy and reliability of the available data given the data methodologies are taken into account (iv) Consistency refers to both internal consistency within the data series itself and its horizontal consistency with other data series of either same or different categories (v) Other criteria might also apply, if relevant. Examples include but are not limited to potential areas of improvement for data adequacy. Source: AMRO staff compilation. This preliminary assessment will form the “Supplementary Data Adequacy Assessment"" in the EPRD Matrix.",FALSE,normal
+35,17,NA,FALSE,empty
+35,18,NA,FALSE,empty
+35,19,NA,FALSE,empty
+35,20,NA,FALSE,empty
+36,1,NA,FALSE,empty
+36,2,Page 36 of 48,FALSE,page_footer
+36,3,NA,FALSE,empty
+36,4,Annexes: Selected Issues,FALSE,normal
+36,5,NA,FALSE,empty
+36,6,1. Key Determinants of Thailand’s Private Consumption Growth,FALSE,normal
+36,7,I. Introduction,FALSE,normal
+36,8,"1. Thailand’s private consumption has grown slowly since 2014 as compared to 2001-2007. During the period of domestic political conflicts in 2013-2014, consumer confidence was dampened, and private consumption was subdued. Despite a gradual recovery since then, private consumption has remained relatively weak compared with the period after the Asian Financial Crisis (AFC) in 1997 and the Global Financial Crisis in 2008 (Figure A1.1). Indeed, the five-year average propensity to consume21 for Thailand declined to 0.65 in 2011-2015 from 0.83 in 2001-2005. The share of private consumption to GDP in nominal terms also fell to 52.3 percent in 2011-2015 from 55.8 percent in 2001-2005. 22 Regionally, Thailand’s private consumption growth is outpaced by its peers (Figure A1.2).",FALSE,normal
+36,9,"2. Aside from the psychological impact of political events and the national mourning after the passing of King Bhumibol Adulyadej, the sluggish consumption recovery could be explained by households’ weak financial position and demographic change. Household income declined, following a broad economic slowdown across all sectors in 2013- 2014 and owing to the severe drought in 2015-2016. At the same time, household debt rose rapidly by double digits after the first car purchase policy was introduced in 2011 in order to support the auto industry in the wake of the massive floods. Another possible reason for weak consumption would be the rapidly aging society, which causes the people to spend less and save more for retirement.",FALSE,normal
+36,10,"3. This selected issue aims to study the key drivers of Thailand’s private consumption growth and underlying factors responsible for its slow recovery since 2014. The following analysis is composed of four sections. The first section sets up the consumption function based on the lifecycle consumption theory and intertemporal consumption decision. It follows Muellbauer (2007), Estrada et al (2014) and Vihriälä (2017), who estimated the relations between private consumption and household income, saving and investment decisions and interest rates. Considering the influence of aging, Estrada et al (2011) found that during the early stage of demographic transition, robust consumption may not be driven by an aging population since the government’s spending on healthcare and measures to stimulate consumption could be offset by an increase in household saving. The second section reviews and assesses the impact of aging on households’ consumption in the case of Thailand. As for household debt, Estrada et al (2014) showed that the deleveraging process after the GFC led to a 40 percent drop in consumption in the U.S., the U.K. and Spain. Kang (2017) found that increase in household debt (flow effect) stimulated private consumption in Korea, while the high level of household debt (stock effect) dampened private consumption and GDP. Inspired by these",FALSE,normal
+36,11,"21 Average Propensity to Consume is the ratio of growth rate of private consumption to the growth rate of disposable income. 22 In real terms, the share of private consumption to GDP also fell to 55.1 percent in 2011-2015 from 55.9 percent in 2001-2005.",FALSE,normal
+36,12,NA,FALSE,empty
+37,1,NA,FALSE,empty
+37,2,Page 37 of 48,FALSE,page_footer
+37,3,NA,FALSE,empty
+37,4,"findings, the third section explores the impact of household debt on Thailand’s private consumption. The last section concludes and discusses further research. Figure A1.1. Thailand’s Private Consumption Growth and its Share to GDP Figure A1.2. Private Consumption Growth in ASEAN-5 Economies and Korea Source: AMRO staff calculations based on data from national authorities Source: AMRO staff calculations based on data from national authorities II. Connection between Consumption, Income and Financial Wealth",FALSE,normal
+37,5,"4. The relationship between households’ consumption behavior vis-à-vis disposable income and financial wealth are studied. According to the conventional theory of consumption, at each point of time, a household makes an intertemporal consumption decision depending on its lifetime income and net asset value. The baseline model in this study follows Muellbauer (2007), Estrada (2014) and Vihriälä (2017), whereby a change in household consumption is determined through current household earning, future income expectations, a change in net asset holding and real interest rate, as shown in equation [1]. Meanwhile, equation [2] shows an empirical model.",FALSE,normal
+37,6,"∆𝐶𝑡 = 𝑓[∆𝐶𝑡−1, ∆𝑌𝑡, ∆𝐸𝑡(𝑌 𝑒𝑥𝑝), ∆𝐴𝑡−1, 𝑟𝑡] [1]",FALSE,garbage
+37,7,∆𝑙𝑛 𝐶𝑖𝑡 = 𝛼𝑖 + ∆ 𝑙𝑛 𝐶𝑖𝑡−1 + 𝛽1 ∆ 𝑙𝑛 𝑌𝑖𝑡 + 𝛽2 ∆ 𝑙𝑛 𝑌𝑖𝑡 𝑒𝑥𝑝,FALSE,garbage
+37,8,+ 𝛽3 ∆𝑙𝑛 𝐴𝑖𝑡−1 + 𝛽4∆𝑟𝑖𝑡 + 𝜀𝑖𝑡 [2],FALSE,garbage
+37,9,"Where Ct refers to contemporaneous consumption, Ct-1 refers to contemporaneous consumption in the previous period (t-1), Yt refers to contemporaneous disposable income, Et(y exp) refers to future income expectations at time t, At-1 refers to net asset holding at the starting point of the period, and rt refers to an interest rate.",FALSE,normal
+37,10,"5. Equation [2] is tested by using national-level data on private consumption, disposable income and financial assets. This study explains Thailand’s private consumption from 200223 to 2016. The annual growth rate of quarterly real private consumption represents a change in household consumption. Meanwhile, national level data on disposable income is used for household earnings. Since disposable income data are published on an annual basis only, quarterly series were generated by quadratic interpolation. Expected future income is represented by the consumer confidence index related to future income. Households’ financial assets are represented by aggregated household saving and investment,24 as long historical",FALSE,normal
+37,11,"23 After the Thai economy recovered from the AFC. 24 Households’ saving and investment data are approximated and published by Thailand’s Association of Investment Management Companies. The data is on an annual basis and converted into a quarterly basis by quadratic interpolation. Households’ saving and investment are comprised of individuals’ deposits at financial institutions, and the net asset value of",FALSE,normal
+37,12,48,FALSE,garbage
+37,13,49,FALSE,garbage
+37,14,50,FALSE,garbage
+37,15,51,FALSE,garbage
+37,16,52,FALSE,garbage
+37,17,53,FALSE,garbage
+37,18,54,FALSE,garbage
+37,19,55,FALSE,garbage
+37,20,56,FALSE,garbage
+37,21,57,FALSE,garbage
+37,22,-12,FALSE,garbage
+37,23,-10,FALSE,garbage
+37,24,-8,FALSE,garbage
+37,25,-6,FALSE,garbage
+37,26,-4,FALSE,garbage
+37,27,-2,FALSE,garbage
+37,28,0,FALSE,garbage
+37,29,2,FALSE,garbage
+37,30,4,FALSE,garbage
+37,31,6,FALSE,garbage
+37,32,8,FALSE,garbage
+37,33,10,FALSE,garbage
+37,34,96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17,FALSE,garbage
+37,35,TH: Private Consumption TH: Private Consumption to GDP Ratio (RHS),FALSE,normal
+37,36,%yoy %,FALSE,garbage
+37,37,0,FALSE,garbage
+37,38,2,FALSE,garbage
+37,39,4,FALSE,garbage
+37,40,6,FALSE,garbage
+37,41,8,FALSE,garbage
+37,42,10,FALSE,garbage
+37,43,12,FALSE,garbage
+37,44,CN ID JP KR MY PH SG TH VN,FALSE,normal
+37,45,1996-2000 2001-2005 2006-2010 2011-2015 %yoy,FALSE,garbage
+37,46,NA,FALSE,empty
+38,1,NA,FALSE,empty
+38,2,Page 38 of 48,FALSE,page_footer
+38,3,NA,FALSE,empty
+38,4,"series of individual household data on net financial and non-financial assets are not publicly available. The interest rate refers to the Marginal Lending Rate, which is the local commercial banks’ benchmark lending interest rate for corporate borrowers. The study does not use the benchmark lending rate for the banks’ retail borrower to avoid multi-collinearity with other explanatory variables.",FALSE,normal
+38,5,"6. Weakening disposable income and negative real interest rate partially explain sluggish private consumption, while financial wealth has held up consumption growth. In Figure A1.3 and Table A1.1, the result of the baseline model indicates that disposable income, households’ accumulation of financial assets and real interest rate are key drivers of Thailand’s private consumption. A one ppt increase in disposable income could lead to 0.25 ppts increase in private consumption. As Thailand’s disposable income softened during 2012-2016 due to a prolonged period of slow economic recovery and severe drought in 2015-2016, it would have translated into sluggish private consumption. Meanwhile, a change in income expectations is unlikely to have a significant influence on Thai households’ consumption. With regard to real interest rates, a change in real interest rates has a negative influence on the growth of overall private consumption through two channels. First, for net saving households, an increase in real interest rates leads them to accumulate more financial assets and thus reduce consumption. Second, for net borrowing households, an increase in interest rates lends to tighter financial liquidity, which accordingly leads to a decline in consumption by them. Figure A1.3. Estimate Results of the Baseline Model Table A1.1. Estimates of Private Consumption Function Dependent variable: Private Consumption Growth",FALSE,normal
+38,6,NA,FALSE,empty
+38,7,"Source: AMRO staff estimates based on data from national authorities, the World Bank and Association of Investment Management Companies Note: *** p < 0.01, ** p < 0.05, * p< 0.1. Source: AMRO staff estimates based on data from national authorities, the World Bank and Association of Investment Management Companies III. Aging Population and Private Consumption",FALSE,normal
+38,8,"7. A cross-country analysis shows that aging population could be expected to weigh on private consumption. China, Hong Kong, Japan, Korea, Singapore and Thailand are among the rapidly aging economies in the region with senior populations – aged 65 years or more – accounting for more than 10 percent of the total population. Based on the experiences of other countries during 2011-2015, Figure A1.4 shows that the aging population was a drag on private consumption. When an economy has a higher dependency ratio, households’ final consumption expenditure is most likely to grow at a slower pace. In the region, growth rates of mutual funds excluding retirement mutual funds (RMF), RMF, provident funds, social security funds and government pension funds; private wealth funds; and life-insurance policy reserves.",FALSE,normal
+38,9,-5.0%,FALSE,garbage
+38,10,-2.5%,FALSE,garbage
+38,11,0.0%,FALSE,garbage
+38,12,2.5%,FALSE,garbage
+38,13,5.0%,FALSE,garbage
+38,14,7.5%,FALSE,garbage
+38,15,10.0%,FALSE,garbage
+38,16,12.5%,FALSE,garbage
+38,17,15.0%,FALSE,garbage
+38,18,Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3 Q1 Q3,FALSE,normal
+38,19,'07 '08 '09 '10 '11 '12 '13 '14 '15 '16,FALSE,garbage
+38,20,Others Real intererst rate Net financial assets in t-1 Disposable income Consumption growth in t-1 Consumption growth Methodology Model 1 [Baseline],FALSE,normal
+38,21,LS,FALSE,garbage
+38,22,Model 2 [Old Dependents],FALSE,normal
+38,23,LS,FALSE,garbage
+38,24,Model 3 [Population Growth],FALSE,normal
+38,25,LS,FALSE,garbage
+38,26,Coefficient Coefficient Coefficient,FALSE,normal
+38,27,C -0.001 0.034* -0.028***,FALSE,garbage
+38,28,Consumption growth in t-1 0.611*** 0.533*** 0.572*** Income growth 0.248*** 0.213*** 0.190** Change in income expectations 0.087 0.084 0.084* Financial asset growth in t-1 0.122** 0.164*** 0.113** Change in real interest rate -0.235*** -0.251*** -0.217*** Old dependency ratio -0.285* Senior population growth 0.467*** Working-age population growth 1.637*** Observations: 69 68 69 Adjusted R-squared: 0.707 0.711 0.767,FALSE,normal
+38,29,NA,FALSE,empty
+38,30,NA,FALSE,empty
+39,1,NA,FALSE,empty
+39,2,Page 39 of 48,FALSE,page_footer
+39,3,NA,FALSE,empty
+39,4,"household consumption have trended downward in Japan, Korea and Singapore since 1990, while these economies have rising old dependency ratios (Figure A1.5).",FALSE,normal
+39,5,"8. Although population aging in Thailand is not as serious as it is among its regional peers, a rapidly aging population has contributed to weaker expansion of private consumption. The share of the senior population increased from approximately 4.0 percent in 1970 to 11.0 percent in 2016. Thailand’s old-age dependency ratio was 15.3 percent in 2016, compared with 39.6 percent in Japan, 19.1 percent in Hong Kong, 17.9 percent in Singapore and 16.4 percent in Korea. In line with cross-country analysis, the result from Model [2] in Table A1.1 shows that a rising old-age dependency ratio is a negative driver of private consumption growth. Similarly, the result from Model [3] shows that the senior population has a smaller contribution to private consumption, compared with the working population. With an expanding senior population but declining working age population, overall private consumption growth is most likely to be softer than earlier. Figure A1.4. Private Consumption Growth and Old Dependency Ratio (International Perspective) Figure A1.5. Private Consumption Growth and Old Dependency Ratio (Regional Comparison) Note: This figure includes only economies with a share of senior population of above 10.0 percent of the total population. These economies are Albania, Argentina, Armenia, Australia, Austria, Belarus, Belgium, Bulgaria, Canada, Chile, China, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong SAR, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Mauritius, Moldova, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Russia, Serbia, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Thailand, United States, United Kingdom, Ukraine, Uruguay. Source: The World Bank; AMRO staff estimates IV. Impact of Household Debt",FALSE,normal
+39,6,"9. This study assesses the causality between rising indebtedness among Thai households and overall private consumption growth. Thailand’s household debt increased substantially in 2012, driven mainly by the first-car buyer incentive scheme. The household debt- to-GDP ratio rose from 59.3 percent in 2010 to an 80.8 percent peak in Q2 2015. Although it has since moderated, the debt level still remained high at 77.7 percent of GDP in Q1 2018. To analyze the relationship between household debt and private consumption, this study refers to Kang (2017), who pointed out that investigating the net effects of household debt on consumption and economic growth should be separated into flow effects and stock effects. The residuals of Model [2]25 with the old dependence ratio are regressed against a change in household borrowing at the start of and during the period (flow effect), and household debt level (stock effect) at the start of the period.",FALSE,normal
+39,7,"25 Household debt indicators are regressed on the residual of Model [2] in order to avoid multicollinearity between household debt and other explanatory variables such as financial assets and an interest rate. China Hong Kong, China Japan Korea Singapore Thailand",FALSE,normal
+39,8,y = -0.1247x + 0.0461,FALSE,garbage
+39,9,-6%,FALSE,garbage
+39,10,-4%,FALSE,garbage
+39,11,-2%,FALSE,garbage
+39,12,0%,FALSE,garbage
+39,13,2%,FALSE,garbage
+39,14,4%,FALSE,garbage
+39,15,6%,FALSE,garbage
+39,16,10% 15% 20% 25% 30% 35% 40%,FALSE,garbage
+39,17,Old dependency ratio (annual averagefrom 2011 to2015),FALSE,normal
+39,18,H o u,FALSE,garbage
+39,19,s e,FALSE,garbage
+39,20,h o,FALSE,garbage
+39,21,ld fi n,FALSE,normal
+39,22,a l c,FALSE,garbage
+39,23,o n,FALSE,garbage
+39,24,s u,FALSE,garbage
+39,25,m p,FALSE,garbage
+39,26,ti o,FALSE,garbage
+39,27,n g,FALSE,garbage
+39,28,ro w,FALSE,garbage
+39,29,th,FALSE,garbage
+39,30,(A n,FALSE,garbage
+39,31,n u,FALSE,garbage
+39,32,a l a,FALSE,garbage
+39,33,v e,FALSE,garbage
+39,34,ra g,FALSE,garbage
+39,35,e f ro,FALSE,garbage
+39,36,m 2,FALSE,garbage
+39,37,0 1,FALSE,garbage
+39,38,1 t o,FALSE,garbage
+39,39,2 0,FALSE,garbage
+39,40,1 5,FALSE,garbage
+39,41,),FALSE,empty
+39,42,0%,FALSE,garbage
+39,43,1%,FALSE,garbage
+39,44,2%,FALSE,garbage
+39,45,3%,FALSE,garbage
+39,46,4%,FALSE,garbage
+39,47,5%,FALSE,garbage
+39,48,6%,FALSE,garbage
+39,49,7%,FALSE,garbage
+39,50,8%,FALSE,garbage
+39,51,9%,FALSE,garbage
+39,52,0%,FALSE,garbage
+39,53,5%,FALSE,garbage
+39,54,10%,FALSE,garbage
+39,55,15%,FALSE,garbage
+39,56,20%,FALSE,garbage
+39,57,25%,FALSE,garbage
+39,58,30%,FALSE,garbage
+39,59,35%,FALSE,garbage
+39,60,40%,FALSE,garbage
+39,61,45% 9,FALSE,garbage
+39,62,0 -9,FALSE,garbage
+39,63,5,FALSE,garbage
+39,64,9 6,FALSE,garbage
+39,65,-0 0,FALSE,garbage
+39,66,0 1,FALSE,garbage
+39,67,-0 5,FALSE,garbage
+39,68,0 6,FALSE,garbage
+39,69,-1 0,FALSE,garbage
+39,70,1 1,FALSE,garbage
+39,71,-1 5,FALSE,garbage
+39,72,9 0,FALSE,garbage
+39,73,-9 5,FALSE,garbage
+39,74,9 6,FALSE,garbage
+39,75,-0 0,FALSE,garbage
+39,76,0 1,FALSE,garbage
+39,77,-0 5,FALSE,garbage
+39,78,0 6,FALSE,garbage
+39,79,-1 0,FALSE,garbage
+39,80,1 1,FALSE,garbage
+39,81,-1 5,FALSE,garbage
+39,82,9 0,FALSE,garbage
+39,83,-9 5,FALSE,garbage
+39,84,9 6,FALSE,garbage
+39,85,-0 0,FALSE,garbage
+39,86,0 1,FALSE,garbage
+39,87,-0 5,FALSE,garbage
+39,88,0 6,FALSE,garbage
+39,89,-1 0,FALSE,garbage
+39,90,1 1,FALSE,garbage
+39,91,-1 5,FALSE,garbage
+39,92,9 0,FALSE,garbage
+39,93,-9 5,FALSE,garbage
+39,94,9 6,FALSE,garbage
+39,95,-0 0,FALSE,garbage
+39,96,0 1,FALSE,garbage
+39,97,-0 5,FALSE,garbage
+39,98,0 6,FALSE,garbage
+39,99,-1 0,FALSE,garbage
+39,100,1 1,FALSE,garbage
+39,101,-1 5,FALSE,garbage
+39,102,JP KR SG TH Old dependecy ratio Household final consumption expenditure (RHS) %yoy,FALSE,normal
+39,103,NA,FALSE,empty
+40,1,NA,FALSE,empty
+40,2,Page 40 of 48,FALSE,page_footer
+40,3,NA,FALSE,empty
+40,4,"10. Increasing household borrowing could support households’ consumption expenditure in the short term, but it remains unclear whether a high stock of household debt can weigh on consumption in the medium term. Table A1.2 shows an intertemporal effect of household borrowing on private consumption. An increase (decrease) in household borrowing led to an increase (decrease) in private consumption in the same period but resulted in a decrease (increase) in private consumption in the following period. This could imply that Thai households borrowed to finance daily expenses. The rise in debt in a preceding period would drag consumption spending in the current period. Meanwhile, relationship between a high debt stock, represented by household debt-to-GDP ratio, and private consumption growth was not strong based on the model results (Table A1.2). Panel data relating to household debt-to- GDP ratios and private consumption growth of regional peers, do not exhibit an explicit correlation either (Figure A1.6). On the contrary, when Thailand’s private consumption growth is plotted against the household debt-to-GDP ratio, a negative relationship exists (Figure A1.7). Table A1.2. Estimate Residuals of Private Consumption Function Dependent variable: Residual of Model 2 (Old Dependence Ratio) Note: *** p < 0.01, ** p < 0.05, * p< 0.1. Source: AMRO staff estimates based on data from national authorities, the World Bank and Association of Investment Management Companies Figure A1.6. Private Consumption Growth and Household Debt to GDP Ratio (Regional Comparison) Figure A1.7. Private Consumption Growth and Household Debt to GDP Ratio (Thailand) Source: Bank for International Settlements; World Bank; AMRO staff calculations Note: The AFC period, Q3 1997-Q1 1999, and the massive flood, Q4 2011 and Q4 2012, were excluded Source: Bank for International Settlements; Office of National Economic and Social Development Board; AMRO staff calculations",FALSE,normal
+40,5,NA,FALSE,empty
+40,6,V. Conclusion,FALSE,normal
+40,7,"11. Our analysis suggests that, in addition to declining income, the aging population also contributed to sluggish growth in Thailand’s private consumption since 2014. The Methodology LS Coefficient",FALSE,normal
+40,8,C 0.008,FALSE,garbage
+40,9,Household debt growth in t 0.194** Household debt growth in t-1 -0.220* Household debt to GDP ratio in t-1 -0.048 (Household debt to GDP ratio in t-1)2 0.064 Observations: 68 Adjusted R-squared: 0.022,FALSE,normal
+40,10,NA,FALSE,empty
+40,11,-2,FALSE,garbage
+40,12,0,FALSE,garbage
+40,13,2,FALSE,garbage
+40,14,4,FALSE,garbage
+40,15,6,FALSE,garbage
+40,16,8,FALSE,garbage
+40,17,10,FALSE,garbage
+40,18,12,FALSE,garbage
+40,19,0,FALSE,garbage
+40,20,10,FALSE,garbage
+40,21,20,FALSE,garbage
+40,22,30,FALSE,garbage
+40,23,40,FALSE,garbage
+40,24,50,FALSE,garbage
+40,25,60,FALSE,garbage
+40,26,70,FALSE,garbage
+40,27,80,FALSE,garbage
+40,28,90,FALSE,garbage
+40,29,100,FALSE,garbage
+40,30,2 0,FALSE,garbage
+40,31,0 7,FALSE,garbage
+40,32,2 0,FALSE,garbage
+40,33,0 9,FALSE,garbage
+40,34,2 0,FALSE,garbage
+40,35,1 1,FALSE,garbage
+40,36,2 0,FALSE,garbage
+40,37,1 3,FALSE,garbage
+40,38,2 0,FALSE,garbage
+40,39,1 5,FALSE,garbage
+40,40,2 0,FALSE,garbage
+40,41,0 7,FALSE,garbage
+40,42,2 0,FALSE,garbage
+40,43,0 9,FALSE,garbage
+40,44,2 0,FALSE,garbage
+40,45,1 1,FALSE,garbage
+40,46,2 0,FALSE,garbage
+40,47,1 3,FALSE,garbage
+40,48,2 0,FALSE,garbage
+40,49,1 5,FALSE,garbage
+40,50,2 0,FALSE,garbage
+40,51,0 7,FALSE,garbage
+40,52,2 0,FALSE,garbage
+40,53,0 9,FALSE,garbage
+40,54,2 0,FALSE,garbage
+40,55,1 1,FALSE,garbage
+40,56,2 0,FALSE,garbage
+40,57,1 3,FALSE,garbage
+40,58,2 0,FALSE,garbage
+40,59,1 5,FALSE,garbage
+40,60,2 0,FALSE,garbage
+40,61,0 7,FALSE,garbage
+40,62,2 0,FALSE,garbage
+40,63,0 9,FALSE,garbage
+40,64,2 0,FALSE,garbage
+40,65,1 1,FALSE,garbage
+40,66,2 0,FALSE,garbage
+40,67,1 3,FALSE,garbage
+40,68,2 0,FALSE,garbage
+40,69,1 5,FALSE,garbage
+40,70,2 0,FALSE,garbage
+40,71,0 7,FALSE,garbage
+40,72,2 0,FALSE,garbage
+40,73,0 9,FALSE,garbage
+40,74,2 0,FALSE,garbage
+40,75,1 1,FALSE,garbage
+40,76,2 0,FALSE,garbage
+40,77,1 3,FALSE,garbage
+40,78,2 0,FALSE,garbage
+40,79,1 5,FALSE,garbage
+40,80,JP KR MY SG TH Household debt to GDP Household f inal consumption exp (RHS),FALSE,normal
+40,81,% %yoy,FALSE,garbage
+40,82,y = -0.1262x + 0.105,FALSE,garbage
+40,83,-6%,FALSE,garbage
+40,84,-4%,FALSE,garbage
+40,85,-2%,FALSE,garbage
+40,86,0%,FALSE,garbage
+40,87,2%,FALSE,garbage
+40,88,4%,FALSE,garbage
+40,89,6%,FALSE,garbage
+40,90,8%,FALSE,garbage
+40,91,10%,FALSE,garbage
+40,92,12%,FALSE,garbage
+40,93,30% 35% 40% 45% 50% 55% 60% 65% 70% 75%,FALSE,garbage
+40,94,R e a l,FALSE,garbage
+40,95,p ri,FALSE,garbage
+40,96,v a te,FALSE,garbage
+40,97,c o n s u m p ti o n in,FALSE,normal
+40,98,t (,FALSE,garbage
+40,99,% y o y ),FALSE,garbage
+40,100,Household debt ot GDP ratio in t-1,FALSE,normal
+40,101,NA,FALSE,empty
+41,1,NA,FALSE,empty
+41,2,Page 41 of 48,FALSE,page_footer
+41,3,NA,FALSE,empty
+41,4,"slow growth of private consumption was explained by subdued economic activities in 2014-2015. Rising concerns over an aging population, an expanding senior population and declining working age population all contributed to the slow recovery in private consumption since 2014, compared with the periods after the AFC and GFC. Meanwhile, this study shows that Thai households rely on debt to finance their consumption expenditure but the dragging effects of high household indebtedness on private consumption growth, at the aggregate national level, remain unclear.",FALSE,normal
+41,5,"12. Provided that micro-level data of Thai households is available, spending behavior of individual or grouped households could be assessed in order to study the impact of other possible drivers such as income inequality and debt service burden. Households’ spending behavior always varies across income levels. Similarly, a different level of debt and financial liquidity condition can also lead to different consumption patterns. Although this study did not find a strong relationship between high household debt stock and private consumption growth at the macro level, this relationship should be further explored at the individual household level. Considering the ongoing demographic change, an aging society does not always weigh on aggregate private consumption but does lead to a change in consumption behavior and structure. Therefore, to better understand the aging dynamic, more granular analysis separated by age level of households and products consumed should be undertaken. References Estrada, A., Garrote, D., Valdeolivas, E., and Vallés, J. 2014. “Household Debt and Uncertainty: Private Consumption after the Great Recession.” Banco de España Working Paper No. 1415. Banco de España, Marid. Guo, K., and N’Diaye. P. 2010. “Determinants of China’s Private Consumption: An International Perspective.”, IMF Working Paper No. WP/10/93, International Monetary Fund, Washington, DC. Kang, J. 2017. “The Effects of Household Debt on Consumption and Economic Growth – Based on Flow and Stock Effects Approach.” Bank of Korea, Seoul. (Available in Korean only) Larionova, N., and Varlamova. 2015. “Macroeconomic and Demographic Determinants of Household Expenditures in OECD Countries.”, Kazan Federal University. Muellbauer, John N. 2007. “Housing, Credit and Consumer Expenditure.” in Housing, Housing Finance and Monetary Policy, pp. 267-334, Federal Reserve Bank of Kansas City. Vihriälä, E. 2017. “Household Consumption in Japan – Role of Income and Asset Developments.”, IMF Working Paper No. WP/17/23, International Monetary Fund, Washington, DC.",FALSE,normal
+41,6,NA,FALSE,empty
+41,7,NA,FALSE,empty
+42,1,NA,FALSE,empty
+42,2,Page 42 of 48,FALSE,page_footer
+42,3,NA,FALSE,empty
+42,4,2. Why has Thailand’s Tourism Industry Been Successful?,FALSE,normal
+42,5,A.1 Overview,FALSE,normal
+42,6,"1. Thailand has been widely regarded as one of the world’s top tourist destinations for many years now. Although Thailand has obvious competition from its neighboring countries in terms of geographical and weather conditions, it is still the most visited country in the ASEAN+3 region (Table A.1.1). This study examines why Thailand tourism has so successful and discuss related policy issues. Table A1.1. ASEAN+3 International Tourist Arrivals",FALSE,normal
+42,7,NA,FALSE,empty
+42,8,NA,FALSE,empty
+42,9,Number of Arrival (1000 persons) Change (%) Share (%),FALSE,normal
+42,10,2015 2016 2017 16/15 17/16 2017,FALSE,garbage
+42,11,"Thailand 29,923 32,530 35,381 8.71 8.77 16.87",FALSE,normal
+42,12,"China 25,985 28,151 29,170 8.33 3.62 13.91",FALSE,garbage
+42,13,"Japan 19,737 24,040 28,691 21.80 19.35 13.68",FALSE,garbage
+42,14,"Malaysia 25,721 26,757 25,948 4.03 -3.02 12.37 Singapore 15,231 16,404 17,425 7.70 6.22 8.31 Hong Kong, China 13,465 13,877 14,027 3.06 1.08 6.69 Indonesia 10,407 11,519 13,914 10.69 20.79 6.63",FALSE,normal
+42,15,"Korea 12,961 16,965 13,066 30.89 -22.98 6.23",FALSE,garbage
+42,16,"Vietnam 7,944 10,013 12,922 26.05 29.06 6.16",FALSE,garbage
+42,17,"Philippines 5,361 5,967 6,621 11.31 10.96 3.16 Cambodia 4,775 5,012 5,602 4.95 11.78 2.67",FALSE,normal
+42,18,"Laos 4,684 4,239 3,869 -9.51 -8.73 1.84",FALSE,garbage
+42,19,"Myanmar 3,443 4,279 3,079 24.28 -28.04 1.47 Brunei 218 219 - 0.3 - - (1) Tourist arrival share as a percentage of total ASEAN+3 tourist arrivals (2) Data as collected by July 2018 Source: CEIC; AMRO staff calculations",FALSE,normal
+42,20,A.2 Stylized Facts,FALSE,normal
+42,21,A.2.1 Trends in Thai Tourism,FALSE,normal
+42,22,"2. Tourism growth in Thailand has accelerated in the past decade. According to Thailand’s Ministry of Tourism and Sports, the number of tourist arrivals in Thailand has increased significantly since 2010, with an average growth of 12.5 percent per annum, compared to 5.9 percent per annum growth in the previous decade (1999-2009). Although the 2004 tsunami and the 2008 GFC adversely impacted international tourism demand at different points in time, the broader trend has been positive and Thailand has seen an exponential growth in the number of tourist arrivals in recent years, supported by changes in visa policy in the ASEAN region (Figure A.2.1). This strong momentum is expected to continue in 2018, reflected in both higher tourist arrivals and tourism revenue.",FALSE,normal
+42,23,NA,FALSE,empty
+42,24,"3. In 2017, United Nation’s World Tourism Organization (UNWTO) ranked Thailand as the world’s ninth most visited country in the world, underscoring the huge potential of tourism for Thailand in terms of income and employment opportunities. Tourism",FALSE,normal
+42,25,NA,FALSE,empty
+43,1,NA,FALSE,empty
+43,2,Page 43 of 48,FALSE,page_footer
+43,3,NA,FALSE,empty
+43,4,"boosts many related businesses and helps compensate for weak growth in other sectors. Broadly speaking, there are three tourism-related sectors, namely hotels and restaurants, wholesale and retail trade, and transportation and communications. According to the World Travel and Tourism Council, travel and tourism contributed 20.6 percent to Thailand’s GDP in 2016 (USD82.5 billion) and 15.1 percent of total employment (5,739,000 jobs). Its projections suggest that tourism will continue to play an important role in Thailand’s long-term growth, expanding by 6.5 percent per annum to contribute 31.7 percent of GDP in 2027 (USD169.9 billion) and increasing employment by 4.6 percent per annum to 9,599,000 jobs over the same period (24.9 percent of total employment). Figure A2.1. Thailand Tourist Arrivals (Excluding Returning Thais Residing Overseas) Source: AMRO staff calculations",FALSE,normal
+43,5,NA,FALSE,empty
+43,6,A.2.2 The Importance of Intra-regional Tourism,FALSE,normal
+43,7,"4. After the GFC, inbound tourism into Thailand witnessed a distinct shift from European tourists to tourists from China and ASEAN neighbors, highlighting the growing importance of intra-regional tourism (Figure A2.1). The number of Chinese tourists visiting Thailand has increased substantially, and now exceeds the total from both Europe and the United States tourists. UNWTO and ILO (2013) observed that international tourism demand from countries with strong links to European and North American tourists were the most negatively affected after the GFC. That said, according to Thailand’s Ministry of Tourism and Sports, in 2017 the European segment still contributes to more than 18.4 percent of tourism expenditure in Thailand, compared to around 27.7 percent from Chinese tourists.",FALSE,normal
+43,8,NA,FALSE,empty
+43,9,"5. ASEAN visa exemptions appear to have been instrumental in increasing intra- regional tourism to Thailand and other ASEAN countries. ASEAN tourists have become the second largest inbound tourist group in Thailand, while ASEAN+3 members contribute to around 60 percent of total tourist arrivals. The revenue intake from these visitors is also roughly proportional to their numbers. Despite only the shorter-term Visa on Arrival (VOA) available to Chinese tourists, they represent the largest group of visitors to Thailand. This Thailand-China strong connection is also shown in the tourism network (Figure A2.2).",FALSE,normal
+43,10,"-3,000",FALSE,garbage
+43,11,"2,000",FALSE,garbage
+43,12,"7,000",FALSE,garbage
+43,13,"12,000",FALSE,garbage
+43,14,"17,000",FALSE,garbage
+43,15,"22,000",FALSE,garbage
+43,16,"27,000",FALSE,garbage
+43,17,"32,000",FALSE,garbage
+43,18,"37,000",FALSE,garbage
+43,19,P e rs,FALSE,garbage
+43,20,o n (,FALSE,garbage
+43,21,"th o u s a n d ) China ASEAN Europe Others Korea Japan USA Hong Kong, China Australia Total",FALSE,normal
+43,22,26 Dec ‘04 Tsunami,FALSE,normal
+43,23,GFC,FALSE,garbage
+43,24,NA,FALSE,empty
+43,25,AFC,FALSE,garbage
+43,26,NA,FALSE,empty
+44,1,NA,FALSE,empty
+44,2,Page 44 of 48,FALSE,page_footer
+44,3,NA,FALSE,empty
+44,4,"Moreover, Thailand could further enhance its potential as a regional hub for tourism going forward. Figure A2.2. Network of Tourist Arrivals in ASEAN+3",FALSE,normal
+44,5,NA,FALSE,empty
+44,6,NA,FALSE,empty
+44,7,Note: Tourist arrivals are total of inbound and outbound tourism Source: CEIC; AMRO staff calculations,FALSE,normal
+44,8,A.2.3 Factor that Contributed to Success of Thailand Tourism,FALSE,normal
+44,9,"6. Tourism in Thailand has benefitted from both the demand and supply sides. It is known as a developed tourism market that is supported by its hospitality, infrastructure, affordable accommodation and variety of attractions, most notably its beautiful beaches, temples and palaces, historical sites, eco-attractions and cuisine. The lenient visa policies also makes Thailand an attractive destination for tourists who want to stay either short- or long- term. In addition, Thailand has likely benefitted from a relatively stable exchange rate. Previous research has shown that the exchange rate is the most significant determinant of the long-run tourism demand (Webber, 2001; Dweyer et al, 2002). Stronger exchange rates tend to be negatively correlated with international tourism arrivals.",FALSE,normal
+44,10,NA,FALSE,empty
+44,11,"7. Previous research suggests that an increase in the world GDP per capita, depreciation of the national currency, and declines in relative domestic prices help boost tourism demand. Martins et al (2017) examine the relationship between macroeconomic variables and tourism demand as measured by the number of tourist arrivals and their expenditure, using an unbalanced panel of 218 countries over the period 1995 - 2012. They find that world GDP per capita is more important in explaining arrivals, but relative prices are more important when expenditures are used as a proxy for tourism demand. Separately, Khadaker and Islam (2017) found that exchange rate played a vital role in tourism demand and an appreciation of a currency was negatively correlated with international tourism arrivals.",FALSE,normal
+44,12,NA,FALSE,empty
+45,1,NA,FALSE,empty
+45,2,Page 45 of 48,FALSE,page_footer
+45,3,NA,FALSE,empty
+45,4,A.3 Empirical Test for Determinants of Tourism,FALSE,normal
+45,5,"8. Our model builds on existing ones and incorporates features relevant to tourism in Thailand. We use annual data from 1995 to 2017 to estimate tourism demand using explanatory variables such as changes in real income per capita, the real exchange rate, improvements to transportation and communications infrastructure, cross-regional demand and income levels of tourists, such that:",FALSE,normal
+45,6,"ln 𝑇𝑐,𝑡 = 𝛽1 ln 𝑌𝑐,𝑡 + 𝛽2𝑅_𝐸𝑋𝑅𝐴𝑇𝐸𝑐,𝑡 + 𝛽3 𝐼𝑛𝑡𝑒𝑟𝑛𝑒𝑡𝑐,𝑡 + 𝛽4 𝐴𝑖𝑟 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡𝑐,𝑡 + 𝐷𝑢𝑚𝑚𝑦 𝑅𝑒𝑔𝑖𝑜𝑛𝑐,𝑡 + 𝐷𝑢𝑚𝑚𝑦 𝐼𝑛𝑐𝑜𝑚𝑒𝑐,𝑡 + 𝜖𝑐,𝑡",FALSE,garbage
+45,7,NA,FALSE,empty
+45,8,"where: 𝑇𝑐,𝑡 = Tourist arrivals in Thailand from individual countries each",FALSE,normal
+45,9,year,FALSE,garbage
+45,10,"𝑌𝑐,𝑡 = Real GDP per capita of tourist origin countries 𝑅_𝐸𝑋𝑅𝐴𝑇𝐸𝑐,𝑡 = Real exchange rate of origin countries to Thai Bath 𝐼𝑛𝑡𝑒𝑟𝑛𝑒𝑡𝑐,𝑡 = Internet penetration (internet users per total population, %) 𝐴𝑖𝑟 𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡𝑐,𝑡 = Registered Carrier Departures Worldwide (in millions) 𝐷𝑢𝑚𝑚𝑦 𝑅𝑒𝑔𝑖𝑜𝑛𝑐,𝑡 = Dummy for nine regional groups 𝐷𝑢𝑚𝑚𝑦 𝐼𝑛𝑐𝑜𝑚𝑒𝑐,𝑡 = Dummy for three income groups",FALSE,normal
+45,11,NA,FALSE,empty
+45,12,"9. The results suggest that strong global demand and relatively good infrastructure have been the driving factors for the expansion of Thailand tourism and that there is significant potential for the Thai tourism sector to continue as a driver of economic activity in Thailand. Consistent with the literature, increases in origin countries’ real GDP per capita are important for tourist arrivals (Table A3.2). However, price competitiveness is not a significant driver of tourism in the model. This could be related to the fact that inflation has been quite subdued both in Thailand and globally, and Thai Baht exchange rate has been relatively stable. Improvements infrastructure, such as air transportation, has boosted the number of tourist arrivals but internet penetration has not played an important role.",FALSE,normal
+45,13,NA,FALSE,empty
+45,14,NA,FALSE,empty
+45,15,NA,FALSE,empty
+46,1,NA,FALSE,empty
+46,2,Page 46 of 48,FALSE,page_footer
+46,3,NA,FALSE,empty
+46,4,Table A3.1 Description of Panel Data on Thailand Tourism,FALSE,normal
+46,5,NA,FALSE,empty
+46,6,Sample period  1995 to 2017 Sample economies based on region,FALSE,normal
+46,7," East Asia: China, Korea, Japan, Hong Kong, Taiwan",FALSE,normal
+46,8," South Asia: India, Bangladesh, Pakistan, Sri Lanka, Nepal",FALSE,normal
+46,9," ASEAN: Malaysia, Laos, Singapore, Vietnam, Cambodia, Indonesia, Philippines, Myanmar, Brunei",FALSE,normal
+46,10," Europe: Russia, U.K., Germany, France, Sweden, Italy, Netherlands, Switzerland, Spain, Denmark, Finland, Norway, Belgium, Austria",FALSE,normal
+46,11," The Americas: U.S., Canada, Brazil, Argentina",FALSE,normal
+46,12, Africa: South Africa,FALSE,normal
+46,13," Middle East: Israel, U.A.E., Kuwait, Saudi Arabia, Egypt",FALSE,normal
+46,14," Oceania: Australia, New Zealand Sample economies based on income (1)",FALSE,normal
+46,15, Low Income: Nepal,FALSE,normal
+46,16," Lower Middle Income: Laos, India, Vietnam, Cambodia, Indonesia, Philippines, Myanmar, Bangladesh, Pakistan, Sri Lanka, Egypt",FALSE,normal
+46,17," Upper Middle Income: China, Malaysia, Russia, East Europe, South Africa, Brazil",FALSE,normal
+46,18," High Income: Korea, Japan, U.S., Singapore, U.K., Germany, Hong Kong, Australia, France, Taiwan, Sweden, Italy, Canada, Netherlands, Switzerland, Spain, Israel, Denmark, Finland, U.A.E., Norway, New Zealand, Belgium, Austria, Kuwait, Argentina, Saudi Arabia, Brunei Frequency  Annually Variables  International tourist arrivals to Thailand",FALSE,normal
+46,19, GDP per capita,FALSE,normal
+46,20, Real exchange rates (Indexed 2010=100),FALSE,normal
+46,21, Internet penetration (individuals using the internet as a percentage of the population),FALSE,normal
+46,22, Air transportation infrastructure Data source  National authorities,FALSE,normal
+46,23, CEIC Data,FALSE,normal
+46,24, World Bank Notes: (1) World Bank new country classifications by income level: 2017-2018 (2) The calculation will merge low income countries and the lower middle-income group,FALSE,normal
+46,25,NA,FALSE,empty
+46,26,NA,FALSE,empty
+46,27,"10. ASEAN countries (the constant term in the regression) in the lower-income bracket have contributed significantly to the increase in tourist flows into Thailand but selected underserved groups offer potential for further growth. Specifically, tourists from South Asia (India, Pakistan, and Bangladesh) have fallen significantly by comparison, as have visitors from higher income countries. On the other hand, the growth in tourism from other regions is not significantly different from the growth in the number of tourists from their ASEAN counterparts.",FALSE,normal
+46,28,NA,FALSE,empty
+47,1,NA,FALSE,empty
+47,2,Page 47 of 48,FALSE,page_footer
+47,3,NA,FALSE,empty
+47,4,Table A3.2. Estimates of Tourism Demand in Thailand Independent Variable Coefficient (Standard error) Coefficient (Standard error) GDP per capita 0.189744*** (0.050525),FALSE,normal
+47,5,0.162328*** (0.050933),FALSE,garbage
+47,6,Real Exchange Rate 0.008293 (0.031023),FALSE,normal
+47,7,0.016902 (0.030886),FALSE,garbage
+47,8,Internet -0.003852 (0.002840),FALSE,normal
+47,9,-0.004428 (0.002821),FALSE,garbage
+47,10,Air Transportation 0.905293*** (0.245683),FALSE,normal
+47,11,0.894314*** (0.243738),FALSE,garbage
+47,12,East Asia (EA) -0.008923 (0.025258) South Asia (SA) -0.077782*** (0.022909) Europe (EUR) 0.003010 (0.022097) Americas (AM) 0.010253 (0.027551) African (AF) -0.051509 (0.043482) Middle East (ME) 0.012064 (0.023967) Oceania (OC) 0.001295 (0.032556) Upper Middle Income (UMI) -0.015209 (0.027617) Higher Income (HI) -0.068636*** (0.023532),FALSE,normal
+47,13,C 0.058836*** (0.008983),FALSE,garbage
+47,14,0.115217*** (0.018227),FALSE,garbage
+47,15,"Note: *** p < 0.01, ** p < 0.05, * p< 0.1. Source: AMRO staff estimates based on data from CEIC",FALSE,normal
+47,16,NA,FALSE,empty
+47,17,A.4 Policy Implications and Discussion,FALSE,normal
+47,18,"11. The significance of air transportation shows the importance of infrastructure in helping Thailand to become the next regional hub. Although the World Travel and Tourism Council (2017) shows that Thailand has better air service infrastructure compared to other countries in the Asia-Pacific region, its international airport capacity and quality are still behind regional leaders, such as Hong Kong and Singapore26. This is important because 81.8 percent of total tourists into Thailand use air transportation, while 16.0 percent use land transport and 2.3 percent sea transport. The government should continue building and expanding airports and promoting land border as another important point of entry, especially to attract short-visit tourists from neighboring countries. Moreover, the future expansion could also consider potential travel segments that have yet to become popular such as river tourism. This expansion strategy on infrastructure would support their Secondary City Strategies (which includes 55 provinces that are now popular to foreigners) and attract business opportunities for foreign investors.",FALSE,normal
+47,19,NA,FALSE,empty
+47,20,"12. Since the exchange rate does not have a significant impact on tourism, it may be more important to emphasize quality of services rather than price. This gives an opportunity to Thai authorities to make improvements in areas where tourists spend most of their money and strengthen competitiveness in quality in terms of targeting more high value added tourism which will continue to grow. Figure A.4.1 shows the changes in the behavior",FALSE,normal
+47,21,26 The Ministry of Tourism and Sports Thailand. 2017. The Second Thailand National Tourism Development Plan (2017 - 2021).,FALSE,normal
+47,22,NA,FALSE,empty
+48,1,NA,FALSE,empty
+48,2,Page 48 of 48,FALSE,page_footer
+48,3,NA,FALSE,empty
+48,4,"of tourist spending from 2009 to 2016 – people tend to spend more on accommodation than entertainment, while shopping is also a key attraction for those visiting Thailand. It is backed by the sharp increase in Northeast Asian and Southeast Asian upper and middle classes in the past few years which has made Thailand the center of shopping for luxury products.",FALSE,normal
+48,5,NA,FALSE,empty
+48,6,"13. Finally, the significance of regional tourism should make Thailand leverage on greater collaboration among governments in the region in the interest of promoting the tourism industry. Thailand has already positioned itself as the leader in the intraregional tourism sector, therefore it can differentiate the attractions that target high end segments such as cultural tourism, Sea Sun Sand tourism, and medical tourism, especially in second-tier cities and local community areas. Figure A4.1 Thailand Tourism Revenue Based on Sector Source: CEIC",FALSE,normal
+48,7,NA,FALSE,empty
+48,8,"References Dwyer, L., Forsyth, P., Rao, P. (2002). Destination Price Competitiveness: Exchange Rate Changes versus Domestic Inflation. Journal of Travel Research, 40, 328-336. John Walsh and Pawanatachavimol (2007). Chinese Tourism in Thailand: Experiences and Satisfaction. ASEAN Journal on Hospitality and Tourism. Khandaker S, and Islam, S. 2017. International Tourism and Macroeconomic Factors. International Journal of Economics and Financial Issues. Martins, Luis F, Gan, Yi, and, Ferreira-Lopes, A. 2017. An Empirical Analysis of the Influence of Macroeconomic Determinants on World Tourism Demand. Tourism Management. UNWTO and ILO. 2013. Economic Crisis, International Tourism Decline and Its Impact on the",FALSE,normal
+48,9,Poor.,FALSE,garbage
+48,10,"UNWTO Tourism Highlights. 2017. Vora-Sittha, P. 2017. Economic Impact of Tourism Accommodation: Thailand. Asian Social Science. Webber, A. (2001), Exchange Rate Volatility and Cointegration in Tourism Demand. Journal of Travel Research, 39, 398-405. World Travel and Tourism Council (WTTC). 2017. Travel and Tourism Economic Impact: Thailand.",FALSE,normal
+48,11,NA,FALSE,empty
+48,12,0,FALSE,garbage
+48,13,5,FALSE,garbage
+48,14,10,FALSE,garbage
+48,15,15,FALSE,garbage
+48,16,20,FALSE,garbage
+48,17,25,FALSE,garbage
+48,18,30,FALSE,garbage
+48,19,35,FALSE,garbage
+48,20,Accomodation Shopping Food and Beverage Local Transport Entertainment Sightseeing Miscellaneous Medical Care,FALSE,normal
+48,21,P e rc,FALSE,garbage
+48,22,e n t,FALSE,garbage
+48,23,o f,FALSE,garbage
+48,24,to ta,FALSE,garbage
+48,25,l re,FALSE,garbage
+48,26,v e n u e (,FALSE,normal
+48,27,% ),FALSE,empty
+48,28,2009 2016,FALSE,garbage
+48,29,NA,FALSE,empty
