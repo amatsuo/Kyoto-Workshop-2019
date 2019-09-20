@@ -1,0 +1,122 @@
+---
+title: "テキスト分析ワークショップ"
+subtitle: "導入と政治学・国際関係論への応用"
+author: "Akitaka Matsuo (松尾 晃孝)"
+institute: "Institute for Data Science and Analytics, University of Essex"
+date: "2019/9/1 (updated: `r Sys.Date()`)"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    smaller: true
+    
+---
+
+
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+
+
+## 自己紹介
+
+- 松尾晃孝 (Akitaka Matsuo)
+- Postdoctraol Fellow at Institute for Data Science and Analytics (IADS) and Department of Government, University of Essex
+- quanteda develope team member
+    - core developer of [spacyr](https://spacyr.quanteda.io/)
+- 専門: 政治学方法論、テキスト分析、議会政治、比較政治
+- web: 
+    - website: https://amatsuo.net
+    - github: https://github.com/amatsuo
+
+
+## 自己紹介
+
+- 名前
+- 所属
+- テキスト分析への関心
+    - 経験
+    - 使いたいデータ
+
+## 今日の予定
+
+1. 自己紹介
+1. 必要なソフトウェアのインストール
+1. データをRに読み込む
+2. Rデータをquanteda形式へと変換する
+3. quantedaでテキスト分析: 記述統計
+4. quantedaでテキスト分析: モデルを使って分析
+5. （Optional 1) word embeddingモデルの推定と利用
+6. （Optional 2）pdfをテキストデータに変換する
+
+
+
+## 必要なソフトウェアのインストール
+
+
+
+-	R, RStudio (https://qiita.com/hujuu/items/ddd66ae8e6f3f989f2c0)
+- r-packages
+    - tidyverse
+    - quanteda (https://quanteda.io/articles/pkgdown/quickstart_ja.html)
+
+
+## 必要なソフトウェアのインストール
+
+1. R: 統計分析ソフトウェア
+2. RStudio: 
+    - Rを使うための統合開発環境
+    - 事実上のスタンダード
+
+
+## 必要なパッケージ
+
+1. tidyverse
+    - https://www.tidyverse.org/
+    - "The tidyverse is an opinionated collection of R packages designed for data science."
+    - インストールコマンド
+        ```{r eval=FALSE}
+        install.packages("tidyverse")
+        ```
+2. quanteda
+    - テキスト分析を統合的に行うためのRパッケージ
+    - インストールコマンド
+        ```{r eval=FALSE}
+        install.packages("quanteda")
+        ```
+        
+## テキストデータをRに読み込む
+
+まず必要なパッケージをロードする
+
+```{r message=FALSE}
+library(tidyverse)
+```
+
+データおよびスライドのダウンロード
+
+- このワークショップで使うファイルは、すべてこのgithubのリポジトリにまとめてある
+    https://github.com/amatsuo/Kyoto-Workshop-2019
+- RStudioでプロジェクトiconをクリック
+    - [New Project]->[Version Control]->URLを入力
+
+
+
+## テキストデータをRに読み込む
+
+
+```{r}
+library(tidyverse)
+```
+
+
+
+
+## Rデータをquanteda形式へと変換する
+
+
+
+
+
