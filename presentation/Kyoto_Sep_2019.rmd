@@ -50,6 +50,7 @@ opts_knit$set(root.dir = "..")
 2. Rデータをquanteda形式へと変換する
 3. quantedaでテキスト分析: 記述統計
 4. quantedaでテキスト分析: モデルを使って分析
+1. (おまけ) Word vectorの推定
 
 
 
@@ -596,5 +597,64 @@ coefs <- coefficients(model_wf)$features %>%
   as.data.frame() %>% rownames_to_column(var = "feature") %>%
   mutate_at(2:3, round, digits = 3) %>% arrange(-beta)
 datatable(coefs)
+```
+
+
+## おまけ: word vector training
+
+Word embedding (word vector)は、最近よく使われるメソッドで、文脈の分析から単語をベクトルに落とし込む。このベクトルが多次元空間での意味を構成し、類似語を探したり、ベクトルの加算・減算で単語間の関係を探索したりできる。
+
+**King - Man + Women = ?**
+
+レビューペーパー:
+
+- Spirling, A., & Rodriguez, P. L. (2019). Word Embeddings: What works, what doesn’t, and how to tell the difference for applied research, 1–51.
+
+政治学や社会科学への応用例の代表的なものは:
+
+- Rheault, L., & Cochrane, C. (2019). Word Embeddings for the Analysis of Ideological Placement in Parliamentary Corpora. *Political Analysis*, 1–22. 
+- Rodman, E. (2019). A Timely Intervention: Tracking the Changing Meanings of Political Concepts with Word Vectors. *Political Analysis*, 1–25.
+- Garg, N., Schiebinger, L., Jurafsky, D., & Zou, J. (2018). Word embeddings quantify 100 years of gender and ethnic stereotypes. *Proceedings of the National Academy of Sciences*, *115*(16), E3635–E3644. 
+
+## gloveの推定
+
+我々のコーパスを使って、Gloveを推定してみる。通常は百万単位の文書がないと、うまく動かない事が多いとされているので、今回の結果の信頼性は明らかではない。
+
+```{r}
+# tokensの最終形をテキストに戻す
+data_text <- data_tokens_final %>% lapply(paste, collapse = " ") %>% 
+  lapply(stri_trans_tolower) %>% # 小文字に変換
+  unlist()
+
+# https://cran.rstudio.com/web/packages/text2vec/vignettes/glove.htmlを参考
+# だた、色々動かないので注意
+library(text2vec)
+
+tokens <- space_tokenizer(data_text)
+it = itoken(tokens, progressbar = FALSE)
+vocab <- create_vocabulary(it)
+vocab <- prune_vocabulary(vocab, term_count_min = 5L)
+vectorizer <- vocab_vectorizer(vocab)
+tcm <- create_tcm(it, vectorizer, skip_grams_window = 5L)
+
+glove <- GlobalVectors$new(word_vectors_size = 50, 
+                           vocabulary = vocab,
+                           x_max = 10)
+glove$fit_transform(tcm, n_iter = 50)
+word_vectors <- glove$components %>% t
+```
+
+## 類似語チェック
+```{r}
+words <- c("currency", "inflation", "growth", "investment")
+
+for (wd in words) { 
+  cos_sim <- sim2(x = word_vectors, 
+                  y = word_vectors[wd, , drop = FALSE], 
+                  method = "cosine", norm = "l2")
+cat("Base:", wd, "\n")
+print(sort(cos_sim[,1], decreasing = TRUE)[2:6])
+cat("\n")
+}
 ```
 
