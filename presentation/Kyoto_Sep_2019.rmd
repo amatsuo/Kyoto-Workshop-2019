@@ -3,12 +3,12 @@ title: "テキスト分析ワークショップ"
 subtitle: "導入と政治学・国際関係論への応用"
 author: "Akitaka Matsuo (松尾 晃孝)"
 institute: "Institute for Data Science and Analytics, University of Essex"
-date: "2019/9/1 (updated: `r Sys.Date()`)"
+date: "2019-9-1 (updated: `r Sys.Date()`)"
 output: 
   ioslides_presentation:
     smaller: true
     widescreen: true
-    
+    transition: faster
 ---
 
 
@@ -65,6 +65,7 @@ opts_knit$set(root.dir = "..")
     - caret (machine learning utility)
     - e1071 (confusionMatrix function)
     - DT (html table generation)
+    - text2vec (word embedding)
 
 
 ## 必要なソフトウェアのインストール
@@ -74,6 +75,25 @@ opts_knit$set(root.dir = "..")
     - Rを使うための統合開発環境
     - 事実上のスタンダード
 
+
+## データおよびスライドのダウンロード
+
+- このワークショップで使うファイルは、すべてこのgithubのリポジトリにまとめてある
+    https://github.com/amatsuo/Kyoto-Workshop-2019
+- RStudioでプロジェクトiconをクリック
+    - [New Project]->[Version Control]->[Git]
+    - 上記のURLを入力
+- これでワークショップのリポジトリをダウンロードして、RStudioのプロジェクトとして登録できた
+
+```{r echo=FALSE, out.width='20%'}
+include_graphics('../figures/rstudio-prj.png')
+```
+
+gitインストールしていない場合は、以下からインストールする
+
+https://git-scm.com/downloads
+
+あるいは上記のurlからダウンロードを選択して、zipファイルをダウンロード
 
 ## 必要なパッケージ
 
@@ -93,7 +113,7 @@ opts_knit$set(root.dir = "..")
 
 3. その他
     ```{r eval=FALSE}
-    install.packages(c("caret", "e1071", "DT"))
+    install.packages(c("caret", "e1071", "DT", "text2vec"))
     ```
 
         
@@ -107,19 +127,6 @@ library(quanteda)
 library(stringi)
 library(caret)
 library(DT)
-```
-
-**データおよびスライドのダウンロード**
-
-- このワークショップで使うファイルは、すべてこのgithubのリポジトリにまとめてある
-    https://github.com/amatsuo/Kyoto-Workshop-2019
-- RStudioでプロジェクトiconをクリック
-    - [New Project]->[Version Control]->[Git]
-    - 上記のURLを入力
-- これでワークショップのリポジトリをダウンロードして、RStudioのプロジェクトとして登録できた
-
-```{r echo=FALSE, out.width='20%'}
-include_graphics('../figures/rstudio-prj.png')
 ```
 
 
@@ -618,7 +625,7 @@ Word embedding (word vector)は、最近よく使われるメソッドで、文�
 
 ## gloveの推定
 
-我々のコーパスを使って、Gloveを推定してみる。通常は百万単位の文書がないと、うまく動かない事が多いとされているので、今回の結果の信頼性は明らかではない。
+我々のコーパスを使って、Gloveを推定してみる。Gloveは単語のローカルな重み付き共起関係を用いて、ベクトルを推定する。通常は大きめのコーパスがないと、うまく動かない事が多いとされているので、今回の結果の信頼性は明らかではない。
 
 ```{r}
 # tokensの最終形をテキストに戻す
@@ -672,3 +679,5 @@ print(sort(cos_sim[,1], decreasing = TRUE)[2:6])
 cat("\n")
 }
 ```
+
+
