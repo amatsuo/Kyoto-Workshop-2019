@@ -63,7 +63,7 @@ opts_knit$set(root.dir = "..")
     - tidyverse
     - quanteda (https://quanteda.io/articles/pkgdown/quickstart_ja.html)
     - caret (machine learning utility)
-    - e1071
+    - e1071 (confusionMatrix function)
     - DT (html table generation)
 
 
@@ -398,12 +398,12 @@ data_tokens_compounded <- tokens_compound(data_tokens_final,
 
 
 ```{r}
-data_dfm <- data_tokens_compounded %>% 
-  dfm(tolower = TRUE) %>% dfm_select(min_nchar = 3)
+data_dfm <- dfm(data_tokens_compounded, tolower = TRUE) %>% 
+  dfm_select(min_nchar = 3) # 文字数が3文字未満の単語を消す
 data_dfm
 ```
 
-更に、一つの文書にしか出てこない単語を消す
+更に、一つの文書にしか出てこない単語、10回以上使われていない単語を消す
 ```{r}
 data_dfm <- dfm_trim(data_dfm, min_docfreq = 2, min_termfreq = 10) 
 data_dfm
@@ -640,7 +640,7 @@ tcm <- create_tcm(it, vectorizer, skip_grams_window = 5L)
 glove <- GlobalVectors$new(word_vectors_size = 50, 
                            vocabulary = vocab,
                            x_max = 10)
-glove$fit_transform(tcm, n_iter = 50)
+glove$fit_transform(tcm, n_iter = 100) # 普通は20回も繰り返せばいい
 word_vectors <- glove$components %>% t
 ```
 
@@ -658,3 +658,17 @@ cat("\n")
 }
 ```
 
+
+## 類似語チェック
+```{r}
+words <- c("capital", "capitalization", "autonomy")
+
+for (wd in words) { 
+  cos_sim <- sim2(x = word_vectors, 
+                  y = word_vectors[wd, , drop = FALSE], 
+                  method = "cosine", norm = "l2")
+cat("Base:", wd, "\n")
+print(sort(cos_sim[,1], decreasing = TRUE)[2:6])
+cat("\n")
+}
+```
